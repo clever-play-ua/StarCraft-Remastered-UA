@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 7x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpbx\XProtosB.pcx>
+</FONTCOLOR glue\palpbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+КРОВЬ ПАТРИОТА
+
+Флагман ОЗД «Александр», периферийная орбита Браксиса
+</PAGE>

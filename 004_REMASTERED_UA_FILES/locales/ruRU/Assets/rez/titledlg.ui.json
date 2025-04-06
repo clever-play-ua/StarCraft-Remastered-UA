@@ -1,0 +1,104 @@
+﻿{
+  "type": "DIALOG",
+  "name": "TitleDlg",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "CTEXT",
+      "content": "titledlg-1",
+      "id": 12,
+      "rect": [0,464,640,16],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "titledlg-2",
+      "id": 1,
+      "rect": [220,400,200,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\ESRB.dds",
+      "id": 3,
+      "rect": [4,437,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\GRB-Age.dds",
+      "id": 4,
+      "rect": [4,437,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\GRB-Violence.dds",
+      "id": 10,
+      "rect": [84,437,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\PEGI.dds",
+      "id": 2,
+      "rect": [4,437,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\USK.dds",
+      "id": 5,
+      "rect": [4,437,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\ESRB.dds",
+      "id": 7,
+      "rect": [25,425,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\GRB-Age.dds",
+      "id": 8,
+      "rect": [25,425,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\GRB-Violence.dds",
+      "id": 11,
+      "rect": [110,425,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\PEGI.dds",
+      "id": 6,
+      "rect": [25,425,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\USK.dds",
+      "id": 9,
+      "rect": [25,425,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    }
+  ]
+}

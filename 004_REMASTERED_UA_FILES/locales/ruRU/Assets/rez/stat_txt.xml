@@ -1,0 +1,6206 @@
+<strings>
+    <string>
+        <id>FIRST_UNIT_STRING</id>
+        <value>Морпех\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-1</id>
+        <value>Призрак\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-2</id>
+        <value>«Стервятник»\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-3</id>
+        <value>«Голиаф»\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-4</id>
+        <value>Турель «Голиафа»\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-5</id>
+        <value>Осадный танк\\000Режим танка\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-6</id>
+        <value>Турель танка\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-7</id>
+        <value>КСМ\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-8</id>
+        <value>«Мираж»\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-9</id>
+        <value>Научное судно\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-10</id>
+        <value>Ги Монтаг\\000Огнеметчик\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-11</id>
+        <value>Десантный корабль\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-12</id>
+        <value>Крейсер\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-13</id>
+        <value>Паучья мина «Стервятника»\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-14</id>
+        <value>Ядерная ракета\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-15</id>
+        <value>Персонал\\000*\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-16</id>
+        <value>Сара Керриган\\000Призрак\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-17</id>
+        <value>Алан Шезар\\000«Голиаф»\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-18</id>
+        <value>Турель Алана\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-19</id>
+        <value>Джим Рейнор\\000«Стервятник»\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-20</id>
+        <value>Джим Рейнор\\000Морпех\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-21</id>
+        <value>Том Казански\\000«Мираж»\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-22</id>
+        <value>«Магеллан»\\000Научное судно\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-23</id>
+        <value>Эдмунд Дюк\\000Осадный танк\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-24</id>
+        <value>Турель Дюка\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-25</id>
+        <value>Эдмунд Дюк\\000Осадный режим\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-26</id>
+        <value>Турель Дюка\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-27</id>
+        <value>Арктур Менгск\\000Крейсер\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-28</id>
+        <value>«Гиперион»\\000Крейсер\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-29</id>
+        <value>«Норад II»\\000Крейсер\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-30</id>
+        <value>Осадный танк\\000Осадный режим\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-31</id>
+        <value>Турель танка\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-32</id>
+        <value>Огнеметчик\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-33</id>
+        <value>Спутниковое сканирование\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-34</id>
+        <value>Медик\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-35</id>
+        <value>Личинка\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-36</id>
+        <value>Яйцо\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-37</id>
+        <value>Зерглинг\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-38</id>
+        <value>Гидралиск\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-39</id>
+        <value>Ультралиск\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-40</id>
+        <value>Симбионт\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-41</id>
+        <value>Рабочий\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-42</id>
+        <value>Надзиратель\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-43</id>
+        <value>Муталиск\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-44</id>
+        <value>Страж\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-45</id>
+        <value>Королева\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-46</id>
+        <value>Осквернитель\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-47</id>
+        <value>Слепень\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-48</id>
+        <value>Торраск\\000Ультралиск\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-49</id>
+        <value>Матриарх\\000Королева\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-50</id>
+        <value>Зараженный терран\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-51</id>
+        <value>Зараженная Керриган\\000Зараженный терран\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-52</id>
+        <value>Нечистый\\000Осквернитель\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-53</id>
+        <value>Охотник-убийца\\000Гидралиск\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-54</id>
+        <value>Пожиратель\\000Зерглинг\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-55</id>
+        <value>Кукулза\\000Муталиск\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-56</id>
+        <value>Кукулза\\000Страж\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-57</id>
+        <value>Иггдрасиль\\000Надзиратель\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-58</id>
+        <value>«Валькирия»\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-59</id>
+        <value>Кокон\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-60</id>
+        <value>«Корсар»\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-61</id>
+        <value>Темный тамплиер\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-62</id>
+        <value>Пожиратель\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-63</id>
+        <value>Темный архонт\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-64</id>
+        <value>Зонд\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-65</id>
+        <value>Зилот\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-66</id>
+        <value>Драгун\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-67</id>
+        <value>Высший тамплиер\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-68</id>
+        <value>Архонт\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-69</id>
+        <value>Челнок\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-70</id>
+        <value>Разведчик\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-71</id>
+        <value>«Арбитр»\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-72</id>
+        <value>Авианосец\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-73</id>
+        <value>Перехватчик\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-74</id>
+        <value>Темный тамплиер\\000Герой\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-75</id>
+        <value>Зератул\\000Темный тамплиер\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-76</id>
+        <value>Тассадар/Зератул\\000Архонт\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-77</id>
+        <value>Феникс\\000Зилот\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-78</id>
+        <value>Феникс\\000Драгун\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-79</id>
+        <value>Тассадар\\000Тамплиер\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-80</id>
+        <value>Моджо\\000Разведчик\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-81</id>
+        <value>Вестник Войны\\000Опустошитель\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-82</id>
+        <value>«Гантритор»\\000Авианосец\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-83</id>
+        <value>Опустошитель\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-84</id>
+        <value>Наблюдатель\\000*\\000Воздушные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-85</id>
+        <value>Скарабей\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-86</id>
+        <value>Данимот\\000«Арбитр»\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-87</id>
+        <value>Алдарис\\000Тамплиер\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-88</id>
+        <value>Артанис\\000Разведчик\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-89</id>
+        <value>Ринадон\\000Пустошь\\000Существа</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-90</id>
+        <value>Бенгалаас\\000Джунгли\\000Существа</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-91</id>
+        <value>Не используется\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-92</id>
+        <value>Не используется\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-93</id>
+        <value>Скантид\\000Пустыня\\000Существа</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-94</id>
+        <value>Какуру\\000Сумрак\\000Существа</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-95</id>
+        <value>Рагназавр\\000Мир пепла\\000Существа</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-96</id>
+        <value>Урсадон\\000Мир льда\\000Существа</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-97</id>
+        <value>Яйцо скрытня\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-98</id>
+        <value>Рашжагал\\000Темный тамплиер\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-99</id>
+        <value>Самир Дюран\\000Призрак\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-100</id>
+        <value>Алексей Стуков\\000Призрак\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-101</id>
+        <value>Обнаружитель\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-102</id>
+        <value>Жерар Дюгалль\\000Призрак\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-103</id>
+        <value>Скрытень\\000*\\000Наземные войска</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-104</id>
+        <value>Зараженный Дюран\\000*\\000Герои</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-105</id>
+        <value>Дестабилизирующее поле\\000*\\000Протоссы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-106</id>
+        <value>Командный центр\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-107</id>
+        <value>Станция слежения\\000*\\000Пристройки</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-108</id>
+        <value>Ракетная шахта\\000*\\000Пристройки</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-109</id>
+        <value>Хранилище\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-110</id>
+        <value>Перерабатывающий завод\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-111</id>
+        <value>Казармы\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-112</id>
+        <value>Академия\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-113</id>
+        <value>Завод\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-114</id>
+        <value>Космопорт\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-115</id>
+        <value>Диспетчерская вышка\\000*\\000Пристройки</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-116</id>
+        <value>Лаборатория\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-117</id>
+        <value>Штаб спецопераций\\000*\\000Пристройки</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-118</id>
+        <value>Физическая лаборатория\\000*\\000Пристройки</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-119</id>
+        <value>Неиспользуемое здание терранов\\000*\\000*</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-120</id>
+        <value>Мастерская\\000*\\000Пристройки</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-121</id>
+        <value>Неиспользуемое здание терранов\\000*\\000Терраны</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-122</id>
+        <value>Инженерный комплекс\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-123</id>
+        <value>Арсенал\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-124</id>
+        <value>Ракетная турель\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-125</id>
+        <value>Бункер\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-126</id>
+        <value>Норад II\\000Упавший крейсер\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-127</id>
+        <value>Ионная пушка\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-128</id>
+        <value>Кристалл Урадж\\000*\\000Усиления</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-129</id>
+        <value>Кристалл Кхалис\\000*\\000Усиления</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-130</id>
+        <value>Зараженный командный центр\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-131</id>
+        <value>Инкубатор\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-132</id>
+        <value>Логово\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-133</id>
+        <value>Улей\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-134</id>
+        <value>Канал нидуса\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-135</id>
+        <value>Пещера гидралисков\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-136</id>
+        <value>Логово осквернителей\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-137</id>
+        <value>Шпиль величия\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-138</id>
+        <value>Гнездо королев\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-139</id>
+        <value>Эволюционная камера\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-140</id>
+        <value>Пещера ультралисков\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-141</id>
+        <value>Шпиль\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-142</id>
+        <value>Омут рождения\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-143</id>
+        <value>Колония слизи\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-144</id>
+        <value>Споровая колония\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-145</id>
+        <value>Неиспользуемое строение зергов\\000*\\000Зерги</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-146</id>
+        <value>Подземная колония\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-147</id>
+        <value>Сверхразум\\000С панцирем\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-148</id>
+        <value>Сверхразум\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-149</id>
+        <value>Экстрактор\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-150</id>
+        <value>Зрелая хризалида\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-151</id>
+        <value>Церебрал\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-152</id>
+        <value>Церебрал Даггот\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-153</id>
+        <value>Неиспользуемое строение зергов 5\\000*\\000Зерги</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-154</id>
+        <value>Нексус\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-155</id>
+        <value>Завод робототехники\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-156</id>
+        <value>Пилон\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-157</id>
+        <value>Ассимилятор\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-158</id>
+        <value>Protoss Unused\\000*\\000Protoss</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-159</id>
+        <value>Обсерватория\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-160</id>
+        <value>Врата\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-161</id>
+        <value>Protoss Unused\\000*\\000Protoss</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-162</id>
+        <value>Фотонная пушка\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-163</id>
+        <value>Цитадель Адуна\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-164</id>
+        <value>Кибернетическое ядро\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-165</id>
+        <value>Архивы тамплиеров\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-166</id>
+        <value>Оружейная\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-167</id>
+        <value>Звездные врата\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-168</id>
+        <value>Стазисная камера\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-169</id>
+        <value>Маяк флотилии\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-170</id>
+        <value>Трибунал арбитров\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-171</id>
+        <value>Робототехнический узел\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-172</id>
+        <value>Батарея щитов\\000*\\000Строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-173</id>
+        <value>Кайдариновые кристаллы\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-174</id>
+        <value>Храм\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-175</id>
+        <value>Храм зел-нага\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-176</id>
+        <value>Месторождение минералов\\000Тип 1\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-177</id>
+        <value>Месторождение минералов\\000Тип 2\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-178</id>
+        <value>Месторождение минералов\\000Тип 3\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-179</id>
+        <value>Пещера\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-180</id>
+        <value>Пещера (вход)\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-181</id>
+        <value>Кают-компания\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-182</id>
+        <value>Шахтерская платформа\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-183</id>
+        <value>Нейтральный командный центр\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-184</id>
+        <value>Нейтральный космопорт\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-185</id>
+        <value>Прыжковые врата\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-186</id>
+        <value>Развалины\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-187</id>
+        <value>Кайдариновые кристаллы\\000*\\000Нейтральные</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-188</id>
+        <value>Веспеновый гейзер\\000*\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-189</id>
+        <value>Врата искривления\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-190</id>
+        <value>Пси-аннулятор\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-191</id>
+        <value>Маркер зергов\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-192</id>
+        <value>Маркер терранов\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-193</id>
+        <value>Маркер\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-194</id>
+        <value>Маяк\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-195</id>
+        <value>Маяк\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-196</id>
+        <value>Маяк\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-197</id>
+        <value>Маяк флага\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-198</id>
+        <value>Маяк флага\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-199</id>
+        <value>Маяк флага\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-200</id>
+        <value>Генератор\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-201</id>
+        <value>Кокон Сверхразума\\000*\\000Особые строения</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-202</id>
+        <value>Темный рой\\000*\\000Зерги</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-203</id>
+        <value>Ракетная ловушка\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-204</id>
+        <value>Напольный люк\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-205</id>
+        <value>Левая дверь (верхний уровень)\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-206</id>
+        <value>Правая дверь (верхний уровень)\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-207</id>
+        <value>Левая дверь (яма)\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-208</id>
+        <value>Правая дверь (яма)\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-209</id>
+        <value>Пулеметная ловушка\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-210</id>
+        <value>Ракетная ловушка\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-211</id>
+        <value>Огнеметная ловушка\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-212</id>
+        <value>Ракетная ловушка\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-213</id>
+        <value>Огнеметная ловушка\\000*\\000Объекты</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-214</id>
+        <value>Стартовая позиция\\000*\\000Стартовая позиция</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-215</id>
+        <value>Флаг\\000*\\000Особое</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-216</id>
+        <value>Растущая хризалида\\000*\\000Усиления</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-217</id>
+        <value>Пси-излучатель\\000*\\000Усиления</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-218</id>
+        <value>Хранилище данных\\000*\\000Усиления</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-219</id>
+        <value>Кайдариновый кристалл\\000*\\000Усиления</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-220</id>
+        <value>Скопление минералов\\000Тип 1\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-221</id>
+        <value>Скопление минералов\\000Тип 2\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-222</id>
+        <value>Сфера веспена\\000Протоссы тип 1\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-223</id>
+        <value>Сфера веспена\\000Протоссы тип 2\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-224</id>
+        <value>Пузырь с веспеном\\000Зерги тип 1\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-225</id>
+        <value>Пузырь с веспеном\\000Зерги тип 2\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>FIRST_UNIT_STRING-226</id>
+        <value>Бак с веспеном\\000Терраны тип 1\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>LAST_UNIT_STRING</id>
+        <value>Бак с веспеном\\000Терраны тип 2\\000Ресурсы</value>
+    </string>
+    <string>
+        <id>STR_MARINE_GUN</id>
+        <value>Винтовка Гаусса</value>
+    </string>
+    <string>
+        <id>STR_RAYNOR_MARINE_GUN</id>
+        <value>Винтовка Гаусса</value>
+    </string>
+    <string>
+        <id>STR_GHOST_GUN</id>
+        <value>Карабин C-10</value>
+    </string>
+    <string>
+        <id>STR_KERRIGAN_GHOST_GUN</id>
+        <value>Карабин C-10</value>
+    </string>
+    <string>
+        <id>STR_VULTURE_GRENADE</id>
+        <value>Осколочные гранаты</value>
+    </string>
+    <string>
+        <id>STR_RAYNOR_VULTURE_GRENADE</id>
+        <value>Осколочные гранаты</value>
+    </string>
+    <string>
+        <id>STR_GOLIATH_GUN</id>
+        <value>Спаренные автопушки</value>
+    </string>
+    <string>
+        <id>STR_GOLIATH_MISSILE</id>
+        <value>Ракеты «Адское пламя»</value>
+    </string>
+    <string>
+        <id>STR_SCHEZAR_GOLIATH_GUN</id>
+        <value>Спаренные автопушки</value>
+    </string>
+    <string>
+        <id>STR_SCHEZAR_GOLIATH_MISSILE</id>
+        <value>Ракеты «Адское пламя»</value>
+    </string>
+    <string>
+        <id>STR_TANK_CANNON</id>
+        <value>Пушка «Радуга»</value>
+    </string>
+    <string>
+        <id>STR_DUKE_TANK_CANNON</id>
+        <value>Пушка «Радуга»</value>
+    </string>
+    <string>
+        <id>STR_SCV_GUN</id>
+        <value>Терморезак</value>
+    </string>
+    <string>
+        <id>STR_SCV_WELD</id>
+        <value>Терморезак</value>
+    </string>
+    <string>
+        <id>STR_WRAITH_MISSILE</id>
+        <value>Ракеты «Близнецы»</value>
+    </string>
+    <string>
+        <id>STR_WRAITH_LASER</id>
+        <value>Импульсные лазеры</value>
+    </string>
+    <string>
+        <id>STR_KAZANSKI_WRAITH_MISSILE</id>
+        <value>Ракеты «Близнецы»</value>
+    </string>
+    <string>
+        <id>STR_KAZANSKI_WRAITH_LASER</id>
+        <value>Импульсные лазеры</value>
+    </string>
+    <string>
+        <id>STR_CRUISER_GND</id>
+        <value>Лазерная батарея «воздух-земля»</value>
+    </string>
+    <string>
+        <id>STR_CRUISER_AIR</id>
+        <value>Лазерная батарея «воздух-воздух»</value>
+    </string>
+    <string>
+        <id>STR_NORAD_CRUISER_GND</id>
+        <value>Лазерная батарея «воздух-земля»</value>
+    </string>
+    <string>
+        <id>STR_NORAD_CRUISER_AIR</id>
+        <value>Лазерная батарея «воздух-воздух»</value>
+    </string>
+    <string>
+        <id>STR_HYPERION_CRUISER_GND</id>
+        <value>Лазерная батарея «воздух-земля»</value>
+    </string>
+    <string>
+        <id>STR_HYPERION_CRUISER_AIR</id>
+        <value>Лазерная батарея «воздух-воздух»</value>
+    </string>
+    <string>
+        <id>STR_FIREBAT_FLAME</id>
+        <value>Огнемет</value>
+    </string>
+    <string>
+        <id>STR_MONTAG_FIREBAT_FLAME</id>
+        <value>Огнемет</value>
+    </string>
+    <string>
+        <id>STR_SIEGE_CANNON</id>
+        <value>Осадная пушка «Радуга»</value>
+    </string>
+    <string>
+        <id>STR_DUKE_SIEGE_CANNON</id>
+        <value>Осадная пушка «Радуга»</value>
+    </string>
+    <string>
+        <id>STR_TURRET_MISSILE</id>
+        <value>Дальнобойные ракеты</value>
+    </string>
+    <string>
+        <id>STR_NUKE</id>
+        <value>Ядерный удар</value>
+    </string>
+    <string>
+        <id>STR_EMP_SHOCKWAVE</id>
+        <value>Волна ЭМИ</value>
+    </string>
+    <string>
+        <id>STR_ZERGLING_MELEE</id>
+        <value>Когти</value>
+    </string>
+    <string>
+        <id>STR_D_O_ZERGLING_MELEE</id>
+        <value>Когти</value>
+    </string>
+    <string>
+        <id>STR_INFKERR_MELEE</id>
+        <value>Когти</value>
+    </string>
+    <string>
+        <id>STR_HYDRA_SPINE</id>
+        <value>Костяные иглы</value>
+    </string>
+    <string>
+        <id>STR_HUNTER_HYDRA_SPINE</id>
+        <value>Костяные иглы</value>
+    </string>
+    <string>
+        <id>STR_ULTRA_MELEE</id>
+        <value>Костяные клинки</value>
+    </string>
+    <string>
+        <id>STR_TORRASQUE_ULTRA_MELEE</id>
+        <value>Костяные клинки</value>
+    </string>
+    <string>
+        <id>STR_BROOD_SPORE</id>
+        <value>Токсичные споры</value>
+    </string>
+    <string>
+        <id>STR_DRONE_SPINE</id>
+        <value>Шипы</value>
+    </string>
+    <string>
+        <id>STR_MUTALISK_ACID</id>
+        <value>Брызги кислоты</value>
+    </string>
+    <string>
+        <id>STR_KUKULZA_MUTALISK_ACID</id>
+        <value>Брызги кислоты</value>
+    </string>
+    <string>
+        <id>STR_GUARDIAN_SPINE</id>
+        <value>Кислотные споры</value>
+    </string>
+    <string>
+        <id>STR_KUKULZA_GUARDIAN_SPINE</id>
+        <value>Кислотные споры</value>
+    </string>
+    <string>
+        <id>STR_QUEEN_SPORE</id>
+        <value>Чакрум</value>
+    </string>
+    <string>
+        <id>STR_MATRIARCH_QUEEN_SPORE</id>
+        <value>Чакрум</value>
+    </string>
+    <string>
+        <id>STR_DEFILER_ACID</id>
+        <value>Яд</value>
+    </string>
+    <string>
+        <id>STR_U_O_DEFILER_ACID</id>
+        <value>Яд</value>
+    </string>
+    <string>
+        <id>STR_AVENGER_SPINE</id>
+        <value>Самоубийство</value>
+    </string>
+    <string>
+        <id>STR_SCOLONY_SPORE</id>
+        <value>Наводящиеся споры</value>
+    </string>
+    <string>
+        <id>STR_LURKER_TENTACLE</id>
+        <value>Подземное щупальце</value>
+    </string>
+    <string>
+        <id>STR_INFESTED_SAP</id>
+        <value>Самоубийство</value>
+    </string>
+    <string>
+        <id>STR_PROBE_GUN</id>
+        <value>Нейтронный луч</value>
+    </string>
+    <string>
+        <id>STR_ZEALOT_MELEE</id>
+        <value>Пси-клинки</value>
+    </string>
+    <string>
+        <id>STR_FENIX_ZEALOT_MELEE</id>
+        <value>Пси-клинки</value>
+    </string>
+    <string>
+        <id>STR_DTEMPLAR_MELEE</id>
+        <value>Клинки искривления</value>
+    </string>
+    <string>
+        <id>STR_ZERATUL_MELEE</id>
+        <value>Клинки искривления</value>
+    </string>
+    <string>
+        <id>STR_DRAGOON_CANNON</id>
+        <value>Фазовый расщепитель</value>
+    </string>
+    <string>
+        <id>STR_FENIX_DRAGOON_CANNON</id>
+        <value>Фазовый расщепитель</value>
+    </string>
+    <string>
+        <id>STR_TEMPLAR_GUN</id>
+        <value>Псионный удар</value>
+    </string>
+    <string>
+        <id>STR_TASSADAR_TEMPLAR_GUN</id>
+        <value>Псионный удар</value>
+    </string>
+    <string>
+        <id>STR_ARCHON_PSI</id>
+        <value>Псионная ударная волна</value>
+    </string>
+    <string>
+        <id>STR_TZ_ARCHON_PSI</id>
+        <value>Псионная ударная волна</value>
+    </string>
+    <string>
+        <id>STR_SHUTTLE_GUN</id>
+        <value>Не используется</value>
+    </string>
+    <string>
+        <id>STR_SCOUT_GUN</id>
+        <value>Спаренные фотонные бластеры</value>
+    </string>
+    <string>
+        <id>STR_SCOUT_MISSILE</id>
+        <value>Ракеты из антиматерии</value>
+    </string>
+    <string>
+        <id>STR_MOJO_SCOUT_GUN</id>
+        <value>Спаренные фотонные бластеры</value>
+    </string>
+    <string>
+        <id>STR_MOJO_SCOUT_MISSILE</id>
+        <value>Ракеты из антиматерии</value>
+    </string>
+    <string>
+        <id>STR_ARBITER_CANNON</id>
+        <value>Фазовый расщепитель</value>
+    </string>
+    <string>
+        <id>STR_DANIMOTH_ARBITER_CANNON</id>
+        <value>Фазовый расщепитель</value>
+    </string>
+    <string>
+        <id>STR_FIGHTER_GUN</id>
+        <value>Импульсная пушка</value>
+    </string>
+    <string>
+        <id>STR_PHOTON_GUN_GND</id>
+        <value>Фотонная пушка (земля-земля)</value>
+    </string>
+    <string>
+        <id>STR_PHOTON_GUN_AIR</id>
+        <value>Фотонная пушка (земля-воздух)</value>
+    </string>
+    <string>
+        <id>STR_SCARAB</id>
+        <value>Скарабей</value>
+    </string>
+    <string>
+        <id>STR_CARGO_MISSILE</id>
+        <value>Ракеты</value>
+    </string>
+    <string>
+        <id>STR_GUNSHIP_GUN</id>
+        <value>Батарея лазеров</value>
+    </string>
+    <string>
+        <id>STR_GUNSHIP_MISSILE</id>
+        <value>Ракеты «Истязатель»</value>
+    </string>
+    <string>
+        <id>STR_GUNSHIP_BOMB</id>
+        <value>Бомбы</value>
+    </string>
+    <string>
+        <id>STR_RAIDER_GUN</id>
+        <value>Пушка рейдера</value>
+    </string>
+    <string>
+        <id>STR_BIKER_GRENADE</id>
+        <value>Кассетная граната</value>
+    </string>
+    <string>
+        <id>STR_TRAP_GUN</id>
+        <value>Спаренные автопушки</value>
+    </string>
+    <string>
+        <id>STR_TRAP_MISSILE</id>
+        <value>Ракеты «Адское пламя»</value>
+    </string>
+    <string>
+        <id>STR_TRAP_FLAME</id>
+        <value>Огнемет</value>
+    </string>
+    <string>
+        <id>STR_NO_WEAPON</id>
+        <value>Неопределенное название оружия</value>
+    </string>
+    <string>
+        <id>STR_STIMPACK_TECH</id>
+        <value>Стимуляторы</value>
+    </string>
+    <string>
+        <id>STR_MAGNAPULSE</id>
+        <value>Замыкание</value>
+    </string>
+    <string>
+        <id>STR_EMP_TECH</id>
+        <value>Волна ЭМИ</value>
+    </string>
+    <string>
+        <id>STR_MINES_TECH</id>
+        <value>Паучьи мины</value>
+    </string>
+    <string>
+        <id>STR_SCANNER_TECH</id>
+        <value>Спутниковое сканирование</value>
+    </string>
+    <string>
+        <id>STR_SIEGE_TECH</id>
+        <value>Осадный режим танка</value>
+    </string>
+    <string>
+        <id>STR_DEFMATRIX_TECH</id>
+        <value>Защитная матрица</value>
+    </string>
+    <string>
+        <id>STR_IRRADIATE_TECH</id>
+        <value>Облучение</value>
+    </string>
+    <string>
+        <id>STR_YAMATO_GUN</id>
+        <value>Орудие «Ямато»</value>
+    </string>
+    <string>
+        <id>STR_SHIP_CLOAK_TECH</id>
+        <value>Маскировочное поле</value>
+    </string>
+    <string>
+        <id>STR_MAN_CLOAK_TECH</id>
+        <value>Личная маскировка</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_STIM</id>
+        <value>t\\004Исследовать стимуляторы\\n(способность морпехов и огнеметчиков)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_MAGNA</id>
+        <value>l\\004Исследовать «Замыкание»\\n(способность призраков)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_EMP</id>
+        <value>e\\004Исследовать «Волну ЭМИ»\\n(способность научных судов)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_MINES</id>
+        <value>m\\004Исследовать «Паучьи мины»\\n(способность «Стервятников»)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_SIEGE</id>
+        <value>s\\004Исследовать смену режимов\\n(способность осадных танков)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_DEFMTX</id>
+        <value>m\\004Исследовать «Защитную матрицу»\\n(способность научных судов)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_IRRADIATE</id>
+        <value>i\\004Исследовать «Облучение»\\n(способность научных судов)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_YAMATO</id>
+        <value>y\\004Исследовать орудия «Ямато»\\n(способность крейсеров)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_SHIP_CLOAK</id>
+        <value>c\\004Исследовать «Маскировочное поле»\\n(способность «Миражей»)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_MAN_CLOAK</id>
+        <value>c\\004Исследовать личную маскировку\\n(способность призраков)</value>
+    </string>
+    <string>
+        <id>STR_USESTIM</id>
+        <value>t\\003Стимуляторы</value>
+    </string>
+    <string>
+        <id>STR_USEMAGNA</id>
+        <value>l\\003Замыкание</value>
+    </string>
+    <string>
+        <id>STR_USEMINES</id>
+        <value>i\\003Паучьи мины</value>
+    </string>
+    <string>
+        <id>STR_SCANNERSWEEP</id>
+        <value>s\\003Спутниковое сканирование (детектор)</value>
+    </string>
+    <string>
+        <id>STR_SIEGE_MODE</id>
+        <value>o\\003Осадный режим</value>
+    </string>
+    <string>
+        <id>STR_TANK_MODE</id>
+        <value>o\\007Режим танка</value>
+    </string>
+    <string>
+        <id>STR_DEFMTX</id>
+        <value>d\\003Защитная матрица</value>
+    </string>
+    <string>
+        <id>STR_USEEMP</id>
+        <value>e\\003Волна ЭМИ</value>
+    </string>
+    <string>
+        <id>STR_IRRADIATE</id>
+        <value>i\\003Облучение</value>
+    </string>
+    <string>
+        <id>STR_YAMATO</id>
+        <value>y\\003Орудие «Ямато»</value>
+    </string>
+    <string>
+        <id>STR_CLOAK</id>
+        <value>c\\003Маскировка</value>
+    </string>
+    <string>
+        <id>STR_DECLOAK</id>
+        <value>c\\007Снять маскировку</value>
+    </string>
+    <string>
+        <id>STR_STIM_REQ</id>
+        <value>Стимуляторы\\n   Исследуются в академии</value>
+    </string>
+    <string>
+        <id>STR_MAGNA_REQ</id>
+        <value>Замыкание\\n   Исследуется в штабе спецопераций</value>
+    </string>
+    <string>
+        <id>STR_MINE_REQ</id>
+        <value>Паучьи мины\\n   Исследуются в мастерской</value>
+    </string>
+    <string>
+        <id>STR_SIEGE_REQ</id>
+        <value>Осадный режим\\n   Исследуется в мастерской</value>
+    </string>
+    <string>
+        <id>STR_DEFMTX_REQ</id>
+        <value>Защитная матрица\\n  Исследуется в лаборатории</value>
+    </string>
+    <string>
+        <id>STR_EMP_REQ</id>
+        <value>Волна ЭМИ\\n   Исследуется в лаборатории</value>
+    </string>
+    <string>
+        <id>STR_IRRADIATE_REQ</id>
+        <value>Облучение\\n   Исследуется в лаборатории</value>
+    </string>
+    <string>
+        <id>STR_YAMATO_REQ</id>
+        <value>Орудие «Ямато»\\n   Исследуется в физической лаборатории</value>
+    </string>
+    <string>
+        <id>STR_SHIP_CLOAK_REQ</id>
+        <value>Маскировочное поле\\n   Исследуется в диспетчерской вышке</value>
+    </string>
+    <string>
+        <id>STR_MAN_CLOAK_REQ</id>
+        <value>Личная маскировка\\n   Исследуется в штабе спецопераций</value>
+    </string>
+    <string>
+        <id>STR_BURROW_TECH</id>
+        <value>Закапывание</value>
+    </string>
+    <string>
+        <id>STR_INFEST_TECH</id>
+        <value>Заражение</value>
+    </string>
+    <string>
+        <id>STR_BROODLING_TECH</id>
+        <value>Порождение симбионтов</value>
+    </string>
+    <string>
+        <id>STR_PLAGUE_TECH</id>
+        <value>Темный рой</value>
+    </string>
+    <string>
+        <id>STR_PARASITE_TECH</id>
+        <value>Паразит</value>
+    </string>
+    <string>
+        <id>STR_BLOODBOIL_TECH</id>
+        <value>Чума</value>
+    </string>
+    <string>
+        <id>STR_CONSUME_TECH</id>
+        <value>Поглощение</value>
+    </string>
+    <string>
+        <id>STR_ENSNARE_TECH</id>
+        <value>Опутывание</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_BURROW</id>
+        <value>b\\004Развить закапывание\\n(способность наземных войск)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_INFEST</id>
+        <value>i\\004Развить «Заражение»\\n(способность королев)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_INFBROOD</id>
+        <value>b\\004Развить «Порождение симбионтов»\\n(способность королев)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_PLAGUE</id>
+        <value>s\\004Развить «Темный рой»\\n(способность осквернителей)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_PARASITE</id>
+        <value>r\\004Развить «Паразита»\\n(способность королев)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_BLOODBOIL</id>
+        <value>g\\004Развить «Чуму»\\n(способность осквернителей)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_ENSNARE</id>
+        <value>e\\004Развить «Опутывание»\\n(способность королев)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_CONSUME</id>
+        <value>c\\004Развить «Поглощение»\\n(способность осквернителей)</value>
+    </string>
+    <string>
+        <id>STR_BURROW</id>
+        <value>u\\003Закопаться</value>
+    </string>
+    <string>
+        <id>STR_DEBURROW</id>
+        <value>u\\007Выкопаться</value>
+    </string>
+    <string>
+        <id>STR_INFEST</id>
+        <value>i\\007Заразить командный центр</value>
+    </string>
+    <string>
+        <id>STR_INFBROOD</id>
+        <value>b\\003Порождение симбионтов</value>
+    </string>
+    <string>
+        <id>STR_PLAGUE</id>
+        <value>w\\003Темный рой</value>
+    </string>
+    <string>
+        <id>STR_PARASITE</id>
+        <value>r\\003Паразит</value>
+    </string>
+    <string>
+        <id>STR_BLOODBOIL</id>
+        <value>g\\003Чума</value>
+    </string>
+    <string>
+        <id>STR_CONSUME</id>
+        <value>c\\003Поглощение</value>
+    </string>
+    <string>
+        <id>STR_KERRIGAN_CONSUME</id>
+        <value>u\\003Поглощение</value>
+    </string>
+    <string>
+        <id>STR_ENSNARE</id>
+        <value>e\\003Опутывание</value>
+    </string>
+    <string>
+        <id>STR_BURROW_REQ</id>
+        <value>Закапывание\\n   Развивается в инкубаторе</value>
+    </string>
+    <string>
+        <id>STR_INFEST_REQ</id>
+        <value>Заражение\\n   Развивается в гнезде королев</value>
+    </string>
+    <string>
+        <id>STR_INFBROOD_REQ</id>
+        <value>Порождение симбионтов\\n   Развивается в гнезде королев</value>
+    </string>
+    <string>
+        <id>STR_PLAGUE_REQ</id>
+        <value>Темный рой\\n   Развивается в логове осквернителей</value>
+    </string>
+    <string>
+        <id>STR_PARASITE_REQ</id>
+        <value>Паразит\\n   Развивается в гнезде королев</value>
+    </string>
+    <string>
+        <id>STR_BLOODBOIL_REQ</id>
+        <value>Чума\\n   Развивается в логове осквернителей</value>
+    </string>
+    <string>
+        <id>STR_CONSUME_REQ</id>
+        <value>Поглощение\\n[5] Развивается в логове осквернителей</value>
+    </string>
+    <string>
+        <id>STR_ENSNARE_REQ</id>
+        <value>Опутывание\\n   Развивается в гнезде королев</value>
+    </string>
+    <string>
+        <id>STR_PSISTORM_TECH</id>
+        <value>Псионный шторм</value>
+    </string>
+    <string>
+        <id>STR_HALLUCINATION_TECH</id>
+        <value>Иллюзия</value>
+    </string>
+    <string>
+        <id>STR_RECALL_TECH</id>
+        <value>Возврат</value>
+    </string>
+    <string>
+        <id>STR_STASIS_TECH</id>
+        <value>Поле стазиса</value>
+    </string>
+    <string>
+        <id>STR_ARCHON_TECH</id>
+        <value>Перерождение в архонта</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_PSISTORM</id>
+        <value>p\\004Разработать «Псионный шторм»\\n(способность тамплиеров)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_HALLUCINATION</id>
+        <value>h\\004Разработать «Иллюзию»\\n(способность тамплиеров)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_RECALL</id>
+        <value>r\\004Разработать «Возврат»\\n(способность «Арбитров»)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_STASIS</id>
+        <value>s\\004Разработать «Поле стазиса»\\n(способность «Арбитров»)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_SUMMON_ARCHON</id>
+        <value>a\\004Разработать перерождение в архонта\\n(способность тамплиеров)</value>
+    </string>
+    <string>
+        <id>STR_PSISTORM</id>
+        <value>t\\003Псионный шторм</value>
+    </string>
+    <string>
+        <id>STR_HALLUCINATION</id>
+        <value>l\\003Иллюзия</value>
+    </string>
+    <string>
+        <id>STR_RECALL</id>
+        <value>r\\003Возврат</value>
+    </string>
+    <string>
+        <id>STR_STASIS</id>
+        <value>t\\003Поле стазиса</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_ARCHON</id>
+        <value>r\\001Перерождение в архонта</value>
+    </string>
+    <string>
+        <id>STR_PSISTORM_REQ</id>
+        <value>Псионный шторм\\n   Разрабатывается в архивах тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_HALLUC_REQ</id>
+        <value>Иллюзия\\n   Разрабатывается в архивах тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_RECALL_REQ</id>
+        <value>Возврат\\n   Разрабатывается в трибунале арбитров</value>
+    </string>
+    <string>
+        <id>STR_STASIS_REQ</id>
+        <value>Поле стазиса\\n   Разрабатывается в трибунале арбитров</value>
+    </string>
+    <string>
+        <id>STR_ARCHON0_REQ</id>
+        <value>Перерождение в архонта\\n   Исследуется в архивах тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_ARCHON1_REQ</id>
+        <value>Перерождение в архонта\\n   Выберите 2 или более тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_T_ARMOR</id>
+        <value>Броня пехоты терранов</value>
+    </string>
+    <string>
+        <id>STR_T_VEHICLE_PLATING</id>
+        <value>Обшивка наземной техники терранов</value>
+    </string>
+    <string>
+        <id>STR_T_SHIP_PLATING</id>
+        <value>Обшивка воздушной техники терранов</value>
+    </string>
+    <string>
+        <id>STR_Z_CARAPACE</id>
+        <value>Панцирь зергов</value>
+    </string>
+    <string>
+        <id>STR_Z_PLATING</id>
+        <value>Панцирь воздушных войск</value>
+    </string>
+    <string>
+        <id>STR_P_ARMOR</id>
+        <value>Броня протоссов</value>
+    </string>
+    <string>
+        <id>STR_P_PLATING</id>
+        <value>Обшивка протоссов</value>
+    </string>
+    <string>
+        <id>STR_T_MAN_GUNS</id>
+        <value>Вооружение пехоты терранов</value>
+    </string>
+    <string>
+        <id>STR_T_VEHICLE_GUNS</id>
+        <value>Вооружение наземной техники терранов</value>
+    </string>
+    <string>
+        <id>STR_T_SHIP_GUNS</id>
+        <value>Вооружение воздушной техники терранов</value>
+    </string>
+    <string>
+        <id>STR_Z_MELEE_ATTACKS</id>
+        <value>Атака ближнего боя зергов</value>
+    </string>
+    <string>
+        <id>STR_Z_MISSILE_ATTACKS</id>
+        <value>Атака дальнего боя зергов</value>
+    </string>
+    <string>
+        <id>STR_Z_FLYER_ATTACKS</id>
+        <value>Атака воздушных войск зергов</value>
+    </string>
+    <string>
+        <id>STR_P_GND_WEAPONS</id>
+        <value>Вооружение наземных войск протоссов</value>
+    </string>
+    <string>
+        <id>STR_P_AIR_WEAPONS</id>
+        <value>Вооружение воздушных войск протоссов</value>
+    </string>
+    <string>
+        <id>STR_P_SHIELDS</id>
+        <value>Плазменные щиты протоссов</value>
+    </string>
+    <string>
+        <id>STR_MARINE_GUN_RANGE</id>
+        <value>Патроны U-238</value>
+    </string>
+    <string>
+        <id>STR_VULTURE_SPEED</id>
+        <value>Ионные ускорители</value>
+    </string>
+    <string>
+        <id>STR_WRAITH_WEAPON</id>
+        <value>Импульсные лазеры</value>
+    </string>
+    <string>
+        <id>STR_VESSEL_ENERGY</id>
+        <value>Реактор «Титан»</value>
+    </string>
+    <string>
+        <id>STR_GHOST_SIGHT</id>
+        <value>Глазные импланты</value>
+    </string>
+    <string>
+        <id>STR_GHOST_ENERGY</id>
+        <value>Реактор «Мебиус»</value>
+    </string>
+    <string>
+        <id>STR_WRAITH_ENERGY</id>
+        <value>Реактор «Аполлон»</value>
+    </string>
+    <string>
+        <id>STR_CRUISER_ENERGY</id>
+        <value>Реактор «Колосс»</value>
+    </string>
+    <string>
+        <id>STR_OVERLORD_TRANSPORT</id>
+        <value>Брюшные мешки</value>
+    </string>
+    <string>
+        <id>STR_OVERLORD_SIGHT</id>
+        <value>Усики</value>
+    </string>
+    <string>
+        <id>STR_OVERLORD_SPEED</id>
+        <value>Облегченный панцирь</value>
+    </string>
+    <string>
+        <id>STR_ZERGLING_SPEED</id>
+        <value>Ускоренный метаболизм</value>
+    </string>
+    <string>
+        <id>STR_ZERGLING_ATTACK_SPEED</id>
+        <value>Адреналиновые железы</value>
+    </string>
+    <string>
+        <id>STR_HYDRALISK_SPEED</id>
+        <value>Наращивание мускулов</value>
+    </string>
+    <string>
+        <id>STR_HYDRALISK_ATTACK_RANGE</id>
+        <value>Полые костяные иглы</value>
+    </string>
+    <string>
+        <id>STR_QUEEN_ENERGY</id>
+        <value>Деление половых клеток</value>
+    </string>
+    <string>
+        <id>STR_DEFILER_ENERGY</id>
+        <value>Метасинаптические узлы</value>
+    </string>
+    <string>
+        <id>STR_DRAGOON_ATTACK_RANGE</id>
+        <value>Сингулярный заряд</value>
+    </string>
+    <string>
+        <id>STR_ZEALOT_SPEED</id>
+        <value>Ножные импланты</value>
+    </string>
+    <string>
+        <id>STR_SCARAB_DAMAGE</id>
+        <value>Урон скарабея</value>
+    </string>
+    <string>
+        <id>STR_REAVER_CAPACITY</id>
+        <value>Вместимость опустошителей</value>
+    </string>
+    <string>
+        <id>STR_SHUTTLE_SPEED</id>
+        <value>Гравипривод</value>
+    </string>
+    <string>
+        <id>STR_OBSERVER_SIGHT</id>
+        <value>Сенсорная матрица</value>
+    </string>
+    <string>
+        <id>STR_OBSERVER_SPEED</id>
+        <value>Гравиускорители</value>
+    </string>
+    <string>
+        <id>STR_TEMPLAR_ENERGY</id>
+        <value>Кайдариновый амулет</value>
+    </string>
+    <string>
+        <id>STR_SCOUT_SIGHT</id>
+        <value>Высокоточные сенсоры</value>
+    </string>
+    <string>
+        <id>STR_SCOUT_SPEED</id>
+        <value>Гравиускорители</value>
+    </string>
+    <string>
+        <id>STR_CARRIER_CAPACITY</id>
+        <value>Вместимость авианосцев</value>
+    </string>
+    <string>
+        <id>STR_ARBITER_ENERGY</id>
+        <value>Кайдариновое ядро</value>
+    </string>
+    <string>
+        <id>STR_UP_T_ARMOR</id>
+        <value>a\\002Улучшить броню пехоты</value>
+    </string>
+    <string>
+        <id>STR_UP_T_VEHICLE_PLATING</id>
+        <value>p\\002Улучшить обшивку наземной техники</value>
+    </string>
+    <string>
+        <id>STR_UP_T_SHIP_PLATING</id>
+        <value>h\\002Улучшить обшивку воздушной техники</value>
+    </string>
+    <string>
+        <id>STR_UP_Z_CARAPACE</id>
+        <value>c\\002Улучшить панцирь</value>
+    </string>
+    <string>
+        <id>STR_UP_Z_PLATING</id>
+        <value>c\\002Улучшить панцирь воздушных войск</value>
+    </string>
+    <string>
+        <id>STR_UP_P_ARMOR</id>
+        <value>a\\002Улучшить броню наземных войск</value>
+    </string>
+    <string>
+        <id>STR_UP_P_PLATING</id>
+        <value>a\\002Улучшить броню воздушных войск</value>
+    </string>
+    <string>
+        <id>STR_UP_T_MAN_GUNS</id>
+        <value>w\\002Улучшить вооружение пехоты</value>
+    </string>
+    <string>
+        <id>STR_UP_T_VEHICLE_GUNS</id>
+        <value>w\\002Улучшить вооружение наземной техники</value>
+    </string>
+    <string>
+        <id>STR_UP_T_SHIP_GUNS</id>
+        <value>s\\002Улучшить вооружение воздушной техники</value>
+    </string>
+    <string>
+        <id>STR_UP_Z_MELEE_ATTACKS</id>
+        <value>m\\002Улучшить атаку ближнего боя</value>
+    </string>
+    <string>
+        <id>STR_UP_Z_MISSILE_ATTACKS</id>
+        <value>a\\002Улучшить атаку дальнего боя</value>
+    </string>
+    <string>
+        <id>STR_UP_Z_FLYER_ATTACKS</id>
+        <value>a\\002Улучшить атаку воздушных войск</value>
+    </string>
+    <string>
+        <id>STR_UP_P_GND_WEAPONS</id>
+        <value>w\\002Улучшить вооружение наземных войск</value>
+    </string>
+    <string>
+        <id>STR_UP_P_AIR_WEAPONS</id>
+        <value>w\\002Улучшить вооружение воздушных войск</value>
+    </string>
+    <string>
+        <id>STR_UP_P_SHIELDS</id>
+        <value>s\\002Улучшить плазменные щиты</value>
+    </string>
+    <string>
+        <id>STR_UP_MARINE_GUN_RANGE</id>
+        <value>u\\002Исследовать патроны U1-238\\n(увеличивают дальность атаки морпехов)</value>
+    </string>
+    <string>
+        <id>STR_UP_VULTURE_SPEED</id>
+        <value>i\\002Исследовать ионные ускорители \\n(повышают скорость передвижения «Стервятников»)</value>
+    </string>
+    <string>
+        <id>STR_UP_WRAITH_WEAPON</id>
+        <value>b\\002Исследовать импульсные лазеры\\n(оружие «Миражей»)</value>
+    </string>
+    <string>
+        <id>STR_UP_VESSEL_ENERGY</id>
+        <value>t\\002Исследовать реактор «Титан»\\n(+50 ед. к запасу энергии научных судов)</value>
+    </string>
+    <string>
+        <id>STR_UP_GHOST_SIGHT</id>
+        <value>o\\002Исследовать глазные импланты\\n(увеличивают дальность обзора призраков)</value>
+    </string>
+    <string>
+        <id>STR_UP_GHOST_ENERGY</id>
+        <value>m\\002Исследовать реактор Мебиуса\\n(+50 ед. к запасу энергии призраков)</value>
+    </string>
+    <string>
+        <id>STR_UP_WRAITH_ENERGY</id>
+        <value>a\\002Исследовать реактор «Аполлон»\\n(+50 ед. к запасу энергии «Миражей»)</value>
+    </string>
+    <string>
+        <id>STR_UP_CRUISER_ENERGY</id>
+        <value>c\\002Исследовать реактор «Колосс»\\n(+50 ед. к запасу энергии крейсеров)</value>
+    </string>
+    <string>
+        <id>STR_UP_OVERLORD_TRANSPORT</id>
+        <value>v\\002Развить брюшные мешки \\n(позволяют надзирателям переносить войска)</value>
+    </string>
+    <string>
+        <id>STR_UP_OVERLORD_SIGHT</id>
+        <value>a\\002Развить усики \\n(увеличивают дальность обзора надзирателей)</value>
+    </string>
+    <string>
+        <id>STR_UP_OVERLORD_SPEED</id>
+        <value>p\\002Развить облегченный панцирь \\n(повышает скорость передвижения надзирателей)</value>
+    </string>
+    <string>
+        <id>STR_UP_ZERGLING_SPEED</id>
+        <value>m\\002Развить ускоренный метаболизм \\n(повышает скорость передвижения зерглингов)</value>
+    </string>
+    <string>
+        <id>STR_UP_ZERGLING_ATTACK_SPEED</id>
+        <value>a\\002Развить адреналиновые железы \\n(повышают скорость атаки зерглингов)</value>
+    </string>
+    <string>
+        <id>STR_UP_HYDRALISK_SPEED</id>
+        <value>m\\002Развить наращивание мускулов \\n(повышает скорость передвижения гидралисков)</value>
+    </string>
+    <string>
+        <id>STR_UP_HYDRALISK_ATTACK_RANGE</id>
+        <value>g\\002Развить полые костяные иглы \\n(увеличивают дальность атаки гидралисков)</value>
+    </string>
+    <string>
+        <id>STR_UP_QUEEN_ENERGY</id>
+        <value>g\\002Развить деление половых клеток \\n(+50 ед. к запасу энергии королев)</value>
+    </string>
+    <string>
+        <id>STR_UP_DEFILER_ENERGY</id>
+        <value>m\\002Развить метасинаптические узлы \\n(+50 ед. к запасу энергии осквернителей)</value>
+    </string>
+    <string>
+        <id>STR_UP_DRAGOON_ATTACK_RANGE</id>
+        <value>s\\002Разработать сингулярный заряд \\n(увеличивает дальность атаки драгунов)</value>
+    </string>
+    <string>
+        <id>STR_UP_ZEALOT_SPEED</id>
+        <value>l\\002Разработать ножные импланты \\n(повышают скорость передвижения зилотов)</value>
+    </string>
+    <string>
+        <id>STR_UP_SCARAB_DAMAGE</id>
+        <value>s\\002Увеличить урон скарабеев</value>
+    </string>
+    <string>
+        <id>STR_UP_REAVER_CAPACITY</id>
+        <value>c\\002Увеличить вместимость опустошителей \\n(+5 к максимальному числу скарабеев)</value>
+    </string>
+    <string>
+        <id>STR_UP_SHUTTLE_SPEED</id>
+        <value>g\\002Разработать гравипривод \\n(повышает скорость передвижения челноков)</value>
+    </string>
+    <string>
+        <id>STR_UP_OBSERVER_SIGHT</id>
+        <value>s\\002Разработать сенсорную матрицу \\n(увеличивает дальность обзора наблюдателей)</value>
+    </string>
+    <string>
+        <id>STR_UP_OBSERVER_SPEED</id>
+        <value>g\\002Разработать гравитационный нагнетатель \\n(повышает скорость передвижения наблюдателей)</value>
+    </string>
+    <string>
+        <id>STR_UP_TEMPLAR_ENERGY</id>
+        <value>k\\002Разработать кайдариновый амулет \\n(+50 ед. к запасу энергии тамплиеров)</value>
+    </string>
+    <string>
+        <id>STR_UP_SCOUT_SIGHT</id>
+        <value>a\\002Разработать высокоточные сенсоры \\n(увеличивают дальность обзора разведчиков)</value>
+    </string>
+    <string>
+        <id>STR_UP_SCOUT_SPEED</id>
+        <value>g\\002Разработать гравиускорители \\n(повышают скорость передвижения разведчиков)</value>
+    </string>
+    <string>
+        <id>STR_UP_CARRIER_CAPACITY</id>
+        <value>c\\002Расширить палубы авианосцев \\n(+4 к максимальному числу перехватчиков)</value>
+    </string>
+    <string>
+        <id>STR_UP_ARBITER_ENERGY</id>
+        <value>k\\002Разработать кайдариновое ядро \\n(+50 ед. к запасу энергии «Арбитров»)</value>
+    </string>
+    <string>
+        <id>STR_UP_TARMOR_REQ</id>
+        <value>Броня пехоты, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_TARMOR_REQ-1</id>
+        <value>Броня пехоты, уровень 2\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TARMOR_REQ-2</id>
+        <value>Броня пехоты, уровень 3\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TMANGUNS_REQ</id>
+        <value>Вооружение пехоты, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_TMANGUNS_REQ-1</id>
+        <value>Вооружение пехоты, уровень 2\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TMANGUNS_REQ-2</id>
+        <value>Вооружение пехоты, уровень 3\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TVEHICLEGUNS_REQ</id>
+        <value>Вооружение наземной техники, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_TVEHICLEGUNS_REQ-1</id>
+        <value>Вооружение наземной техники, уровень 2\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TVEHICLEGUNS_REQ-2</id>
+        <value>Вооружение наземной техники, уровень 3\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TVEHICLEPLATING_REQ</id>
+        <value>Обшивка наземной техники, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_TVEHICLEPLATING_REQ-1</id>
+        <value>Обшивка наземной техники, уровень 2\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TVEHICLEPLATING_REQ-2</id>
+        <value>Обшивка наземной техники, уровень 3\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TSHIPGUNS_REQ</id>
+        <value>Вооружение воздушной техники, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_TSHIPGUNS_REQ-1</id>
+        <value>Вооружение воздушной техники, уровень 2\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TSHIPGUNS_REQ-2</id>
+        <value>Вооружение воздушной техники, уровень 3\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TSHIPPLATING_REQ</id>
+        <value>Обшивка воздушной техники, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_TSHIPPLATING_REQ-1</id>
+        <value>Обшивка воздушной техники, уровень 2\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_TSHIPPLATING_REQ-2</id>
+        <value>Обшивка воздушной техники, уровень 3\\n   Требуется лаборатория</value>
+    </string>
+    <string>
+        <id>STR_UP_ZMELEE_REQ</id>
+        <value>Атака ближнего боя, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_ZMELEE_REQ-1</id>
+        <value>Атака ближнего боя, уровень 2\\n   Требуется логово</value>
+    </string>
+    <string>
+        <id>STR_UP_ZMELEE_REQ-2</id>
+        <value>Атака ближнего боя, уровень 3\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_UP_ZMISSILE_REQ</id>
+        <value>Атака дальнего боя, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_ZMISSILE_REQ-1</id>
+        <value>Атака дальнего боя, уровень 2\\n   Требуется логово</value>
+    </string>
+    <string>
+        <id>STR_UP_ZMISSILE_REQ-2</id>
+        <value>Атака дальнего боя, уровень 3\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_UP_ZARMOR_REQ</id>
+        <value>Панцирь, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_ZARMOR_REQ-1</id>
+        <value>Панцирь, уровень 2\\n   Требуется логово</value>
+    </string>
+    <string>
+        <id>STR_UP_ZARMOR_REQ-2</id>
+        <value>Панцирь, уровень 3\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_UP_ZFLYERATTACKS_REQ</id>
+        <value>Атака воздушных войск, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_ZFLYERATTACKS_REQ-1</id>
+        <value>Атака воздушных войск, уровень 2\\n   Требуется логово</value>
+    </string>
+    <string>
+        <id>STR_UP_ZFLYERATTACKS_REQ-2</id>
+        <value>Атака воздушных войск, уровень 3\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_UP_ZCARAPACE_REQ</id>
+        <value>Панцирь воздушных войск, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_ZCARAPACE_REQ-1</id>
+        <value>Панцирь воздушных войск, уровень 2\\n   Требуется логово</value>
+    </string>
+    <string>
+        <id>STR_UP_ZCARAPACE_REQ-2</id>
+        <value>Панцирь воздушных войск, уровень 3\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_UP_ZERGLINGATTACKSPEED_REQ</id>
+        <value>Адреналиновые железы\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_UP_PGNDWEAPONS_REQ</id>
+        <value>Вооружение наземных войск, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_PGNDWEAPONS_REQ-1</id>
+        <value>Вооружение наземных войск, уровень 2\\n   Требуются архивы тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_UP_PGNDWEAPONS_REQ-2</id>
+        <value>Вооружение наземных войск, уровень 3\\n   Требуются архивы тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_UP_PAIRWEAPONS_REQ</id>
+        <value>Вооружение воздушных войск, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_PAIRWEAPONS_REQ-1</id>
+        <value>Вооружение воздушных войск, уровень 2\\n   Требуется маяк флотилии</value>
+    </string>
+    <string>
+        <id>STR_UP_PAIRWEAPONS_REQ-2</id>
+        <value>Вооружение воздушных войск, уровень 3\\n   Требуется маяк флотилии</value>
+    </string>
+    <string>
+        <id>STR_UP_PGNDARMOR_REQ</id>
+        <value>Броня наземных войск, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_PGNDARMOR_REQ-1</id>
+        <value>Броня наземных войск, уровень 2\\n   Требуются архивы тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_UP_PGNDARMOR_REQ-2</id>
+        <value>Броня наземных войск, уровень 3\\n   Требуются архивы тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_UP_PAIRARMOR_REQ</id>
+        <value>Броня воздушных войск, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_PAIRARMOR_REQ-1</id>
+        <value>Броня воздушных войск, уровень 2\\n   Требуется маяк флотилии</value>
+    </string>
+    <string>
+        <id>STR_UP_PAIRARMOR_REQ-2</id>
+        <value>Броня воздушных войск, уровень 3\\n   Требуется маяк флотилии</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ</id>
+        <value>Щиты, уровень 1\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-1</id>
+        <value>Щиты, уровень 2\\n   Требуется кибернетическое ядро</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-2</id>
+        <value>Щиты, уровень 3\\n   Требуется кибернетическое ядро</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-3</id>
+        <value>Новобранец</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-4</id>
+        <value>Рядовой</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-5</id>
+        <value>Рядовой</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-6</id>
+        <value>Капрал</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-7</id>
+        <value>Специалист</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-8</id>
+        <value>Сержант</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-9</id>
+        <value>Первый сержант</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-10</id>
+        <value>Старший сержант</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-11</id>
+        <value>Уоррент-офицер</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-12</id>
+        <value>Капитан</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-13</id>
+        <value>Майор</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-14</id>
+        <value>Капитан-лейтенант</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-15</id>
+        <value>Первый сержант</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-16</id>
+        <value>Сержант-майор</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-17</id>
+        <value>Полковник</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-18</id>
+        <value>Командор</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-19</id>
+        <value>Шериф</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-20</id>
+        <value>Лейтенант</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-21</id>
+        <value>Генерал</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-22</id>
+        <value>Капитан Рейнор</value>
+    </string>
+    <string>
+        <id>STR_UP_PSHIELDS_REQ-23</id>
+        <value>Генерал Дюк</value>
+    </string>
+    <string>
+        <id>STR_HERO_BC_RANK</id>
+        <value>Адмирал</value>
+    </string>
+    <string>
+        <id>STR_GANTRITHOR_RANK</id>
+        <value>Тассадар</value>
+    </string>
+    <string>
+        <id>STR_INTERCEPTOR</id>
+        <value>Перехватчики</value>
+    </string>
+    <string>
+        <id>STR_ESCAPE</id>
+        <value>ESC</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_ZERGLING</id>
+        <value>z\\001Мутировать в зерглингов</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_HYDRALISK</id>
+        <value>h\\001Мутировать в гидралиска</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_ULTRALISK</id>
+        <value>u\\001Мутировать в ультралиска</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_DRONE</id>
+        <value>d\\001Мутировать в рабочего</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_OVERLORD</id>
+        <value>o\\001Мутировать в надзирателя</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_MUTALID</id>
+        <value>m\\001Мутировать в муталиска</value>
+    </string>
+    <string>
+        <id>STR_GUARDIAN_ASPECT</id>
+        <value>g\\005Мутировать в стража</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_QUEEN</id>
+        <value>q\\001Мутировать в королеву</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_DEFILER</id>
+        <value>f\\001Мутировать в осквернителя</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_AVENGER</id>
+        <value>s\\001Мутировать в слепня</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_INFESTED</id>
+        <value>i\\001Породить зараженного террана</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_MARINE</id>
+        <value>m\\001Обучить морпеха</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_GHOST</id>
+        <value>g\\001Обучить призрака</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_FIREBAT</id>
+        <value>f\\001Обучить огнеметчика</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_VULTURE</id>
+        <value>v\\001Построить «Стервятник»</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_GOLIATH</id>
+        <value>g\\001Построить «Голиаф»</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_TANK</id>
+        <value>t\\001Построить осадный танк</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_SCV</id>
+        <value>s\\001Построить КСМ</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_WRAITH</id>
+        <value>w\\001Построить «Мираж»</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_VESSEL</id>
+        <value>v\\001Построить научное судно</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_DROPSHIP</id>
+        <value>d\\001Построить десантный корабль</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_BCRUISER</id>
+        <value>b\\001Построить крейсер</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_NUKE</id>
+        <value>n\\001Зарядить ракетную шахту</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_OBSERVER</id>
+        <value>o\\001Вызвать наблюдатель</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_PROBE</id>
+        <value>p\\001Создать зонд</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_ZEALOT</id>
+        <value>z\\001Вызвать зилота</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_DRAGOON</id>
+        <value>d\\001Вызвать драгуна</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_TEMPLAR</id>
+        <value>t\\001Вызвать высшего тамплиера</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_SHUTTLE</id>
+        <value>s\\001Вызвать челнок</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_SCOUT</id>
+        <value>s\\001Вызвать разведчик</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_ARBITER</id>
+        <value>a\\001Вызвать «Арбитр»</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_CARRIER</id>
+        <value>c\\001Вызвать авианосец</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_INTERCEPTOR</id>
+        <value>i\\001Создать перехватчик</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_REAVER</id>
+        <value>v\\001Вызвать опустошитель</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_SCARAB</id>
+        <value>r\\001Создать скарабея</value>
+    </string>
+    <string>
+        <id>STR_MAKE_N_BIKER</id>
+        <value>b\\001Нанять элитного «Стервятника»</value>
+    </string>
+    <string>
+        <id>STR_MAKE_N_GUNSHIP</id>
+        <value>g\\001Нанять элитный корабль</value>
+    </string>
+    <string>
+        <id>STR_MAKE_N_RAIDER</id>
+        <value>r\\001Нанять рейдера</value>
+    </string>
+    <string>
+        <id>STR_BLD_HATCHERY</id>
+        <value>h\\001Мутировать в инкубатор</value>
+    </string>
+    <string>
+        <id>STR_BLD_CREEP_COLONY</id>
+        <value>c\\001Мутировать в колонию слизи</value>
+    </string>
+    <string>
+        <id>STR_BLD_ZEXTRACTOR</id>
+        <value>e\\001Мутировать в экстрактор</value>
+    </string>
+    <string>
+        <id>STR_BLD_SPAWNING</id>
+        <value>s\\001Мутировать в омут рождения</value>
+    </string>
+    <string>
+        <id>STR_BLD_EVO_CHAMBER</id>
+        <value>v\\001Мутировать в эволюционную камеру</value>
+    </string>
+    <string>
+        <id>STR_BLD_HYDRA_DEN</id>
+        <value>d\\001Мутировать в пещеру гидралисков</value>
+    </string>
+    <string>
+        <id>STR_BLD_NYDUS</id>
+        <value>n\\001Мутировать в канал нидуса</value>
+    </string>
+    <string>
+        <id>STR_BLD_SPIRE</id>
+        <value>s\\001Мутировать в шпиль</value>
+    </string>
+    <string>
+        <id>STR_BLD_NEST</id>
+        <value>q\\001Мутировать в гнездо королев</value>
+    </string>
+    <string>
+        <id>STR_BLD_ULTRA_CAVERN</id>
+        <value>u\\001Мутировать в пещеру ультралисков</value>
+    </string>
+    <string>
+        <id>STR_BLD_DEFILER_MOUND</id>
+        <value>d\\001Мутировать в логово осквернителей</value>
+    </string>
+    <string>
+        <id>STR_BLD_LAIR</id>
+        <value>l\\001Мутировать в логово</value>
+    </string>
+    <string>
+        <id>STR_BLD_HIVE</id>
+        <value>h\\001Мутировать в улей</value>
+    </string>
+    <string>
+        <id>STR_BLD_GREATERSPIRE</id>
+        <value>g\\001Мутировать в шпиль величия</value>
+    </string>
+    <string>
+        <id>STR_BLD_SPORE_COLONY</id>
+        <value>s\\001Мутировать в споровую колонию</value>
+    </string>
+    <string>
+        <id>STR_BLD_SUNKEN_COLONY</id>
+        <value>u\\001Мутировать в подземную колонию</value>
+    </string>
+    <string>
+        <id>STR_NYDUS_EXIT</id>
+        <value>n\\007Разместить выход канала нидуса</value>
+    </string>
+    <string>
+        <id>STR_BLD_NEXUS</id>
+        <value>n\\001Вызвать нексус</value>
+    </string>
+    <string>
+        <id>STR_BLD_PYLON</id>
+        <value>p\\001Вызвать пилон</value>
+    </string>
+    <string>
+        <id>STR_BLD_ASSIMILATOR</id>
+        <value>a\\001Вызвать ассимилятор</value>
+    </string>
+    <string>
+        <id>STR_BLD_GATEWAY</id>
+        <value>g\\001Вызвать врата</value>
+    </string>
+    <string>
+        <id>STR_BLD_FORGE</id>
+        <value>f\\001Вызвать оружейную</value>
+    </string>
+    <string>
+        <id>STR_BLD_PHOTON</id>
+        <value>c\\001Вызвать фотонную пушку</value>
+    </string>
+    <string>
+        <id>STR_BLD_CYBER_CORE</id>
+        <value>y\\001Вызвать кибернетическое ядро</value>
+    </string>
+    <string>
+        <id>STR_BLD_SHIELDBATT</id>
+        <value>b\\001Вызвать батарею щитов</value>
+    </string>
+    <string>
+        <id>STR_BLD_ROBOTICS</id>
+        <value>r\\001Вызвать завод робототехники</value>
+    </string>
+    <string>
+        <id>STR_BLD_OBSERVATORY</id>
+        <value>o\\001Вызвать обсерваторию</value>
+    </string>
+    <string>
+        <id>STR_BLD_CITADEL</id>
+        <value>c\\001Вызвать цитадель Адуна</value>
+    </string>
+    <string>
+        <id>STR_BLD_ARCHIVES</id>
+        <value>t\\001Вызвать архивы тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_BLD_STARGATE</id>
+        <value>s\\001Вызвать звездные врата</value>
+    </string>
+    <string>
+        <id>STR_BLD_FLEET_BEACON</id>
+        <value>f\\001Вызвать маяк флотилии</value>
+    </string>
+    <string>
+        <id>STR_BLD_TRIBUNAL</id>
+        <value>a\\001Вызвать трибунал арбитров</value>
+    </string>
+    <string>
+        <id>STR_BLD_ROBOTICS_BAY</id>
+        <value>b\\001Вызвать робототехнический узел</value>
+    </string>
+    <string>
+        <id>STR_BLD_TCOMMANDCTR</id>
+        <value>c\\001Построить командный центр</value>
+    </string>
+    <string>
+        <id>STR_BLD_DEPOT</id>
+        <value>s\\001Построить хранилище</value>
+    </string>
+    <string>
+        <id>STR_BLD_REFINERY</id>
+        <value>r\\001Построить перерабатывающий завод</value>
+    </string>
+    <string>
+        <id>STR_BLD_BARRACKS</id>
+        <value>b\\001Построить казармы</value>
+    </string>
+    <string>
+        <id>STR_BLD_ENGINEERING</id>
+        <value>e\\001Построить инженерный комплекс</value>
+    </string>
+    <string>
+        <id>STR_BLD_TURRET</id>
+        <value>t\\001Построить ракетную турель</value>
+    </string>
+    <string>
+        <id>STR_BLD_ACADEMY</id>
+        <value>a\\001Построить академию</value>
+    </string>
+    <string>
+        <id>STR_BLD_PILLBOX</id>
+        <value>u\\001Построить бункер</value>
+    </string>
+    <string>
+        <id>STR_BLD_FACTORY</id>
+        <value>f\\001Построить завод</value>
+    </string>
+    <string>
+        <id>STR_BLD_TSTARPORT</id>
+        <value>s\\001Построить космопорт</value>
+    </string>
+    <string>
+        <id>STR_BLD_SCIENCE_FAC</id>
+        <value>i\\001Построить лабораторию</value>
+    </string>
+    <string>
+        <id>STR_BLD_ARMORY</id>
+        <value>a\\001Построить арсенал</value>
+    </string>
+    <string>
+        <id>STR_BLD_COMSAT</id>
+        <value>c\\001Построить станцию слежения</value>
+    </string>
+    <string>
+        <id>STR_BLD_SILO</id>
+        <value>n\\001Построить ракетную шахту</value>
+    </string>
+    <string>
+        <id>STR_BLD_DOCKS</id>
+        <value>c\\001Построить диспетчерскую вышку</value>
+    </string>
+    <string>
+        <id>STR_BLD_COVERT_OPS</id>
+        <value>c\\001Построить штаб спецопераций</value>
+    </string>
+    <string>
+        <id>STR_BLD_PHYSICS</id>
+        <value>p\\001Построить физическую лабораторию</value>
+    </string>
+    <string>
+        <id>STR_BLD_MACHINE</id>
+        <value>c\\001Построить мастерскую</value>
+    </string>
+    <string>
+        <id>STR_MOVE</id>
+        <value>m\\007Двигаться</value>
+    </string>
+    <string>
+        <id>STR_STOP</id>
+        <value>s\\007Остановиться</value>
+    </string>
+    <string>
+        <id>STR_ATTACK</id>
+        <value>a\\007Атаковать</value>
+    </string>
+    <string>
+        <id>STR_PATROL</id>
+        <value>p\\007Патрулировать</value>
+    </string>
+    <string>
+        <id>STR_HOLD</id>
+        <value>h\\007Удерживать позицию</value>
+    </string>
+    <string>
+        <id>STR_WAYPOINTS</id>
+        <value>w\\007Точки пути</value>
+    </string>
+    <string>
+        <id>STR_LAND</id>
+        <value>l\\007Приземлить</value>
+    </string>
+    <string>
+        <id>STR_LIFTOFF</id>
+        <value>l\\007Поднять в воздух</value>
+    </string>
+    <string>
+        <id>STR_RALLYPOINT</id>
+        <value>r\\007Установить точку сбора</value>
+    </string>
+    <string>
+        <id>STR_RECHARGE</id>
+        <value>r\\007Перезарядка щитов</value>
+    </string>
+    <string>
+        <id>STR_SELECT_LARVA</id>
+        <value>s\\007Выбрать личинок</value>
+    </string>
+    <string>
+        <id>STR_GATHER</id>
+        <value>g\\007Добывать</value>
+    </string>
+    <string>
+        <id>STR_RETURN</id>
+        <value>c\\007Вернуть груз</value>
+    </string>
+    <string>
+        <id>STR_REPAIR</id>
+        <value>r\\007Ремонтировать</value>
+    </string>
+    <string>
+        <id>STR_BUILD</id>
+        <value>b\\007Возвести строение</value>
+    </string>
+    <string>
+        <id>STR_BLD_ADVANCED</id>
+        <value>v\\007Дополнительные строения</value>
+    </string>
+    <string>
+        <id>STR_MUTATE</id>
+        <value>b\\007Базовые мутации</value>
+    </string>
+    <string>
+        <id>STR_MUTATE_ADV</id>
+        <value>v\\007Сложные мутации</value>
+    </string>
+    <string>
+        <id>STR_MORPH_ADV</id>
+        <value>v\\007Дополнительные мутации</value>
+    </string>
+    <string>
+        <id>STR_PICKUP</id>
+        <value>l\\007Загрузить</value>
+    </string>
+    <string>
+        <id>STR_UNLOAD</id>
+        <value>u\\007Выгрузить всех</value>
+    </string>
+    <string>
+        <id>STR_NUKESTRIKE</id>
+        <value>n\\007Ядерный удар</value>
+    </string>
+    <string>
+        <id>STR_PLACE_COP</id>
+        <value>p\\007Разместить COP</value>
+    </string>
+    <string>
+        <id>STR_CANCELESC</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить</value>
+    </string>
+    <string>
+        <id>STR_CANCEL</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить</value>
+    </string>
+    <string>
+        <id>STR_CANCELCONSTRUCTION</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить постройку</value>
+    </string>
+    <string>
+        <id>STR_CANCELUNIT</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить обучение</value>
+    </string>
+    <string>
+        <id>STR_CANCELUPGRADE</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить улучшение</value>
+    </string>
+    <string>
+        <id>STR_CANCELRESEARCH</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить исследование</value>
+    </string>
+    <string>
+        <id>STR_CANCELLAST</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить последнее действие</value>
+    </string>
+    <string>
+        <id>STR_CANCELADDON</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить пристройку</value>
+    </string>
+    <string>
+        <id>STR_EGGREVERT</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить мутацию</value>
+    </string>
+    <string>
+        <id>STR_DRONEREVERT</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить мутацию</value>
+    </string>
+    <string>
+        <id>STR_DRONECANCELINFESTATION</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить заражение</value>
+    </string>
+    <string>
+        <id>STR_CANCELBLDGMORPH</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить мутацию</value>
+    </string>
+    <string>
+        <id>STR_CANCELNUKESTRIKE</id>
+        <value>\\027\\007\\3ESC\\1 - Отменить ядерный удар</value>
+    </string>
+    <string>
+        <id>STR_HALT_CONSTRUCTION</id>
+        <value>\\027\\007\\3ESC\\1 - Остановить постройку</value>
+    </string>
+    <string>
+        <id>STR_GHOST_REQ</id>
+        <value>Призрак\\n   Требуются академия и лаборатория с пристроенным штабом спецопераций</value>
+    </string>
+    <string>
+        <id>STR_FIREBAT_REQ</id>
+        <value>Огнеметчик\\n   Требуется академия</value>
+    </string>
+    <string>
+        <id>STR_GOLIATH_REQ</id>
+        <value>«Голиаф»\\n   Требуется арсенал</value>
+    </string>
+    <string>
+        <id>STR_TANK_REQ</id>
+        <value>Осадный танк\\n   Требуется пристроенная мастерская</value>
+    </string>
+    <string>
+        <id>STR_VESSEL_REQ</id>
+        <value>Научное судно\\n   Требуются пристроенная диспетчерская вышка и лаборатория</value>
+    </string>
+    <string>
+        <id>STR_DROPSHIP_REQ</id>
+        <value>Десантный корабль\\n   Требуется пристроенная диспетчерская вышка</value>
+    </string>
+    <string>
+        <id>STR_BCRUISER_REQ</id>
+        <value>Крейсер\\n   Требуются пристроенная диспетчерская вышка и лаборатория с пристроенной физической лабораторией</value>
+    </string>
+    <string>
+        <id>STR_COMSAT_REQ</id>
+        <value>Станция слежения\\n   Требуется академия</value>
+    </string>
+    <string>
+        <id>STR_SILO_REQ</id>
+        <value>Ракетная шахта\\n   Требуется лаборатория с пристроенным штабом спецопераций</value>
+    </string>
+    <string>
+        <id>STR_BARRACKS_REQ</id>
+        <value>Казармы\\n   Требуется командный центр</value>
+    </string>
+    <string>
+        <id>STR_ACADEMY_REQ</id>
+        <value>Академия\\n   Требуются казармы</value>
+    </string>
+    <string>
+        <id>STR_FACTORY_REQ</id>
+        <value>Завод\\n   Требуются казармы</value>
+    </string>
+    <string>
+        <id>STR_STARPORT_REQ</id>
+        <value>Космопорт\\n   Требуется завод</value>
+    </string>
+    <string>
+        <id>STR_SCIENCE_FAC_REQ</id>
+        <value>Лаборатория\\n   Требуется космопорт</value>
+    </string>
+    <string>
+        <id>STR_ENGINEERING_REQ</id>
+        <value>Инженерный комплекс\\n   Требуется командный центр</value>
+    </string>
+    <string>
+        <id>STR_ARMORY_REQ</id>
+        <value>Арсенал\\n   Требуется завод</value>
+    </string>
+    <string>
+        <id>STR_TURRET_REQ</id>
+        <value>Ракетная турель\\n   Требуется инженерный комплекс</value>
+    </string>
+    <string>
+        <id>STR_PILLBOX_REQ</id>
+        <value>Бункер\\n   Требуются казармы</value>
+    </string>
+    <string>
+        <id>STR_DRAGOON_REQ</id>
+        <value>Драгун\\n   Требуется кибернетическое ядро</value>
+    </string>
+    <string>
+        <id>STR_TEMPLAR_REQ</id>
+        <value>Тамплиер\\n   Требуются архивы тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_ARBITER_REQ</id>
+        <value>«Арбитр»\\n   Требуется трибунал арбитров</value>
+    </string>
+    <string>
+        <id>STR_CARRIER_REQ</id>
+        <value>Авианосец\\n   Требуется маяк флотилии</value>
+    </string>
+    <string>
+        <id>STR_REAVER_REQ</id>
+        <value>Опустошитель\\n   Требуется робототехнический узел</value>
+    </string>
+    <string>
+        <id>STR_OBSERVER_REQ</id>
+        <value>Наблюдатель\\n   Требуется обсерватория</value>
+    </string>
+    <string>
+        <id>STR_GATEWAY_REQ</id>
+        <value>Врата\\n   Требуется нексус</value>
+    </string>
+    <string>
+        <id>STR_FORGE_REQ</id>
+        <value>Оружейная\\n   Требуется нексус</value>
+    </string>
+    <string>
+        <id>STR_PHOTONBATT_REQ</id>
+        <value>Фотонная пушка\\n   Требуется оружейная</value>
+    </string>
+    <string>
+        <id>STR_SHIELDBATT_REQ</id>
+        <value>Батарея щитов\\n   Требуются врата</value>
+    </string>
+    <string>
+        <id>STR_CYBER_CORE_REQ</id>
+        <value>Кибернетическое ядро\\n   Требуются врата</value>
+    </string>
+    <string>
+        <id>STR_ROBOTICS_REQ</id>
+        <value>Завод робототехники\\n   Требуется кибернетическое ядро</value>
+    </string>
+    <string>
+        <id>STR_STARGATE_REQ</id>
+        <value>Звездные врата\\n   Требуется кибернетическое ядро</value>
+    </string>
+    <string>
+        <id>STR_CITADEL_REQ</id>
+        <value>Цитадель Адуна\\n   Требуется кибернетическое ядро</value>
+    </string>
+    <string>
+        <id>STR_OBSERVATORY_REQ</id>
+        <value>Обсерватория\\n   Требуется завод робототехники</value>
+    </string>
+    <string>
+        <id>STR_ROBOTICS_BAY_REQ</id>
+        <value>Робототехнический узел\\n   Требуется завод робототехники</value>
+    </string>
+    <string>
+        <id>STR_FLEET_BEACON_REQ</id>
+        <value>Маяк флотилии\\n   Требуются звездные врата</value>
+    </string>
+    <string>
+        <id>STR_ARCHIVES_REQ</id>
+        <value>Архивы тамплиеров\\n   Требуется цитадель Адуна</value>
+    </string>
+    <string>
+        <id>STR_TRIBUNAL_REQ</id>
+        <value>Трибунал арбитров\\n   Требуются звездные врата и архивы тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_ZERGLING_REQ</id>
+        <value>Зерглинги\\n   Требуется омут рождения</value>
+    </string>
+    <string>
+        <id>STR_HYDRALISK_REQ</id>
+        <value>Гидралиск\\n   Требуется пещера гидралисков</value>
+    </string>
+    <string>
+        <id>STR_ULTRALISK_REQ</id>
+        <value>Ультралиск\\n   Требуется пещера ультралисков</value>
+    </string>
+    <string>
+        <id>STR_MUTALID_REQ</id>
+        <value>Муталиск\\n   Требуется шпиль</value>
+    </string>
+    <string>
+        <id>STR_GUARDIAN_REQ</id>
+        <value>Мутировать в стража\\n   Требуется шпиль величия</value>
+    </string>
+    <string>
+        <id>STR_QUEEN_REQ</id>
+        <value>Королева\\n   Требуется гнездо королев</value>
+    </string>
+    <string>
+        <id>STR_DEFILER_REQ</id>
+        <value>Осквернитель\\n   Требуется логово осквернителей</value>
+    </string>
+    <string>
+        <id>STR_AVENGER_REQ</id>
+        <value>Слепень\\n   Требуется шпиль</value>
+    </string>
+    <string>
+        <id>STR_LAIR_REQ</id>
+        <value>Логово\\n   Требуется омут рождения</value>
+    </string>
+    <string>
+        <id>STR_HIVE_REQ</id>
+        <value>Улей\\n   Требуется гнездо королев</value>
+    </string>
+    <string>
+        <id>STR_NYDUS_REQ</id>
+        <value>Канал нидуса\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_HYDRA_DEN_REQ</id>
+        <value>Пещера гидралисков\\n   Требуется омут рождения</value>
+    </string>
+    <string>
+        <id>STR_SPIRE_REQ</id>
+        <value>Шпиль\\n   Требуется логово</value>
+    </string>
+    <string>
+        <id>STR_GREATERSPIRE_REQ</id>
+        <value>Шпиль величия\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_NEST_REQ</id>
+        <value>Гнездо королев\\n   Требуется логово</value>
+    </string>
+    <string>
+        <id>STR_EVO_CHAMBER_REQ</id>
+        <value>Эволюционная камера\\n   Требуется инкубатор</value>
+    </string>
+    <string>
+        <id>STR_ULTRA_CAVERN_REQ</id>
+        <value>Пещера ультралисков\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_DEFILER_MOUND_REQ</id>
+        <value>Логово осквернителей\\n   Требуется улей</value>
+    </string>
+    <string>
+        <id>STR_SPAWNING_REQ</id>
+        <value>Омут рождения\\n   Требуется инкубатор</value>
+    </string>
+    <string>
+        <id>STR_SPORE_REQ</id>
+        <value>Споровая колония\\n   Требуется эволюционная камера</value>
+    </string>
+    <string>
+        <id>STR_SUNKEN_REQ</id>
+        <value>Подземная колония\\n   Требуется омут рождения</value>
+    </string>
+    <string>
+        <id>STR_CARRIERATTACK_REQ</id>
+        <value>Атака авианосца\\n   Создать перехватчик</value>
+    </string>
+    <string>
+        <id>STR_REAVERATTACK_REQ</id>
+        <value>Атака опустошителя\\n   Создать скарабеев</value>
+    </string>
+    <string>
+        <id>STR_NUKE_REQ</id>
+        <value>Ядерный удар\\n   Требуется заряженная ракетная шахта</value>
+    </string>
+    <string>
+        <id>STR_NOT_IMPLEMENTED</id>
+        <value>Не применено</value>
+    </string>
+    <string>
+        <id>STR_MARK</id>
+        <value>mk</value>
+    </string>
+    <string>
+        <id>STR_KILLS_LBL</id>
+        <value>Убийств:</value>
+    </string>
+    <string>
+        <id>STR_UPGRADING_LBL</id>
+        <value>Эволюция</value>
+    </string>
+    <string>
+        <id>STR_UPGRADING_LBL-1</id>
+        <value>Улучшение</value>
+    </string>
+    <string>
+        <id>STR_UPGRADING_LBL-2</id>
+        <value>Улучшение</value>
+    </string>
+    <string>
+        <id>STR_RESEARCHING_LBL</id>
+        <value>Эволюция</value>
+    </string>
+    <string>
+        <id>STR_RESEARCHING_LBL-1</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_RESEARCHING_LBL-2</id>
+        <value>Разработка</value>
+    </string>
+    <string>
+        <id>STR_BUILDING_LBL</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_BUILDING_LBL-1</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_BUILDING_LBL-2</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_BUILDING2_LBL</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_BUILDING2_LBL-1</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_BUILDING2_LBL-2</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_DAMAGE_LBL</id>
+        <value>Урон:</value>
+    </string>
+    <string>
+        <id>STR_ARMOR_LBL</id>
+        <value>Броня:</value>
+    </string>
+    <string>
+        <id>STR_SHIELD_LBL</id>
+        <value>Щиты:</value>
+    </string>
+    <string>
+        <id>STR_MINING_DELAY_LBL</id>
+        <value>Задержка добычи:</value>
+    </string>
+    <string>
+        <id>STR_PRODUCTION_LBL</id>
+        <value>Производство\\032</value>
+    </string>
+    <string>
+        <id>STR_UNIT_PTR</id>
+        <value>Боевых единиц:</value>
+    </string>
+    <string>
+        <id>STR_CURR_ORDER</id>
+        <value>Текущий приказ:</value>
+    </string>
+    <string>
+        <id>STR_DELAY_ORDER</id>
+        <value>Следующий приказ:</value>
+    </string>
+    <string>
+        <id>STR_PERCENT</id>
+        <value>Состояние (%)</value>
+    </string>
+    <string>
+        <id>STR_ORDER_LBL</id>
+        <value>Order:</value>
+    </string>
+    <string>
+        <id>STR_ADDINGON_LBL</id>
+        <value>Мутация</value>
+    </string>
+    <string>
+        <id>STR_ADDINGON_LBL-1</id>
+        <value>Создание пристройки</value>
+    </string>
+    <string>
+        <id>STR_ADDINGON_LBL-2</id>
+        <value>Открытие портала</value>
+    </string>
+    <string>
+        <id>STR_SUMMONING_LBL</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_INTERCEPTORS_LBL</id>
+        <value>Перехватчики</value>
+    </string>
+    <string>
+        <id>STR_SCARABS_LBL</id>
+        <value>Скарабеи</value>
+    </string>
+    <string>
+        <id>STR_NUKES_LBL</id>
+        <value>Ядерный удар</value>
+    </string>
+    <string>
+        <id>STR_MINES_LBL</id>
+        <value>Паучьи мины</value>
+    </string>
+    <string>
+        <id>STR_NEXTLVL</id>
+        <value>Следующий уровень:</value>
+    </string>
+    <string>
+        <id>STR_MINERALS_LBL</id>
+        <value>Запасы минералов:</value>
+    </string>
+    <string>
+        <id>STR_GASES_LBL</id>
+        <value>Запасы веспена:</value>
+    </string>
+    <string>
+        <id>STR_DEPLETED</id>
+        <value>Истощено</value>
+    </string>
+    <string>
+        <id>STR_CONSTRUCTION</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_CONSTRUCTION-1</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_CONSTRUCTION-2</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>STR_CANCEL_UNIT_s</id>
+        <value>Отменить мутацию (%s)</value>
+    </string>
+    <string>
+        <id>STR_CANCEL_UNIT_s-1</id>
+        <value>Отменить производство (%s)</value>
+    </string>
+    <string>
+        <id>STR_CANCEL_UNIT_s-2</id>
+        <value>Отменить вызов (%s)</value>
+    </string>
+    <string>
+        <id>STR_CANCEL_UPGRADE</id>
+        <value>Отменить улучшение</value>
+    </string>
+    <string>
+        <id>STR_CANCEL_RESEARCH</id>
+        <value>Отменить исследование</value>
+    </string>
+    <string>
+        <id>STR_CANCEL_MORPH</id>
+        <value>Отменить мутацию</value>
+    </string>
+    <string>
+        <id>STR_UNLOAD_UNIT_s</id>
+        <value>Выгрузить боевую единицу (%s)</value>
+    </string>
+    <string>
+        <id>STR_MULTISELECT_HELP</id>
+        <value>ЛКМ – выбрать боевую единицу\\nShift+ЛКМ – отменить выделение\\nCtrl+ЛКМ – выбрать боевые единицы одного типа</value>
+    </string>
+    <string>
+        <id>STR_SHOW_TERRAIN</id>
+        <value>Отображать ландшафт на мини-карте (\\3Tab\\1)</value>
+    </string>
+    <string>
+        <id>STR_HIDE_TERRAIN</id>
+        <value>Скрыть ландшафт на мини-карте (\\3Tab\\1)</value>
+    </string>
+    <string>
+        <id>STR_DIPLOMACY</id>
+        <value>Дипломатия</value>
+    </string>
+    <string>
+        <id>STR_MESSAGING</id>
+        <value>Обмен сообщениями</value>
+    </string>
+    <string>
+        <id>STR_GAMEMENU_HELP</id>
+        <value>Меню (\\3F10\\1)</value>
+    </string>
+    <string>
+        <id>STR_UNI_FOOD_PROVIDED</id>
+        <value>Обеспечено поголовья:</value>
+    </string>
+    <string>
+        <id>STR_UNI_FOOD_PROVIDED-1</id>
+        <value>Обеспечено припасов:</value>
+    </string>
+    <string>
+        <id>STR_UNI_FOOD_PROVIDED-2</id>
+        <value>Обеспечено пси:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_PROVIDED</id>
+        <value>Общее поголовье:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_PROVIDED-1</id>
+        <value>Всего припасов:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_PROVIDED-2</id>
+        <value>Всего пси:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_USED</id>
+        <value>Текущее поголовье:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_USED-1</id>
+        <value>Затрачено припасов:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_USED-2</id>
+        <value>Использовано пси:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_MAX</id>
+        <value>Макс. поголовье:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_MAX-1</id>
+        <value>Максимум припасов:</value>
+    </string>
+    <string>
+        <id>STR_FOOD_MAX-2</id>
+        <value>Максимум пси:</value>
+    </string>
+    <string>
+        <id>STR_PARASITE_LBL</id>
+        <value>\\7Обнаружен паразит</value>
+    </string>
+    <string>
+        <id>STR_DISABLED_LBL</id>
+        <value>\\6Отключено</value>
+    </string>
+    <string>
+        <id>STR_DISABLED_LBL-1</id>
+        <value>\\6Отключено</value>
+    </string>
+    <string>
+        <id>STR_DISABLED_LBL-2</id>
+        <value>\\6Без питания</value>
+    </string>
+    <string>
+        <id>STR_DETECTOR_LBL</id>
+        <value>\\3Детектор</value>
+    </string>
+    <string>
+        <id>STR_HALLUCINATION_LBL</id>
+        <value>\\4Иллюзия</value>
+    </string>
+    <string>
+        <id>STR_LB_LABEL</id>
+        <value>Боевые единицы</value>
+    </string>
+    <string>
+        <id>STR_LB_LABEL-1</id>
+        <value>Боевые единицы</value>
+    </string>
+    <string>
+        <id>STR_LB_LABEL-2</id>
+        <value>Ресурсы</value>
+    </string>
+    <string>
+        <id>STR_LB_LABEL-3</id>
+        <value>Убийства</value>
+    </string>
+    <string>
+        <id>STR_LB_LABEL-4</id>
+        <value>Очки</value>
+    </string>
+    <string>
+        <id>STR_LB_DELTA_LABEL</id>
+        <value>Осталось войск:</value>
+    </string>
+    <string>
+        <id>STR_LB_DELTA_LABEL-1</id>
+        <value>Осталось войск:</value>
+    </string>
+    <string>
+        <id>STR_LB_DELTA_LABEL-2</id>
+        <value>Осталось ресурсов:</value>
+    </string>
+    <string>
+        <id>STR_LB_DELTA_LABEL-3</id>
+        <value>Осталось убийств:</value>
+    </string>
+    <string>
+        <id>STR_LB_DELTA_LABEL-4</id>
+        <value>Осталось очков:</value>
+    </string>
+    <string>
+        <id>STR_RETURN_ERR</id>
+        <value>Некуда возвращать... не удалось вернуть.</value>
+    </string>
+    <string>
+        <id>STR_NEED_FOOD_ERR</id>
+        <value>Слишком большая стая... нужно больше надзирателей.</value>
+    </string>
+    <string>
+        <id>STR_NEED_FOOD_ERR-1</id>
+        <value>Недостаточно припасов. Постройте больше хранилищ.</value>
+    </string>
+    <string>
+        <id>STR_NEED_FOOD_ERR-2</id>
+        <value>Недостаточно пси-энергии... нужно больше пилонов.</value>
+    </string>
+    <string>
+        <id>STR_FOOD_LIMIT_ERR</id>
+        <value>Превышен лимит поголовья.</value>
+    </string>
+    <string>
+        <id>STR_FOOD_LIMIT_ERR-1</id>
+        <value>Превышен лимит припасов.</value>
+    </string>
+    <string>
+        <id>STR_FOOD_LIMIT_ERR-2</id>
+        <value>Превышен лимит пси.</value>
+    </string>
+    <string>
+        <id>STR_NEED_MINERALS_ERR</id>
+        <value>Недостаточно минералов... нужно добыть еще.</value>
+    </string>
+    <string>
+        <id>STR_NEED_GASES_ERR</id>
+        <value>Недостаточно веспена... нужно добыть еще.</value>
+    </string>
+    <string>
+        <id>STR_RESOURCES_TOO_CLOSE_ERR</id>
+        <value>Нельзя строить рядом с месторождениями минералов и гейзерами.</value>
+    </string>
+    <string>
+        <id>STR_INVISIBLE_UNIT_ERR</id>
+        <value>На пути есть скрытая боевая единица</value>
+    </string>
+    <string>
+        <id>STR_BOUNDS_ERR</id>
+        <value>Нельзя строить за пределами карты.</value>
+    </string>
+    <string>
+        <id>STR_COP_ERR</id>
+        <value>Нельзя строить рядом с краем карты.</value>
+    </string>
+    <string>
+        <id>STR_NO_BUILD_ERR</id>
+        <value>Здесь нельзя строить.</value>
+    </string>
+    <string>
+        <id>STR_EXPLORE_ERR</id>
+        <value>Сперва необходимо разведать область.</value>
+    </string>
+    <string>
+        <id>STR_FOGGED_ERR</id>
+        <value>Необходим обзор выбранной области.</value>
+    </string>
+    <string>
+        <id>STR_REFINERY_ERR</id>
+        <value>Неподходящее место для постройки. Требуется веспеновый гейзер.</value>
+    </string>
+    <string>
+        <id>STR_NEEDS_CREEP_ERR</id>
+        <value>Создавать строения можно только на слизи.</value>
+    </string>
+    <string>
+        <id>STR_PYLON_TOO_FAR_ERR</id>
+        <value>Вызывать строения можно только возле пилонов.</value>
+    </string>
+    <string>
+        <id>STR_CANT_REACH_ERR</id>
+        <value>Не удалось достичь зоны постройки.</value>
+    </string>
+    <string>
+        <id>STR_CANT_LAND_ERR</id>
+        <value>Здесь нельзя приземлить строение.</value>
+    </string>
+    <string>
+        <id>STR_NEED_MANA_ERR</id>
+        <value>Недостаточно энергии.</value>
+    </string>
+    <string>
+        <id>STR_NEED_MANA_ERR-1</id>
+        <value>Недостаточно энергии.</value>
+    </string>
+    <string>
+        <id>STR_NEED_MANA_ERR-2</id>
+        <value>Недостаточно энергии.</value>
+    </string>
+    <string>
+        <id>STR_HARVEST_ERR</id>
+        <value>Нечего добывать. Укажите месторождение или веспеновый гейзер.</value>
+    </string>
+    <string>
+        <id>STR_HARVEST_ERR-1</id>
+        <value>Нечего добывать. Укажите месторождение или постройте перерабатывающий завод на веспеновом гейзере.</value>
+    </string>
+    <string>
+        <id>STR_HARVEST_ERR-2</id>
+        <value>Нечего добывать. Укажите месторождение или постройте ассимилятор на веспеновом гейзере.</value>
+    </string>
+    <string>
+        <id>STR_INFEST_ERR</id>
+        <value>Целью может быть только сильно поврежденный командный центр терранов.</value>
+    </string>
+    <string>
+        <id>STR_MAX_WAYPOINTS_ERR</id>
+        <value>Максимальное количество точек пути достигнуто.</value>
+    </string>
+    <string>
+        <id>STR_MAX_ORDERS_ERR</id>
+        <value>Нельзя добавить приказ.</value>
+    </string>
+    <string>
+        <id>STR_ORDERS_LOW_SUPPLY_ERR</id>
+        <value>Приказы кончаются. Ваш последний приказ не был принят.</value>
+    </string>
+    <string>
+        <id>STR_STIMPACK_ERR</id>
+        <value>Осталось слишком мало здоровья.</value>
+    </string>
+    <string>
+        <id>STR_DEPLETED_ERR</id>
+        <value>Веспеновый гейзер истощен.</value>
+    </string>
+    <string>
+        <id>STR_CANT_TARGET</id>
+        <value>Неверная цель.</value>
+    </string>
+    <string>
+        <id>STR_CANT_TARGET_BLDG</id>
+        <value>Это строение нельзя атаковать.</value>
+    </string>
+    <string>
+        <id>STR_CANT_TARGET_GRND</id>
+        <value>Целью могут быть только боевые единицы.</value>
+    </string>
+    <string>
+        <id>STR_CANNOT_ATTACK_ERR</id>
+        <value>Эту цель нельзя атаковать.</value>
+    </string>
+    <string>
+        <id>STR_DMATRIX_ERR</id>
+        <value>Неверная цель.</value>
+    </string>
+    <string>
+        <id>STR_LOCKDOWN_ERR</id>
+        <value>Целью могут быть только механические боевые единицы.</value>
+    </string>
+    <string>
+        <id>STR_IRRADIATE_ERR</id>
+        <value>Неверная цель.</value>
+    </string>
+    <string>
+        <id>STR_REPAIR_ERR</id>
+        <value>Целью могут быть только поврежденные механические единицы или строения.</value>
+    </string>
+    <string>
+        <id>STR_REPAIR2_ERR</id>
+        <value>Целью могут быть только терраны.</value>
+    </string>
+    <string>
+        <id>STR_PARASITE_ERR</id>
+        <value>Неверная цель.</value>
+    </string>
+    <string>
+        <id>STR_BROODLING_ERR</id>
+        <value>Целью не могут быть роботизированные и летающие войска.</value>
+    </string>
+    <string>
+        <id>STR_MINES_ERR</id>
+        <value>Цель должна быть на земле.</value>
+    </string>
+    <string>
+        <id>STR_OUT_OF_RANGE_ERR</id>
+        <value>Цель вне зоны действия.</value>
+    </string>
+    <string>
+        <id>STR_TOO_CLOSE_ERR</id>
+        <value>Цель слишком близко.</value>
+    </string>
+    <string>
+        <id>STR_FERRY1_ERR</id>
+        <value>Можно загружать только свои транспортабельные боевые единицы.</value>
+    </string>
+    <string>
+        <id>STR_FERRY2_ERR</id>
+        <value>Недостаточно свободного места.</value>
+    </string>
+    <string>
+        <id>STR_HARVEST1_ERR</id>
+        <value>Можно добывать только из месторождений и веспеновых гейзеров.</value>
+    </string>
+    <string>
+        <id>STR_HARVEST2_ERR</id>
+        <value>Сперва нужно создать экстрактор.</value>
+    </string>
+    <string>
+        <id>STR_HARVEST2_ERR-1</id>
+        <value>Сначала нужно построить перерабатывающий завод.</value>
+    </string>
+    <string>
+        <id>STR_HARVEST2_ERR-2</id>
+        <value>Сначала нужно вызвать ассимилятор.</value>
+    </string>
+    <string>
+        <id>STR_HARVEST3_ERR</id>
+        <value>Нельзя добывать газ из чужого гейзера.</value>
+    </string>
+    <string>
+        <id>STR_CONSUME_ERR</id>
+        <value>Неверная цель.</value>
+    </string>
+    <string>
+        <id>STR_PLAGUE_ERR</id>
+        <value>Неверная цель.</value>
+    </string>
+    <string>
+        <id>STR_HALLUCINATION_ERR</id>
+        <value>Неверная цель.</value>
+    </string>
+    <string>
+        <id>STR_STASISED_ERR</id>
+        <value>Нельзя выбрать целью боевую единицу в стазисе.</value>
+    </string>
+    <string>
+        <id>STR_MINE_TARGET_UNIT</id>
+        <value>Целью не могут быть парящие над землей боевые единицы.</value>
+    </string>
+    <string>
+        <id>STR_MINE_TARGET_GRND</id>
+        <value>Целью не может быть непроходимый участок.</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DIE</id>
+        <value>Die</value>
+    </string>
+    <string>
+        <id>STR_ORDER_FIZZLE</id>
+        <value>Fizzle</value>
+    </string>
+    <string>
+        <id>STR_ORDER_STOP</id>
+        <value>Stop</value>
+    </string>
+    <string>
+        <id>STR_ORDER_GUARD</id>
+        <value>Guard</value>
+    </string>
+    <string>
+        <id>STR_ORDER_GUARD_PLAY</id>
+        <value>Player Guard</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TURRET_GUARD</id>
+        <value>Turret Guard</value>
+    </string>
+    <string>
+        <id>STR_ORDER_GUARD_BUNKER</id>
+        <value>Bunker Guard</value>
+    </string>
+    <string>
+        <id>STR_ORDER_IGNORE</id>
+        <value>Ignore</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CARRIER_IGNORE</id>
+        <value>Carrier Ignore</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CARRIER_STOP</id>
+        <value>Carrier Stop</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TRILOBYTE_STOP</id>
+        <value>Reaver Stop</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ATTACK</id>
+        <value>Attack</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ATTACK_UNIT</id>
+        <value>Attack Unit</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ATTACK_FIXED_RNGE</id>
+        <value>Attack Fixed Range</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MOVE_ATTACK_UNIT</id>
+        <value>Move Attack Unit</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ATTACK_TILE</id>
+        <value>Attack Tile</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ATTACK_HOVER</id>
+        <value>Hover</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ATTACK_MOVE</id>
+        <value>Attack Move</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ATTACK_MOVE_EP</id>
+        <value>Atk Move EP</value>
+    </string>
+    <string>
+        <id>STR_ORDER_HARASS_MOVE_EP</id>
+        <value>Harass Move</value>
+    </string>
+    <string>
+        <id>STR_ORDER_AI_PATROL</id>
+        <value>AI Patrol</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TOWER</id>
+        <value>Tower</value>
+    </string>
+    <string>
+        <id>STR_ORDER_VULTURE_MINE</id>
+        <value>Vulture Mine</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CARRIER_ATTACK</id>
+        <value>Carrier Attack</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CARRIER_ATTACK_MOVE</id>
+        <value>Carrier Attack Move</value>
+    </string>
+    <string>
+        <id>STR_ORDER_STAY_IN_RANGE</id>
+        <value>Stay In Range</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TURRET_ATTACK</id>
+        <value>Turret Attack</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NOTHING</id>
+        <value>Nothing</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DRONE_START_BUILD</id>
+        <value>Drone Start Build</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DRONE_BUILD</id>
+        <value>Drone Build</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DRONE_ATTACK_UNIT</id>
+        <value>Drone Attack Unit</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DRONE_INFEST</id>
+        <value>Infest Mine</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BUILD</id>
+        <value>Build</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BUILDPROTOSS</id>
+        <value>Build Protoss</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PYLON_BUILD</id>
+        <value>Pylon Build</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CONSTRUCT_BLDG</id>
+        <value>Construct Building</value>
+    </string>
+    <string>
+        <id>STR_ORDER_REPAIR</id>
+        <value>Repair</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PLACE_ADDON</id>
+        <value>Place Add-On</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BUILD_ADDON</id>
+        <value>Build Add-On</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TRAIN</id>
+        <value>Train</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ZERG_BIRTH</id>
+        <value>Zerg Birth</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MORPH</id>
+        <value>Morph</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ZERG_BLDG_MORPH</id>
+        <value>Zerg Building Morph</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BUILDSELF</id>
+        <value>Build Self</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BUILDSELFZERG</id>
+        <value>Zerg Build Self</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ENTER_NYDUS</id>
+        <value>Enter Nydus Canal</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BUILDSELFPROTOSS</id>
+        <value>Protoss Build Self</value>
+    </string>
+    <string>
+        <id>STR_ORDER_FOLLOW</id>
+        <value>Follow</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CARRIER</id>
+        <value>Carrier</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CARRIER_FIGHT</id>
+        <value>Carrier Fight</value>
+    </string>
+    <string>
+        <id>STR_ORDER_REAVER</id>
+        <value>Reaver</value>
+    </string>
+    <string>
+        <id>STR_ORDER_REAVER_ATTACK</id>
+        <value>Reaver Attack</value>
+    </string>
+    <string>
+        <id>STR_ORDER_REAVER_FIGHT</id>
+        <value>Reaver Fight</value>
+    </string>
+    <string>
+        <id>STR_ORDER_REAVER_HOLD</id>
+        <value>Reaver Hold</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TRAIN_FIGHTER</id>
+        <value>Train Fighter</value>
+    </string>
+    <string>
+        <id>STR_ORDER_STRAFE_UNIT</id>
+        <value>Strafe Unit</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TRILOBYTER</id>
+        <value>Scarab</value>
+    </string>
+    <string>
+        <id>STR_ORDER_RETURN</id>
+        <value>Return</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DRONE_LAND</id>
+        <value>Drone Land</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BLDG_LAND</id>
+        <value>Building Land</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BLDG_LIFT_OFF</id>
+        <value>Building Lift Off</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DRONE_LIFT_OFF</id>
+        <value>Drone Lift Off</value>
+    </string>
+    <string>
+        <id>STR_ORDER_LIFT_OFF</id>
+        <value>Lift Off</value>
+    </string>
+    <string>
+        <id>STR_ORDER_RESEARCH_TECH</id>
+        <value>Reasearch Tech</value>
+    </string>
+    <string>
+        <id>STR_ORDER_UPGRADE</id>
+        <value>Upgrade</value>
+    </string>
+    <string>
+        <id>STR_ORDER_LARVA</id>
+        <value>Larva</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SPAWN_LARVA</id>
+        <value>Spawning Larva</value>
+    </string>
+    <string>
+        <id>STR_ORDER_HARVEST</id>
+        <value>Harvest</value>
+    </string>
+    <string>
+        <id>STR_ORDER_HARVEST_GAS</id>
+        <value>Harvest Gas</value>
+    </string>
+    <string>
+        <id>STR_ORDER_RETURN_GAS</id>
+        <value>Return Gas</value>
+    </string>
+    <string>
+        <id>STR_ORDER_HARVEST_MINERALS</id>
+        <value>Harvest Minerals</value>
+    </string>
+    <string>
+        <id>STR_ORDER_RETURN_MINERALS</id>
+        <value>Return Minerals</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ENTER_TRANSPORT</id>
+        <value>Enter Transport</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PICK_UP</id>
+        <value>Pick Up</value>
+    </string>
+    <string>
+        <id>STR_ORDER_POWERUP</id>
+        <value>Powerup</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SIEGEMODE</id>
+        <value>Siege Mode</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TANKMODE</id>
+        <value>Tank Mode</value>
+    </string>
+    <string>
+        <id>STR_ORDER_WATCHTARGET</id>
+        <value>Watch Target</value>
+    </string>
+    <string>
+        <id>STR_ORDER_INIT_SPREAD_CREEP</id>
+        <value>Initing Creep Growth</value>
+    </string>
+    <string>
+        <id>STR_ORDER_STOP_SPREAD_CREEP</id>
+        <value>Stopping Creep Growth</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SPREAD_CREEP</id>
+        <value>Spread Creep</value>
+    </string>
+    <string>
+        <id>STR_ORDER_GUARDIANASPECT</id>
+        <value>Guardian Aspect</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SUMMON_ARCHON</id>
+        <value>Warping Archon</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SUMMON_COMPLETE</id>
+        <value>Completing Archon Summon</value>
+    </string>
+    <string>
+        <id>STR_ORDER_HOLDPOS</id>
+        <value>Hold Position</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CLOAK</id>
+        <value>Cloak</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DECLOAK</id>
+        <value>Decloak</value>
+    </string>
+    <string>
+        <id>STR_ORDER_UNLOAD</id>
+        <value>Unload</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MOVE_UNLOAD</id>
+        <value>Move Unload</value>
+    </string>
+    <string>
+        <id>STR_ORDER_YAMATO</id>
+        <value>Fire Yamato Gun</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MAGNAPULSE</id>
+        <value>Magna Pulse</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BURROW</id>
+        <value>Burrow</value>
+    </string>
+    <string>
+        <id>STR_ORDER_BURROWED</id>
+        <value>Burrowed</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DEBURROW</id>
+        <value>Unburrow</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CAST_PARASITE</id>
+        <value>Cast Parasite</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SUMMON_BROODLINGS</id>
+        <value>Summon Broodlings</value>
+    </string>
+    <string>
+        <id>STR_ORDER_EMP_SHOCKWAVE</id>
+        <value>EMP Shockwave</value>
+    </string>
+    <string>
+        <id>STR_ORDER_LOCKDOWN</id>
+        <value>Lockdown</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NUKE_WAIT</id>
+        <value>Nuke Wait</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NUKE_TRAIN</id>
+        <value>Nuke Train</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NUKE_LAUNCH</id>
+        <value>Nuke Launch</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NUKE_PAINT</id>
+        <value>Nuke Paint</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NUKE_UNIT</id>
+        <value>Nuke Unit</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NUKE_GROUND</id>
+        <value>Nuke Ground</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NUKE_TRACK</id>
+        <value>Nuke Track</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ARBITER</id>
+        <value>Initializing Arbiter</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CLOAK_NEIGHBORS</id>
+        <value>Cloaking nearby units</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PLACE_MINE</id>
+        <value>Place Mine</value>
+    </string>
+    <string>
+        <id>STR_ORDER_RCLICK</id>
+        <value>Right Click Action</value>
+    </string>
+    <string>
+        <id>STR_ORDER_LCLICK</id>
+        <value>Left Click Action</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SAP_UNIT</id>
+        <value>Sap Unit</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SAP_LOC</id>
+        <value>Sap Location</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TELEPORT</id>
+        <value>Teleport</value>
+    </string>
+    <string>
+        <id>STR_ORDER_TELEPORT_LOC</id>
+        <value>Teleport to Location</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PLACE_SCANNER</id>
+        <value>Place Scanner</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SCANNER</id>
+        <value>Scanner</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DEF_MAT</id>
+        <value>Defensive Matrix</value>
+    </string>
+    <string>
+        <id>STR_ORDER_UNDO_FLYER</id>
+        <value>Reset Collision</value>
+    </string>
+    <string>
+        <id>STR_ORDER_UNDO_TRANSPARENT_WORKER</id>
+        <value>Reset Collision</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PATROL</id>
+        <value>Patrol</value>
+    </string>
+    <string>
+        <id>STR_ORDER_COMP_AI</id>
+        <value>Computer AI</value>
+    </string>
+    <string>
+        <id>STR_ORDER_GUARD_POST</id>
+        <value>Guard Post</value>
+    </string>
+    <string>
+        <id>STR_ORDER_RESCUE_PASSIVE</id>
+        <value>Rescue Passive</value>
+    </string>
+    <string>
+        <id>STR_ORDER_NEUTRAL</id>
+        <value>Neutral</value>
+    </string>
+    <string>
+        <id>STR_ORDER_COMP_RETURN</id>
+        <value>Computer Return</value>
+    </string>
+    <string>
+        <id>STR_ORDER_JUICE_INIT</id>
+        <value>Initing Psi Provider</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SELF_DESTRUCT</id>
+        <value>Self Destructing</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DECAY_CREEP</id>
+        <value>Decaying creep</value>
+    </string>
+    <string>
+        <id>STR_ORDER_RECHARGE</id>
+        <value>Recharge Shields</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SHIELD_BATTERY</id>
+        <value>Shield Battery</value>
+    </string>
+    <string>
+        <id>STR_ORDER_RALLY_POINT</id>
+        <value>Rally Point</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CTF_COP_INIT</id>
+        <value>CTF COP Init</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CTF_COP</id>
+        <value>CTF COP</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CRITTER</id>
+        <value>Critter</value>
+    </string>
+    <string>
+        <id>STR_ORDER_HIDDEN_GUN</id>
+        <value>Hidden Gun</value>
+    </string>
+    <string>
+        <id>STR_ORDER_OPEN_DOOR</id>
+        <value>Open Door</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CLOSE_DOOR</id>
+        <value>Close Door</value>
+    </string>
+    <string>
+        <id>STR_ORDER_HIDE_TRAP</id>
+        <value>Hide Trap</value>
+    </string>
+    <string>
+        <id>STR_ORDER_REVEAL_TRAP</id>
+        <value>Reveal Trap</value>
+    </string>
+    <string>
+        <id>STR_ORDER_ENABLE_DOODAD</id>
+        <value>Enable Doodad</value>
+    </string>
+    <string>
+        <id>STR_ORDER_DISABLE_DOODAD</id>
+        <value>Disable Doodad</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PROTOSS_WARP_IN</id>
+        <value>Warp In</value>
+    </string>
+    <string>
+        <id>STR_ORDER_HIDESUICIDE</id>
+        <value>Hide and Suicide</value>
+    </string>
+    <string>
+        <id>STR_ORDER_FATAL</id>
+        <value>Fatal</value>
+    </string>
+    <string>
+        <id>STR_NUKE_DETECT</id>
+        <value>Обнаружен запуск ядерной ракеты.</value>
+    </string>
+    <string>
+        <id>AI_CUSTOM_TERRAN</id>
+        <value>Terran Custom Level</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_LO</id>
+        <value>Terran Campaign Easy</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_MED</id>
+        <value>Terran Campaign Medium</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_HI</id>
+        <value>Terran Campaign Difficult</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_AREA</id>
+        <value>Terran Campaign Area Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_3</id>
+        <value>Terran 3 - Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_5</id>
+        <value>Terran 5 - Terran Main Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_5H</id>
+        <value>Terran 5 - Terran Harvest Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_6</id>
+        <value>Terran 6 - Air Attack Zerg</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_6B</id>
+        <value>Terran 6 - Ground Attack Zerg</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_6C</id>
+        <value>Terran 6 - Zerg Support Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_7</id>
+        <value>Terran 7 - Bottom Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_7S</id>
+        <value>Terran 7 - Right Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_7M</id>
+        <value>Terran 7 - Middle Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_8</id>
+        <value>Terran 8 - Confederate Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_9L</id>
+        <value>Terran 9 - Light Attack</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_9H</id>
+        <value>Terran 9 - Heavy Attack</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_10</id>
+        <value>Terran 10 - Confederate Towns</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_11Z</id>
+        <value>Terran 11 - Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_11PS</id>
+        <value>Terran 11 - Lower Protoss Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_11P</id>
+        <value>Terran 11 - Upper Protoss Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_12N</id>
+        <value>Terran 12 - Nuke Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_12P</id>
+        <value>Terran 12 - Phoenix Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_12T</id>
+        <value>Terran 12 - Tank Town</value>
+    </string>
+    <string>
+        <id>AI_CUSTOM_PROTOSS</id>
+        <value>Protoss Custom Level</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_LO</id>
+        <value>Protoss Campaign Easy</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_MED</id>
+        <value>Protoss Campaign Medium</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_HI</id>
+        <value>Protoss Campaign Difficult</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_AREA</id>
+        <value>Protoss Campaign Area Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_1</id>
+        <value>Protoss 1 - Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_2</id>
+        <value>Protoss 2 - Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_3</id>
+        <value>Protoss 3 - Unused</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_3R</id>
+        <value>Protoss 3 - Air Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_3G</id>
+        <value>Protoss 3 - Ground Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_4</id>
+        <value>Protoss 4 - Zerg Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_4B</id>
+        <value>Protoss 4 - Zerg Town (unused?)</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_5I</id>
+        <value>Protoss 5 - Zerg Town Island</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_5B</id>
+        <value>Protoss 5 - Zerg Town Base</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_6</id>
+        <value>Protoss 6 - incomplete</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_7</id>
+        <value>Protoss 7 - Left Protoss Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_7B</id>
+        <value>Protoss 7 - Right Protoss Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_7S</id>
+        <value>Protoss 7 - Shrine Protoss</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_8</id>
+        <value>Protoss 8 - Left Protoss Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_8B</id>
+        <value>Protoss 8 - Right Protoss Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_8D</id>
+        <value>Protoss 8 - Protoss Defenders</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_9</id>
+        <value>Protoss 9 - Ground Zerg</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_9W</id>
+        <value>Protoss 9 - Air Zerg</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_9Y</id>
+        <value>Protoss 9 - Spell Zerg</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_10</id>
+        <value>Protoss 10 - Mini-Towns</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_10C</id>
+        <value>Protoss 10 - Mini-Town Master</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_10O</id>
+        <value>Protoss 10 - Overmind Defenders</value>
+    </string>
+    <string>
+        <id>AI_CUSTOM_ZERG</id>
+        <value>Zerg Custom Level</value>
+    </string>
+    <string>
+        <id>AI_ZERG_LO</id>
+        <value>Zerg Campaign Easy</value>
+    </string>
+    <string>
+        <id>AI_ZERG_MED</id>
+        <value>Zerg Campaign Medium</value>
+    </string>
+    <string>
+        <id>AI_ZERG_HI</id>
+        <value>Zerg Campaign Difficult</value>
+    </string>
+    <string>
+        <id>AI_ZERG_AREA</id>
+        <value>Zerg Campaign Area Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_1</id>
+        <value>Zerg 1 - Terran Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_2</id>
+        <value>Zerg 2 - Protoss Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_3</id>
+        <value>Zerg 3 - Terran Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_4</id>
+        <value>Zerg 4 - Right Terran Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_4S</id>
+        <value>Zerg 4 - Lower Terran Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_5</id>
+        <value>Zerg 5 - incomplete</value>
+    </string>
+    <string>
+        <id>AI_ZERG_6</id>
+        <value>Zerg 6 - Protoss Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_7G</id>
+        <value>Zerg 7 - Ground Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_7A</id>
+        <value>Zerg 7 - Air Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_7S</id>
+        <value>Zerg 7 - Support Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_8S</id>
+        <value>Zerg 8 - Scout Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_8T</id>
+        <value>Zerg 8 - Templar Town</value>
+    </string>
+    <string>
+        <id>AI_ZERG_9</id>
+        <value>Zerg 9 - Teal Protoss</value>
+    </string>
+    <string>
+        <id>AI_ZERG_9YL</id>
+        <value>Zerg 9 - Left Yellow Protoss</value>
+    </string>
+    <string>
+        <id>AI_ZERG_9YR</id>
+        <value>Zerg 9 - Right Yellow Protoss</value>
+    </string>
+    <string>
+        <id>AI_ZERG_9OL</id>
+        <value>Zerg 9 - Left Orange Protoss</value>
+    </string>
+    <string>
+        <id>AI_ZERG_9OR</id>
+        <value>Zerg 9 - Right Orange Protoss</value>
+    </string>
+    <string>
+        <id>AI_ZERG_10TL</id>
+        <value>Zerg 10 - Left Teal (Attack)</value>
+    </string>
+    <string>
+        <id>AI_ZERG_10TR</id>
+        <value>Zerg 10 - Right Teal (Support)</value>
+    </string>
+    <string>
+        <id>AI_ZERG_10YL</id>
+        <value>Zerg 10 - Left Yellow (Support)</value>
+    </string>
+    <string>
+        <id>AI_ZERG_10YR</id>
+        <value>Zerg 10 - Right Yellow (Attack)</value>
+    </string>
+    <string>
+        <id>AI_ZERG_10R</id>
+        <value>Zerg 10 - Red Protoss</value>
+    </string>
+    <string>
+        <id>AI_DEFAULT_STAGING</id>
+        <value>Set a Default Staging Area</value>
+    </string>
+    <string>
+        <id>AI_SUICIDE_MISSION</id>
+        <value>Send All Units on Strategic Suicide Missions</value>
+    </string>
+    <string>
+        <id>AI_SUICIDE_RANDOM</id>
+        <value>Send All Units on Random Suicide Missions</value>
+    </string>
+    <string>
+        <id>AI_DECLARE_ENEMY</id>
+        <value>Set Player to Enemy</value>
+    </string>
+    <string>
+        <id>AI_DECLARE_ALLY</id>
+        <value>Set Player to Ally</value>
+    </string>
+    <string>
+        <id>AI_MOVE_TEMPLAR</id>
+        <value>Move Dark Templars to Region</value>
+    </string>
+    <string>
+        <id>AI_BECOME_RESCUE</id>
+        <value>Switch Computer Player to Rescue Passive</value>
+    </string>
+    <string>
+        <id>AI_ENTER_A_BUNKER</id>
+        <value>Enter Closest Bunker</value>
+    </string>
+    <string>
+        <id>AI_VALUE_THIS_AREA</id>
+        <value>Value This Area Higher</value>
+    </string>
+    <string>
+        <id>AI_CLEAR_COMBAT</id>
+        <value>Clear Previous Combat Data</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_1</id>
+        <value>Debug Script 1 (general)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_2</id>
+        <value>Debug Script 2 (general)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_3</id>
+        <value>Debug Script 3 (general)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_4</id>
+        <value>Debug Script 4 (general)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_5</id>
+        <value>Debug Script 5 (general)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_1_LOC</id>
+        <value>Debug Script 1 (location)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_2_LOC</id>
+        <value>Debug Script 2 (location)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_3_LOC</id>
+        <value>Debug Script 3 (location)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_4_LOC</id>
+        <value>Debug Script 4 (location)</value>
+    </string>
+    <string>
+        <id>AI_DEBUG_5_LOC</id>
+        <value>Debug Script 5 (location)</value>
+    </string>
+    <string>
+        <id>DDS_BAD_BLDG</id>
+        <value>строение</value>
+    </string>
+    <string>
+        <id>DDS_BAD_BLDG2CONC</id>
+        <value>Structure Wall</value>
+    </string>
+    <string>
+        <id>DDS_BAD_CLIFF</id>
+        <value>Уступ</value>
+    </string>
+    <string>
+        <id>DDS_BAD_HIDIRT</id>
+        <value>High Dirt</value>
+    </string>
+    <string>
+        <id>DDS_BAD_LOGRASS</id>
+        <value>Трава</value>
+    </string>
+    <string>
+        <id>DDS_BAD_HIGRASS</id>
+        <value>High Grass</value>
+    </string>
+    <string>
+        <id>DDS_BAD_LODIRT</id>
+        <value>Земля</value>
+    </string>
+    <string>
+        <id>DDS_BAD_RUBBLE</id>
+        <value>Rocky Ground</value>
+    </string>
+    <string>
+        <id>DDS_BAD_CONCRETE</id>
+        <value>Asphalt</value>
+    </string>
+    <string>
+        <id>DDS_BAD_WATER</id>
+        <value>Вода</value>
+    </string>
+    <string>
+        <id>DDS_BAD_WATERCLF</id>
+        <value>Coastal Cliff</value>
+    </string>
+    <string>
+        <id>DDS_JUNG_JUNGLE</id>
+        <value>Джунгли</value>
+    </string>
+    <string>
+        <id>DDS_HIGH_JUNGLE</id>
+        <value>High Jungle</value>
+    </string>
+    <string>
+        <id>DDS_JUNG_RUINS</id>
+        <value>Развалины</value>
+    </string>
+    <string>
+        <id>DDS_HIGH_RUINS</id>
+        <value>High Ruins</value>
+    </string>
+    <string>
+        <id>DDS_JUNG_BLDG2JUNG</id>
+        <value>Temple Wall</value>
+    </string>
+    <string>
+        <id>DDS_HIGH_BLDG2JUNG</id>
+        <value>High Temple Wall</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDDARK</id>
+        <value>Dark Platform</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDHIGHBLD</id>
+        <value>High Plating</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDLOWBLD</id>
+        <value>Обшивка</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDLOWNBLD</id>
+        <value>Платформа</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDPLATCLIF</id>
+        <value>Platform Wall</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDPLATPIT</id>
+        <value>Low Platform</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDPLATPITCLIFF</id>
+        <value>Low Platform Wall</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDRUSTYEDGE</id>
+        <value>Rusty Pit Wall</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDRUSTYPIT</id>
+        <value>Rusty Pit</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_DDSOLARPANEL</id>
+        <value>Solar Array</value>
+    </string>
+    <string>
+        <id>DDS_ASH_DDLOWASH</id>
+        <value>Земля</value>
+    </string>
+    <string>
+        <id>DDS_ASH_DDHIGHASH</id>
+        <value>High Dirt</value>
+    </string>
+    <string>
+        <id>DDS_ASH_DDROCKS</id>
+        <value>Shale</value>
+    </string>
+    <string>
+        <id>DDS_ASH_HIGHCLIFF</id>
+        <value>Уступ</value>
+    </string>
+    <string>
+        <id>DDS_INSTALL_DDCLEAN</id>
+        <value>Пол</value>
+    </string>
+    <string>
+        <id>DDS_INSTALL_DDCLEAN2ROOF</id>
+        <value>Стена</value>
+    </string>
+    <string>
+        <id>DDS_INSTALL_DDDIRT</id>
+        <value>Substructure</value>
+    </string>
+    <string>
+        <id>DDS_INSTALL_DDDIRT2CLEAN</id>
+        <value>Substructure Wall</value>
+    </string>
+    <string>
+        <id>DDS_INSTALL_DDWALK</id>
+        <value>Обшивка</value>
+    </string>
+    <string>
+        <id>DDS_BAD_BRIDGE</id>
+        <value>Bridges</value>
+    </string>
+    <string>
+        <id>DDS_JUNGLE_BRIDGES</id>
+        <value>Bridges</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_WALKWAY</id>
+        <value>Elevated Catwalk Ramps</value>
+    </string>
+    <string>
+        <id>DDS_PLAT_BRIDGES</id>
+        <value>Bridges</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_WATER</id>
+        <value>Смола</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_WATERCLIFF</id>
+        <value>Tar Cliff</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_HARDPAN</id>
+        <value>Земля</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_DRIEDMUD</id>
+        <value>Dried Mud</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_SANDDUNES</id>
+        <value>Sand Dunes</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_ROCKYGROUND</id>
+        <value>Rocky Ground</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_RUINS</id>
+        <value>Crags</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_SANDYSUNKEN</id>
+        <value>Sandy Sunken Pit</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_RESOURCE</id>
+        <value>Compound</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_HIGHDIRT</id>
+        <value>High Dirt</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_HIGHSANDDUNES</id>
+        <value>High Sand Dunes</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_HIGHRUINS</id>
+        <value>High Crags</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_HIGHSANDSUNKEN</id>
+        <value>High Sandy Sunken Pit</value>
+    </string>
+    <string>
+        <id>DDS_DESERT_HIGHRESOURCE</id>
+        <value>High Compound</value>
+    </string>
+    <string>
+        <id>DDS_ICE_WATER</id>
+        <value>Вода</value>
+    </string>
+    <string>
+        <id>DDS_ICE_SNOW</id>
+        <value>Снег</value>
+    </string>
+    <string>
+        <id>DDS_ICE_MUD</id>
+        <value>Moguls</value>
+    </string>
+    <string>
+        <id>DDS_ICE_ROUGHSNOW</id>
+        <value>Земля</value>
+    </string>
+    <string>
+        <id>DDS_ICE_ROCKYSNOW</id>
+        <value>Rocky Snow</value>
+    </string>
+    <string>
+        <id>DDS_ICE_SNOWYRUINS</id>
+        <value>Трава</value>
+    </string>
+    <string>
+        <id>DDS_ICE_SUNKENICE</id>
+        <value>Лед</value>
+    </string>
+    <string>
+        <id>DDS_ICE_OUTPOST</id>
+        <value>Outpost</value>
+    </string>
+    <string>
+        <id>DDS_ICE_HIGHSNOW</id>
+        <value>High Snow</value>
+    </string>
+    <string>
+        <id>DDS_ICE_HIGHROUGHSNOW</id>
+        <value>High Dirt</value>
+    </string>
+    <string>
+        <id>DDS_ICE_HIGHSNOWYRUINS</id>
+        <value>High Grass</value>
+    </string>
+    <string>
+        <id>DDS_ICE_HIGHSUNKENICE</id>
+        <value>High Ice</value>
+    </string>
+    <string>
+        <id>DDS_ICE_HIGHOUTPOST</id>
+        <value>High Outpost</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_WATER</id>
+        <value>Вода</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_DIRT</id>
+        <value>Земля</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_MUD</id>
+        <value>Грязь</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_CRACKEDICE</id>
+        <value>Crushed Rock</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_CREVICE</id>
+        <value>Crevices</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_ANCIENTRUINS</id>
+        <value>Flagstones</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_SUNKENGROUND</id>
+        <value>Sunken Ground</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_COMPOUND</id>
+        <value>Basilica</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_HIGHDIRT</id>
+        <value>High Dirt</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_HIGHCRACKEDICE</id>
+        <value>High Crushed Rock</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_HIGHANCIENTRUINS</id>
+        <value>High Flagstones</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_HIGHSUNKENGROUND</id>
+        <value>High Sunken Ground</value>
+    </string>
+    <string>
+        <id>DDS_TWILIGHT_HIGHCOMPOUND</id>
+        <value>High Basilica</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_SUPER</id>
+        <value>Terran Campaign Insane</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_SUPER</id>
+        <value>Protoss Campaign Insane</value>
+    </string>
+    <string>
+        <id>AI_ZERG_SUPER</id>
+        <value>Zerg Campaign Insane</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_ED1</id>
+        <value>Terran 1 - Electronic Distribution</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_ED2</id>
+        <value>Terran 2 - Electronic Distribution</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_ED3</id>
+        <value>Terran 3 - Electronic Distribution</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_SW1</id>
+        <value>Terran 1 - Shareware</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_SW2</id>
+        <value>Terran 2 - Shareware</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_SW3</id>
+        <value>Terran 3 - Shareware</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_SW4</id>
+        <value>Terran 4 - Shareware</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_SW5</id>
+        <value>Terran 5 - Shareware</value>
+    </string>
+    <string>
+        <id>STR_STORM_MISSILE</id>
+        <value>Ракеты «Светоч»</value>
+    </string>
+    <string>
+        <id>STR_DEVOURER_PUKE</id>
+        <value>Едкая кислота</value>
+    </string>
+    <string>
+        <id>STR_LURKER_SPINES</id>
+        <value>Подземные шипы</value>
+    </string>
+    <string>
+        <id>STR_CORSAIR_LASER</id>
+        <value>Нейтронная вспышка</value>
+    </string>
+    <string>
+        <id>STR_MIND_CONTROL</id>
+        <value>Подчинение</value>
+    </string>
+    <string>
+        <id>STR_HEAL_TECH</id>
+        <value>Лечение</value>
+    </string>
+    <string>
+        <id>STR_CURE_TECH</id>
+        <value>Восстановление</value>
+    </string>
+    <string>
+        <id>STR_MYOPIA_TECH</id>
+        <value>Световая граната</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_CURE</id>
+        <value>r\\004Исследовать «Восстановление»\\n(способность медиков)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_MYOPIA</id>
+        <value>f\\004Исследовать «Световую гранату»\\n(способность медиков)</value>
+    </string>
+    <string>
+        <id>STR_HEAL</id>
+        <value>a\\003Лечение</value>
+    </string>
+    <string>
+        <id>STR_CURE</id>
+        <value>r\\003Восстановление</value>
+    </string>
+    <string>
+        <id>STR_MYOPIA</id>
+        <value>f\\003Световая граната</value>
+    </string>
+    <string>
+        <id>STR_CURE_REQ</id>
+        <value>Восстановление\\n   Исследуется в академии</value>
+    </string>
+    <string>
+        <id>STR_MYOPIA_REQ</id>
+        <value>Световая граната\\n   Исследуется в академии</value>
+    </string>
+    <string>
+        <id>STR_LURKERASPECT</id>
+        <value>Мутировать в скрытня</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_LURKERASPECT</id>
+        <value>l\\004Развить мутацию в скрытня\\n(способность гидралисков)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_LURKERASPECT_REQ</id>
+        <value>Мутация в скрытня\\n   Требуется логово</value>
+    </string>
+    <string>
+        <id>STR_DISRUPTOR_TECH</id>
+        <value>Дестабилизирующая сеть</value>
+    </string>
+    <string>
+        <id>STR_MINDCONTROL_TECH</id>
+        <value>Подчинение</value>
+    </string>
+    <string>
+        <id>STR_SUMMON_DARCHON_TECH</id>
+        <value>Перерождение в темного архонта</value>
+    </string>
+    <string>
+        <id>STR_PSYFEEDBACK_TECH</id>
+        <value>Противодействие</value>
+    </string>
+    <string>
+        <id>STR_PARALIZE</id>
+        <value>Темный вихрь</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_DISRUPTOR</id>
+        <value>d\\004Разработать «Дестабилизирующую сеть»\\n(способность «Корсаров»)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_MINDCONTROL</id>
+        <value>m\\004Разработать «Подчинение»\\n(способность темных архонтов)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_PSYFEEDBACK</id>
+        <value>f\\004Разработать «Противодействие»\\n(способность темных архонтов)</value>
+    </string>
+    <string>
+        <id>STR_RSRCH_PARALIZE</id>
+        <value>e\\004Разработать «Темный вихрь»\\n(способность темных архонтов)</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_DARCHON</id>
+        <value>r\\001Перерождение в темного архонта</value>
+    </string>
+    <string>
+        <id>STR_DISRUPTOR</id>
+        <value>d\\003Дестабилизирующая сеть</value>
+    </string>
+    <string>
+        <id>STR_MINDCONTROL</id>
+        <value>c\\003Подчинение</value>
+    </string>
+    <string>
+        <id>STR_PSYFEEDBACK</id>
+        <value>f\\003Противодействие</value>
+    </string>
+    <string>
+        <id>STR_USEPARALIZE</id>
+        <value>e\\003Темный вихрь</value>
+    </string>
+    <string>
+        <id>STR_DISRUPTOR_REQ</id>
+        <value>Дестабилизирующая сеть\\n   Разрабатывается в маяке флотилии</value>
+    </string>
+    <string>
+        <id>STR_MINDCONTROL_REQ</id>
+        <value>Подчинение\\n   Исследуется в архивах тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_DARCHON0_REQ</id>
+        <value>Перерождение в темного архонта\\n   Исследуется в архивах тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_DARCHON1_REQ</id>
+        <value>Перерождение в темного архонта\\n   Выберите 2 или более темных тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_PSYFEEDBACK_REQ</id>
+        <value>Противодействие\\n   Нет требований</value>
+    </string>
+    <string>
+        <id>STR_PARALIZE_REQ</id>
+        <value>Темный вихрь\\n   Разрабатывается в архивах тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_MEDIC_ENERGY</id>
+        <value>Реактор «Кадуцей»</value>
+    </string>
+    <string>
+        <id>STR_MISSILE_BOOST</id>
+        <value>Ускорители «Харон»</value>
+    </string>
+    <string>
+        <id>STR_ULTRA_SPEED</id>
+        <value>Анаболический синтез</value>
+    </string>
+    <string>
+        <id>STR_ULTRA_ARMOR</id>
+        <value>Хитиновый панцирь</value>
+    </string>
+    <string>
+        <id>STR_CORSAIR_ENERGY</id>
+        <value>Кристалл Аргуса</value>
+    </string>
+    <string>
+        <id>STR_DARCHON_ENERGY</id>
+        <value>Талисман Аргуса</value>
+    </string>
+    <string>
+        <id>STR_UP_MEDIC_ENERGY</id>
+        <value>d\\002Исследовать реактор «Кадуцей»\\n(+50 ед. к запасу энергии медиков)</value>
+    </string>
+    <string>
+        <id>STR_UP_T_MISSILE_BOOST</id>
+        <value>c\\002Исследовать ускорители «Харон»\\n(увеличивают дальность действия ракет «Голиафов»)</value>
+    </string>
+    <string>
+        <id>STR_UP_Z_ULTRA_SPEED</id>
+        <value>a\\002Развить анаболический синтез \\n(повышает скорость передвижения ультралисков)</value>
+    </string>
+    <string>
+        <id>STR_UP_Z_ULTRA_ARMOR</id>
+        <value>c\\002Развить хитиновый панцирь \\n(укрепляет броню ультралисков)</value>
+    </string>
+    <string>
+        <id>STR_UP_CORSAIR_ENERGY</id>
+        <value>j\\002Разработать кристалл Аргуса \\n(+50 ед. к запасу энергии «Корсаров»)</value>
+    </string>
+    <string>
+        <id>STR_UP_DARCHON_ENERGY</id>
+        <value>t\\002Разработать талисман Аргуса \\n(+50 ед. к запасу энергии темных архонтов)</value>
+    </string>
+    <string>
+        <id>STR_UP_T_MISSILE_BOOST_REQ</id>
+        <value>Исследовать ускорители «Харон»\\n   Требуется арсенал</value>
+    </string>
+    <string>
+        <id>STR_DEVOURER_ASPECT</id>
+        <value>d\\005Мутировать в пожирателя</value>
+    </string>
+    <string>
+        <id>STR_MAKE_Z_LURKER</id>
+        <value>l\\001Мутировать в скрытня</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_MEDIC</id>
+        <value>c\\001Обучить медика</value>
+    </string>
+    <string>
+        <id>STR_MAKE_T_FRIGATE</id>
+        <value>y\\001Построить «Валькирию»</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_CORSAIR</id>
+        <value>o\\001Вызвать «Корсар»</value>
+    </string>
+    <string>
+        <id>STR_MAKE_P_DTEMPLAR</id>
+        <value>k\\001Вызвать темного тамплиера</value>
+    </string>
+    <string>
+        <id>STR_MEDIC_REQ</id>
+        <value>Медик\\n   Требуется академия</value>
+    </string>
+    <string>
+        <id>STR_FRIGATE_REQ</id>
+        <value>«Валькирия»\\n   Требуются пристроенная диспетчерская вышка и арсенал</value>
+    </string>
+    <string>
+        <id>STR_DTEMPLAR_REQ</id>
+        <value>Темный тамплиер\\n   Требуются архивы тамплиеров</value>
+    </string>
+    <string>
+        <id>STR_DEVOURER_REQ</id>
+        <value>Мутация в пожирателя\\n   Требуется шпиль величия</value>
+    </string>
+    <string>
+        <id>STR_LURKER_REQ</id>
+        <value>Мутировать в скрытня\\n   Развивается в пещере гидралисков</value>
+    </string>
+    <string>
+        <id>STR_MYOPIA_LBL</id>
+        <value>\\7Ослепление</value>
+    </string>
+    <string>
+        <id>STR_CRUNCHY_DAMAGE</id>
+        <value>\\7Кислотные споры</value>
+    </string>
+    <string>
+        <id>STR_MISSILESTORM_LBL</id>
+        <value>за ракету</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK</id>
+        <value>Новобранец</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-1</id>
+        <value>Рядовой</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-2</id>
+        <value>Рядовой</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-3</id>
+        <value>Первый лейтенант</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-4</id>
+        <value>Капрал</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-5</id>
+        <value>Специалист</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-6</id>
+        <value>Сержант</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-7</id>
+        <value>Первый сержант</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-8</id>
+        <value>Старший сержант</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-9</id>
+        <value>Уоррент-офицер</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-10</id>
+        <value>Капитан</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-11</id>
+        <value>Майор</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-12</id>
+        <value>Первый сержант</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-13</id>
+        <value>Сержант-майор</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-14</id>
+        <value>Полковник</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-15</id>
+        <value>Командор</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-16</id>
+        <value>Капитан-лейтенант</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-17</id>
+        <value>Шериф</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-18</id>
+        <value>Лейтенант</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-19</id>
+        <value>Генерал</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-20</id>
+        <value>Капитан Рейнор</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-21</id>
+        <value>Генерал Дюк</value>
+    </string>
+    <string>
+        <id>STR_FIRST_TERRAN_RANK-22</id>
+        <value>Адмирал</value>
+    </string>
+    <string>
+        <id>STR_HEAL_ERR</id>
+        <value>Целью могут быть только раненые органические боевые единицы.</value>
+    </string>
+    <string>
+        <id>STR_MINDCONTROL_ERR</id>
+        <value>Неверная цель.</value>
+    </string>
+    <string>
+        <id>STR_MINDCONTROL_TARGET_ERR</id>
+        <value>Целью должна быть вражеская боевая единица.</value>
+    </string>
+    <string>
+        <id>STR_PARALIZE_ERR</id>
+        <value>Целью может быть только органическая боевая единица.</value>
+    </string>
+    <string>
+        <id>STR_MYOPIA_ERR</id>
+        <value>Строение не может быть целью.</value>
+    </string>
+    <string>
+        <id>STR_PSYFEEDBACK_ERR</id>
+        <value>Целью может быть только боевая единица с энергией.</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MEDIC</id>
+        <value>Medic</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MEDIC_HEAL</id>
+        <value>Medic Heal</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MEDIC_CURE</id>
+        <value>Restoration</value>
+    </string>
+    <string>
+        <id>STR_ORDER_CAST_DISRUPTOR</id>
+        <value>Cast Disruption Web</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MINDCONTROL</id>
+        <value>Cast Mind Control</value>
+    </string>
+    <string>
+        <id>STR_ORDER_SUMMON_DARCHON</id>
+        <value>Warping Dark Archon</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PSYFEEDBACK</id>
+        <value>Cast Feedback</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MYOPIA</id>
+        <value>Cast Optical Flare</value>
+    </string>
+    <string>
+        <id>STR_ORDER_PARALIZE</id>
+        <value>Cast Shockwave</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MEDIC_HEALMOVE</id>
+        <value>Heal Move</value>
+    </string>
+    <string>
+        <id>STR_ORDER_MEDIC_HOLDPOS</id>
+        <value>Medic Hold Position</value>
+    </string>
+    <string>
+        <id>STR_ORDER_JUNK_YARD_DOG</id>
+        <value>Junk Yard Dog</value>
+    </string>
+    <string>
+        <id>AI_CUSTOM_TERRANX</id>
+        <value>Terran Expansion Custom Level</value>
+    </string>
+    <string>
+        <id>AI_CUSTOM_PROTOSSX</id>
+        <value>Protoss Expansion Custom Level</value>
+    </string>
+    <string>
+        <id>AI_CUSTOM_ZERGX</id>
+        <value>Zerg Expansion Custom Level</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B1A</id>
+        <value>Brood Wars Protoss 1 - Town A</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B1B</id>
+        <value>Brood Wars Protoss 1 - Town B</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B1C</id>
+        <value>Brood Wars Protoss 1 - Town C</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B1D</id>
+        <value>Brood Wars Protoss 1 - Town D</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B1E</id>
+        <value>Brood Wars Protoss 1 - Town E</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B1F</id>
+        <value>Brood Wars Protoss 1 - Town F</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B2A</id>
+        <value>Brood Wars Protoss 2 - Town A</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B2B</id>
+        <value>Brood Wars Protoss 2 - Town B</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B2C</id>
+        <value>Brood Wars Protoss 2 - Town C</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B2D</id>
+        <value>Brood Wars Protoss 2 - Town D</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B2E</id>
+        <value>Brood Wars Protoss 2 - Town E</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B2F</id>
+        <value>Brood Wars Protoss 2 - Town F</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B3A</id>
+        <value>Brood Wars Protoss 3 - Town A</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B3B</id>
+        <value>Brood Wars Protoss 3 - Town B</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B3C</id>
+        <value>Brood Wars Protoss 3 - Town C</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B3D</id>
+        <value>Brood Wars Protoss 3 - Town D</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B3E</id>
+        <value>Brood Wars Protoss 3 - Town E</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B3F</id>
+        <value>Brood Wars Protoss 3 - Town F</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B4A</id>
+        <value>Brood Wars Protoss 4 - Town A</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B4B</id>
+        <value>Brood Wars Protoss 4 - Town B</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B4C</id>
+        <value>Brood Wars Protoss 4 - Town C</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B4D</id>
+        <value>Brood Wars Protoss 4 - Town D</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B4E</id>
+        <value>Brood Wars Protoss 4 - Town E</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B4F</id>
+        <value>Brood Wars Protoss 4 - Town F</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B5A</id>
+        <value>Brood Wars Protoss 5 - Town A</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B5B</id>
+        <value>Brood Wars Protoss 5 - Town B</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B5C</id>
+        <value>Brood Wars Protoss 5 - Town C</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B5D</id>
+        <value>Brood Wars Protoss 5 - Town D</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B5E</id>
+        <value>Brood Wars Protoss 5 - Town E</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B5F</id>
+        <value>Brood Wars Protoss 5 - Town F</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B6A</id>
+        <value>Brood Wars Protoss 6 - Town A</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B6B</id>
+        <value>Brood Wars Protoss 6 - Town B</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B6C</id>
+        <value>Brood Wars Protoss 6 - Town C</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B6D</id>
+        <value>Brood Wars Protoss 6 - Town D</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B6E</id>
+        <value>Brood Wars Protoss 6 - Town E</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B6F</id>
+        <value>Brood Wars Protoss 6 - Town F</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B7A</id>
+        <value>Brood Wars Protoss 7 - Town A</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B7B</id>
+        <value>Brood Wars Protoss 7 - Town B</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B7C</id>
+        <value>Brood Wars Protoss 7 - Town C</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B7D</id>
+        <value>Brood Wars Protoss 7 - Town D</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B7E</id>
+        <value>Brood Wars Protoss 7 - Town E</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B7F</id>
+        <value>Brood Wars Protoss 7 - Town F</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B8A</id>
+        <value>Brood Wars Protoss 8 - Town A</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B8B</id>
+        <value>Brood Wars Protoss 8 - Town B</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B8C</id>
+        <value>Brood Wars Protoss 8 - Town C</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B8D</id>
+        <value>Brood Wars Protoss 8 - Town D</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B8E</id>
+        <value>Brood Wars Protoss 8 - Town E</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_B8F</id>
+        <value>Brood Wars Protoss 8 - Town F</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B1A</id>
+        <value>Brood Wars Terran 1 - Town A</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B1B</id>
+        <value>Brood Wars Terran 1 - Town B</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B1C</id>
+        <value>Brood Wars Terran 1 - Town C</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B1D</id>
+        <value>Brood Wars Terran 1 - Town D</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B1E</id>
+        <value>Brood Wars Terran 1 - Town E</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B1F</id>
+        <value>Brood Wars Terran 1 - Town F</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B2A</id>
+        <value>Brood Wars Terran 2 - Town A</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B2B</id>
+        <value>Brood Wars Terran 2 - Town B</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B2C</id>
+        <value>Brood Wars Terran 2 - Town C</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B2D</id>
+        <value>Brood Wars Terran 2 - Town D</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B2E</id>
+        <value>Brood Wars Terran 2 - Town E</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B2F</id>
+        <value>Brood Wars Terran 2 - Town F</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B3A</id>
+        <value>Brood Wars Terran 3 - Town A</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B3B</id>
+        <value>Brood Wars Terran 3 - Town B</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B3C</id>
+        <value>Brood Wars Terran 3 - Town C</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B3D</id>
+        <value>Brood Wars Terran 3 - Town D</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B3E</id>
+        <value>Brood Wars Terran 3 - Town E</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B3F</id>
+        <value>Brood Wars Terran 3 - Town F</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B4A</id>
+        <value>Brood Wars Terran 4 - Town A</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B4B</id>
+        <value>Brood Wars Terran 4 - Town B</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B4C</id>
+        <value>Brood Wars Terran 4 - Town C</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B4D</id>
+        <value>Brood Wars Terran 4 - Town D</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B4E</id>
+        <value>Brood Wars Terran 4 - Town E</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B4F</id>
+        <value>Brood Wars Terran 4 - Town F</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B5A</id>
+        <value>Brood Wars Terran 5 - Town A</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B5B</id>
+        <value>Brood Wars Terran 5 - Town B</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B5C</id>
+        <value>Brood Wars Terran 5 - Town C</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B5D</id>
+        <value>Brood Wars Terran 5 - Town D</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B5E</id>
+        <value>Brood Wars Terran 5 - Town E</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B5F</id>
+        <value>Brood Wars Terran 5 - Town F</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B6A</id>
+        <value>Brood Wars Terran 6 - Town A</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B6B</id>
+        <value>Brood Wars Terran 6 - Town B</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B6C</id>
+        <value>Brood Wars Terran 6 - Town C</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B6D</id>
+        <value>Brood Wars Terran 6 - Town D</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B6E</id>
+        <value>Brood Wars Terran 6 - Town E</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B6F</id>
+        <value>Brood Wars Terran 6 - Town F</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B7A</id>
+        <value>Brood Wars Terran 7 - Town A</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B7B</id>
+        <value>Brood Wars Terran 7 - Town B</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B7C</id>
+        <value>Brood Wars Terran 7 - Town C</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B7D</id>
+        <value>Brood Wars Terran 7 - Town D</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B7E</id>
+        <value>Brood Wars Terran 7 - Town E</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B7F</id>
+        <value>Brood Wars Terran 7 - Town F</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B8A</id>
+        <value>Brood Wars Terran 8 - Town A</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B8B</id>
+        <value>Brood Wars Terran 8 - Town B</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B8C</id>
+        <value>Brood Wars Terran 8 - Town C</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B8D</id>
+        <value>Brood Wars Terran 8 - Town D</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B8E</id>
+        <value>Brood Wars Terran 8 - Town E</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_B8F</id>
+        <value>Brood Wars Terran 8 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B1A</id>
+        <value>Brood Wars Zerg 1 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B1B</id>
+        <value>Brood Wars Zerg 1 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B1C</id>
+        <value>Brood Wars Zerg 1 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B1D</id>
+        <value>Brood Wars Zerg 1 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B1E</id>
+        <value>Brood Wars Zerg 1 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B1F</id>
+        <value>Brood Wars Zerg 1 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B2A</id>
+        <value>Brood Wars Zerg 2 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B2B</id>
+        <value>Brood Wars Zerg 2 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B2C</id>
+        <value>Brood Wars Zerg 2 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B2D</id>
+        <value>Brood Wars Zerg 2 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B2E</id>
+        <value>Brood Wars Zerg 2 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B2F</id>
+        <value>Brood Wars Zerg 2 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B3A</id>
+        <value>Brood Wars Zerg 3 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B3B</id>
+        <value>Brood Wars Zerg 3 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B3C</id>
+        <value>Brood Wars Zerg 3 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B3D</id>
+        <value>Brood Wars Zerg 3 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B3E</id>
+        <value>Brood Wars Zerg 3 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B3F</id>
+        <value>Brood Wars Zerg 3 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B4A</id>
+        <value>Brood Wars Zerg 4 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B4B</id>
+        <value>Brood Wars Zerg 4 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B4C</id>
+        <value>Brood Wars Zerg 4 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B4D</id>
+        <value>Brood Wars Zerg 4 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B4E</id>
+        <value>Brood Wars Zerg 4 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B4F</id>
+        <value>Brood Wars Zerg 4 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B5A</id>
+        <value>Brood Wars Zerg 5 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B5B</id>
+        <value>Brood Wars Zerg 5 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B5C</id>
+        <value>Brood Wars Zerg 5 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B5D</id>
+        <value>Brood Wars Zerg 5 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B5E</id>
+        <value>Brood Wars Zerg 5 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B5F</id>
+        <value>Brood Wars Zerg 5 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B6A</id>
+        <value>Brood Wars Zerg 6 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B6B</id>
+        <value>Brood Wars Zerg 6 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B6C</id>
+        <value>Brood Wars Zerg 6 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B6D</id>
+        <value>Brood Wars Zerg 6 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B6E</id>
+        <value>Brood Wars Zerg 6 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B6F</id>
+        <value>Brood Wars Zerg 6 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B7A</id>
+        <value>Brood Wars Zerg 7 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B7B</id>
+        <value>Brood Wars Zerg 7 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B7C</id>
+        <value>Brood Wars Zerg 7 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B7D</id>
+        <value>Brood Wars Zerg 7 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B7E</id>
+        <value>Brood Wars Zerg 7 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B7F</id>
+        <value>Brood Wars Zerg 7 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B8A</id>
+        <value>Brood Wars Zerg 8 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B8B</id>
+        <value>Brood Wars Zerg 8 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B8C</id>
+        <value>Brood Wars Zerg 8 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B8D</id>
+        <value>Brood Wars Zerg 8 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B8E</id>
+        <value>Brood Wars Zerg 8 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B8F</id>
+        <value>Brood Wars Zerg 8 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B9A</id>
+        <value>Brood Wars Zerg 9 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B9B</id>
+        <value>Brood Wars Zerg 9 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B9C</id>
+        <value>Brood Wars Zerg 9 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B9D</id>
+        <value>Brood Wars Zerg 9 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B9E</id>
+        <value>Brood Wars Zerg 9 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B9F</id>
+        <value>Brood Wars Zerg 9 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B10A</id>
+        <value>Brood Wars Zerg 10 - Town A</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B10B</id>
+        <value>Brood Wars Zerg 10 - Town B</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B10C</id>
+        <value>Brood Wars Zerg 10 - Town C</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B10D</id>
+        <value>Brood Wars Zerg 10 - Town D</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B10E</id>
+        <value>Brood Wars Zerg 10 - Town E</value>
+    </string>
+    <string>
+        <id>AI_ZERG_B10F</id>
+        <value>Brood Wars Zerg 10 - Town F</value>
+    </string>
+    <string>
+        <id>AI_ZERG_LOX</id>
+        <value>Expansion Zerg Campaign Easy</value>
+    </string>
+    <string>
+        <id>AI_ZERG_MEDX</id>
+        <value>Expansion Zerg Campaign Medium</value>
+    </string>
+    <string>
+        <id>AI_ZERG_HIX</id>
+        <value>Expansion Zerg Campaign Difficult</value>
+    </string>
+    <string>
+        <id>AI_ZERG_AREAX</id>
+        <value>Expansion Zerg Campaign Area Town</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_LOX</id>
+        <value>Expansion Protoss Campaign Easy</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_MEDX</id>
+        <value>Expansion Protoss Campaign Medium</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_HIX</id>
+        <value>Expansion Protoss Campaign Difficult</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_AREAX</id>
+        <value>Expansion Protoss Campaign Area Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_LOX</id>
+        <value>Expansion Terran Campaign Easy</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_MEDX</id>
+        <value>Expansion Terran Campaign Medium</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_HIX</id>
+        <value>Expansion Terran Campaign Difficult</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_AREAX</id>
+        <value>Expansion Terran Campaign Area Town</value>
+    </string>
+    <string>
+        <id>AI_TERRAN_SUPERX</id>
+        <value>Expansion Terran Campaign Insane</value>
+    </string>
+    <string>
+        <id>AI_PROTOSS_SUPERX</id>
+        <value>Expansion Protoss Campaign Insane</value>
+    </string>
+    <string>
+        <id>AI_ZERG_SUPERX</id>
+        <value>Expansion Zerg Campaign Insane</value>
+    </string>
+    <string>
+        <id>AI_SET_COMMAND_TARGET</id>
+        <value>Set Generic Command Target</value>
+    </string>
+    <string>
+        <id>AI_SET_UNIT_PATROL</id>
+        <value>Make These Units Patrol</value>
+    </string>
+    <string>
+        <id>AI_ENTER_TRANSPORTSTR</id>
+        <value>Enter Transport</value>
+    </string>
+    <string>
+        <id>AI_EXIT_TRANSPORTSTR</id>
+        <value>Exit Transport</value>
+    </string>
+    <string>
+        <id>AI_SHAREVISION_0</id>
+        <value>Turn ON Shared Vision for Player 1</value>
+    </string>
+    <string>
+        <id>AI_SHAREVISION_1</id>
+        <value>Turn ON Shared Vision for Player 2</value>
+    </string>
+    <string>
+        <id>AI_SHAREVISION_2</id>
+        <value>Turn ON Shared Vision for Player 3</value>
+    </string>
+    <string>
+        <id>AI_SHAREVISION_3</id>
+        <value>Turn ON Shared Vision for Player 4</value>
+    </string>
+    <string>
+        <id>AI_SHAREVISION_4</id>
+        <value>Turn ON Shared Vision for Player 5</value>
+    </string>
+    <string>
+        <id>AI_SHAREVISION_5</id>
+        <value>Turn ON Shared Vision for Player 6</value>
+    </string>
+    <string>
+        <id>AI_SHAREVISION_6</id>
+        <value>Turn ON Shared Vision for Player 7</value>
+    </string>
+    <string>
+        <id>AI_SHAREVISION_7</id>
+        <value>Turn ON Shared Vision for Player 8</value>
+    </string>
+    <string>
+        <id>AI_UNSHAREVISION_0</id>
+        <value>Turn OFF Shared Vision for Player 1</value>
+    </string>
+    <string>
+        <id>AI_UNSHAREVISION_1</id>
+        <value>Turn OFF Shared Vision for Player 2</value>
+    </string>
+    <string>
+        <id>AI_UNSHAREVISION_2</id>
+        <value>Turn OFF Shared Vision for Player 3</value>
+    </string>
+    <string>
+        <id>AI_UNSHAREVISION_3</id>
+        <value>Turn OFF Shared Vision for Player 4</value>
+    </string>
+    <string>
+        <id>AI_UNSHAREVISION_4</id>
+        <value>Turn OFF Shared Vision for Player 5</value>
+    </string>
+    <string>
+        <id>AI_UNSHAREVISION_5</id>
+        <value>Turn OFF Shared Vision for Player 6</value>
+    </string>
+    <string>
+        <id>AI_UNSHAREVISION_6</id>
+        <value>Turn OFF Shared Vision for Player 7</value>
+    </string>
+    <string>
+        <id>AI_UNSHAREVISION_7</id>
+        <value>Turn OFF Shared Vision for Player 8</value>
+    </string>
+    <string>
+        <id>AI_NUKE_HERESTR</id>
+        <value>AI Nuke Here</value>
+    </string>
+    <string>
+        <id>AI_HARASS_HERESTR</id>
+        <value>AI Harass Here</value>
+    </string>
+    <string>
+        <id>AI_STR_JUNK_YARD_DOG</id>
+        <value>Set Unit Order To: Junk Yard Dog</value>
+    </string>
+    <string>
+        <id>STR_VIEWPLAYERS</id>
+        <value>Список игроков</value>
+    </string>
+    <string>
+        <id>STR_PLAYBACK_HELP_SPEEDUP</id>
+        <value>e\\007\\3У\\1скорить</value>
+    </string>
+    <string>
+        <id>STR_PLAYBACK_HELP_PLAY</id>
+        <value>d\\007\\3В\\1оспроизведение</value>
+    </string>
+    <string>
+        <id>STR_PLAYBACK_HELP_PAUSE</id>
+        <value>g\\007\\3П\\1ауза</value>
+    </string>
+    <string>
+        <id>STR_PLAYBACK_HELP_SLOWDOWN</id>
+        <value>p\\007\\3З\\1амедлить</value>
+    </string>
+    <string>
+        <id>STR_REPLAY_PROGRESS</id>
+        <value>Прогресс повтора</value>
+    </string>
+    <string>
+        <id>STR_REPLAY_PAUSED</id>
+        <value>Пауза</value>
+    </string>
+    <string>
+        <id>STR_UNLIMITED</id>
+        <value>Неограниченно</value>
+    </string>
+    <string>
+        <id>STR_REPLAY_SEEKING</id>
+        <value>Поиск: %s</value>
+    </string>
+    <string>
+        <id>STR_APM_COL_PLAYER</id>
+        <value>Игрок</value>
+    </string>
+    <string>
+        <id>STR_APM_COL_APM</id>
+        <value>APM</value>
+    </string>
+    <string>
+        <id>STR_APM_COL_EPM</id>
+        <value>Эфф. действ./мин.</value>
+    </string>
+</strings>

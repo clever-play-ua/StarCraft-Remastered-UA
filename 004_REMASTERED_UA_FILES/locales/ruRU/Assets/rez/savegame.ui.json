@@ -1,0 +1,56 @@
+﻿{
+  "type": "DIALOG",
+  "name": "SaveGame",
+  "rect": [128,32,384,256],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "EDITTEXT",
+      "content": "",
+      "id": 2,
+      "rect": [32,44,320,18],
+      "flags": ["WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "savegame-1",
+      "id": -2,
+      "rect": [20,216,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "savegame-2",
+      "id": 3,
+      "rect": [140,216,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "savegame-3",
+      "id": -3,
+      "rect": [260,216,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LISTBOX",
+      "content": "",
+      "id": 1,
+      "rect": [32,70,320,140],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_BORDER","WS_TABSTOP","WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "savegame-4",
+      "id": 4,
+      "rect": [0,8,384,24],
+      "flags": ["WS_CHILD","WS_VISIBLE","RC_BIGGERTEXT"],
+      "children": null
+    }
+  ]
+}

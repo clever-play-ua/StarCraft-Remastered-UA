@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Zerg Level 4x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltcx\XTerranC.pcx>
+</FONTCOLOR glue\paltcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ОСВОБОЖДЕНИЕ КОРХАЛА
+
+Высокая орбита Корхала, главной планеты ОЗД
+</PAGE>

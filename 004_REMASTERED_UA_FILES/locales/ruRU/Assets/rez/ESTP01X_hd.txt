@@ -1,0 +1,33 @@
+</COMMENT Establishing Shot for Protoss Level 1x>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT5010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+КАМПАНИЯ ПРОТОССОВ: ПРОТИВОСТОЯНИЕ
+
+Сверхразум зергов был уничтожен, но Айур, родная планета протоссов, теперь лежит в руинах.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT5020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+Как вершитель, вы должны заново сплотить сломленный народ и уберечь его от безжалостных зергов, которые все еще рыщут по выжженным просторам Айура.
+</PAGE>
+
+</DISPLAYTIME 0>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe_End2.wav>
+</VIDEOAUTOPROCEED interstitials\PT5025.webm>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 8000>
+</BACKGROUND glue\palpa\ProtossA.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLOWERLEFT>
+БЕГСТВО С АЙУРА
+
+База протоссов на Айуре
+</PAGE>

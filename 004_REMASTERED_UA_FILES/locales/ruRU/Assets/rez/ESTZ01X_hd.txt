@@ -1,0 +1,33 @@
+</COMMENT Establishing Shot for Zerg Level 1x>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG5010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+КАМПАНИЯ ЗЕРГОВ: КОРОЛЕВА КЛИНКОВ
+
+Войска Объединенного Земного Директората заняли планету Чар и подчинили себе стаи зергов, покорные молодому Сверхразуму. С помощью мощного пси-аннулятора Директорат не дал Керриган получить контроль над оставшимися стаями, став доминантной силой во всем секторе.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG5020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Керриган, нашедшая неожиданных союзников, планирует уничтожить пси-аннулятор и освободить Сверхразум от контроля ОЗД.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG5025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 8000>
+</BACKGROUND glue\paltbx\XTerranB.pcx>
+</FONTCOLOR glue\paltbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ПСИ-АННУЛЯЦИЯ
+
+Крепость Керриган на Тарсонисе
+</PAGE>

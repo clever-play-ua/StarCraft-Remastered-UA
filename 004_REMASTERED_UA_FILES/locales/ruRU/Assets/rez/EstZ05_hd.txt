@@ -1,0 +1,32 @@
+</COMMENT Establishing Shot for Zerg Level 5>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG3010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Керриган, новоявленная и самая могущественная служительница Сверхразума, наконец-то покинула хризалиду, но ей все еще нужно время, чтобы полностью раскрыть свой потенциал.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG3020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Теперь она должна подробнее узнать о программе подготовки призраков, которая не позволяет ей пробудить все свои скрытые возможности. Когда ей это удастся, Керриган обрушит гнев Роя на ничего не подозревающих протоссов.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG3025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+«АМЕРИГО»
+
+Главный улей
+Планета Чар
+</PAGE>

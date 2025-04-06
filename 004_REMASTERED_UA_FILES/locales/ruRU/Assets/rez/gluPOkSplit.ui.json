@@ -1,0 +1,32 @@
+﻿{
+  "type": "DIALOG",
+  "name": "gluPOkSplit",
+  "rect": [0,0,360,200],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "FLCBTN",
+      "content": "gluPOkSplit-1",
+      "id": 1,
+      "rect": [103,159,158,29],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluPOkSplit-2",
+      "id": 2,
+      "rect": [10,10,340,34],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluPOkSplit-3",
+      "id": 5,
+      "rect": [10,48,340,100],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    }
+  ]
+}

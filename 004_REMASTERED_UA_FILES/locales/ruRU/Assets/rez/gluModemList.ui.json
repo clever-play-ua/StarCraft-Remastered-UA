@@ -1,0 +1,40 @@
+﻿{
+  "type": "DIALOG",
+  "name": "ModemList",
+  "rect": [0,0,380,251],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "LTEXT",
+      "content": "gluModemList-1",
+      "id": -1,
+      "rect": [11,12,361,24],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    },
+    {
+      "type": "LISTBOX",
+      "content": "",
+      "id": 1,
+      "rect": [14,42,353,156],
+      "flags": ["WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluModemList-2",
+      "id": 2,
+      "rect": [68,213,117,23],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluModemList-3",
+      "id": 3,
+      "rect": [198,213,117,23],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    }
+  ]
+}

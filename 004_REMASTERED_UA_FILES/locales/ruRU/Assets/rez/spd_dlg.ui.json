@@ -1,0 +1,176 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Spd_Dlg",
+  "rect": [184,32,264,288],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "spd_dlg-1",
+      "id": -2,
+      "rect": [20,252,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "spd_dlg-2",
+      "id": -3,
+      "rect": [140,252,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "SCROLLBAR",
+      "content": "",
+      "id": 1,
+      "rect": [30,62,208,12],
+      "flags": ["SBS_HORZ","WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "SCROLLBAR",
+      "content": "",
+      "id": 2,
+      "rect": [30,110,208,12],
+      "flags": ["SBS_HORZ","WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "SCROLLBAR",
+      "content": "",
+      "id": 3,
+      "rect": [30,160,208,12],
+      "flags": ["SBS_HORZ","WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "SCROLLBAR",
+      "content": "",
+      "id": 4,
+      "rect": [30,202,208,12],
+      "flags": ["SBS_HORZ","WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "spd_dlg-3",
+      "id": -1,
+      "rect": [12,44,208,14],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "spd_dlg-4",
+      "id": -1,
+      "rect": [12,92,208,14],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "spd_dlg-5",
+      "id": -1,
+      "rect": [12,142,208,14],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "spd_dlg-6",
+      "id": 6,
+      "rect": [12,190,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "spd_dlg-7",
+      "id": -1,
+      "rect": [28,72,80,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "spd_dlg-8",
+      "id": -1,
+      "rect": [28,120,80,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "spd_dlg-9",
+      "id": -1,
+      "rect": [28,170,80,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "spd_dlg-10",
+      "id": -1,
+      "rect": [28,212,80,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "spd_dlg-11",
+      "id": -1,
+      "rect": [162,72,80,12],
+      "flags": ["SS_RIGHT","WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "spd_dlg-12",
+      "id": -1,
+      "rect": [162,120,80,12],
+      "flags": ["SS_RIGHT","WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "spd_dlg-13",
+      "id": -1,
+      "rect": [162,170,80,12],
+      "flags": ["SS_RIGHT","WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "spd_dlg-14",
+      "id": -1,
+      "rect": [162,212,80,12],
+      "flags": ["SS_RIGHT","WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "spd_dlg-15",
+      "id": -1,
+      "rect": [0,8,264,24],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "spd_dlg-16",
+      "id": 5,
+      "rect": [12,230,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "spd_dlg-17",
+      "id": 7,
+      "rect": [200,190,40,16],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    }
+  ]
+}

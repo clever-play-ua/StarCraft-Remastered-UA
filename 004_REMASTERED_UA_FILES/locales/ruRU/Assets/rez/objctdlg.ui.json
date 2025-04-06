@@ -1,0 +1,32 @@
+﻿{
+  "type": "DIALOG",
+  "name": "ObjctDlg",
+  "rect": [128,32,384,256],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "PUSHBUTTON",
+      "content": "objctdlg-1",
+      "id": -3,
+      "rect": [80,216,224,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "objctdlg-2",
+      "id": 2,
+      "rect": [6,32,378,216],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "objctdlg-3",
+      "id": -1,
+      "rect": [0,8,384,24],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

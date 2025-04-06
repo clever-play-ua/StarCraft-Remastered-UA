@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Protoss Level 3x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpax\XProtosA.pcx>
+</FONTCOLOR glue\palpax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+НАСЛЕДИЕ ЗЕЛ-НАГА
+
+Новый Антиох, основное поселение на Шакурасе
+</PAGE>

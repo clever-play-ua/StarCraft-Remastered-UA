@@ -1,0 +1,322 @@
+﻿[
+  {
+    "id": "strGAMETYPE_MELEE",
+    "Key": "strGAMETYPE_MELEE",
+    "Value": "Стычка"
+  },
+  {
+    "id": "strGAMETYPE_FREEFORALL",
+    "Key": "strGAMETYPE_FREEFORALL",
+    "Value": "Каждый за себя"
+  },
+  {
+    "id": "strGAMETYPE_ONEONONE",
+    "Key": "strGAMETYPE_ONEONONE",
+    "Value": "Один на один"
+  },
+  {
+    "id": "strGAMETYPE_CAPTURETHEFLAG",
+    "Key": "strGAMETYPE_CAPTURETHEFLAG",
+    "Value": "Захват флага"
+  },
+  {
+    "id": "strGAMETYPE_GREED",
+    "Key": "strGAMETYPE_GREED",
+    "Value": "Алчность"
+  },
+  {
+    "id": "strGAMETYPE_GREED-1",
+    "Key": "strGAMETYPE_GREED-1",
+    "Value": "Запас ресурсов"
+  },
+  {
+    "id": "strGAMETYPE_SLAUGHTER",
+    "Key": "strGAMETYPE_SLAUGHTER",
+    "Value": "Бойня"
+  },
+  {
+    "id": "strGAMETYPE_SLAUGHTER-1",
+    "Key": "strGAMETYPE_SLAUGHTER-1",
+    "Value": "Время матча (мин.)"
+  },
+  {
+    "id": "strGAMETYPE_SUDDENDEATH",
+    "Key": "strGAMETYPE_SUDDENDEATH",
+    "Value": "Внезапная смерть"
+  },
+  {
+    "id": "strGAMETYPE_LADDER",
+    "Key": "strGAMETYPE_LADDER",
+    "Value": "Рейтинг"
+  },
+  {
+    "id": "strGAMETYPE_LADDER-1",
+    "Key": "strGAMETYPE_LADDER-1",
+    "Value": "Отключения"
+  },
+  {
+    "id": "strGAMETYPE_USEMAPSETTINGS",
+    "Key": "strGAMETYPE_USEMAPSETTINGS",
+    "Value": "Настройки карты"
+  },
+  {
+    "id": "strGAMRTYPE_TEAMMELEE",
+    "Key": "strGAMRTYPE_TEAMMELEE",
+    "Value": "Совм. стычка"
+  },
+  {
+    "id": "strGAMRTYPE_TEAMMELEE-1",
+    "Key": "strGAMRTYPE_TEAMMELEE-1",
+    "Value": "Число команд"
+  },
+  {
+    "id": "strGAMETYPE_TEAMFREEFORALL",
+    "Key": "strGAMETYPE_TEAMFREEFORALL",
+    "Value": "Совм. кажд. за себя"
+  },
+  {
+    "id": "strGAMETYPE_TEAMFREEFORALL-1",
+    "Key": "strGAMETYPE_TEAMFREEFORALL-1",
+    "Value": "Число команд"
+  },
+  {
+    "id": "strGAMETYPE_TEAMCAPTURETHEFLAG",
+    "Key": "strGAMETYPE_TEAMCAPTURETHEFLAG",
+    "Value": "Совм. захв. флага"
+  },
+  {
+    "id": "strGAMETYPE_TEAMCAPTURETHEFLAG-1",
+    "Key": "strGAMETYPE_TEAMCAPTURETHEFLAG-1",
+    "Value": "Число команд"
+  },
+  {
+    "id": "strGAMETYPE_TOPVSBOTTOM",
+    "Key": "strGAMETYPE_TOPVSBOTTOM",
+    "Value": "Верх на низ"
+  },
+  {
+    "id": "strGAMETYPE_TOPVSBOTTOM-1",
+    "Key": "strGAMETYPE_TOPVSBOTTOM-1",
+    "Value": "Команды"
+  },
+  {
+    "id": "strGAMETYPE_KBKSINGLES",
+    "Key": "strGAMETYPE_KBKSINGLES",
+    "Value": "Одиночные матчи KBK"
+  },
+  {
+    "id": "strGAMETYPE_KBKTEAM",
+    "Key": "strGAMETYPE_KBKTEAM",
+    "Value": "Команда KBK"
+  },
+  {
+    "id": "strGAMETYPE_KBKPRO",
+    "Key": "strGAMETYPE_KBKPRO",
+    "Value": "Профи KBK"
+  },
+  {
+    "id": "strGAMETYPE_KBKBEGINNER",
+    "Key": "strGAMETYPE_KBKBEGINNER",
+    "Value": "Новичок KBK"
+  },
+  {
+    "id": "strGAMETYPE_KBKZONE",
+    "Key": "strGAMETYPE_KBKZONE",
+    "Value": "Зона KBK"
+  },
+  {
+    "id": "strGAMETYPE_KBKGAMEROOM",
+    "Key": "strGAMETYPE_KBKGAMEROOM",
+    "Value": "Игровая комната KBK"
+  },
+  {
+    "id": "strGAMETYPE_COMPUSA",
+    "Key": "strGAMETYPE_COMPUSA",
+    "Value": "CompUSA"
+  },
+  {
+    "id": "strGAMETYPE_COMPUSA-1",
+    "Key": "strGAMETYPE_COMPUSA-1",
+    "Value": "Отключения"
+  },
+  {
+    "id": "strGAMETYPE_UNKNOWN",
+    "Key": "strGAMETYPE_UNKNOWN",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNKNOWN-1",
+    "Key": "strGAMETYPE_UNKNOWN-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_MELEE-1",
+    "Key": "strGAMETYPE_MELEE-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_FREEFORALL-1",
+    "Key": "strGAMETYPE_FREEFORALL-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_ONEONONE-1",
+    "Key": "strGAMETYPE_ONEONONE-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_CAPTURETHEFLAG-1",
+    "Key": "strGAMETYPE_CAPTURETHEFLAG-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_SUDDENDEATH-1",
+    "Key": "strGAMETYPE_SUDDENDEATH-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_USEMAPSETTINGS-1",
+    "Key": "strGAMETYPE_USEMAPSETTINGS-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED1",
+    "Key": "strGAMETYPE_UNUSED1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED1-1",
+    "Key": "strGAMETYPE_UNUSED1-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_KBKSINGLES-1",
+    "Key": "strGAMETYPE_KBKSINGLES-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_KBKTEAM-1",
+    "Key": "strGAMETYPE_KBKTEAM-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_KBKPRO-1",
+    "Key": "strGAMETYPE_KBKPRO-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_KBKBEGINNER-1",
+    "Key": "strGAMETYPE_KBKBEGINNER-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_KBKZONE-1",
+    "Key": "strGAMETYPE_KBKZONE-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_KBKGAMEROOM-1",
+    "Key": "strGAMETYPE_KBKGAMEROOM-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED2",
+    "Key": "strGAMETYPE_UNUSED2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED2-1",
+    "Key": "strGAMETYPE_UNUSED2-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED3",
+    "Key": "strGAMETYPE_UNUSED3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED3-1",
+    "Key": "strGAMETYPE_UNUSED3-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED4",
+    "Key": "strGAMETYPE_UNUSED4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED4-1",
+    "Key": "strGAMETYPE_UNUSED4-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED5",
+    "Key": "strGAMETYPE_UNUSED5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED5-1",
+    "Key": "strGAMETYPE_UNUSED5-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED6",
+    "Key": "strGAMETYPE_UNUSED6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED6-1",
+    "Key": "strGAMETYPE_UNUSED6-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED7",
+    "Key": "strGAMETYPE_UNUSED7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED7-1",
+    "Key": "strGAMETYPE_UNUSED7-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED8",
+    "Key": "strGAMETYPE_UNUSED8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED8-1",
+    "Key": "strGAMETYPE_UNUSED8-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED0",
+    "Key": "strGAMETYPE_UNUSED0",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED0-1",
+    "Key": "strGAMETYPE_UNUSED0-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED10",
+    "Key": "strGAMETYPE_UNUSED10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED10-1",
+    "Key": "strGAMETYPE_UNUSED10-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED11",
+    "Key": "strGAMETYPE_UNUSED11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "strGAMETYPE_UNUSED11-1",
+    "Key": "strGAMETYPE_UNUSED11-1",
+    "Value": "<<PLACEHOLDER>>"
+  }
+]

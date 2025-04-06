@@ -1,0 +1,862 @@
+﻿[
+  {
+    "id": "strVOICE_NOT_SETUP",
+    "Key": "strVOICE_NOT_SETUP",
+    "Value": "Необходимо настроить систему до изменения настроек голосового чата. Закройте приложение StarCraft и запустите утилиту голосовой настройки \"STARVOX.exe\"."
+  },
+  {
+    "id": "strVOICE_MULTI_ONLY",
+    "Key": "strVOICE_MULTI_ONLY",
+    "Value": "Настройки голосового чата можно изменить только в режиме сетевой игры."
+  },
+  {
+    "id": "strVOICE_NODIRECTSOUND",
+    "Key": "strVOICE_NODIRECTSOUND",
+    "Value": "На вашем компьютере не установлен DirectSound. Запустите программу его установки DirectX, поставляемую вместе со StarCraft."
+  },
+  {
+    "id": "strVOICE_VOXERRORFNF",
+    "Key": "strVOICE_VOXERRORFNF",
+    "Value": "Ваша система не настроена для использования голосового чата. Переустановите Starcraft, используя программу установки на диске игры."
+  },
+  {
+    "id": "strVOICE_SNDALLOCATED",
+    "Key": "strVOICE_SNDALLOCATED",
+    "Value": "Другое приложение использует звуковое воспроизведение. Закройте его и перезапустите эту программу."
+  },
+  {
+    "id": "strVOICE_VOXINTERNAL",
+    "Key": "strVOICE_VOXINTERNAL",
+    "Value": "Ошибка инициализации голосовой базы: %s\\nошибка 0x%08x %s"
+  },
+  {
+    "id": "strVOICE_CAPTUREINIT",
+    "Key": "strVOICE_CAPTUREINIT",
+    "Value": "Ошибка инициализации распознавания голоса: %s\\nошибка 0x%08x %s"
+  },
+  {
+    "id": "strVOICE_SNDGENERIC",
+    "Key": "strVOICE_SNDGENERIC",
+    "Value": "Ошибка инициализации звука: %s\\nошибка 0x%08x %s"
+  },
+  {
+    "id": "strVOICE_VOICEINIT",
+    "Key": "strVOICE_VOICEINIT",
+    "Value": "Ошибка инициализации воспроизведения звука: %s\\nошибка 0x%08x %s"
+  },
+  {
+    "id": "strMUSIC_ON_NETDRIVE",
+    "Key": "strMUSIC_ON_NETDRIVE",
+    "Value": "ОШИБКА: нельзя проигрывать музыку с сетевого диска."
+  },
+  {
+    "id": "strDELETE_ERR_s",
+    "Key": "strDELETE_ERR_s",
+    "Value": "При удалении игры «%s» возникла ошибка."
+  },
+  {
+    "id": "strREPLACE_ERR_s",
+    "Key": "strREPLACE_ERR_s",
+    "Value": "При замене «%s» возникла ошибка."
+  },
+  {
+    "id": "strCONFIRM_REPLACE_s",
+    "Key": "strCONFIRM_REPLACE_s",
+    "Value": "Заменить содержимое игры «%s»?"
+  },
+  {
+    "id": "strCONFIRM_DELETE_s",
+    "Key": "strCONFIRM_DELETE_s",
+    "Value": "Удалить игру «%s»?"
+  },
+  {
+    "id": "strSAVE_TOO_MANY_ERR",
+    "Key": "strSAVE_TOO_MANY_ERR",
+    "Value": "Слишком много файлов сохранений."
+  },
+  {
+    "id": "strRESERVED_FILENAME",
+    "Key": "strRESERVED_FILENAME",
+    "Value": "Название файла уже занято. Пожалуйста, выберите другое."
+  },
+  {
+    "id": "strZERG",
+    "Key": "strZERG",
+    "Value": "Зерги"
+  },
+  {
+    "id": "strTERRAN",
+    "Key": "strTERRAN",
+    "Value": "Терраны"
+  },
+  {
+    "id": "strPROTOSS",
+    "Key": "strPROTOSS",
+    "Value": "Протоссы"
+  },
+  {
+    "id": "strRANDOM",
+    "Key": "strRANDOM",
+    "Value": "Случайно"
+  },
+  {
+    "id": "strCOMPUTER",
+    "Key": "strCOMPUTER",
+    "Value": "Компьютер"
+  },
+  {
+    "id": "strHOURS",
+    "Key": "strHOURS",
+    "Value": "ч."
+  },
+  {
+    "id": "strHOUR",
+    "Key": "strHOUR",
+    "Value": "ч."
+  },
+  {
+    "id": "strMINUTES",
+    "Key": "strMINUTES",
+    "Value": "мин."
+  },
+  {
+    "id": "strMINUTE",
+    "Key": "strMINUTE",
+    "Value": "мин."
+  },
+  {
+    "id": "strCONTINUEWARNING",
+    "Key": "strCONTINUEWARNING",
+    "Value": "Задание выполнено. Игра продолжается без триггеров карты."
+  },
+  {
+    "id": "strBADFILECHARS",
+    "Key": "strBADFILECHARS",
+    "Value": "*\\\\/:><|&+^?\""
+  },
+  {
+    "id": "errCANTPLACE_sdd",
+    "Key": "errCANTPLACE_sdd",
+    "Value": "ВНИМАНИЕ: недопустимый символ! (%s) (%d,%d)"
+  },
+  {
+    "id": "strTEAM1",
+    "Key": "strTEAM1",
+    "Value": "Команда 1"
+  },
+  {
+    "id": "strTEAM2",
+    "Key": "strTEAM2",
+    "Value": "Команда 2"
+  },
+  {
+    "id": "strTEAM3",
+    "Key": "strTEAM3",
+    "Value": "Команда 3"
+  },
+  {
+    "id": "strTEAM4",
+    "Key": "strTEAM4",
+    "Value": "Команда 4"
+  },
+  {
+    "id": "strFORCE1",
+    "Key": "strFORCE1",
+    "Value": "Войско 1"
+  },
+  {
+    "id": "strFORCE2",
+    "Key": "strFORCE2",
+    "Value": "Войско 2"
+  },
+  {
+    "id": "strFORCE3",
+    "Key": "strFORCE3",
+    "Value": "Войско 3"
+  },
+  {
+    "id": "strFORCE4",
+    "Key": "strFORCE4",
+    "Value": "Войско 4"
+  },
+  {
+    "id": "strOBSERVER",
+    "Key": "strOBSERVER",
+    "Value": "Наблюдатель"
+  },
+  {
+    "id": "strOBSERVERS",
+    "Key": "strOBSERVERS",
+    "Value": "Наблюдатели"
+  },
+  {
+    "id": "strNATION_TERRAN_0",
+    "Key": "strNATION_TERRAN_0",
+    "Value": "Элитная гвардия"
+  },
+  {
+    "id": "strNATION_TERRAN_1",
+    "Key": "strNATION_TERRAN_1",
+    "Value": "Мар-Сара"
+  },
+  {
+    "id": "strNATION_TERRAN_2",
+    "Key": "strNATION_TERRAN_2",
+    "Value": "Келморийцы"
+  },
+  {
+    "id": "strNATION_TERRAN_3",
+    "Key": "strNATION_TERRAN_3",
+    "Value": "Антига"
+  },
+  {
+    "id": "strNATION_TERRAN_4",
+    "Key": "strNATION_TERRAN_4",
+    "Value": "Корпус «Дельта»"
+  },
+  {
+    "id": "strNATION_TERRAN_5",
+    "Key": "strNATION_TERRAN_5",
+    "Value": "Корпус «Омега»"
+  },
+  {
+    "id": "strNATION_TERRAN_6",
+    "Key": "strNATION_TERRAN_6",
+    "Value": "Корпус «Альфа»"
+  },
+  {
+    "id": "strNATION_TERRAN_7",
+    "Key": "strNATION_TERRAN_7",
+    "Value": "Корпус «Эпсилон»"
+  },
+  {
+    "id": "strNATION_ZERG_0",
+    "Key": "strNATION_ZERG_0",
+    "Value": "Стая Тиамат"
+  },
+  {
+    "id": "strNATION_ZERG_1",
+    "Key": "strNATION_ZERG_1",
+    "Value": "Стая Сурт"
+  },
+  {
+    "id": "strNATION_ZERG_2",
+    "Key": "strNATION_ZERG_2",
+    "Value": "Стая Фенрир"
+  },
+  {
+    "id": "strNATION_ZERG_3",
+    "Key": "strNATION_ZERG_3",
+    "Value": "Стая Йормунганд"
+  },
+  {
+    "id": "strNATION_ZERG_4",
+    "Key": "strNATION_ZERG_4",
+    "Value": "Стая Гарм"
+  },
+  {
+    "id": "strNATION_ZERG_5",
+    "Key": "strNATION_ZERG_5",
+    "Value": "Стая Грендель"
+  },
+  {
+    "id": "strNATION_ZERG_6",
+    "Key": "strNATION_ZERG_6",
+    "Value": "Стая Балрог"
+  },
+  {
+    "id": "strNATION_ZERG_7",
+    "Key": "strNATION_ZERG_7",
+    "Value": "Стая Левиафан"
+  },
+  {
+    "id": "strNATION_PROTOSS_0",
+    "Key": "strNATION_PROTOSS_0",
+    "Value": "Племя Ара"
+  },
+  {
+    "id": "strNATION_PROTOSS_1",
+    "Key": "strNATION_PROTOSS_1",
+    "Value": "Племя Саргас"
+  },
+  {
+    "id": "strNATION_PROTOSS_2",
+    "Key": "strNATION_PROTOSS_2",
+    "Value": "Племя Акилай"
+  },
+  {
+    "id": "strNATION_PROTOSS_3",
+    "Key": "strNATION_PROTOSS_3",
+    "Value": "Племя Фуринкс"
+  },
+  {
+    "id": "strNATION_PROTOSS_4",
+    "Key": "strNATION_PROTOSS_4",
+    "Value": "Племя Аурига"
+  },
+  {
+    "id": "strNATION_PROTOSS_5",
+    "Key": "strNATION_PROTOSS_5",
+    "Value": "Племя Венатир"
+  },
+  {
+    "id": "strNATION_PROTOSS_6",
+    "Key": "strNATION_PROTOSS_6",
+    "Value": "Племя Шелак"
+  },
+  {
+    "id": "strNATION_PROTOSS_7",
+    "Key": "strNATION_PROTOSS_7",
+    "Value": "Племя Велари"
+  },
+  {
+    "id": "strELIMINATED_s",
+    "Key": "strELIMINATED_s",
+    "Value": "Игрок %s проиграл."
+  },
+  {
+    "id": "strELIMINATED_d",
+    "Key": "strELIMINATED_d",
+    "Value": "Игрок %d проиграл."
+  },
+  {
+    "id": "strLEFTGAME",
+    "Key": "strLEFTGAME",
+    "Value": "%s покидает матч."
+  },
+  {
+    "id": "strDROPPED",
+    "Key": "strDROPPED",
+    "Value": "Игрок %s отключился."
+  },
+  {
+    "id": "strPAUSED_sd",
+    "Key": "strPAUSED_sd",
+    "Value": "%s ставит матч на паузу (осталось: %d)."
+  },
+  {
+    "id": "strRESUMED_s",
+    "Key": "strRESUMED_s",
+    "Value": "%s возобновляет матч."
+  },
+  {
+    "id": "strMSGSENT",
+    "Key": "strMSGSENT",
+    "Value": "* Сообщение отправлено *"
+  },
+  {
+    "id": "strEXITBLOCKED",
+    "Key": "strEXITBLOCKED",
+    "Value": "Выход из строения заблокирован."
+  },
+  {
+    "id": "strMAXUNITS",
+    "Key": "strMAXUNITS",
+    "Value": "Лимит боевых единиц достигнут."
+  },
+  {
+    "id": "strCANTCREATE",
+    "Key": "strCANTCREATE",
+    "Value": "Не удалось создать единицу."
+  },
+  {
+    "id": "strTARGET",
+    "Key": "strTARGET",
+    "Value": "Укажите цель."
+  },
+  {
+    "id": "strLOCATION",
+    "Key": "strLOCATION",
+    "Value": "Укажите место."
+  },
+  {
+    "id": "strCHEATON",
+    "Key": "strCHEATON",
+    "Value": "Чит-код активирован."
+  },
+  {
+    "id": "strCHEATOFF",
+    "Key": "strCHEATOFF",
+    "Value": "Чит-код деактивирован."
+  },
+  {
+    "id": "strNEW_OBSERVER_REMOTE",
+    "Key": "strNEW_OBSERVER_REMOTE",
+    "Value": "%s становится наблюдателем."
+  },
+  {
+    "id": "strNEW_OBSERVER_LOCAL",
+    "Key": "strNEW_OBSERVER_LOCAL",
+    "Value": "Вы являетесь наблюдателем."
+  },
+  {
+    "id": "strFIRSTLATENCY_s",
+    "Key": "strFIRSTLATENCY_s",
+    "Value": "Игрок %s установил низкое значение задержки сигнала."
+  },
+  {
+    "id": "strFIRSTLATENCY_s-1",
+    "Key": "strFIRSTLATENCY_s-1",
+    "Value": "Игрок %s установил высокое значение задержки сигнала."
+  },
+  {
+    "id": "strFIRSTLATENCY_s-2",
+    "Key": "strFIRSTLATENCY_s-2",
+    "Value": "Игрок %s установил очень высокое значение задержки сигнала."
+  },
+  {
+    "id": "strDEFAULTNAME",
+    "Key": "strDEFAULTNAME",
+    "Value": "Аноним"
+  },
+  {
+    "id": "strILLEGAL_TEAMS",
+    "Key": "strILLEGAL_TEAMS",
+    "Value": "Некорректное число команд."
+  },
+  {
+    "id": "strPLAYER_JOINED",
+    "Key": "strPLAYER_JOINED",
+    "Value": "%s присоединяется к матчу."
+  },
+  {
+    "id": "strPLAYER_LEFT",
+    "Key": "strPLAYER_LEFT",
+    "Value": "%s покидает матч."
+  },
+  {
+    "id": "strPLAYER_WAS_DROPPED",
+    "Key": "strPLAYER_WAS_DROPPED",
+    "Value": "%s отключается от матча."
+  },
+  {
+    "id": "strIGNORING_PLAYER",
+    "Key": "strIGNORING_PLAYER",
+    "Value": "Вы игнорируете сообщения игрока %s."
+  },
+  {
+    "id": "strUNIGNORING_PLAYER",
+    "Key": "strUNIGNORING_PLAYER",
+    "Value": "Вы принимаете сообщения от игрока %s."
+  },
+  {
+    "id": "strWHISPER_TO",
+    "Key": "strWHISPER_TO",
+    "Value": "<Игроку: %s>"
+  },
+  {
+    "id": "strWHISPER_FROM",
+    "Key": "strWHISPER_FROM",
+    "Value": "<От: %s>"
+  },
+  {
+    "id": "strERROR_GENERAL_NETWORK",
+    "Key": "strERROR_GENERAL_NETWORK",
+    "Value": "Ошибка сети."
+  },
+  {
+    "id": "strERROR_STANDARD_SNP",
+    "Key": "strERROR_STANDARD_SNP",
+    "Value": "Ошибка инициализации standard.snp. Пожалуйста, переустановите StarCraft."
+  },
+  {
+    "id": "strERROR_INITIALIZE_PROVIDER",
+    "Key": "strERROR_INITIALIZE_PROVIDER",
+    "Value": "Ошибка инициализации поставщика сети."
+  },
+  {
+    "id": "strERROR_INVALID_DEVICE",
+    "Key": "strERROR_INVALID_DEVICE",
+    "Value": "Ошибка инициализации устройства."
+  },
+  {
+    "id": "strERROR_INVALID_PROVIDER",
+    "Key": "strERROR_INVALID_PROVIDER",
+    "Value": "Некорректный поставщик сети."
+  },
+  {
+    "id": "strERROR_REGISTER_EVENTS",
+    "Key": "strERROR_REGISTER_EVENTS",
+    "Value": "Не удалось зарегистрировать событие."
+  },
+  {
+    "id": "strERROR_INVALID_PLAYER",
+    "Key": "strERROR_INVALID_PLAYER",
+    "Value": "Некорректный игрок."
+  },
+  {
+    "id": "strERROR_INVALID_CHARACTER",
+    "Key": "strERROR_INVALID_CHARACTER",
+    "Value": "Некорректный профиль."
+  },
+  {
+    "id": "strERROR_JOINING_GAME",
+    "Key": "strERROR_JOINING_GAME",
+    "Value": "Не удалось присоединиться к матчу."
+  },
+  {
+    "id": "strERROR_JOINING_BAD_VERSION",
+    "Key": "strERROR_JOINING_BAD_VERSION",
+    "Value": "Не удалось присоединиться к матчу, так как он создан в другой версии StarCraft."
+  },
+  {
+    "id": "strERROR_SEND_MESSAGE",
+    "Key": "strERROR_SEND_MESSAGE",
+    "Value": "Не удалось отправить сообщение."
+  },
+  {
+    "id": "strERROR_CREATE_SINGLE",
+    "Key": "strERROR_CREATE_SINGLE",
+    "Value": "Не удалось создать одиночный матч."
+  },
+  {
+    "id": "strERROR_INVALID_OPTIONS",
+    "Key": "strERROR_INVALID_OPTIONS",
+    "Value": "Некорректные настройки игры."
+  },
+  {
+    "id": "strERROR_CREATE_MULTI",
+    "Key": "strERROR_CREATE_MULTI",
+    "Value": "Не удалось создать сетевой матч."
+  },
+  {
+    "id": "strERROR_NO_SAVE_FILE",
+    "Key": "strERROR_NO_SAVE_FILE",
+    "Value": "Файл сохранения не найден."
+  },
+  {
+    "id": "strERROR_START_GAME_FAILED",
+    "Key": "strERROR_START_GAME_FAILED",
+    "Value": "Ошибка при загрузке игры."
+  },
+  {
+    "id": "strERROR_LOAD_MAP",
+    "Key": "strERROR_LOAD_MAP",
+    "Value": "Ошибка загрузки сценария."
+  },
+  {
+    "id": "strERROR_LOADING_SAVE_FILE",
+    "Key": "strERROR_LOADING_SAVE_FILE",
+    "Value": "Не удалось загрузить сохраненную игру."
+  },
+  {
+    "id": "strERROR_NO_SAVE_SCM",
+    "Key": "strERROR_NO_SAVE_SCM",
+    "Value": "Не удалось загрузить SCM, связанный с файлом сохранения."
+  },
+  {
+    "id": "strERROR_FD_STARTUP",
+    "Key": "strERROR_FD_STARTUP",
+    "Value": "Не удалось загрузить карту."
+  },
+  {
+    "id": "strERROR_SAVE",
+    "Key": "strERROR_SAVE",
+    "Value": "Не удалось сохранить игру."
+  },
+  {
+    "id": "strERROR_CAMPAIGN_OPTIONS",
+    "Key": "strERROR_CAMPAIGN_OPTIONS",
+    "Value": "Не удалось загрузить настройки кампании. Пожалуйста, переустановите StarCraft."
+  },
+  {
+    "id": "strERROR_SPAWN_CREATE_SINGLE",
+    "Key": "strERROR_SPAWN_CREATE_SINGLE",
+    "Value": "Для запуска однопользовательской кампании требуется полная версия StarCraft."
+  },
+  {
+    "id": "strERROR_SPAWN_CREATE_MULTI",
+    "Key": "strERROR_SPAWN_CREATE_MULTI",
+    "Value": "Для создания сетевого матча требуется полная версия StarCraft."
+  },
+  {
+    "id": "strERROR_SPAWN_JOIN_MULTI",
+    "Key": "strERROR_SPAWN_JOIN_MULTI",
+    "Value": "Вы можете присоединяться только к матчам владельца копии StarCraft, призвавшего вас."
+  },
+  {
+    "id": "strERROR_CAMPAIGN_LINK",
+    "Key": "strERROR_CAMPAIGN_LINK",
+    "Value": "Не удалось найти указанную карту кампании."
+  },
+  {
+    "id": "strNET_UPGRADE_FAIL",
+    "Key": "strNET_UPGRADE_FAIL",
+    "Value": "Не удалось обновить сеть."
+  },
+  {
+    "id": "strSYNC_ERROR",
+    "Key": "strSYNC_ERROR",
+    "Value": "ОШИБКА СИНХРОНИЗАЦИИ."
+  },
+  {
+    "id": "strSAVING",
+    "Key": "strSAVING",
+    "Value": "Сохранение...\\nФайл:"
+  },
+  {
+    "id": "strSCREEN_CAPTURE_s",
+    "Key": "strSCREEN_CAPTURE_s",
+    "Value": "Снимок экрана сохранен под названием «%s»."
+  },
+  {
+    "id": "strBNET_REPORT_PLAYER",
+    "Key": "strBNET_REPORT_PLAYER",
+    "Value": "%s was %s and played for %s\\n"
+  },
+  {
+    "id": "strBNET_REPORT_GAME",
+    "Key": "strBNET_REPORT_GAME",
+    "Value": "Карта: %s:\\n"
+  },
+  {
+    "id": "strBNET_REPORT_OVERVIEW",
+    "Key": "strBNET_REPORT_OVERVIEW",
+    "Value": "Overall Score %u\\n    %10u for %s\\n    %10u for %s\\n    %10u for %s\\n"
+  },
+  {
+    "id": "strBNET_REPORT_UNITS",
+    "Key": "strBNET_REPORT_UNITS",
+    "Value": "Units Score %u\\n    %10u Units %s\\n    %10u Units %s\\n    %10u Units %s\\n"
+  },
+  {
+    "id": "strBNET_REPORT_INFRASTRUCTURE",
+    "Key": "strBNET_REPORT_INFRASTRUCTURE",
+    "Value": "Structures Score %u\\n    %10u Structures %s\\n    %10u Structures %s\\n    %10u Structures %s\\n"
+  },
+  {
+    "id": "strBNET_REPORT_RESOURCES",
+    "Key": "strBNET_REPORT_RESOURCES",
+    "Value": "Resources Score %u\\n    %10u %s\\n    %10u %s\\n    %10u %s\\n"
+  },
+  {
+    "id": "strOBJ_MELEE",
+    "Key": "strOBJ_MELEE",
+    "Value": "Уничтожьте все строения противника."
+  },
+  {
+    "id": "strOBJ_GREED_2500",
+    "Key": "strOBJ_GREED_2500",
+    "Value": "Добудьте 2500 ед. минералов.\\nДобудьте 2500 ед. газа."
+  },
+  {
+    "id": "strOBJ_GREED_5000",
+    "Key": "strOBJ_GREED_5000",
+    "Value": "Добудьте 5000 ед. минералов.\\nДобудьте 5000 ед. газа."
+  },
+  {
+    "id": "strOBJ_GREED_7500",
+    "Key": "strOBJ_GREED_7500",
+    "Value": "Добудьте 7500 ед. минералов.\\nДобудьте 7500 ед. газа."
+  },
+  {
+    "id": "strOBJ_GREED_10000",
+    "Key": "strOBJ_GREED_10000",
+    "Value": "Добудьте 10000 ед. минералов.\\nДобудьте 10000 ед. газа."
+  },
+  {
+    "id": "strOBJ_SLAUGHTER",
+    "Key": "strOBJ_SLAUGHTER",
+    "Value": "Уничтожьте больше всех боевых единиц и строений за отведенное время."
+  },
+  {
+    "id": "strOBJ_CTF",
+    "Key": "strOBJ_CTF",
+    "Value": "Захватите вражеский флаг."
+  },
+  {
+    "id": "strOBJ_SUDDENDEATH",
+    "Key": "strOBJ_SUDDENDEATH",
+    "Value": "Уничтожьте любое главное строение противника."
+  },
+  {
+    "id": "strCTF_TAKEN_s",
+    "Key": "strCTF_TAKEN_s",
+    "Value": "Флаг игрока %s взят!"
+  },
+  {
+    "id": "strCTF_TAKEN_s-1",
+    "Key": "strCTF_TAKEN_s-1",
+    "Value": "Флаг игрока %s взят!"
+  },
+  {
+    "id": "strCTF_RETURNED_s",
+    "Key": "strCTF_RETURNED_s",
+    "Value": "Флаг игрока %s возвращен на базу."
+  },
+  {
+    "id": "strCTF_RETURNED_s-1",
+    "Key": "strCTF_RETURNED_s-1",
+    "Value": "Флаг игрока %s возвращен на базу."
+  },
+  {
+    "id": "strCTF_CAPTURED_s",
+    "Key": "strCTF_CAPTURED_s",
+    "Value": "Флаг игрока %s захвачен!"
+  },
+  {
+    "id": "strCTF_CAPTURED_s-1",
+    "Key": "strCTF_CAPTURED_s-1",
+    "Value": "Флаг игрока %s захвачен!"
+  },
+  {
+    "id": "strRACE_ERR_ZERG",
+    "Key": "strRACE_ERR_ZERG",
+    "Value": "До начала этой кампании мы рекомендуем завершить кампанию терранов.\\n\\nВсе равно начать кампанию зергов?"
+  },
+  {
+    "id": "strRACE_ERR_PROTOSS",
+    "Key": "strRACE_ERR_PROTOSS",
+    "Value": "До начала этой кампании мы рекомендуем завершить кампании терранов и зергов.\\n\\nВсе равно начать кампанию протоссов?"
+  },
+  {
+    "id": "strRACE_ERR_TERRAN_EXP",
+    "Key": "strRACE_ERR_TERRAN_EXP",
+    "Value": "До начала этой кампании мы рекомендуем завершить кампанию протоссов.\\n\\nВсе равно начать кампанию терранов?"
+  },
+  {
+    "id": "strRACE_ERR_ZERG_EXP",
+    "Key": "strRACE_ERR_ZERG_EXP",
+    "Value": "До начала этой кампании мы рекомендуем завершить кампании протоссов и терранов.\\n\\nВсе равно начать кампанию зергов?"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_0",
+    "Key": "strNATION_EXP_TERRAN_0",
+    "Value": "Элитная гвардия"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_1",
+    "Key": "strNATION_EXP_TERRAN_1",
+    "Value": "Мар-Сара"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_2",
+    "Key": "strNATION_EXP_TERRAN_2",
+    "Value": "Келморийцы"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_3",
+    "Key": "strNATION_EXP_TERRAN_3",
+    "Value": "Антига"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_4",
+    "Key": "strNATION_EXP_TERRAN_4",
+    "Value": "Корпус «Дельта»"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_5",
+    "Key": "strNATION_EXP_TERRAN_5",
+    "Value": "Полк «Атлант»"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_6",
+    "Key": "strNATION_EXP_TERRAN_6",
+    "Value": "Полк «Хронос»"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_7",
+    "Key": "strNATION_EXP_TERRAN_7",
+    "Value": "Корпус «Эпсилон»"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_0",
+    "Key": "strNATION_EXP_ZERG_0",
+    "Value": "Стая Тиамат"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_1",
+    "Key": "strNATION_EXP_ZERG_1",
+    "Value": "Стая Сурт"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_2",
+    "Key": "strNATION_EXP_ZERG_2",
+    "Value": "Стая Фенрир"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_3",
+    "Key": "strNATION_EXP_ZERG_3",
+    "Value": "Стая Йормунганд"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_4",
+    "Key": "strNATION_EXP_ZERG_4",
+    "Value": "Стая Гарм"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_5",
+    "Key": "strNATION_EXP_ZERG_5",
+    "Value": "Стая Грендель"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_6",
+    "Key": "strNATION_EXP_ZERG_6",
+    "Value": "Стая Балрог"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_7",
+    "Key": "strNATION_EXP_ZERG_7",
+    "Value": "Стая Левиафан"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_0",
+    "Key": "strNATION_EXP_PROTOSS_0",
+    "Value": "Племя Ара"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_1",
+    "Key": "strNATION_EXP_PROTOSS_1",
+    "Value": "Племя Саргас"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_2",
+    "Key": "strNATION_EXP_PROTOSS_2",
+    "Value": "Племя Акилай"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_3",
+    "Key": "strNATION_EXP_PROTOSS_3",
+    "Value": "Племя Фуринкс"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_4",
+    "Key": "strNATION_EXP_PROTOSS_4",
+    "Value": "Племя Аурига"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_5",
+    "Key": "strNATION_EXP_PROTOSS_5",
+    "Value": "Племя Венатир"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_6",
+    "Key": "strNATION_EXP_PROTOSS_6",
+    "Value": "Племя Шелак"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_7",
+    "Key": "strNATION_EXP_PROTOSS_7",
+    "Value": "Племя Велари"
+  },
+  {
+    "id": "strERROR_NOT_SUPPORTED_EUD_MAP",
+    "Key": "strERROR_NOT_SUPPORTED_EUD_MAP",
+    "Value": "EUD этой карты не поддерживается. Пожалуйста, сообщите о ней на форуме StarCraft."
+  },
+  {
+    "id": "strERROR_NOT_SUPPORTED_AT_ALL_EUD_MAP",
+    "Key": "strERROR_NOT_SUPPORTED_AT_ALL_EUD_MAP",
+    "Value": "EUD этой карты несовместим со StarCraft Remastered."
+  },
+  {
+    "id": "strERROR_JOINING_GAME_FULL",
+    "Key": "strERROR_JOINING_GAME_FULL",
+    "Value": "Не удалось присоединиться – нет доступных слотов."
+  },
+  {
+    "id": "strERROR_JOINING_GAME_NOT_FOUND",
+    "Key": "strERROR_JOINING_GAME_NOT_FOUND",
+    "Value": "Не удалось присоединиться – матч не найден."
+  }
+]

@@ -1,0 +1,40 @@
+</COMMENT Establishing Shot for Zerg Level 1>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+КАМПАНИЯ ЗЕРГОВ: СВЕРХРАЗУМ
+
+Рой зергов сокрушил войска терранов и разорил девять из тринадцати терранских планет.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Вскоре после падения Тарсониса, главной планеты терранов, основные силы флотилии протоссов покинули сектор.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_ZG1030.wav>
+</TEXTBOX>
+Теперь осталось лишь окончательно очистить Тарсонис от присутствия протоссов.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG1035.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palza\ZergA.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLOWERLEFT>
+СРЕДИ РУИН
+
+главной планеты Конфедерации
+</PAGE>

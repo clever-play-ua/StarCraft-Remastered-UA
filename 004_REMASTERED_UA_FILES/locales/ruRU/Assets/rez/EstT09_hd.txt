@@ -1,0 +1,34 @@
+</COMMENT Establishing Shot for Terran Level 9>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR3010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR3010.wav>
+</TEXTBOX>
+Зерги, которых привлек сигнал пси-излучателя, обрушились на ничего не подозревающие силы Конфедерации и полностью их уничтожили.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR3020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR3020.wav>
+</TEXTBOX>
+После этого вновь объявилась флотилия протоссов под командованием высшего тамплиера Тассадара и испепелила планету.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\TR3025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR3025.wav>
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\paltc\TerranC.pcx>
+</FONTCOLOR glue\paltc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+БОЛЬШОЙ ТОЛЧОК
+
+Флагман «Гиперион»
+Периферийная орбита Тарсониса,
+главной планеты Конфедерации
+</PAGE>

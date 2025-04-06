@@ -1,0 +1,34 @@
+</COMMENT Establishing Shot for Terran Level 11>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR4010.webm>
+</SOUND interstitials\sounds\scHD_Interstitial_Terran_Swipe.wav>
+</TEXTBOX>
+Сигнал, усиленный несколькими пси-излучателями, достиг дальних уголков сектора терранов и привлек мириады зергов на главную планету Конфедерации Тарсонис.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR4020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR4020.wav>
+</TEXTBOX>
+Зерги смели оборонительные укрепления Конфедерации и разорили крупнейшие города и промышленные центры на Тарсонисе.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\TR4025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR4025.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+
+</BACKGROUND glue\paltc\TerranC.pcx>
+</FONTCOLOR glue\paltc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+НОВЫЙ ГЕТТИСБЕРГ
+
+Флагман «Гиперион»
+Низкая орбита Тарсониса,
+главной планеты Конфедерации
+</PAGE>

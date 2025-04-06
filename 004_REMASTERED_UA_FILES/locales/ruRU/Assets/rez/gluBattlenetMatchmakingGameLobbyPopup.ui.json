@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "gluBattlenetMatchmakingGameLobbyPopup",
+  "rect": [0,0,600,323],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/MatchmakingGameLoadingPanel/MatchmakingGameLoadingPanel.html",
+      "id": 11,
+      "rect": [0,0,600,323],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

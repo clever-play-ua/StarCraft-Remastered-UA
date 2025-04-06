@@ -1,0 +1,50 @@
+</COMMENT epilogue for Starcraft Expansion>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6010.webm>
+</SOUND interstitials\sounds\scHD_Interstitial_Terran_Swipe.wav>
+</TEXTBOX>
+ЭПИЛОГ
+
+Вскоре после разгрома Дюгалля рой Керриган настиг и уничтожил остатки флота ОЗД. Ни один корабль так и не вернулся на Землю, чтобы доложить о произошедшем.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR6020.wav>
+</TEXTBOX>
+Арктур Менгск вернулся со своим разбитым флотом на Корхал, чтобы оправиться от поражения и заняться восстановлением Доминиона терранов...
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Combo_TR6030.wav>
+</TEXTBOX>
+Артанис и выжившие протоссы возвратились на Шакурас в надежде возродить свою некогда славную цивилизацию...
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6040.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+Дороги Зератула и Джеймса Рейнора разошлись, и с тех пор никто о них не слышал.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6050.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Combo_TR6050.wav>
+</TEXTBOX>
+А Сара Керриган, Королева Клинков, стала безраздельной владычицей полчищ ненасытных зергов. Одиноко восседая над выжженной планетой Чар, она задумчиво вглядывалась в безбрежный звездный океан и словно видела в нем великую пустоту,
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6060.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+предвестие грядущей беды... отблеск мнимой победы и тех испытаний, через которые ей еще только предстояло пройти.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\TR6065.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+</PAGE>

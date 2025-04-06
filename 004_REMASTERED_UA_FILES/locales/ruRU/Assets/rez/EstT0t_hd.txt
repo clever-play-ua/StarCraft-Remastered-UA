@@ -1,0 +1,43 @@
+</COMMENT Establishing Shot for Terran Level 1>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR1010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_1010.wav>
+</TEXTBOX>
+КАМПАНИЯ ТЕРРАНОВ: ВОССТАНИЕ
+
+После окончания войны с шахтерскими гильдиями Конфедерация терранов десять лет полностью контролировала колонизированную часть космоса.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR1020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_1020.wav>
+</TEXTBOX>
+Однако четыре дня назад из гиперпространства появилась флотилия кораблей пришельцев и уничтожила колонию Конфедерации на Чау-Саре.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR1030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_1030.wav>
+</TEXTBOX>
+Опасаясь, что следующей целью пришельцев может стать Мар-Сара, Конфедерация поручила вам вмешаться в ситуацию. Как магистрат, вы должны обеспечить безопасность колонистов и не допустить паники среди населения.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\TR1035.webm>
+</SOUND interstitials\sounds\scHD_Interstitial_Terran_Out.wav>
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 6000>
+</BACKGROUND glue\palta\TerranA.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ВВОДНЫЙ КУРС
+
+Штаб магистрата
+Колония на Мар-Саре
+2:25 по времени сектора Копрулу, 12.12.2499 г.
+</PAGE>

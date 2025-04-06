@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "gluPOk",
+  "rect": [0,0,360,200],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "FLCBTN",
+      "content": "gluPOk-1",
+      "id": 1,
+      "rect": [103,159,158,29],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluPOk-2",
+      "id": 2,
+      "rect": [10,10,340,140],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

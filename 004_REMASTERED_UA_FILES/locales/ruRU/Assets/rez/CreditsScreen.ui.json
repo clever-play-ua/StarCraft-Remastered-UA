@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "CreditsScreen",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Credits_A.dds",
+      "id": 2,
+      "rect": [120,30,420,450],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_CENTER"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/CreditsPanel/CreditsPanel.html",
+      "id": 1,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

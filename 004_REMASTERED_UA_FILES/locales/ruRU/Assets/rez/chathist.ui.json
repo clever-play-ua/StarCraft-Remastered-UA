@@ -1,0 +1,32 @@
+﻿{
+  "type": "DIALOG",
+  "name": "ChatHistory",
+  "rect": [120,24,400,320],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "chathist-1",
+      "id": -2,
+      "rect": [150,276,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT","CTRL_ENTER","CTRL_ESCAPE"],
+      "children": null
+    },
+    {
+      "type": "LISTBOX",
+      "content": "",
+      "id": 1,
+      "rect": [16,40,370,220],
+      "flags": ["WS_VISIBLE","WS_BORDER","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "chathist-2",
+      "id": -1,
+      "rect": [54,8,300,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

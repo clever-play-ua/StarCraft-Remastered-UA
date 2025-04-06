@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "WhisperPopup",
+  "rect": [294,15,346,144],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/WhisperPopupPanel/WhisperPopupPanel.html",
+      "id": 1,
+      "rect": [0,0,346,144],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

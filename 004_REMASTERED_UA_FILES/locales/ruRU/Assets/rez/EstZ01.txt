@@ -1,0 +1,26 @@
+</COMMENT Establishing Shot for Zerg Level 1>
+
+</FADESPEED 100>
+</DISPLAYTIME 28000>
+
+</COMMENT Confusing - what are the protoss doing? #############################################################>
+</BACKGROUND glue\palza\Blank.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLEFT>
+КАМПАНИЯ ЗЕРГОВ: СВЕРХРАЗУМ
+
+Рой зергов сокрушил войска терранов и разорил девять из тринадцати терранских планет. Вскоре после падения Тарсониса, главной планеты терранов, основные силы флотилии протоссов покинули сектор. Теперь осталось лишь окончательно очистить Тарсонис от присутствия протоссов.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palza\ZergA.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLOWERLEFT>
+СРЕДИ РУИН
+
+Тарсонис, главная планета Конфедерации
+</PAGE>

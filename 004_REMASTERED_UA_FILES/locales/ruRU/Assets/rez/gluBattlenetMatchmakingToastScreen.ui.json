@@ -1,0 +1,64 @@
+﻿{
+  "type": "DIALOG",
+  "name": "MatchmakingScreen",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\create\\twoBtnHolder.dds",
+      "id": 1,
+      "rect": [384,380,204,100],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\create\\toastMap.dds",
+      "id": 3,
+      "rect": [0,200,640,220],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_CENTER"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\ButtonSmall.dds",
+      "id": 4,
+      "rect": [35,430,100,20],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetMatchmakingToastScreen-1",
+      "id": 5,
+      "rect": [512,443,112,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","CTRL_ENTER","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetMatchmakingToastScreen-2",
+      "id": 6,
+      "rect": [388,443,112,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","CTRL_ENTER","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetMatchmakingToastScreen-3",
+      "id": 7,
+      "rect": [20,443,112,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","CTRL_ENTER","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/ToastPanel/ToastPanel.html",
+      "id": 8,
+      "rect": [0,0,640,440],
+      "flags": ["WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+﻿{
+  "type": "DIALOG",
+  "name": "BattlenetPopup",
+  "rect": [0,0,420,300],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\BlockingOperationPopupLarge.dds",
+      "id": 10,
+      "rect": [0,0,420,300],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluBattlenetPopupLarge-1",
+      "id": 11,
+      "rect": [10,10,400,240],
+      "flags": ["WS_VISIBLE","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetPopupLarge-2",
+      "id": 1,
+      "rect": [34,255,158,29],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","RC_BIGGERTEXT","WS_HOTKEY","CTRL_ENTER","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetPopupLarge-3",
+      "id": 3,
+      "rect": [131,255,158,29],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Button.dds",
+      "id": 12,
+      "rect": [131,255,158,29],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Button.dds",
+      "id": 14,
+      "rect": [34,255,158,29],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Button.dds",
+      "id": 15,
+      "rect": [228,255,158,29],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

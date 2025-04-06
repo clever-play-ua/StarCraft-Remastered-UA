@@ -1,0 +1,24 @@
+</COMMENT Establishing Shot for Protoss Level 8>
+
+</FADESPEED 100>
+</DISPLAYTIME 20000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+Судьи взяли Тассадара под стражу и объявили, что тот предстанет перед судом Конклава по обвинению в измене. Фениксу, Рейнору и сторонникам Тассадара удалось уйти от войск Конклава, а темным тамплиерам – скрыться во время неразберихи.
+</PAGE>
+
+</DISPLAYTIME 5000>
+</COMMENT #############################################################>
+</BACKGROUND glue\palpc\ProtossC.pcx>
+</FONTCOLOR glue\palpc\tfont.pcx>
+	
+</SCREENLOWERLEFT>
+ЗЛОКЛЮЧЕНИЯ ТАССАДАРА
+
+Флагман протоссов «Гантритор»
+Орбита Айура
+</PAGE>

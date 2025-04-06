@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Cancel",
+  "rect": [176,144,288,128],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "cancel-1",
+      "id": -3,
+      "rect": [46,46,53,14],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "cancel-2",
+      "id": 1,
+      "rect": [6,4,132,40],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

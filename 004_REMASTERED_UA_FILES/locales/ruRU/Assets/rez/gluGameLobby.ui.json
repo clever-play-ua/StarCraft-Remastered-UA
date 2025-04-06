@@ -1,0 +1,88 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Chat",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\Chatroom\\pChat.dds",
+      "id": 6,
+      "rect": [0,308,372,169],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Chatroom\\pJoin.dds",
+      "id": 7,
+      "rect": [400,0,240,333],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Chatroom\\pList.dds",
+      "id": 8,
+      "rect": [0,0,372,323],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pCancel.dds",
+      "id": 12,
+      "rect": [472,356,168,91],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pOk.dds",
+      "id": 11,
+      "rect": [436,336,204,71],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluGameLobby-1",
+      "id": 9,
+      "rect": [441,383,152,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluGameLobby-2",
+      "id": 10,
+      "rect": [477,419,132,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","RC_BIGGERTEXT","WS_HOTKEY","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/GameLobbyChatPanel/GameLobbyChatPanel.html",
+      "id": 1,
+      "rect": [26,334,340,140],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/GameSearchMapInfoPanel/GameSearchMapInfoPanel.html",
+      "id": 2,
+      "rect": [404,53,200,276],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/GameLobbyPanel/GameLobbyPanel.html",
+      "id": 3,
+      "rect": [30,32,336,284],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

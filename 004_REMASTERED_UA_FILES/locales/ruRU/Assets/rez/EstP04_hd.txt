@@ -1,0 +1,45 @@
+</COMMENT Establishing Shot for Protoss Level 4>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT2010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+Силы зергов близ провинции Скион были уничтожены, но протоссы дорого заплатили за эту победу.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT2020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+Претор Феникс, герой и предводитель тамплиеров, погиб в бою. Конклав, убежденный в том, что победа над зергами неизбежна, занялся другими вопросами.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT2030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+Судья Алдарис получил приказ найти и арестовать непокорного Тассадара, чтобы доставить его на родину и предать суду как изменника.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT2040.webm>
+</TEXTBOX>
+В сопровождении небольшой группы кораблей Алдарис вместе с вершителем направляются на выжженную планету Чар в надежде застать там Тассадара.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\PT2045.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe_End2.wav>
+</PAGE>
+
+</DISPLAYTIME 5000>
+</COMMENT #############################################################>
+</BACKGROUND glue\palpb\ProtossB.pcx>
+</FONTCOLOR glue\palpb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ОХОТА ЗА ТАССАДАРОМ
+
+Флагман протоссов «Гантритор»
+Орбита Чара
+</PAGE>

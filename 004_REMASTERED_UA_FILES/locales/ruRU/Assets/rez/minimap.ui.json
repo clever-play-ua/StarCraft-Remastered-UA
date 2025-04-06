@@ -1,0 +1,40 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Minimap",
+  "rect": [0,315,138,165],
+  "style": [],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "",
+      "id": 1,
+      "rect": [6,33,128,128],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "minimap-1",
+      "id": 2,
+      "rect": [3,5,64,24],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "minimap-2",
+      "id": 3,
+      "rect": [76,5,52,24],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "minimap-3",
+      "id": 4,
+      "rect": [3,5,64,24],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    }
+  ]
+}

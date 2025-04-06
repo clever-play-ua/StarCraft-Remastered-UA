@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Wait",
+  "rect": [176,144,288,128],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "CTEXT",
+      "content": "wait-1",
+      "id": 1,
+      "rect": [6,4,276,120],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}
