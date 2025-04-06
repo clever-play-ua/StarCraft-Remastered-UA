@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Zerg Level 8x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzbx\XZergB.pcx>
+</FONTCOLOR glue\palzbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"УБИВСТВО ЗВІРА"
+
+Заражена платформа над планетою Чар
+Головна база Керріґан
+</PAGE>

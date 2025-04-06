@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Zerg Level 3x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palta\TerranA.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"КЕЛ-МОРІАНСЬКИЙ АЛЬЯНС"
+
+Командний корабель "Гіперіон" 
+Орбіта планети Моріа
+</PAGE>

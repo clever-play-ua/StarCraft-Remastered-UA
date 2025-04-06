@@ -1,0 +1,27 @@
+</COMMENT Establishing Shot for Zerg Level 9Bx -- bonus level>
+
+</FADESPEED 100>
+</DISPLAYTIME 35000>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+
+
+Неочікувано для всіх, Керріґан дозволила Зератулові та його братам залишити планету Чар живими. 
+
+Втомлені та виснажені протосси рушили до планети Шакурас, сподіваючись знайти їхнього побратима Артаніса, а також інших уцілілих, яким удалося пережити гнів Керріґан...
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 10000>
+</BACKGROUND glue\palzcx\XZergC.pcx>
+</FONTCOLOR glue\palzcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ТЕМНЕ ПОХОДЖЕННЯ"
+
+</PAGE>

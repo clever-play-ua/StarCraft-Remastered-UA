@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Terran Level 7x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpbx\XProtosB.pcx>
+</FONTCOLOR glue\palpbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"КРОВ ПАТРІОТА"
+
+Командний корабель ОЗД "Александр"
+Орбіта планети Браксис
+</PAGE>

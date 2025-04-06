@@ -1,0 +1,16 @@
+</COMMENT Establishing Shot for Protoss Level 7x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpax\xProtosA.pcx>
+</FONTCOLOR glue\palpax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ЗАКОЛОТНИК"
+
+Цитадель виконавця
+Новий Антіок
+Планета Шакурас
+</PAGE>

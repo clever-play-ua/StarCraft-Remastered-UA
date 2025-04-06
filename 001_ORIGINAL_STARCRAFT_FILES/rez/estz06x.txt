@@ -1,0 +1,16 @@
+</COMMENT Establishing Shot for Zerg Level 6x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltbx\XTerranB.pcx>
+</FONTCOLOR glue\paltbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ГНІВ РОЮ"
+
+Фортеця Керріґан
+Планета Тарсоніс
+Два дні потому
+</PAGE>

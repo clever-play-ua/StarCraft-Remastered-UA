@@ -1,0 +1,16 @@
+</COMMENT Establishing Shot for Protoss Level 3x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpax\XProtosA.pcx>
+</FONTCOLOR glue\palpax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"СПАДОК ЗЕЛ'НАҐА"
+
+Головне поселення протоссів
+Новий Антіок
+Планета Шакурас
+</PAGE>

@@ -1,0 +1,26 @@
+</COMMENT Establishing Shot for Protoss Level 8>
+
+</FADESPEED 100>
+</DISPLAYTIME 20000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+Тассадара було взято під арешт. Судді розпорядилися, що він мусить постати перед трибуналом за злочини проти Конклаву. 
+
+Феніксу, Рейнору та послідовникам Тассадара вдалося втекти від агентів Конклаву, а темний тамплієр Зератул розчинився у хаосі.
+</PAGE>
+
+</DISPLAYTIME 5000>
+</COMMENT #############################################################>
+</BACKGROUND glue\palpc\ProtossC.pcx>
+</FONTCOLOR glue\palpc\tfont.pcx>
+	
+</SCREENLOWERLEFT>
+"СУД НАД ТАССАДАРОМ"
+
+Командний корабель протоссів "Ґантрітор"
+Орбіта планети Аїур
+</PAGE>

@@ -1,0 +1,16 @@
+</COMMENT Establishing Shot for Terran Level 5ax>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltax\XTerranA.pcx>
+</FONTCOLOR glue\paltax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ПАДІННЯ ІМПЕРАТОРА (ЕПІЦЕНТР)"
+
+Командний центр Директорії
+Околиці Авґустґрада,
+столичного міста планети Коргал
+</PAGE>

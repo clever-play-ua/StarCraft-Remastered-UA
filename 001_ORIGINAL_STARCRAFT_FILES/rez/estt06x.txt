@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Terran Level 6x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpcx\xProtosC.pcx>
+</FONTCOLOR glue\palpcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ВТЕЧА ІМПЕРАТОРА"
+
+Командний корабель ОЗД "Александр", 
+на шляху до планети Аїур
+</PAGE>

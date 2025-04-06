@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Zerg Level 9x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ПОМСТА"
+
+Десь на планеті Чар
+Шість годин потому
+</PAGE>

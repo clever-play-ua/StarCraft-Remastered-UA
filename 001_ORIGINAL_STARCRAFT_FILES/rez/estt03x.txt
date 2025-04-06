@@ -1,0 +1,16 @@
+</COMMENT Establishing Shot for Terran Level 3x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltc\TerranC.pcx>
+</FONTCOLOR glue\paltc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"РУЇНИ ТАРСОНІСА"
+
+Командний корабель ОЗД "Александр" 
+Орбіта планети Тарсоніс,
+колишньої столиці Терранської Конфедерації
+</PAGE>
