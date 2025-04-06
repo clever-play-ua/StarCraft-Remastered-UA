@@ -1,1 +1,1 @@
-samase.exe
+samase.exe "%~dp0SCR_UA"

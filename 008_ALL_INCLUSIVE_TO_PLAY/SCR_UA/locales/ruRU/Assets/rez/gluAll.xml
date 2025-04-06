@@ -1,0 +1,5134 @@
+<strings>
+    <string>
+        <id>bnet119_authentication_progressPopup_title</id>
+        <value>Выполняется вход...</value>
+    </string>
+    <string>
+        <id>bnet119_authentication_error_prefix</id>
+        <value>Ошибка входа:</value>
+    </string>
+    <string>
+        <id>bnet119_loggedOut</id>
+        <value>Вы вышли из системы.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_LimitReached</id>
+        <value>Вы достигли лимита профилей. Удалите как минимум один из них.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_ToonInUse</id>
+        <value>Этот профиль уже существует. Попробуйте указать другое имя или шлюз.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon</id>
+        <value>Некорректное имя профиля.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon_BadWords</id>
+        <value>Некорректное имя профиля (ненормативная лексика).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon_InvalidChar</id>
+        <value>Некорректное имя профиля (некорректные символы).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon_TooLong</id>
+        <value>Некорректное имя профиля (имя слишком длинное).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon_TooShort</id>
+        <value>Некорректное имя профиля (имя слишком короткое).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadAuthToken</id>
+        <value>Неверный пароль.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_LimitReached</id>
+        <value>Вы достигли лимита профилей. Удалите как минимум один из них.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_ToonInUse</id>
+        <value>Этот профиль уже существует. Попробуйте указать другое имя или шлюз.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon</id>
+        <value>Некорректное имя профиля.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon_BadWords</id>
+        <value>Некорректное имя профиля (ненормативная лексика).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon_InvalidChar</id>
+        <value>Некорректное имя профиля (некорректные символы).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon_TooLong</id>
+        <value>Некорректное имя профиля (имя слишком длинное).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon_TooShort</id>
+        <value>Некорректное имя профиля (имя слишком короткое).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadAuthToken</id>
+        <value>Неверный пароль.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_linkProgressPopup_title</id>
+        <value>Привязка...</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_delete_confirmation</id>
+        <value>ВНИМАНИЕ: удаление профиля – \\4необратимая\\2 операция. Вы \\1не\\2 сможете восстановить ваш профиль после удаления.\\n\\nВы уверены, что хотите удалить этот профиль?</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_deleteProgressPopup_title</id>
+        <value>Удаление...</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_error_CE_DuplicateConnection</id>
+        <value>Вы уже подключены к этому профилю. Допускается только одно подключение.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_error_CE_FailedToConnect</id>
+        <value>Ошибка подключения к классическому серверу.</value>
+    </string>
+    <string>
+        <id>bnet119_cloud_uploadQuitConfirmation</id>
+        <value>Идет выгрузка данных. Все равно выйти?\\n(%s).</value>
+    </string>
+    <string>
+        <id>bnet119_cloud_deleteProgressPopup_title</id>
+        <value>Удаление...</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_TE_UnknownEndpoint</id>
+        <value>Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_34200</id>
+        <value>Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_progressPopup_title</id>
+        <value>Подключение...</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAurora_loggedOut</id>
+        <value>Соединение с сервером разорвано.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_LimitReached</id>
+        <value>Вы достигли лимита профилей. Удалите как минимум один из них.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_ToonInUse</id>
+        <value>Этот профиль уже используется.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon</id>
+        <value>Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon_BadWords</id>
+        <value>Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon_InvalidChar</id>
+        <value>Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon_TooLong</id>
+        <value>Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon_TooShort</id>
+        <value>Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadAuthToken</id>
+        <value>Неверный пароль.</value>
+    </string>
+    <string>
+        <id>bnet118_loginProgressPopup_title</id>
+        <value>Подключение...</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon</id>
+        <value>Некорректное имя профиля.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon_BadWords</id>
+        <value>Указанное имя профиля содержит ненормативную лексику.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon_InvalidChar</id>
+        <value>Указанное имя профиля содержит некорректные символы.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon_TooLong</id>
+        <value>Указанное имя профиля слишком длинное.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon_TooShort</id>
+        <value>Указанное имя профиля слишком короткое.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_ToonInUse</id>
+        <value>Этот профиль уже существует. Попробуйте указать другое имя или шлюз.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_error_CE_BadAuthToken</id>
+        <value>Неверные данные авторизации.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_success</id>
+        <value>Пароль изменен!</value>
+    </string>
+    <string>
+        <id>bnet118_changePasswordProgressPopup_title</id>
+        <value>Смена пароля...</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_error_CE_BadAuthToken</id>
+        <value>Неверные данные авторизации</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_success</id>
+        <value>Ваш запрос смены адреса электронной почты отправлен. Если указанный старый адрес совпадает с тем, к которому в данный момент привязана ваша учетная запись, на этот адрес будет отправлено письмо с дальнейшими инструкциями.</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddressProgressPopup_title</id>
+        <value>Идет смена адреса электронной почты...</value>
+    </string>
+    <string>
+        <id>bnet118_resetPassword_error_CE_BadAuthToken</id>
+        <value>Неверные данные авторизации.</value>
+    </string>
+    <string>
+        <id>bnet118_resetPassword_success</id>
+        <value>Запрос нового пароля получен. Если вы указывали для этой учетной записи адрес электронной почты, на него вам придет письмо с инструкциями по смене пароля.</value>
+    </string>
+    <string>
+        <id>bnet118_resetPasswordProgressPopup_title</id>
+        <value>Сброс пароля...</value>
+    </string>
+    <string>
+        <id>bnet_chat_notConnectedToAnyChannel</id>
+        <value>Вы не подключены ни к одному каналу.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandUsage</id>
+        <value>Использование</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandAliases</id>
+        <value>Сокращения</value>
+    </string>
+    <string>
+        <id>bnet_chat_unrecognizedCommand</id>
+        <value>Неизвестная команда</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelpListTitle</id>
+        <value>Доступны следующие темы:</value>
+    </string>
+    <string>
+        <id>bnet_chat_joiningDefaultChannel</id>
+        <value>Подключение к каналу по умолчанию...</value>
+    </string>
+    <string>
+        <id>bnet_chat_joiningChannel</id>
+        <value>Подключение к каналу %s...</value>
+    </string>
+    <string>
+        <id>bnet_chat_creatingAndJoiningCustomChannel</id>
+        <value>Подключение к каналу %s...</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinDefaultChannel_failure</id>
+        <value>Невозможно подключиться к каналу.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_failure</id>
+        <value>Невозможно подключиться к каналу.</value>
+    </string>
+    <string>
+        <id>bnet_chat_createJoinCustomChannel_failure</id>
+        <value>Невозможно подключиться к каналу.</value>
+    </string>
+    <string>
+        <id>bnet_chat_leavingChannel</id>
+        <value>Выход из канала %s...</value>
+    </string>
+    <string>
+        <id>bnet_chat_leftChannel</id>
+        <value>Вы покинули канал %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_connectedToChatService</id>
+        <value>Вы подключены к службе чата.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_error_misc</id>
+        <value>Ошибка подключения к каналу: %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_error_CE_LimitReached</id>
+        <value>Ошибка подключения к каналу: достигнут лимит каналов.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_error_CE_BadChannel</id>
+        <value>Ошибка подключения к каналу: неподходящий канал.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_success</id>
+        <value>Вы подключились к каналу %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_createChannel_error_misc</id>
+        <value>Ошибка при создании канала: %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_createChannel_error_CE_LimitReached</id>
+        <value>Ошибка создания канала: достигнут лимит каналов.</value>
+    </string>
+    <string>
+        <id>bnet_chat_error_misc</id>
+        <value>Ошибка: %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_error_CE_BadCommand</id>
+        <value>Ошибка: некорректная команда.</value>
+    </string>
+    <string>
+        <id>bnet_chat_error_CE_BadChannel</id>
+        <value>Неподходящее название канала чата.</value>
+    </string>
+    <string>
+        <id>bnet_connectToonProgressPopup_title</id>
+        <value>Подключение...</value>
+    </string>
+    <string>
+        <id>bnet_createToonProgressPopup_title</id>
+        <value>Создание...</value>
+    </string>
+    <string>
+        <id>bnet_upgradeRequired</id>
+        <value>Требуется обновление.</value>
+    </string>
+    <string>
+        <id>chatNOPLAYERS</id>
+        <value>Для начала матча требуется наличие хотя бы одного игрока.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_emailAddressMismatch</id>
+        <value>Электронный адрес должен совпадать в обоих полях.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_passwordRequired</id>
+        <value>Требуется пароль.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_passwordMismatch</id>
+        <value>Пароль должен совпадать в обоих полях.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_success_title</id>
+        <value>Учетная запись создана!</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_success_body</id>
+        <value>Имейте в виду, что неактивные учетные записи регулярно удаляются. Если вы создаете новую учетную запись, вы должны будете провести в службах Battle.net (за один сеанс или за несколько сеансов в совокупности) в общей сложности не менее 2 часов в течение 48 часов с момента создания новой учетной записи. После этого ваша учетная запись получит статус постоянной, и для поддержания этого статуса вам нужно будет подключаться к ней не реже раза в 3 месяца.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_title</id>
+        <value>Создать учетную запись</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_email</id>
+        <value>Адрес электронной почты</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_error_newPasswordRequired</id>
+        <value>Требуется новый пароль. Он должен содержать от 3 до 512 символов.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_error_passwordMismatch</id>
+        <value>Новый пароль должен совпадать в обоих полях.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_title</id>
+        <value>Изменить пароль</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_currentPassword</id>
+        <value>Текущий пароль</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_repeatPassword</id>
+        <value>Подтвердите пароль</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_repeatNewPassword</id>
+        <value>Подтвердите новый пароль</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_error_emailAddressMismatch</id>
+        <value>Новый электронный адрес должен совпадать в обоих полях.</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_title</id>
+        <value>Смена адреса электронной почты</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_body</id>
+        <value>Если вы привязали к этой учетной записи электронный адрес, здесь вы можете изменить его.\\nИмейте в виду, что для осуществления этого изменения вы должны иметь доступ к обоим электронным адресам.</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_oldEmailAddress</id>
+        <value>Старый адрес электронной почты</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_newEmailAddress</id>
+        <value>Новый адрес электронной почты</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_repeatNewEmailAddress</id>
+        <value>Подтвердите новый адрес электронной почты</value>
+    </string>
+    <string>
+        <id>bnet118_resetPassword_emailAddress</id>
+        <value>Ваш адрес электронной почты</value>
+    </string>
+    <string>
+        <id>bnet118_resetPassword_body</id>
+        <value>Если вы забыли пароль, но указали для этой учетной записи адрес электронной почты, вы можете запросить новый пароль. Укажите адрес электронной почты, к которому вы привязывали эту учетную запись.</value>
+    </string>
+    <string>
+        <id>bnet118_eulaPopup_agree</id>
+        <value>g\\4П\\1ринимаю</value>
+    </string>
+    <string>
+        <id>bnet118_eulaPopup_title</id>
+        <value>Пользовательское соглашение Battle.net</value>
+    </string>
+    <string>
+        <id>bnet118_eulaPopup_scrollToBottom</id>
+        <value>Для продолжения прокрутите текст вниз.</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_error_validEmailAddressRequired</id>
+        <value>Требуется действующий адрес электронной почты.</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_error_accountNameRequired</id>
+        <value>Требуется название учетной записи.</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_accountName</id>
+        <value>Учетная запись</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_newPassword</id>
+        <value>Новый пароль</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_password</id>
+        <value>Пароль</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_recoverPassword</id>
+        <value>Восстановить пароль</value>
+    </string>
+    <string>
+        <id>bnet118_addFriendPopup_title</id>
+        <value>Добавить друга</value>
+    </string>
+    <string>
+        <id>bnet118_addFriendPopup_accountName</id>
+        <value>Введите название учетной записи</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_gatewayPane_title</id>
+        <value>Шлюз</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_gatewayPane_note</id>
+        <value>Если выбранный шлюз не подходит вашему текущему региону, для улучшения качества соединения вы можете выбрать более подходящий.</value>
+    </string>
+    <string>
+        <id>bnet_chat_channelSelectPopup_title</id>
+        <value>Выберите канал</value>
+    </string>
+    <string>
+        <id>bnet_chat_channelSelectPopup_body</id>
+        <value>Чтобы подключиться к приватному каналу или создать свой, введите имя в поле снизу.</value>
+    </string>
+    <string>
+        <id>bnet_channels</id>
+        <value>Каналы</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_friends</id>
+        <value>Друзья</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_friendsOffline</id>
+        <value>Не в сети</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_friendsOnline</id>
+        <value>В сети</value>
+    </string>
+    <string>
+        <id>infoPane_author</id>
+        <value>Автор</value>
+    </string>
+    <string>
+        <id>infoPane_gameCreator</id>
+        <value>Создатель игры</value>
+    </string>
+    <string>
+        <id>infoPane_gameName</id>
+        <value>Название матча</value>
+    </string>
+    <string>
+        <id>infoPane_gameType</id>
+        <value>Тип игры</value>
+    </string>
+    <string>
+        <id>infoPane_mapName</id>
+        <value>Карта</value>
+    </string>
+    <string>
+        <id>infoPane_players</id>
+        <value>Игроки</value>
+    </string>
+    <string>
+        <id>infoPane_size</id>
+        <value>Размер</value>
+    </string>
+    <string>
+        <id>infoPane_speed</id>
+        <value>Скорость</value>
+    </string>
+    <string>
+        <id>infoPane_suggestedPlayers</id>
+        <value>Рекомендуемое количество игроков</value>
+    </string>
+    <string>
+        <id>infoPane_tileset</id>
+        <value>Набор текстур</value>
+    </string>
+    <string>
+        <id>str_ok</id>
+        <value>rO\\4К\\1</value>
+    </string>
+    <string>
+        <id>createGameScreen_title</id>
+        <value>Создать матч</value>
+    </string>
+    <string>
+        <id>createGameScreen_gameName</id>
+        <value>Название</value>
+    </string>
+    <string>
+        <id>createGameScreen_map</id>
+        <value>Карта</value>
+    </string>
+    <string>
+        <id>createGameScreen_privacy</id>
+        <value>Конфиденциальность</value>
+    </string>
+    <string>
+        <id>createGameScreen_private</id>
+        <value>Закрытый</value>
+    </string>
+    <string>
+        <id>createGameScreen_public</id>
+        <value>Открытый</value>
+    </string>
+    <string>
+        <id>createGameScreen_fileBrowser_title</id>
+        <value>Выберите карту</value>
+    </string>
+    <string>
+        <id>searchGameScreen_customGames</id>
+        <value>Своя игра</value>
+    </string>
+    <string>
+        <id>lobbyScreen_observers</id>
+        <value>Зрители</value>
+    </string>
+    <string>
+        <id>lobbyScreen_teams</id>
+        <value>Команды</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_error_requestAlreadyActive</id>
+        <value>Запрос уже активен.</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_winsLossesDisconnects</id>
+        <value>победы: %d, поражения: %d, отключения: %d.</value>
+    </string>
+    <string>
+        <id>str_cancel</id>
+        <value>j\\4О\\1тмена</value>
+    </string>
+    <string>
+        <id>bnet118_createGameScreen_error_passwordRequired</id>
+        <value>Для создания закрытого матча требуется пароль.</value>
+    </string>
+    <string>
+        <id>bnet_joinGame_error_invalidPassword</id>
+        <value>Неверный пароль.</value>
+    </string>
+    <string>
+        <id>bnet_joinGame_privateGameSearchProgressPopup_title</id>
+        <value>Проверка...</value>
+    </string>
+    <string>
+        <id>bnet_initialServerDataDownloadProgressPopup_title</id>
+        <value>Загрузка настроек...</value>
+    </string>
+    <string>
+        <id>bnet_cloud_downloadProgressPopup_title</id>
+        <value>Загрузка...</value>
+    </string>
+    <string>
+        <id>bnet_cloud_downloadProgressPopup_body</id>
+        <value>Загрузка...\\n(%s).</value>
+    </string>
+    <string>
+        <id>bnet_cloud_sizeRemaining</id>
+        <value>Осталось %s КБ</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_repeatEmail</id>
+        <value>Отправить снова</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_accountName_rules</id>
+        <value>Введите имя учетной записи. Оно должно содержать менее 16 символов и не иметь пробелов.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_password_rules</id>
+        <value>Введите пароль. Он должен содержать от 3 до 512 символов.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_error_currentPasswordRequired</id>
+        <value>Введите ваш текущий пароль.</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_LANPane_title</id>
+        <value>Протокол</value>
+    </string>
+    <string>
+        <id>hotkeyPane_save</id>
+        <value>c\\4С\\1охранить</value>
+    </string>
+    <string>
+        <id>hotkeyPane_reset</id>
+        <value>g\\4П\\1о умолчанию</value>
+    </string>
+    <string>
+        <id>bnet118_eulaPopup_disagree</id>
+        <value>j\\4О\\1тказываюсь</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_description</id>
+        <value>Добавить или удалить игрока из списка друзей, либо написать личное сообщение.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_add_description</id>
+        <value>Добавить ИГРОКА в список друзей</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_remove_description</id>
+        <value>Удалить ИГРОКА из списка друзей</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_whisper_description</id>
+        <value>Отправить личное СООБЩЕНИЕ всем друзьям по Brood War и друзьям по сети Blizzard, играющим в StarCraft.</value>
+    </string>
+    <string>
+        <id>bnet_fishWarning</id>
+        <value>Этот шлюз не поддерживается Blizzard официально. Вы хотите продолжить?</value>
+    </string>
+    <string>
+        <id>spi_battlenet_title</id>
+        <value>Battle.net®</value>
+    </string>
+    <string>
+        <id>spi_battlenet_description</id>
+        <value>Подключение через провайдера или прямое подключение к Интернету.</value>
+    </string>
+    <string>
+        <id>spi_lan_title</id>
+        <value>Локальная сеть</value>
+    </string>
+    <string>
+        <id>spi_lan_description</id>
+        <value>Все компьютеры должны быть подключены к сети, совместимой с UDP/IP.</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_LANPane_error</id>
+        <value>Не удается получить список протоколов.</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_gatewayPane_error</id>
+        <value>Не удается получить список шлюзов.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriendProgressPopup_title</id>
+        <value>Добавление друга...</value>
+    </string>
+    <string>
+        <id>bnet_createGameProgressPopup_title</id>
+        <value>Создание матча...</value>
+    </string>
+    <string>
+        <id>network_firewall_whitelist</id>
+        <value>Добавить StarCraft в белый список вашего брандмауэра?</value>
+    </string>
+    <string>
+        <id>hotkeyPane_title</id>
+        <value>Горячие клавиши</value>
+    </string>
+    <string>
+        <id>hotkeyPane_selectedProfile</id>
+        <value>Текущий профиль</value>
+    </string>
+    <string>
+        <id>modemPHONEBOOK</id>
+        <value>Phonebook</value>
+    </string>
+    <string>
+        <id>modemENTRY</id>
+        <value>entry</value>
+    </string>
+    <string>
+        <id>modemNEWENTRY</id>
+        <value>Enter new phone number:</value>
+    </string>
+    <string>
+        <id>modemCONFIRMDELETE</id>
+        <value>Are you sure you want to delete this entry?</value>
+    </string>
+    <string>
+        <id>modemREPLACEENTRY_s</id>
+        <value>Do you wish to replace the entry '%s'?</value>
+    </string>
+    <string>
+        <id>modemTOOMANYENTRIES</id>
+        <value>Too many phone book entries. Please delete an entry before adding another.</value>
+    </string>
+    <string>
+        <id>modemINITERROR</id>
+        <value>An error occurred while trying to initialize the modem.</value>
+    </string>
+    <string>
+        <id>modemNOMODEMS</id>
+        <value>No modems were detected.</value>
+    </string>
+    <string>
+        <id>modemVERSIONERROR</id>
+        <value>Unable to join the detected game. Your version of StarCraft is incompatible with the game creator's version.</value>
+    </string>
+    <string>
+        <id>modemNOANSWERERROR</id>
+        <value>Unable to connect. There was no answer at the number dialed.</value>
+    </string>
+    <string>
+        <id>modemNETWORKERROR</id>
+        <value>Unable to dial. Either no dial tone was detected or there were problems configuring the modem.</value>
+    </string>
+    <string>
+        <id>modemBUSYERROR</id>
+        <value>Unable to connect. The number dialed was busy.</value>
+    </string>
+    <string>
+        <id>modemOFFERROR</id>
+        <value>Unable to detect the modem. Please ensure that your modem is properly installed, turned on, and correctly connected.</value>
+    </string>
+    <string>
+        <id>modemJOINERROR</id>
+        <value>Unable to establish a connection. A game of StarCraft was not detected at the specified phone number.</value>
+    </string>
+    <string>
+        <id>modemCONFIRMHANGUP</id>
+        <value>Are you sure you want to hang up on your current connection?</value>
+    </string>
+    <string>
+        <id>modemDESCRIPTION</id>
+        <value>Two players can play StarCraft via Modem. To create a modem game, click on the Create Game button below and your computer will be set to auto answer incoming calls. To join a game that has already been created, select the phone number from the list to the left or enter a new number.</value>
+    </string>
+    <string>
+        <id>modemGAMENAME_u</id>
+        <value>Game %u</value>
+    </string>
+    <string>
+        <id>conANSWER</id>
+        <value>Ответить</value>
+    </string>
+    <string>
+        <id>conCALL</id>
+        <value>Звонок</value>
+    </string>
+    <string>
+        <id>conMODEM</id>
+        <value>Modem</value>
+    </string>
+    <string>
+        <id>conMODEM_d</id>
+        <value>Requirements: Each computer will need a properly configured modem connected to a phone line. Modems can be configured by using the Control Panel item called \"Modems\". Each player needs a different phone number.</value>
+    </string>
+    <string>
+        <id>conDIRECT_d</id>
+        <value>Требования: соединение через нуль-модемный кабель, подключенный к свободному последовательному порту.</value>
+    </string>
+    <string>
+        <id>conIPX_d</id>
+        <value>Требования: установленный IPX-протокол и подключение к компьютерам других игроков через локальную сеть.</value>
+    </string>
+    <string>
+        <id>conBTLN_d</id>
+        <value>Требования: соединение с Интернет.</value>
+    </string>
+    <string>
+        <id>conSUPPORTED</id>
+        <value>Поддерживает до %d игроков.</value>
+    </string>
+    <string>
+        <id>conIPX_ext</id>
+        <value>Локальные сети обычно используются для соединения офисных компьютеров, но также могут быть настроены в домашних условиях. Каждый пользователь локальной сети может играть с другими пользователями, подключенными к той же сети.</value>
+    </string>
+    <string>
+        <id>conBTLN_ext</id>
+        <value>Battle.net – это бесплатная игровая служба компании Blizzard Entertainment, позволяющая игрокам объединяться и соревноваться в играх без каких-либо затрат, за исключением оплаты подключения к сети Интернет.</value>
+    </string>
+    <string>
+        <id>conMODEM_ext</id>
+        <value>Two players can play together by over the telephone by using two modems. One computer is configured to answer its modem, and the other computer is configured to call the first computer.</value>
+    </string>
+    <string>
+        <id>conDIRECT_ext</id>
+        <value>Двое пользователей могут играть, соединив свои компьютеры через нуль-модемный кабель. Один компьютер при этом выступает создателем матча, а другой присоединяется к нему.</value>
+    </string>
+    <string>
+        <id>errRETAILCD</id>
+        <value>Вставьте диск StarCraft в CD-привод.</value>
+    </string>
+    <string>
+        <id>errBROODWARCD</id>
+        <value>Вставьте диск Brood War в CD-привод.</value>
+    </string>
+    <string>
+        <id>errANYCD</id>
+        <value>Вставьте диск StarCraft или Brood War в CD-привод.</value>
+    </string>
+    <string>
+        <id>gluSELECTTYPE</id>
+        <value>Выберите игру</value>
+    </string>
+    <string>
+        <id>gameTYPEDISABLED</id>
+        <value>Не удалось создать матч. Выбранный тип игры в данный момент недоступен.</value>
+    </string>
+    <string>
+        <id>conGatewayInfo</id>
+        <value>Если выбранный шлюз не подходит вашему текущему региону, для улучшения качества соединения вы можете выбрать более подходящий.</value>
+    </string>
+    <string>
+        <id>replayEndGameButton</id>
+        <value>sВ\\4ы\\1йти из повтора</value>
+    </string>
+    <string>
+        <id>conUDP</id>
+        <value>Сеть UDP</value>
+    </string>
+    <string>
+        <id>conUDP_d</id>
+        <value>Все компьютеры должны быть подключены к сети, совместимой с TCP/IP.</value>
+    </string>
+    <string>
+        <id>conUDP_ext</id>
+        <value>Локальные сети обычно используются для соединения офисных компьютеров, но также могут быть настроены в домашних условиях. Каждый пользователь локальной сети может играть с другими пользователями, подключенными к той же сети.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_keyboard</id>
+        <value>Ввод с клавиатуры</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_universalAccess_dialog_title</id>
+        <value>Требуется общий доступ</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_universalAccess_dialog_body</id>
+        <value>Для использования этой функции следует изменить настройки доступа для StarCraft на закладке «Конфиденциальность и безопасность» панели «Системные настройки». Открыть эту панель?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_universalAccess_dialog_ok</id>
+        <value>Открыть</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_universalAccess_dialog_cancel</id>
+        <value>Отмена</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_standardFunctionKeys</id>
+        <value>Стандартные назначения клавиш</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_description</id>
+        <value>Изменить настройки сообщений</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_ignore_description</id>
+        <value>Игнорировать личные сообщения от всех, кроме друзей</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_unignore_description</id>
+        <value>Получать личные сообщения от всех игроков</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_ignorepublic_description</id>
+        <value>Игнорировать сообщения в открытых каналах чата от всех, кроме друзей</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_unignorepublic_description</id>
+        <value>Получать сообщения в открытых каналах чата от всех игроков</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_ignoreprivate_description</id>
+        <value>Игнорировать сообщения в приватных каналах чата от всех, кроме друзей</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_unignoreprivate_description</id>
+        <value>Получать сообщения в приватных каналах чата от всех игроков</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_MuteWhispersFromNonFriends</id>
+        <value>Вы игнорируете личные сообщения от всех, кроме друзей.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_UnmuteWhispersFromNonFriends</id>
+        <value>Вы получаете все личные сообщения.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_MutePublicChatFromNonFriends</id>
+        <value>Вы игнорируете сообщения открытого чата от всех, кроме друзей.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_UnmutePublicChatFromNonFriends</id>
+        <value>Вы получаете все сообщения открытого чата.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_MutePrivateChatFromNonFriends</id>
+        <value>Вы игнорируете сообщения приватного чата от всех, кроме друзей.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_UnmutePrivateChatFromNonFriends</id>
+        <value>Вы получаете все сообщения приватного чата.</value>
+    </string>
+    <string>
+        <id>bnet119_home_ad_purchaseNow</id>
+        <value>ПРИОБРЕСТИ</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_spam_description</id>
+        <value>Сообщить о спаме в текущем канале чата со стороны игрока ACCOUNTNAME.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_harassment_description</id>
+        <value>Сообщить об оскорблении со стороны игрока ACCOUNTNAME.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_cheating_description</id>
+        <value>Сообщить об использовании игроком ACCOUNTNAME читов в матче «GAMENAME».</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_accountName_description</id>
+        <value>Сообщить о некорректном имени учетной записи ACCOUNTNAME.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_battleTag_description</id>
+        <value>Сообщить о некорректном BattleTag™ игрока ACCOUNTNAME.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_gameName_description</id>
+        <value>Сообщить о некорректном названии матча, созданного игроком ACCOUNTNAME.</value>
+    </string>
+    <string>
+        <id>bnet119_registry_empty</id>
+        <value>Выберите «Новый» для создания нового персонажа.</value>
+    </string>
+    <string>
+        <id>optionsPanel_speed_hardwareCursor_label</id>
+        <value>Аппаратный указатель</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingScreen_error_noGameModes</id>
+        <value>Не удалось загрузить игровые режимы.</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingScreen_error_noMapList</id>
+        <value>Не удается загрузить список карт.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_whispers_muted</id>
+        <value>Личные сообщения от игроков не из списка друзей разрешены.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_whispers_unmuted</id>
+        <value>Личные сообщения от игроков не из списка друзей запрещены.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_publicChat_muted</id>
+        <value>Сообщения от игроков не из списка друзей в публичных каналах разрешены.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_publicChat_unmuted</id>
+        <value>Сообщения от игроков не из списка друзей в публичных каналах запрещены.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_privateChat_muted</id>
+        <value>Сообщения от игроков не из списка друзей в приватных каналах разрешены.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_privateChat_unmuted</id>
+        <value>Сообщения от игроков не из списка друзей в приватных каналах запрещены.</value>
+    </string>
+    <string>
+        <id>optionsPanel_speed_hardwareCursor_tooltip</id>
+        <value>Недоступно при использовании масштабирования мыши.</value>
+    </string>
+    <string>
+        <id>bnet118_login_title</id>
+        <value>Войти</value>
+    </string>
+    <string>
+        <id>bnet118_login_newAccount</id>
+        <value>y\\4Н\\1овая запись</value>
+    </string>
+    <string>
+        <id>bnet118_login_changePassword</id>
+        <value>gИзменить \\4п\\1ароль</value>
+    </string>
+    <string>
+        <id>bnet118_login_recoverPassword</id>
+        <value>d\\4В\\1осстановить пароль</value>
+    </string>
+    <string>
+        <id>bnet118_login_changeEmail</id>
+        <value>fИзменить \\4а\\1дрес</value>
+    </string>
+    <string>
+        <id>bnet_chat_legacyChatDisconnectNotification</id>
+        <value>Вы были отключены от сервера чата.</value>
+    </string>
+    <string>
+        <id>bnet_passwordPanel_passwordRequired</id>
+        <value>Требуется пароль</value>
+    </string>
+    <string>
+        <id>bnet_passwordPanel_enterPasswordInfo</id>
+        <value>Введите пароль, чтобы присоединиться к этому матчу.</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_channel</id>
+        <value>Канал</value>
+    </string>
+    <string>
+        <id>infoPanel_recentGames</id>
+        <value>Последние игры</value>
+    </string>
+    <string>
+        <id>infoPane_startingIn</id>
+        <value>Матч начнется через</value>
+    </string>
+    <string>
+        <id>searchGameScreen_openGames</id>
+        <value>j\\4О\\1ткрытые игры</value>
+    </string>
+    <string>
+        <id>searchGameScreen_popularGames</id>
+        <value>g\\4П\\1опулярные игры</value>
+    </string>
+    <string>
+        <id>lobbyScreen_zerg</id>
+        <value>Зерги</value>
+    </string>
+    <string>
+        <id>lobbyScreen_terran</id>
+        <value>Терраны</value>
+    </string>
+    <string>
+        <id>lobbyScreen_protoss</id>
+        <value>Протоссы</value>
+    </string>
+    <string>
+        <id>lobbyScreen_random</id>
+        <value>Случайная раса</value>
+    </string>
+    <string>
+        <id>lobbyScreen_open</id>
+        <value>Открытый слот</value>
+    </string>
+    <string>
+        <id>lobbyScreen_closed</id>
+        <value>Закрытый слот</value>
+    </string>
+    <string>
+        <id>lobbyScreen_computer</id>
+        <value>ИИ</value>
+    </string>
+    <string>
+        <id>lobbyScreen_makeGamePublic</id>
+        <value>Сделать матч открытым</value>
+    </string>
+    <string>
+        <id>lobbyScreen_banPlayer</id>
+        <value>Заблокировать игрока</value>
+    </string>
+    <string>
+        <id>lobbyScreen_moveTo</id>
+        <value>Переместить:</value>
+    </string>
+    <string>
+        <id>lobbyScreen_switchWith</id>
+        <value>Поменять местами:</value>
+    </string>
+    <string>
+        <id>ngdp_read_failure_title</id>
+        <value>Ошибка чтения</value>
+    </string>
+    <string>
+        <id>ngdp_read_failure_message</id>
+        <value>Ошибка при чтении данных игры.</value>
+    </string>
+    <string>
+        <id>bnet_chat_legacyProtocolDisconnectNotification</id>
+        <value>Вы были отключены от сервера.</value>
+    </string>
+    <string>
+        <id>bnet_errorPopup_body</id>
+        <value>Ошибка: %s</value>
+    </string>
+    <string>
+        <id>hotkeyPane_command</id>
+        <value>Команда</value>
+    </string>
+    <string>
+        <id>hotkey_profile_custom</id>
+        <value>По выбору</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_LE_InUse</id>
+        <value>Указанный профиль уже используется. Попробуйте выбрать другой.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_timeout</id>
+        <value>Время ожидания запроса превышено.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_timeout</id>
+        <value>Время ожидания после отправки приглашения стать друзьями превышено.</value>
+    </string>
+    <string>
+        <id>upgrader_popup_mainMenuButton</id>
+        <value>d\\4В\\1 главное меню</value>
+    </string>
+    <string>
+        <id>upgrader_confirmPopup_knownVersion_title</id>
+        <value>Доступно обновление %s! Оно необходимо для сетевой игры.</value>
+    </string>
+    <string>
+        <id>upgrader_confirmPopup_unknownVersion_title</id>
+        <value>Доступно обновление! Оно необходимо для сетевой игры.</value>
+    </string>
+    <string>
+        <id>upgrader_confirmPopup_confirmButton</id>
+        <value>j\\4О\\1бновить</value>
+    </string>
+    <string>
+        <id>bnet_aurora_error_prefix</id>
+        <value>Не удалось осуществить начальное подключение к серверу.</value>
+    </string>
+    <string>
+        <id>hotkey_keybindPopup_title</id>
+        <value>Горячая клавиша: %s</value>
+    </string>
+    <string>
+        <id>selectConnectionScreen_upgradeNotice</id>
+        <value>Для игры по сети требуется установить обновление. Щелкните по кнопке «Обновить», чтобы начать установку.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_addSelf</id>
+        <value>Нельзя внести себя в список друзей.</value>
+    </string>
+    <string>
+        <id>bnet_chat_channel_disabled</id>
+        <value>Чат этого канала отключен.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_url</id>
+        <value>Вы можете копировать и вставлять ссылки из сообщений чата.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_FailedToConnect</id>
+        <value>Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут.</value>
+    </string>
+    <string>
+        <id>bnet_error_transport</id>
+        <value>Проверьте соединение с сетью и попробуйте еще раз.</value>
+    </string>
+    <string>
+        <id>bnet_error_classicServer_CE_InternalError</id>
+        <value>Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_generalPrefix</id>
+        <value>Не удалось анонсировать матч.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_EC_TimedOut</id>
+        <value>Время ожидания анонса матча превышено.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_EC_InternalError</id>
+        <value>При попытке анонса матча произошел разрыв соединения.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_error_CE_DuplicateFriend</id>
+        <value>Этот игрок уже является вашим другом.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelpListMoreInfo_topic</id>
+        <value>Введите в чате /help \"НАЗВАНИЕ ТЕМЫ\", чтобы узнать подробности о выбранной теме.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelpListMoreInfo_command</id>
+        <value>Введите в чате /help \"ТЕКСТ КОМАНДЫ\", чтобы узнать подробности о выбранной команде.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_basicCommands_title</id>
+        <value>Базовые команды чата:</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_advancedCommands_title</id>
+        <value>Особые команды чата:</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_commandAliases_title</id>
+        <value>Обозначения команд:</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_channel_description</id>
+        <value>Присоединиться к каналу: (НАЗВАНИЕ КАНАЛА)</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_ignore_description</id>
+        <value>Заблокировать сообщения ИГРОКА</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_unignore_description</id>
+        <value>Заблокировать сообщения ИГРОКА</value>
+    </string>
+    <string>
+        <id>bnet_fish_terms_title</id>
+        <value>Пользовательское соглашение</value>
+    </string>
+    <string>
+        <id>bnet_error_notConnected</id>
+        <value>Нет подключения к серверу.</value>
+    </string>
+    <string>
+        <id>bnet_chat_removeFriend_error_notFriends</id>
+        <value>Этот игрок не является вашим другом.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_FE_SecurePhoneDisabled</id>
+        <value>Безопасное подключение с помощью телефона отключено.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_FE_PhoneFailure</id>
+        <value>Не удалось авторизоваться с помощью телефона.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_FE_IncorrectPhone</id>
+        <value>Незарегистрированный телефон.</value>
+    </string>
+    <string>
+        <id>searchGameScreen_filterSettings</id>
+        <value>Настройки фильтра</value>
+    </string>
+    <string>
+        <id>searchGameScreen_showPrivateGames</id>
+        <value>Показывать закрытые игры</value>
+    </string>
+    <string>
+        <id>searchGameScreen_filter</id>
+        <value>a\\4Ф\\1ильтр</value>
+    </string>
+    <string>
+        <id>searchGameScreen_searchCustomGames</id>
+        <value>Поиск пользовательских игр</value>
+    </string>
+    <string>
+        <id>searchGameScreen_create</id>
+        <value>pСо\\4з\\1дать</value>
+    </string>
+    <string>
+        <id>searchGameScreen_created</id>
+        <value>Готово</value>
+    </string>
+    <string>
+        <id>searchGameScreen_acceptablePing</id>
+        <value>Минимальный пинг</value>
+    </string>
+    <string>
+        <id>searchGameScreen_maxPlayerCount</id>
+        <value>Мин. лимит игроков</value>
+    </string>
+    <string>
+        <id>searchGameScreen_filterGamesError</id>
+        <value>Не удалось найти игру, соответствующую критериям поиска.</value>
+    </string>
+    <string>
+        <id>searchGameScreen_showReplayGames</id>
+        <value>Показывать повторы</value>
+    </string>
+    <string>
+        <id>searchGameScreen_results</id>
+        <value>Результаты</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_statusAway</id>
+        <value>Отсутствует</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_statusBusy</id>
+        <value>Занят</value>
+    </string>
+    <string>
+        <id>bnet119_chat_auroraChat_error_AE_NotificationUndeliverable</id>
+        <value>Данного игрока нет в сети.</value>
+    </string>
+    <string>
+        <id>bnet119_chat_auroraChat_error_AE_FriendshipAlreadyExists</id>
+        <value>Этот игрок уже является вашим другом.</value>
+    </string>
+    <string>
+        <id>video_toggle_subtitles_hotkey</id>
+        <value>s</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_joinLobby</id>
+        <value>В лобби</value>
+    </string>
+    <string>
+        <id>bnet119_chat_auroraChat_error_AE_FriendInvitationExists</id>
+        <value>Запрос на добавление этого игрока в друзья уже создан.</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_elapsedTime</id>
+        <value>Прошло времени</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_addFriend</id>
+        <value>l\\4Д\\1обавить друга</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_joinChannel</id>
+        <value>g\\4П\\1рисоединиться к каналу</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_mouseScaling</id>
+        <value>Масштабирование мыши</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_portraits</id>
+        <value>Портреты</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_display</id>
+        <value>Экран</value>
+    </string>
+    <string>
+        <id>bnet119_chat_auroraChat_error_AE_FriendshipIsSelf</id>
+        <value>Нельзя отправить запрос на добавление в друзья себе.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_gameSubtitles</id>
+        <value>Субтитры в игре</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_cinematicSubtitles</id>
+        <value>Субтитры в роликах</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_originalUnitVO</id>
+        <value>Оригинальная озвучка войск</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_originalCampaignVO</id>
+        <value>Оригинальная озвучка 1998-го года</value>
+    </string>
+    <string>
+        <id>createGameScreen_enabled</id>
+        <value>Включены</value>
+    </string>
+    <string>
+        <id>createGameScreen_disabled</id>
+        <value>Отключены</value>
+    </string>
+    <string>
+        <id>createGameScreen_customHotkeys</id>
+        <value>Свои горячие клавиши</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_generalError</id>
+        <value>При попытке найти матч возникла ошибка.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_description</id>
+        <value>Пожаловаться на ИГРОКА (ПРИЧИНА: ...)</value>
+    </string>
+    <string>
+        <id>bnet_reportUser_succeeded</id>
+        <value>Жалоба на пользователя успешно отправлена.</value>
+    </string>
+    <string>
+        <id>bnet_reportUser_failed</id>
+        <value>Не удалось пожаловаться на пользователя.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_smoothAnimations</id>
+        <value>Плавный поворот войск</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_aspect_ratio_widescreen</id>
+        <value>Широкий экран</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_aspect_ratio_letterbox</id>
+        <value>Пилларбоксинг</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_deDE</id>
+        <value>Deutsch</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_enUS</id>
+        <value>English</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_esES</id>
+        <value>Español - España</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_frFR</id>
+        <value>Français</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_itIT</id>
+        <value>Italiano</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_jaJP</id>
+        <value>日本語</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_koKR</id>
+        <value>한국어 (완역)</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_NOLA</id>
+        <value>NOLA</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_plPL</id>
+        <value>Polski</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_ptBR</id>
+        <value>Português</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_ruRU</id>
+        <value>Українська</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_zhCN</id>
+        <value>简体中文</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_zhTW</id>
+        <value>繁體中文</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_reportUser</id>
+        <value>Пожаловаться на пользователя</value>
+    </string>
+    <string>
+        <id>chatPlayerJoinedChannel_bnet</id>
+        <value>{toonName} присоединяется к каналу {channelName}.</value>
+    </string>
+    <string>
+        <id>chatPlayerLeftChannel_bnet</id>
+        <value>{toonName} покидает канал {channelName}.</value>
+    </string>
+    <string>
+        <id>chatPlayerJoinedChannel_lan</id>
+        <value>{toonName} присоединяется к локальной игре.</value>
+    </string>
+    <string>
+        <id>chatPlayerLeftChannel_lan</id>
+        <value>{toonName} покидает локальную игру.</value>
+    </string>
+    <string>
+        <id>bnet_featureError_HdRequired</id>
+        <value>Эта функция доступна только в StarCraft: Remastered. Чтобы ей воспользоваться, необходимо приобрести игру.</value>
+    </string>
+    <string>
+        <id>bnet_featureError_OfficialGatewayRequired</id>
+        <value>Эта функция доступна только при игре через официальный шлюз Blizzard.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_mac</id>
+        <value>Mac</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_disableOsShortcuts</id>
+        <value>Отключить горячие клавиши ОС</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_UseCmdAsCtrl</id>
+        <value>Использовать клавишу Cmd, а не Ctrl.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_shadowStacking</id>
+        <value>Наложение теней</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_NotAvailable</id>
+        <value>Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_NoGameAccount</id>
+        <value>Вы не отвечаете возрастным критериям и не можете играть в сетевом режиме.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_filtering</id>
+        <value>Доступно только в режиме SD. Билинейная фильтрация смягчает границы спрайтов.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_NoUtilityServer</id>
+        <value>Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_TimeRestriction</id>
+        <value>Вы находитесь в игре слишком долго, либо для вас закрыт доступ к ней в данное время суток.</value>
+    </string>
+    <string>
+        <id>bnet_chat_whisper_invalidUser</id>
+        <value>Некорректный пользователь.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_tooltip_mouseScaling</id>
+        <value>Масштабирование мыши воспроизводит диапазон входного сигнала оригинального разрешения экрана в StarCraft.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_esMX</id>
+        <value>Español - Latino</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_tooltip_mouseSensitivity</id>
+        <value>При отключении будут использоваться настройки скорости мыши вашей операционной системы.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_map</id>
+        <value>Отображение мини-карты.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_map_hotkey</id>
+        <value>Alt + I</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_factory</id>
+        <value>Отображение панели производства.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_factory_hotkey</id>
+        <value>Alt + F</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_unit</id>
+        <value>Отображение панели войск.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_unit_hotkey</id>
+        <value>Alt + U</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_stats</id>
+        <value>Отображение панели статистики.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_stats_hotkey</id>
+        <value>Alt + E</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_language_description</id>
+        <value>Для смены языка требуется перезапуск игры.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_windowMode_windows</id>
+        <value>Переключение между оконными режимами также осуществляется с помощью комбинации клавиш Alt+Enter.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_windowMode_mac</id>
+        <value>Переключение между оконными режимами также осуществляется с помощью комбинации клавиш Cmd+M.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_gamma</id>
+        <value>Для коррекции гаммы требуется полноэкранный режим. С ее помощью можно настроить интенсивность освещения.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_environmentEffects</id>
+        <value>Эффекты окружения – это небольшие графические элементы, призванные разнообразить отображение ландшафта.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_realTimeLighting_disabled</id>
+        <value>Для освещения в реальном времени требуется устройство с 2 ГБ видеопамяти или более. Оно отключается при использовании набора обликов «Мультяшки».</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_realTimeLighting_enabled</id>
+        <value>Динамическое освещение войск, строений и ландшафта в зависимости от расположения источников света.</value>
+    </string>
+    <string>
+        <id>bnet119_page_load_error</id>
+        <value>Не удается загрузить страницу.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_koUS</id>
+        <value>한국어 (음역)</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_SessionNotFound</id>
+        <value>Вы находитесь в игре слишком долго, либо для вас закрыт доступ к ней в данное время суток.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_ParentalRestricted</id>
+        <value>Вы находитесь в игре слишком долго, либо для вас закрыт доступ к ней в данное время суток.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_speed_settings</id>
+        <value>Сбросить настройки скорости?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_sound_settings</id>
+        <value>Сбросить настройки звука?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_video_settings</id>
+        <value>Сбросить настройки графики?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_game_settings</id>
+        <value>Сбросить настройки игры?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_network_settings</id>
+        <value>Сбросить настройки сети?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_debug_settings</id>
+        <value>Сбросить отладочные настройки?</value>
+    </string>
+    <string>
+        <id>bnet119_home_ad_prePurchaseNow</id>
+        <value>ПРЕДЗАКАЗ</value>
+    </string>
+    <string>
+        <id>bnet119_home_ad_globalLaunch</id>
+        <value>ВЫХОДИТ 14 АВГУСТА</value>
+    </string>
+    <string>
+        <id>bnet119_home_ad_igrLaunch</id>
+        <value>ВЫХОД В КОРЕЕ: 30 ИЮЛЯ</value>
+    </string>
+    <string>
+        <id>bnet119_authentication_progressPopup_queuing_title</id>
+        <value>Серверы Blizzard на данный момент переполнены! Ваше место в очереди: {position}. Примерное время ожидания: {seconds} сек.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_dialog_title</id>
+        <value>Смена языка</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_dialog_body</id>
+        <value>Для установки нового языкового пакета необходимо выйти из StarCraft.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_dialog_button</id>
+        <value>Выход</value>
+    </string>
+    <string>
+        <id>bnet119_chatScreen_ad_globalLaunchText</id>
+        <value>ИГРА ВЫХОДИТ</value>
+    </string>
+    <string>
+        <id>bnet119_chatScreen_ad_globalWorldwideText</id>
+        <value>ВО ВСЕМ МИРЕ</value>
+    </string>
+    <string>
+        <id>bnet119_chatScreen_ad_globalLaunchDate</id>
+        <value>14 АВГУСТА</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_menu</id>
+        <value>Открыть меню игры.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_menu_hotkey</id>
+        <value>Alt + M</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_help</id>
+        <value>Щелкните по значку, чтобы отобразить или скрыть эту панель.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_help_hotkey</id>
+        <value>Alt + W</value>
+    </string>
+    <string>
+        <id>bnet_downloadFailed</id>
+        <value>Ошибка загрузки.</value>
+    </string>
+    <string>
+        <id>mainEDITORGONE</id>
+        <value>StarCraft не удается найти редактор. Для доступа к нему необходимо переустановить игру.</value>
+    </string>
+    <string>
+        <id>mainSPAWNEDLABEL_ss</id>
+        <value>(призвал игрок %s, %s)</value>
+    </string>
+    <string>
+        <id>mainFULLLABEL_s</id>
+        <value>%s</value>
+    </string>
+    <string>
+        <id>scoreUNITS</id>
+        <value>Боевые единицы</value>
+    </string>
+    <string>
+        <id>scoreINFRASTRUCTURE</id>
+        <value>Строения</value>
+    </string>
+    <string>
+        <id>scoreRESOURCES</id>
+        <value>Ресурсы</value>
+    </string>
+    <string>
+        <id>scoreUBUILT</id>
+        <value>Произведено</value>
+    </string>
+    <string>
+        <id>scoreUKILLED</id>
+        <value>Убито</value>
+    </string>
+    <string>
+        <id>scoreULOST</id>
+        <value>Потеряно</value>
+    </string>
+    <string>
+        <id>scoreSBUILT</id>
+        <value>Построено</value>
+    </string>
+    <string>
+        <id>scoreSDESTROYED</id>
+        <value>Разрушено</value>
+    </string>
+    <string>
+        <id>scoreSLOST</id>
+        <value>Потеряно</value>
+    </string>
+    <string>
+        <id>scoreRGASES</id>
+        <value>Газ</value>
+    </string>
+    <string>
+        <id>scoreRMINERALS</id>
+        <value>Минералы</value>
+    </string>
+    <string>
+        <id>scoreRSPENT</id>
+        <value>Затраты</value>
+    </string>
+    <string>
+        <id>scoreTIME_s</id>
+        <value>Время: %s</value>
+    </string>
+    <string>
+        <id>scoreLOST</id>
+        <value>Поражение!</value>
+    </string>
+    <string>
+        <id>scoreWON</id>
+        <value>Победа!</value>
+    </string>
+    <string>
+        <id>scoreDRAW</id>
+        <value>Ничья!</value>
+    </string>
+    <string>
+        <id>scoreDISCONNECT</id>
+        <value>Отключиться</value>
+    </string>
+    <string>
+        <id>scoreUNDECIDED</id>
+        <value>Без результата</value>
+    </string>
+    <string>
+        <id>loadCONFIRMDELETE</id>
+        <value>Удалить сохранение?</value>
+    </string>
+    <string>
+        <id>loginNEWCHAR</id>
+        <value>Введите имя профиля</value>
+    </string>
+    <string>
+        <id>loginDELCHAR</id>
+        <value>Удалить этот профиль? Все связанные с ним сохранения также будут удалены.</value>
+    </string>
+    <string>
+        <id>loginNAMEEXISTS</id>
+        <value>Это имя уже занято!</value>
+    </string>
+    <string>
+        <id>loginTOOMANY</id>
+        <value>Слишком много профилей. Удалите один из старых, чтобы добавить новый.</value>
+    </string>
+    <string>
+        <id>loginCREATEERROR</id>
+        <value>Ошибка создания профиля. Убедитесь, что на носителе, где установлен StarCraft, достаточно свободного места, а также что вы имеете право записи на него.</value>
+    </string>
+    <string>
+        <id>gameUpOneLevel</id>
+        <value>На уровень выше</value>
+    </string>
+    <string>
+        <id>gameSaveGames</id>
+        <value>Сохранить</value>
+    </string>
+    <string>
+        <id>gamePlayers</id>
+        <value>%u</value>
+    </string>
+    <string>
+        <id>gamePlayersText_cs</id>
+        <value>Максимум игроков:%c%s</value>
+    </string>
+    <string>
+        <id>gameMapSize</id>
+        <value>%ux%u</value>
+    </string>
+    <string>
+        <id>gameMapSizeText_cs</id>
+        <value>Размер карты:%c%s</value>
+    </string>
+    <string>
+        <id>gameMapERAText_cs</id>
+        <value>Ландшафт:%c%s</value>
+    </string>
+    <string>
+        <id>gameOpponents</id>
+        <value>%u</value>
+    </string>
+    <string>
+        <id>gameOpponentsText_cs</id>
+        <value>Слотов для ИИ:%c%s</value>
+    </string>
+    <string>
+        <id>gameHumans</id>
+        <value>%u</value>
+    </string>
+    <string>
+        <id>gameHumansText_cs</id>
+        <value>Слотов для игроков:%c%s</value>
+    </string>
+    <string>
+        <id>gameMapERA</id>
+        <value>пустошь</value>
+    </string>
+    <string>
+        <id>gameMapERA1</id>
+        <value>космос</value>
+    </string>
+    <string>
+        <id>gameMapERA2</id>
+        <value>станция</value>
+    </string>
+    <string>
+        <id>gameMapERA3</id>
+        <value>вулкан</value>
+    </string>
+    <string>
+        <id>gameMapERA4</id>
+        <value>джунгли</value>
+    </string>
+    <string>
+        <id>gameMapERA5</id>
+        <value>пустыня</value>
+    </string>
+    <string>
+        <id>gameMapERA6</id>
+        <value>лед</value>
+    </string>
+    <string>
+        <id>gameMapERA7</id>
+        <value>сумрак</value>
+    </string>
+    <string>
+        <id>saveTITLE</id>
+        <value>Сохранение</value>
+    </string>
+    <string>
+        <id>saveMAPNAME_s</id>
+        <value>Карта: %s</value>
+    </string>
+    <string>
+        <id>gameMAPERROR</id>
+        <value>Не удалось загрузить карту!</value>
+    </string>
+    <string>
+        <id>gameAUTHREQUIRED</id>
+        <value>Для рейтингового матча нужно выбрать официальную рейтинговую карту.</value>
+    </string>
+    <string>
+        <id>gameINVALIDMAP</id>
+        <value>Выбранный сценарий недействителен.</value>
+    </string>
+    <string>
+        <id>gameCREATEERROR</id>
+        <value>При попытке создания матча возникла ошибка.</value>
+    </string>
+    <string>
+        <id>gameCREATEEXISTS</id>
+        <value>Сетевой матч уже существует!</value>
+    </string>
+    <string>
+        <id>gameBADGAMETYPE</id>
+        <value>Эта карта не поддерживает выбранный тип игры и настройки.</value>
+    </string>
+    <string>
+        <id>gameTOOMANYGAMES</id>
+        <value>Не удалось создать матч. В этой сети уже проходит слишком много матчей.</value>
+    </string>
+    <string>
+        <id>gameNETWORKERROR</id>
+        <value>Не удалось создать матч. Ошибка проверки сети.</value>
+    </string>
+    <string>
+        <id>gameNEEDOPPONENT</id>
+        <value>Вам нужен хотя бы один противник под управлением ИИ.</value>
+    </string>
+    <string>
+        <id>gameNEEDHUMAN</id>
+        <value>На этой карте нет слота для игрока.</value>
+    </string>
+    <string>
+        <id>gameMAPDEFAULTONLY</id>
+        <value>Эту карту можно запустить только в режиме «Настройки карты».</value>
+    </string>
+    <string>
+        <id>maperrorHIGHERVERSION</id>
+        <value>Сценарий предназначен для использования с дополнениями для StarCraft.</value>
+    </string>
+    <string>
+        <id>maperrorTITLE</id>
+        <value>Некорректный сценарий</value>
+    </string>
+    <string>
+        <id>maperrorLONGNAME</id>
+        <value>Сценарий не может быть прочитан, так как у него слишком длинное название файла.</value>
+    </string>
+    <string>
+        <id>maperrorINVALID</id>
+        <value>Сценарий не может быть прочитан, так как он поврежден или некорректен.</value>
+    </string>
+    <string>
+        <id>saveerrorTITLE</id>
+        <value>Некорректное сохранение</value>
+    </string>
+    <string>
+        <id>saveerrorLONGNAME</id>
+        <value>Сохранение не может быть прочитано, так как у него слишком длинное название файла.</value>
+    </string>
+    <string>
+        <id>saveerrorINVALID</id>
+        <value>Сохранение не может быть прочитано, так как оно повреждено или некорректно.</value>
+    </string>
+    <string>
+        <id>saveerrorVERSION</id>
+        <value>Сохранение не может быть прочитано из-за несоответствия версий игры.</value>
+    </string>
+    <string>
+        <id>gameSLOWEST</id>
+        <value>минимум</value>
+    </string>
+    <string>
+        <id>gameSLOWER</id>
+        <value>оч. медл.</value>
+    </string>
+    <string>
+        <id>gameSLOW</id>
+        <value>медленно</value>
+    </string>
+    <string>
+        <id>gameNORMAL</id>
+        <value>нормально</value>
+    </string>
+    <string>
+        <id>gameFAST</id>
+        <value>быстро</value>
+    </string>
+    <string>
+        <id>gameFASTER</id>
+        <value>оч.быстро</value>
+    </string>
+    <string>
+        <id>gameFASTEST</id>
+        <value>максимум</value>
+    </string>
+    <string>
+        <id>gameSHOWALL</id>
+        <value>Показать все</value>
+    </string>
+    <string>
+        <id>gameSPEED</id>
+        <value>Скорость:</value>
+    </string>
+    <string>
+        <id>conDIRECT</id>
+        <value>Прямое соединение</value>
+    </string>
+    <string>
+        <id>conIPX</id>
+        <value>Сеть IPX</value>
+    </string>
+    <string>
+        <id>conBTLN</id>
+        <value>Battle.net</value>
+    </string>
+    <string>
+        <id>conPROVERROR</id>
+        <value>Данный поставщик сети не может быть инициализирован.</value>
+    </string>
+    <string>
+        <id>chatPLAYERJOINED_s</id>
+        <value>%s присоединяется к матчу.</value>
+    </string>
+    <string>
+        <id>chatPLAYERLEFT_s</id>
+        <value>%s покидает матч.</value>
+    </string>
+    <string>
+        <id>chatDISTERROR</id>
+        <value>При загрузке карты возникла ошибка.</value>
+    </string>
+    <string>
+        <id>chatASSIGNTEAMS</id>
+        <value>Все игроки должны быть распределены по командам.</value>
+    </string>
+    <string>
+        <id>chatONESIDE</id>
+        <value>Чтобы начать матч, вам нужен соперник.</value>
+    </string>
+    <string>
+        <id>chatFILETRANSFERRING</id>
+        <value>Карта все еще загружается.</value>
+    </string>
+    <string>
+        <id>chatBOOTED</id>
+        <value>Вас исключили.</value>
+    </string>
+    <string>
+        <id>chatBANNED</id>
+        <value>Вас заблокировали.</value>
+    </string>
+    <string>
+        <id>chatSLOTCLOSED</id>
+        <value>Создатель матча закрыл все свободные слоты!</value>
+    </string>
+    <string>
+        <id>chatHOSTLEFT</id>
+        <value>Создатель покинул матч.</value>
+    </string>
+    <string>
+        <id>chatUNJOINABLE</id>
+        <value>Не удалось присоединиться к матчу.</value>
+    </string>
+    <string>
+        <id>chatVERSIONMISMATCH</id>
+        <value>Невозможно присоединиться к матчу, так как он создан в другой версии StarCraft.</value>
+    </string>
+    <string>
+        <id>chatINVALIDSAVE</id>
+        <value>Сохранение не найдено.</value>
+    </string>
+    <string>
+        <id>chatINVALIDSPAWN</id>
+        <value>Невозможно присоединиться к матчу. Этот матч не был создан с тем же CD-ключом, что и ваша пробная версия StarCraft.</value>
+    </string>
+    <string>
+        <id>chatINVALIDMAP</id>
+        <value>При проверке карты возникла ошибка.</value>
+    </string>
+    <string>
+        <id>chatFDERROR</id>
+        <value>Не удалось создать файл сценария.</value>
+    </string>
+    <string>
+        <id>chatCONFIRMBOOT_s</id>
+        <value>Этот игрок будет исключен:\\n%s\\nПродолжить?</value>
+    </string>
+    <string>
+        <id>chatPLAYERS</id>
+        <value>Игроки</value>
+    </string>
+    <string>
+        <id>chatCOMPUTERSLOT</id>
+        <value>Компьютерный игрок</value>
+    </string>
+    <string>
+        <id>chatNEUTRALSLOT</id>
+        <value>Нейтральный</value>
+    </string>
+    <string>
+        <id>chatSECONDS</id>
+        <value>сек.</value>
+    </string>
+    <string>
+        <id>chatSOON</id>
+        <value>скоро!</value>
+    </string>
+    <string>
+        <id>slotCOMPUTER</id>
+        <value>ИИ</value>
+    </string>
+    <string>
+        <id>slotOPEN</id>
+        <value>Открытый слот</value>
+    </string>
+    <string>
+        <id>slotCLOSED</id>
+        <value>Закрытый слот</value>
+    </string>
+    <string>
+        <id>slotBAN</id>
+        <value>Заблокировать!</value>
+    </string>
+    <string>
+        <id>bnMAP</id>
+        <value>Карта:</value>
+    </string>
+    <string>
+        <id>bnCREATOR</id>
+        <value>Создатель:</value>
+    </string>
+    <string>
+        <id>bnTYPE</id>
+        <value>Тип:</value>
+    </string>
+    <string>
+        <id>bnSPEED</id>
+        <value>Скорость:</value>
+    </string>
+    <string>
+        <id>bnTIME</id>
+        <value>Время:  %d:%02d%s</value>
+    </string>
+    <string>
+        <id>bnAM</id>
+        <value>AM</value>
+    </string>
+    <string>
+        <id>bnPM</id>
+        <value>PM</value>
+    </string>
+    <string>
+        <id>bnCREATEEXISTS</id>
+        <value>Матч с таким названием уже существует!</value>
+    </string>
+    <string>
+        <id>bnNAMENEEDED</id>
+        <value>Введите название матча, чтобы продолжить.</value>
+    </string>
+    <string>
+        <id>bnMAPNEEDED</id>
+        <value>Выберите карту, чтобы продолжить.</value>
+    </string>
+    <string>
+        <id>bnPASSWORDNEEDED</id>
+        <value>Для продолжения сохраненного мачта нужно ввести пароль.</value>
+    </string>
+    <string>
+        <id>bnNOLADDER</id>
+        <value>Для участия в рейтинговых матчах нужно одержать как минимум 10 обычных побед.</value>
+    </string>
+    <string>
+        <id>bnSPAWNNOLADDER</id>
+        <value>Не удалось присоединиться к матчу. Вы используете пробную версию StarCraft без доступа к рейтинговым матчам.</value>
+    </string>
+    <string>
+        <id>bnCANTJOIN</id>
+        <value>Не удается присоединиться к выбранному матчу.</value>
+    </string>
+    <string>
+        <id>bnRESTRICTEDCHANNEL</id>
+        <value>Доступ к выбранному каналу ограничен</value>
+    </string>
+    <string>
+        <id>profLADDERGAMES</id>
+        <value>Рейтинговые матчи</value>
+    </string>
+    <string>
+        <id>profNORMALGAMES</id>
+        <value>Обычные матчи</value>
+    </string>
+    <string>
+        <id>profRATINGTITLE</id>
+        <value>Рейтинг:</value>
+    </string>
+    <string>
+        <id>profRANKTITLE</id>
+        <value>Ранг:</value>
+    </string>
+    <string>
+        <id>profUNRATED</id>
+        <value>Без оценки</value>
+    </string>
+    <string>
+        <id>profLASTGAMETITLE</id>
+        <value>Последний матч:</value>
+    </string>
+    <string>
+        <id>profRANK_s</id>
+        <value>#%s</value>
+    </string>
+    <string>
+        <id>profUNRANKED</id>
+        <value>Без рейтинга</value>
+    </string>
+    <string>
+        <id>profRATINGHIGH_s</id>
+        <value>(Макс.: #%s)</value>
+    </string>
+    <string>
+        <id>profRANKHIGH_s</id>
+        <value>(Макс.: #%s)</value>
+    </string>
+    <string>
+        <id>profRECORD_ss</id>
+        <value>Рекорд: %s/%s</value>
+    </string>
+    <string>
+        <id>profDISCONNECTS_s</id>
+        <value>Отключений: %s</value>
+    </string>
+    <string>
+        <id>profNEVERPLAYED</id>
+        <value>Не играет</value>
+    </string>
+    <string>
+        <id>profNOINFORMATION</id>
+        <value>Нет информации</value>
+    </string>
+    <string>
+        <id>ladNOPENALTY</id>
+        <value>Без штрафа</value>
+    </string>
+    <string>
+        <id>ladASLOSS</id>
+        <value>Зачет поражения</value>
+    </string>
+    <string>
+        <id>tvbSIDES</id>
+        <value>%d х %d</value>
+    </string>
+    <string>
+        <id>tvbTEAMONE</id>
+        <value>Ваша команда</value>
+    </string>
+    <string>
+        <id>tvbTEAMTWO</id>
+        <value>Команда противника</value>
+    </string>
+    <string>
+        <id>tvbSWITCHWITH</id>
+        <value>Переключение: %s</value>
+    </string>
+    <string>
+        <id>tvbMOVETO</id>
+        <value>Переместиться: %s</value>
+    </string>
+    <string>
+        <id>scoreReplaySavedStr</id>
+        <value>cПовтор \\4с\\1охранен</value>
+    </string>
+    <string>
+        <id>scoreReplayTitle</id>
+        <value>Информация о повторе</value>
+    </string>
+    <string>
+        <id>saveReplayDialogTitle</id>
+        <value>Сохранить повтор</value>
+    </string>
+    <string>
+        <id>replayChatTitle</id>
+        <value>Повтор:</value>
+    </string>
+    <string>
+        <id>replayEndGame</id>
+        <value>Повтор закончен.</value>
+    </string>
+    <string>
+        <id>visionDialogTitle</id>
+        <value>Повтор игроков</value>
+    </string>
+    <string>
+        <id>visionRevealAll</id>
+        <value>Открыть всю карту</value>
+    </string>
+    <string>
+        <id>bnREPLAYPASSWORDNEEDED</id>
+        <value>Для просмотра повтора нужно ввести пароль.</value>
+    </string>
+    <string>
+        <id>gameNOTENOUGHPLAYERS</id>
+        <value>Недостаточно игроков для начала матча.</value>
+    </string>
+    <string>
+        <id>gameMAPTOOSMALL</id>
+        <value>У этой карты недостаточно слотов игроков для выбранного типа игры.</value>
+    </string>
+    <string>
+        <id>bnNoTourn</id>
+        <value>Только участники лиги могут принимать участие в ее матчах.</value>
+    </string>
+    <string>
+        <id>gameTournAuthRequired</id>
+        <value>Для матча лиги нужно выбрать официальную карту лиги.</value>
+    </string>
+    <string>
+        <id>bnSpawnNoTourn</id>
+        <value>Не удалось присоединиться к матчу. Вы используете пробную версию StarCraft без доступа к матчам лиги.</value>
+    </string>
+    <string>
+        <id>gameTournTwoPlayers</id>
+        <value>Для матча лиги требуются два не призванных игрока.</value>
+    </string>
+    <string>
+        <id>gameTournNoBroodWar</id>
+        <value>Чтобы участвовать в матчах без Brood War, подключитесь к Battle.net через оригинальную версию StarCraft.</value>
+    </string>
+    <string>
+        <id>gameTournRequireBroodWar</id>
+        <value>Для матчей лиги требуется дополнение Brood War.</value>
+    </string>
+    <string>
+        <id>slotPublic</id>
+        <value>Сделать матч открытым</value>
+    </string>
+    <string>
+        <id>slotPublic2</id>
+        <value>Сделать открытым</value>
+    </string>
+    <string>
+        <id>profWINS</id>
+        <value>Побед:</value>
+    </string>
+    <string>
+        <id>profLOSSES</id>
+        <value>Поражений:</value>
+    </string>
+    <string>
+        <id>chatSECOND</id>
+        <value>сек.</value>
+    </string>
+    <string>
+        <id>graphics_eightBitColorError</id>
+        <value>Попытка запустить игру в 256-цветном режиме. Убедитесь, что\\nрежим совместимости отключен.</value>
+    </string>
+    <string>
+        <id>bnet_joinGame_error_timeOut</id>
+        <value>Время ожидания после отправки приглашения присоединиться превышено.</value>
+    </string>
+    <string>
+        <id>bnet_joinGame_error_gameNotFound</id>
+        <value>Владелец сделал игру закрытой.</value>
+    </string>
+    <string>
+        <id>bnet_friends_inviteFriendship</id>
+        <value>Запрос на добавление в друзья отправлен игроку {name}.</value>
+    </string>
+    <string>
+        <id>chatPlayerJoinedChannel_s</id>
+        <value>%s присоединяется к каналу.</value>
+    </string>
+    <string>
+        <id>chatPlayerLeftChannel_s</id>
+        <value>%s покидает канал.</value>
+    </string>
+    <string>
+        <id>chatJoinLeaveVerboseOn</id>
+        <value>Уведомления о входе/выходе: ВКЛ.</value>
+    </string>
+    <string>
+        <id>chatJoinLeaveVerboseOff</id>
+        <value>Уведомления о входе/выходе: ВЫКЛ.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_title</id>
+        <value>Настройки</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_restore</id>
+        <value>g\\4П\\1о умолчанию</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_hotkeys</id>
+        <value>Горячие клавиши</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_label_slow</id>
+        <value>низкая</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_label_fast</id>
+        <value>высокая</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_label_min</id>
+        <value>минимальная</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_label_max</id>
+        <value>максимальная</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_speed</id>
+        <value>c\\4С\\1корость</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_sound</id>
+        <value>p\\4З\\1вук</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_video</id>
+        <value>u\\4Г\\1рафика</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_game</id>
+        <value>b\\4И\\1гра</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_network</id>
+        <value>tС\\4е\\1ть</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_debug</id>
+        <value>j\\4О\\1тладка</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_title</id>
+        <value>Настройки скорости</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_subtitle_gameplaySpeed</id>
+        <value>Скорость игры</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_subtitle_cursorSpeed</id>
+        <value>Скорость указателя</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_subtitle_scrollSpeed</id>
+        <value>Скорость прокрутки</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_gameSpeed</id>
+        <value>Скорость игры</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_mouseSensitivity</id>
+        <value>Чувствительность мыши</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_keyScroll</id>
+        <value>Скорость прокрутки клавишами</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_mouseScroll</id>
+        <value>Скорость прокрутки мышью</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_middleMouseScroll</id>
+        <value>Прокрутка средней кнопкой мыши</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_title</id>
+        <value>Настройки звука</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_musicVolume</id>
+        <value>Громкость музыки</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_digitalVolume</id>
+        <value>Громкость эффектов</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_unitSpeech</id>
+        <value>Реплики боевых единиц</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_unitAck</id>
+        <value>Ответы боевых единиц</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_buildingSounds</id>
+        <value>Звуки строительства</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_remasteredAudio</id>
+        <value>Обновленный звук</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_subtitles</id>
+        <value>Субтитры вкл.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_title</id>
+        <value>Настройки графики</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_windowMode</id>
+        <value>Режим экрана</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_screenResolution</id>
+        <value>Разрешение экрана</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_gamma</id>
+        <value>Коррекция гаммы</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_fpsCap</id>
+        <value>Включить ограничение FPS</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_filtering</id>
+        <value>Включить билинейную фильтрацию</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_vsync</id>
+        <value>Включить вертикальную синхронизацию</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_hd</id>
+        <value>HD-графика</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_environmentEffects</id>
+        <value>Эффекты окружения</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_realTimeLighting</id>
+        <value>Освещение в реальном времени</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_enhancedAnimAngles</id>
+        <value>Улучшенная анимация вкл.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_colorblindMode</id>
+        <value>Альтернативные цвета</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_title</id>
+        <value>Настройки игры</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_gameplay</id>
+        <value>Игра</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_language</id>
+        <value>Язык</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_apmTracking</id>
+        <value>Отслеживание APM</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_gameTimer</id>
+        <value>Таймер</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_colorCycling</id>
+        <value>Включить чередование цветов</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_languageFilter</id>
+        <value>Фильтр нецензурной лексики</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_redBlueTeamColors</id>
+        <value>Цвета команд «Синие против красных»</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_bonusSkins</id>
+        <value>Показывать бонусные облики</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_unitPortraits</id>
+        <value>Портреты боевых единиц</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_textLanguage</id>
+        <value>Язык текста</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_voLanguage</id>
+        <value>Язык аудио</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_apm</id>
+        <value>Показывать значение APM</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_epm</id>
+        <value>Оповещать при падении APM ниже</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_alert</id>
+        <value>Сигнал при APM &lt;</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_colorText</id>
+        <value>Цвет текста</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_playSound</id>
+        <value>Проигрывать звук</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_title</id>
+        <value>Настройки сети</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_description</id>
+        <value>Снижение задержки сокращает время между щелчком мыши и реакцией боевой единицы. Повышение задержки увеличивает этот промежуток времени, но выравнивает производительность сети при нестабильном или медленном подключении.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_defaultLatency</id>
+        <value>Задержка</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_customGameLatency</id>
+        <value>Задержка в «Своей игре»</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_debug_title</id>
+        <value>Отладка</value>
+    </string>
+    <string>
+        <id>str_confirm</id>
+        <value>jП\\4о\\1дтвердить</value>
+    </string>
+    <string>
+        <id>bnet_chat_error_game_end</id>
+        <value>Ошибка: не удалось отправить результат матча на сервер.</value>
+    </string>
+    <string>
+        <id>bnet_chat_whisperToPrefix</id>
+        <value>&lt;Игроку: %s&gt;</value>
+    </string>
+    <string>
+        <id>bnet_chat_whisperFromPrefix</id>
+        <value>&lt;От: %s&gt;</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_error_LE_Failure</id>
+        <value>Некорректный пользователь.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_error_LE_RequestTimedOut</id>
+        <value>Не удалось добавить игрока в список друзей.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_offline</id>
+        <value>{name}, не в сети.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_inGame</id>
+        <value>{name} (шлюз: {gateway}), {mutual} использует «{program}» в {private} игре «{game}».</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_inChat</id>
+        <value>{name} (шлюз: {gateway}), {mutual} использует «{program}» в канале «{channel}».</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_online</id>
+        <value>{name} (шлюз: {gateway}), {mutual} использует «{program}».</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_mutualFriendship</id>
+        <value>(mutual)</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_list_title</id>
+        <value>Ваши друзья:</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_CE_BadGame</id>
+        <value>Данное название матча уже существует.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_CE_BadGame_BadWords</id>
+        <value>Некорректное название матча.</value>
+    </string>
+    <string>
+        <id>str_quit</id>
+        <value>j\\4О\\1тмена</value>
+    </string>
+    <string>
+        <id>hotkeyPane_resetConfirmation</id>
+        <value>Подтверждение сброса</value>
+    </string>
+    <string>
+        <id>hotkeyPane_resetConfirmationDescription</id>
+        <value>Пользовательские назначения клавиш будут сброшены. Для вступления в силу этих настроек их нужно сохранить.</value>
+    </string>
+    <string>
+        <id>graphics_errorTitle</id>
+        <value>Ошибка</value>
+    </string>
+    <string>
+        <id>graphics_initError</id>
+        <value>Ошибка инициализации OpenGL.\\nУбедитесь, что драйверы вашей видеокарты обновлены до последней версии.</value>
+    </string>
+    <string>
+        <id>bnet_chat_create</id>
+        <value>c\\4C\\1оздать</value>
+    </string>
+    <string>
+        <id>bnet119_connection_title</id>
+        <value>Выбор подключения</value>
+    </string>
+    <string>
+        <id>bnet119_connection_error</id>
+        <value>Не удается получить список подключений.</value>
+    </string>
+    <string>
+        <id>bnet119_registry_title</id>
+        <value>Профиль</value>
+    </string>
+    <string>
+        <id>bnet119_registry_error</id>
+        <value>Не удается получить список профилей.</value>
+    </string>
+    <string>
+        <id>bnet119_matchmaking_title</id>
+        <value>Рейтинговый матч</value>
+    </string>
+    <string>
+        <id>bnet119_matchmaking_selectRace</id>
+        <value>Выбор расы</value>
+    </string>
+    <string>
+        <id>bnet119_matchmaking_selectMode</id>
+        <value>Выбор типа игры</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingMapPreferences_title</id>
+        <value>d\\4В\\1ыбор карт</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingMapPreferences_voteDescription</id>
+        <value>Вы можете выбрать до 3 карт, матчи на которых будут проводиться реже, чем на остальных.</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingMapPreferences_voteRemaining</id>
+        <value>Осталось голосов</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_title</id>
+        <value>Поиск</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_estimatedTime</id>
+        <value>Примерное время ожидания</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_cancel</id>
+        <value>tОтм\\4е\\1на</value>
+    </string>
+    <string>
+        <id>bnet119_toonCreation_or</id>
+        <value>или</value>
+    </string>
+    <string>
+        <id>bnet119_toonCreation_creationInfo</id>
+        <value>Если вы играли в StarCraft в течение последних 3 месяцев и хотите сохранить имя своего профиля и рекорды, вы можете привязать к своей учетной записи классическую учетную запись Battle.net.</value>
+    </string>
+    <string>
+        <id>bnet119_toonCreation_linkAccount</id>
+        <value>g\\4П\\1ривязать запись</value>
+    </string>
+    <string>
+        <id>bnet119_toonLink_title</id>
+        <value>Привязать классическую учетную запись Battle.net</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_whisper</id>
+        <value>Шепнуть</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_playCustom</id>
+        <value>Своя игра</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_viewProfile</id>
+        <value>Просмотр профиля</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_removeFriend</id>
+        <value>Удалить из списка друзей</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_playersOnline</id>
+        <value>Игроков в сети</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_change</id>
+        <value>Изменить</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_seasonRecord1v1</id>
+        <value>Данные сезона (1х1)</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_careerWins</id>
+        <value>Побед</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_topRace</id>
+        <value>Любимая раса</value>
+    </string>
+    <string>
+        <id>bnet119_toonInfoPanel_seasonRank</id>
+        <value>Сезонный ранг 1х1</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_suggestFriend</id>
+        <value>Возможные друзья</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_enterInfo</id>
+        <value>Введите имя профиля в StarCraft, BattleTag#0000 или адрес электронной почты</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_whisper_name</id>
+        <value>ваши друзья</value>
+    </string>
+    <string>
+        <id>bnet119_toonCreation_createNewCharacter</id>
+        <value>Создать персонажа</value>
+    </string>
+    <string>
+        <id>bnet119_toonCreation_characterName</id>
+        <value>Имя профиля</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_matchFound</id>
+        <value>Матч найден!</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_ready</id>
+        <value>u\\4Г\\1отовность</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_header</id>
+        <value>Горячие клавиши</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_units_label</id>
+        <value>Единицы</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_buildings_label</id>
+        <value>Строения</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_groudUnits_label</id>
+        <value>Наземные</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_airUnits_label</id>
+        <value>Воздушные</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_basicBuildings_label</id>
+        <value>Основные</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_advancedBuildings_label</id>
+        <value>Дополнительные</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_unitSelection_instructions</id>
+        <value>Щелкните по единице, чтобы просмотреть доступные приказы.</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_commandSelection_instructions</id>
+        <value>Щелкните по приказу, чтобы изменить его горячую клавишу.</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_hotkey_instructions</id>
+        <value>Нажмите нужную клавишу</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_selected_prefix</id>
+        <value> </value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_general_actionCard</id>
+        <value>Общее</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_basicStructure_actionCard</id>
+        <value>Основные строения</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_advancedStructure_actionCard</id>
+        <value>Дополнительные строения</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_tankMode_actionCard</id>
+        <value>Режим танка</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_siegeMode_actionCard</id>
+        <value>Осадный режим</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_uncloaked_actionCard</id>
+        <value>Без маскировки</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_cloaked_actionCard</id>
+        <value>Под маскировкой</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_lifted_actionCard</id>
+        <value>В воздухе</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_burrowed_actionCard</id>
+        <value>Под землей</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_binding_unitsShared</id>
+        <value>Единиц, которые могут выполнить этот приказ: %d</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_binding_default</id>
+        <value>Стандарт:</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_careerGames</id>
+        <value>Всего игр</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_help</id>
+        <value>dСпра\\4в\\1ка</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_unitPortraits_animated</id>
+        <value>Динамичные</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_unitPortraits_still</id>
+        <value>Статичные</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_unitPortraits_disable</id>
+        <value>Откл.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_label_lowLat</id>
+        <value>y\\4Н\\1изкая</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_label_highLat</id>
+        <value>d\\4В\\1ысокая</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_label_extraHighLat</id>
+        <value>j\\4О\\1чень высокая</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_help_title</id>
+        <value>Помощь</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_windowMode_windowed</id>
+        <value>Оконный</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_windowMode_windowedFullscreen</id>
+        <value>Оконный (весь экран)</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_windowMode_fullscreen</id>
+        <value>Полный экран</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_monitor</id>
+        <value>Монитор</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_vs</id>
+        <value>Х</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_countdownLabel</id>
+        <value>Матч начнется через</value>
+    </string>
+    <string>
+        <id>infoPane_turnRate</id>
+        <value>Частота передачи</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_restoreToDefault_button</id>
+        <value>По умолчанию</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_save_button</id>
+        <value>Сохранить</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_cancel_button</id>
+        <value>Отменить</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_dontSave_button</id>
+        <value>Не сохранять</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_continue_button</id>
+        <value>Продолжить</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_saveChangesQuestion</id>
+        <value>Сохранить изменения?</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_saveChangesExplanation</id>
+        <value>Изменения будут потеряны, если их не сохранить.</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_restoreDefaultsQuestion</id>
+        <value>Сбросить настройки?</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_restoreDefaultsExplanation</id>
+        <value>Все изменения будут потеряны. Продолжить?</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_unboundedInstructions</id>
+        <value>Есть не назначенные команды.</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_wins</id>
+        <value>всего</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_losses</id>
+        <value>Поражения</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_disconnects</id>
+        <value>Отключения</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_loading</id>
+        <value>Загрузка</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_button_apply</id>
+        <value>Применить</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_button_reset</id>
+        <value>Сбросить</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_consolePosition</id>
+        <value>Положение мини-карты</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_consolePosition_leftCorner</id>
+        <value>Левый угол</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_consolePosition_standard</id>
+        <value>Стандартное</value>
+    </string>
+    <string>
+        <id>application_title</id>
+        <value>StarCraft: Brood War</value>
+    </string>
+    <string>
+        <id>browser_failed_to_start</id>
+        <value>Не удалось запустить службы StarCraft. Ваше антивирусное программное обеспечение может влиять на работу программы. Некоторые функции StarCraft могут быть недоступны.</value>
+    </string>
+    <string>
+        <id>bonjour_install_prompt</id>
+        <value>Для полноценной игры по локальной сети требуется служба Bonjour. Запустить ее?</value>
+    </string>
+    <string>
+        <id>bonjour_not_available</id>
+        <value>Без использования службы Bonjour некоторые функции локальной сети будут недоступны.</value>
+    </string>
+    <string>
+        <id>bonjour_install_prompt_lanGameSearch</id>
+        <value>Для поиска игр по локальной сети требуется служба Bonjour. Запустить ее?</value>
+    </string>
+    <string>
+        <id>bonjour_not_available_lanGameSearch</id>
+        <value>Для поиска игр по локальной сети требуется служба Bonjour.</value>
+    </string>
+    <string>
+        <id>bonjour_failed_to_start</id>
+        <value>Не удалось запустить службу Bonjour.</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_pendingInvites</id>
+        <value>Ожидающие ответа запросы</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_onLAN</id>
+        <value>По локальной сети</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_classicBnetFriend</id>
+        <value>Друг по классической записи Battle.net</value>
+    </string>
+    <string>
+        <id>scoreAPMTitle</id>
+        <value>APM</value>
+    </string>
+    <string>
+        <id>scoreEPMTitle</id>
+        <value>Эфф. действ./мин.</value>
+    </string>
+    <string>
+        <id>gameCloudFolder</id>
+        <value>Облако</value>
+    </string>
+    <string>
+        <id>gameCloudPopularMaps</id>
+        <value>Популярные карты</value>
+    </string>
+    <string>
+        <id>gameCloudSaveGames</id>
+        <value>Сохранения</value>
+    </string>
+    <string>
+        <id>gameCloudReplays</id>
+        <value>Повторы игр</value>
+    </string>
+    <string>
+        <id>gameCloudMaps</id>
+        <value>Карты</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_expansionOnlyError</id>
+        <value>Подбор соперников доступен только в матчах Brood War.</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_unavailableError</id>
+        <value>Система подбора соперников в данный момент недоступна. Пожалуйста, повторите попытку позже.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_soundPlaysInBackground</id>
+        <value>Фоновый режим аудио</value>
+    </string>
+    <string>
+        <id>infoPane_noMapImage</id>
+        <value>Предпросмотр карты недоступен</value>
+    </string>
+    <string>
+        <id>ossystems_compatibility_mode</id>
+        <value>StarCraft запущен в режиме совместимости с другой операционной системой. Это может нарушить работу некоторых служб игры. Рекомендуется отключить данный режим.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_aurora</id>
+        <value>{name} использует «{program}» ({presence}).</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_auroraNoPresence</id>
+        <value>{name} использует «{program}».</value>
+    </string>
+    <string>
+        <id>error_unrecognizedUser</id>
+        <value>Неизвестный пользователь: %s.</value>
+    </string>
+    <string>
+        <id>userProfile_error_unableToDisplay</id>
+        <value>Пользователь не подключен к распознанному шлюзу.</value>
+    </string>
+    <string>
+        <id>scorePENDING</id>
+        <value>Ожидание</value>
+    </string>
+    <string>
+        <id>optionsPanel_speed_mouseConfine_label</id>
+        <value>Ограничение указателя мыши</value>
+    </string>
+    <string>
+        <id>optionsPanel_speed_mouseConfine_tooltip</id>
+        <value>Ограничить движение указателя мыши границами окна во время игры (активируется нажатием Alt+F1). Доступно только в оконном режиме.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_diplomacy</id>
+        <value>Открыть меню дипломатии.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_diplomacy_hotkey</id>
+        <value>Alt + Z</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_designateUser</id>
+        <value>Назначить модератором</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_kickUser</id>
+        <value>Исключить</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_banUser</id>
+        <value>Заблокировать</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_resign</id>
+        <value>Удалить модератора</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_replay</id>
+        <value>Отображение панели повторов</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_replay_hotkey</id>
+        <value>Alt + Y</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_privateGame</id>
+        <value>закрытой</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_listIntelligent_title</id>
+        <value>Ваши друзья по сети Blizzard, играющие в StarCraft, и друзья по Brood War:</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_listOnline_title</id>
+        <value>Ваши друзья по сети Blizzard, играющие в StarCraft, и друзья по Brood War, находящиеся в игре:</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_listAll_title</id>
+        <value>Ваши друзья:</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_listBlizzard_title</id>
+        <value>Ваши друзья по сети Blizzard:</value>
+    </string>
+    <string>
+        <id>optionsPanel_video_Filtering_label</id>
+        <value>Фильтрация графики SD</value>
+    </string>
+    <string>
+        <id>optionsPanel_video_Sharp_label</id>
+        <value>Четко</value>
+    </string>
+    <string>
+        <id>optionsPanel_video_Filtered_label</id>
+        <value>С фильтром</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_listIntelligent_description</id>
+        <value>Все ваши друзья по сети Blizzard, играющие в StarCraft, и друзья по Brood War.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_listAll_description</id>
+        <value>Список ваших друзей.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_listBlizzard_description</id>
+        <value>Список ваших друзей по сети Blizzard.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_listOnline_description</id>
+        <value>Все ваши друзья по сети Blizzard, играющие в StarCraft, и друзья по Brood War, находящиеся в игре.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_whisper_noFriendsError</id>
+        <value>У вас нет друзей, которым сейчас можно написать.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_startDiagnostic</id>
+        <value>Начать диагностику</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_networkDiagnostic</id>
+        <value>Диагностика сети</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_diagnosticLogin</id>
+        <value>Эта функция требует подключения к Battle.net.</value>
+    </string>
+    <string>
+        <id>cn_cais_warning1</id>
+        <value>您已在线进行了{totalHoursOnline}小时的游戏，您的健康游戏时间还剩余{totalHoursRemaining}小时。\\n届时您将无法在游戏中获得经验值及其它奖励，\\n必须下线累计满5小时才能恢复正常状态。</value>
+    </string>
+    <string>
+        <id>cn_cais_warning2</id>
+        <value>您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入疲劳游戏时间。为了您的健康，请尽快下线休息，\\n做适当身体活动，合理安排学习生活。您已经无法在游戏中获得经验值及其它奖励，\\n直到您的累计下线时间满5小时后才能恢复正常。</value>
+    </string>
+    <string>
+        <id>cn_cais_warning3</id>
+        <value>您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入不健康游戏时间。为了您的健康，\\n请立即下线休息。您已经无法在游戏中获得经验值及其它奖励，\\n直到您的累计下线时间满5小时后才能恢复正常。</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_AlreadyInProgress</id>
+        <value>Диагностика сети уже проводится. Дождитесь ее завершения, прежде чем начинать новую.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Commencing</id>
+        <value>Проведение диагностики сети...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Firewall.Commencing</id>
+        <value>Проверка брандмауэра Windows...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Firewall.Whitelisted</id>
+        <value>StarCraft: Remastered добавлена в список разрешенных программ брандмауэра Windows.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Firewall.NotWhitelisted</id>
+        <value>StarCraft: Remastered не добавлена в список разрешенных программ брандмауэра Windows.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Proxy.NotRequired</id>
+        <value>Данный ПК способен напрямую подключаться к другим устройствам, и при создании матча его трафик не будет маршрутизироваться через прокси-сервер.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Proxy.Required</id>
+        <value>При создании матча трафик этого ПК будет маршрутизироваться через прокси-сервер, так как отсутствует прямое подключение к иным устройствам.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.Commencing</id>
+        <value>Проверка входящего трафика (порт {Port})...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.ReceivedData</id>
+        <value>Ответный пакет получен ({Time} мс).</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.NoData</id>
+        <value>Не удалось получить ответный пакет.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.PartialFailure</id>
+        <value>Не удалось получить некоторые ответные пакеты.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.Success</id>
+        <value>Проверка входящего трафика по UDP выполнена успешно.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Udp.ExternalIp</id>
+        <value>Попытка отправки данных через внешний IP-адрес {address}...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Udp.Success</id>
+        <value>Данные переданы.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Udp.Failure</id>
+        <value>Ошибка передачи данных.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Upnp.Commencing</id>
+        <value>Проверка переадресации портов UPNP...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Upnp.Timeout</id>
+        <value>Истекло время ожидания UPNP.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Upnp.Success</id>
+        <value>Переадресация портов UPNP установлена на порт {port}.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Upnp.Failed</id>
+        <value>Ошибка UPNP.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Bind.Commencing</id>
+        <value>Проверка привязки UDP к порту 6112...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Bind.Failure</id>
+        <value>Не удалось выполнить привязку к порту 6112.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Bind.Success</id>
+        <value>Привязка к порту {port} прошла успешно.</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_reportPlayer</id>
+        <value>Пожаловаться на игрока</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_reason</id>
+        <value>Причина</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_channelName</id>
+        <value>Название канала</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_gameName</id>
+        <value>Название матча</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_spam</id>
+        <value>Спам</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_harassment</id>
+        <value>Оскорбление</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_cheating</id>
+        <value>Мошенничество</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_badCharacterName</id>
+        <value>Неприемлемое имя профиля</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_badBattleTag</id>
+        <value>Неприемлемый BattleTag</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_badGameName</id>
+        <value>Неприемлемое название матча</value>
+    </string>
+    <string>
+        <id>chat_error_CE_AccountMuted</id>
+        <value>Ваша учетная запись заблокирована в чате.</value>
+    </string>
+    <string>
+        <id>chat_error_joinSystemReservedChannelName</id>
+        <value>Не удалось присоединиться к каналу чата. Такое имя уже используется.</value>
+    </string>
+    <string>
+        <id>networkTurnRateAdjusted</id>
+        <value>Новое значение частоты передачи для сети: %d</value>
+    </string>
+    <string>
+        <id>createGameScreen_gameLimits</id>
+        <value>Лимит боевых единиц</value>
+    </string>
+    <string>
+        <id>createGameScreen_original</id>
+        <value>Стандартный</value>
+    </string>
+    <string>
+        <id>createGameScreen_extended</id>
+        <value>Повышенный</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_bc2017_console_label</id>
+        <value>Использовать консоль BlizzCon 2017</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_offline</id>
+        <value>Ваш друг {friend} выходит из сети.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_online</id>
+        <value>Ваш друг {friend} входит в сеть.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredStarCraft</id>
+        <value>Ваш друг {friend} входит в StarCraft.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_exitedStarCraft</id>
+        <value>Ваш друг {friend} выходит из StarCraft.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredBattlenet</id>
+        <value>Ваш друг {friend} входит в Battle.net.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_exitedBattlenet</id>
+        <value>Ваш друг {friend} выходит из Battle.net.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredGameLobby</id>
+        <value>Ваш друг {friend} присоединяется к матчу Brood War в StarCraft ({game}).</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_exitedGameLobby</id>
+        <value>Ваш друг {friend} покидает матч.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_whisperAll_description</id>
+        <value>Отправить СООБЩЕНИЕ всем друзьям.</value>
+    </string>
+    <string>
+        <id>error_cant_watch_replays</id>
+        <value>Нельзя просматривать повторы, находясь в очереди на матч.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredRankedGameLobby</id>
+        <value>Ваш друг {friend} присоединяется к рейтинговому матчу.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredSinglePlayerGameLobby</id>
+        <value>Ваш друг {friend} начинает однопользовательскую игру.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredCustomGameLobby</id>
+        <value>Ваш друг {friend} присоединяется к матчу «Своей игры» ({game}).</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_dnd_description</id>
+        <value>Включает/выключает режим игнорирования всех личных сообщений.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredReplayGameLobby</id>
+        <value>Ваш друг {friend} начинает просмотр повтора.</value>
+    </string>
+    <string>
+        <id>optionsPanel_social_label_friendsPresenceNotifications</id>
+        <value>Уведомления о статусе друзей</value>
+    </string>
+    <string>
+        <id>bnet_friends_inviteFriendship_unknownRegion</id>
+        <value>Запрос на добавление в друзья игроку {name} отправлен. Ваш регион: {myRegion}.</value>
+    </string>
+    <string>
+        <id>bnet_friends_inviteFriendship_foreignRegion</id>
+        <value>Запрос на добавление в друзья игроку {name} из региона {theirRegion} отправлен. Ваш регион: {myRegion}.</value>
+    </string>
+    <string>
+        <id>createGameScreen_proxied</id>
+        <value>Соединение маршрутизируется через прокси-сервер</value>
+    </string>
+    <string>
+        <id>bnet_createGame_proxyConnectionWarning</id>
+        <value>Из-за текущей конфигурации сети ваше соединение с другими игроками должно маршрутизироваться через прокси-сервер. Это может вызвать дополнительную задержку сигнала.</value>
+    </string>
+    <string>
+        <id>bnet_findGame_proxyConnectionWarning</id>
+        <value>Из-за текущей конфигурации сети у владельца матча ваше соединение будет маршрутизироваться через прокси-сервер. Это может вызвать дополнительную задержку сигнала.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_users_description</id>
+        <value>Отображает текущее количество пользователей в сети Battle.net.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_users_statsSuccess</id>
+        <value>Текущих матчей: {games}.\\nИгроков в сети: {players}.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_users_statsError</id>
+        <value>Не удается получить данные статистики шлюзов.</value>
+    </string>
+    <string>
+        <id>bnet_friendInvitation_regionWarning</id>
+        <value>{name} играет в StarCraft в другом регионе Blizzard. Ваш запрос на добавление в друзья был отправлен игроку {name} в пределах региона «{myRegion}». Игрок получит его, если перейдет в регион «{myRegion}».</value>
+    </string>
+    <string>
+        <id>bnet_chat_welcome_intro</id>
+        <value>Добро пожаловать в StarCraft: Remastered!</value>
+    </string>
+    <string>
+        <id>bnet_chat_welcome_help</id>
+        <value>Введите в чате /help, чтобы получить список команд.</value>
+    </string>
+    <string>
+        <id>bnet_cloud_size_s</id>
+        <value>%s KБ</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Commencing</id>
+        <value>Проверка прохождения NAT (тип 1)...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.NoStunServers</id>
+        <value>Нет доступных STUN-серверов.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Start</id>
+        <value>Отправка пакета STUN...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.NoData</id>
+        <value>Не удалось получить ответный пакет.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.BadData</id>
+        <value>Некорректный ответный пакет.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Info</id>
+        <value>Ответ STUN получен через внешний IP: {address}</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Success</id>
+        <value>Проверка прохождения NAT прошла успешно.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Failure</id>
+        <value>Проверка прохождения NAT не удалась.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_UdpNat2.ExternalIp</id>
+        <value>Внешний IP-адрес: {address}</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_UdpNat2.Success</id>
+        <value>Попытка отправки данных через внешний IP-адрес {address}...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_UdpNat2.Failure</id>
+        <value>Проверка прохождения NAT (тип 2) не удалась.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.Commencing</id>
+        <value>Проверка входящего трафика UDP на порт {Port} (прохождение NAT, тип 2)...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.ReceivedData</id>
+        <value>Ответный пакет получен ({Time} мс).</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.NoData</id>
+        <value>Не удалось получить ответный пакет.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.PartialFailure</id>
+        <value>Не удалось получить часть ответных пакетов.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.Success</id>
+        <value>Проверка входящего трафика UDP прошла успешно (прохождение NAT, тип 2).</value>
+    </string>
+    <string>
+        <id>scr.common.race.terran</id>
+        <value>Терраны</value>
+    </string>
+    <string>
+        <id>scr.common.race.zerg</id>
+        <value>Зерги</value>
+    </string>
+    <string>
+        <id>scr.common.race.protoss</id>
+        <value>Протоссы</value>
+    </string>
+    <string>
+        <id>scr.common.points.label</id>
+        <value>MMR:</value>
+    </string>
+    <string>
+        <id>scr.common.points.small.label</id>
+        <value>MMR</value>
+    </string>
+    <string>
+        <id>scr.common.points.noData</id>
+        <value>У вас пока нет MMR.</value>
+    </string>
+    <string>
+        <id>scr.common.table.noData</id>
+        <value>Таблицы результатов не найдены.</value>
+    </string>
+    <string>
+        <id>scr.common.location.label</id>
+        <value>Расположение</value>
+    </string>
+    <string>
+        <id>scr.common.stats.gauge.winRate.label</id>
+        <value>побед</value>
+    </string>
+    <string>
+        <id>scr.common.stats.gauge.apm.title</id>
+        <value>Средний APM</value>
+    </string>
+    <string>
+        <id>scr.common.stats.gauge.apm.label</id>
+        <value>Действий в минуту</value>
+    </string>
+    <string>
+        <id>scr.common.stats.overall.title</id>
+        <value>Общий результат</value>
+    </string>
+    <string>
+        <id>scr.common.stats.overall.label</id>
+        <value>Сводная информация</value>
+    </string>
+    <string>
+        <id>scr.common.stats.seasonRecord.title</id>
+        <value>Данные сезона (1х1)</value>
+    </string>
+    <string>
+        <id>scr.common.stats.record.win.label</id>
+        <value>W</value>
+    </string>
+    <string>
+        <id>scr.common.stats.record.loss.label</id>
+        <value>L</value>
+    </string>
+    <string>
+        <id>scr.common.stats.record.disconnects.label</id>
+        <value>D</value>
+    </string>
+    <string>
+        <id>scr.common.stats.record.percentage.label</id>
+        <value>%</value>
+    </string>
+    <string>
+        <id>scr.common.stats.wins.label</id>
+        <value>Побед</value>
+    </string>
+    <string>
+        <id>scr.common.stats.losses.label</id>
+        <value>Поражения</value>
+    </string>
+    <string>
+        <id>scr.common.stats.disconnects.label</id>
+        <value>Отключения</value>
+    </string>
+    <string>
+        <id>scr.common.stats.totalGames.label</id>
+        <value>Всего игр</value>
+    </string>
+    <string>
+        <id>scr.common.stats.mostPlayedRace.label</id>
+        <value>Любимая раса</value>
+    </string>
+    <string>
+        <id>scr.common.stats.timePlayed.label</id>
+        <value>Время в игре</value>
+    </string>
+    <string>
+        <id>scr.common.stats.accountCreated.label</id>
+        <value>Учетная запись создана</value>
+    </string>
+    <string>
+        <id>scr.common.stats.mmr.label</id>
+        <value>MMR</value>
+    </string>
+    <string>
+        <id>scr.common.stats.highestMMR.label</id>
+        <value>Макс. MMR</value>
+    </string>
+    <string>
+        <id>scr.common.stats.units.produced.label</id>
+        <value>Создано боевых единиц</value>
+    </string>
+    <string>
+        <id>scr.common.stats.units.killed.label</id>
+        <value>Уничтожено</value>
+    </string>
+    <string>
+        <id>scr.common.stats.units.lost.label</id>
+        <value>Потери</value>
+    </string>
+    <string>
+        <id>scr.common.stats.units.score.label</id>
+        <value>Счет по войскам</value>
+    </string>
+    <string>
+        <id>scr.common.stats.resources.spent.label</id>
+        <value>Потрачено ресурсов</value>
+    </string>
+    <string>
+        <id>scr.common.stats.resources.score.label</id>
+        <value>Счет по ресурсам</value>
+    </string>
+    <string>
+        <id>scr.common.stats.resources.gasCollected.label</id>
+        <value>Добыто газа</value>
+    </string>
+    <string>
+        <id>scr.common.stats.resources.mineralsCollected.label</id>
+        <value>Добыто минералов</value>
+    </string>
+    <string>
+        <id>scr.common.stats.structures.constructed.label</id>
+        <value>Возведено строений</value>
+    </string>
+    <string>
+        <id>scr.common.stats.structures.lost.label</id>
+        <value>Потеряно строений</value>
+    </string>
+    <string>
+        <id>scr.common.stats.structures.razed.label</id>
+        <value>Уничтожено строений</value>
+    </string>
+    <string>
+        <id>scr.common.stats.structures.score.label</id>
+        <value>Счет по строениям</value>
+    </string>
+    <string>
+        <id>scr.common.stats.noData</id>
+        <value>Статистика не найдена.</value>
+    </string>
+    <string>
+        <id>scr.common.rank.currentSeasonRank.label</id>
+        <value>Ранг в текущем сезоне</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.link.label</id>
+        <value>Подробнее</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.playerCount.label</id>
+        <value>Игроков в сети:</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.noData</id>
+        <value>Данные шлюза не найдены.</value>
+    </string>
+    <string>
+        <id>scr.profile.changeProfile</id>
+        <value>Сменить профиль</value>
+    </string>
+    <string>
+        <id>scr.common.time.hr</id>
+        <value>ч.</value>
+    </string>
+    <string>
+        <id>scr.common.time.hrs</id>
+        <value>ч.</value>
+    </string>
+    <string>
+        <id>scr.common.time.min</id>
+        <value>мин.</value>
+    </string>
+    <string>
+        <id>scr.common.time.sec</id>
+        <value>сек.</value>
+    </string>
+    <string>
+        <id>scr.profile.league.frontier</id>
+        <value>Пограничная лига</value>
+    </string>
+    <string>
+        <id>scr.profile.season.1.title</id>
+        <value>1-й сезон 2017 г.</value>
+    </string>
+    <string>
+        <id>scr.profile.season.0.title</id>
+        <value>Пограничная лига</value>
+    </string>
+    <string>
+        <id>scr.profile.season.0.description1</id>
+        <value>Приветствуем вас, первопроходцы! Вы станете свидетелями новой эры в StarCraft!</value>
+    </string>
+    <string>
+        <id>scr.profile.season.0.description2</id>
+        <value>Поиск соперников для матчей будет производиться с учетом общего рейтинга и расстояния между игроками. Вас ждет прекрасное время открытий. Благодарим вас за игру и помощь в оптимизации новой системы.</value>
+    </string>
+    <string>
+        <id>scr.common.autocomplete.matches</id>
+        <value>матчи</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.1</id>
+        <value>Ранг</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.2</id>
+        <value>Игрок</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.3</id>
+        <value>Любимая раса</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.4</id>
+        <value>MMR</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.5</id>
+        <value>Победы</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.6</id>
+        <value>Поражения</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.7</id>
+        <value>Отключения</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.title</id>
+        <value>Рейтинговая таблица</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.updateInterval</id>
+        <value>Обновляется раз в %%interval%% мин.</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.updateLatest</id>
+        <value>Последнее обновление – %%lastUpdate%% UTC.</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.filter.gameType.opt.1</id>
+        <value>1х1</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.btn.topPlayers.label</id>
+        <value>Лучшие игроки</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.btn.myself.label</id>
+        <value>Мой рейтинг</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.search.placeholder</id>
+        <value>Введите имя профиля или BattleTag</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.profileModule.yourRank.part.1</id>
+        <value>Ваш ранг:</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.profileModule.yourRank.part.2</id>
+        <value>в категории</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.profileModule.yourRank.noData</id>
+        <value>Вы еще не сыграли достаточно матчей в</value>
+    </string>
+    <string>
+        <id>scr.common.title.win</id>
+        <value>Победа!</value>
+    </string>
+    <string>
+        <id>scr.common.title.loss</id>
+        <value>Поражение!</value>
+    </string>
+    <string>
+        <id>scr.toast.points.yours</id>
+        <value>MMR</value>
+    </string>
+    <string>
+        <id>scr.profile.zerg.points.desc</id>
+        <value>очков за зергов</value>
+    </string>
+    <string>
+        <id>scr.profile.protoss.points.desc</id>
+        <value>очков за протоссов</value>
+    </string>
+    <string>
+        <id>scr.profile.terran.points.desc</id>
+        <value>очков за терранов</value>
+    </string>
+    <string>
+        <id>scr.toast.unlock.textSmall.portrait</id>
+        <value>Новый портрет</value>
+    </string>
+    <string>
+        <id>scr.toast.unlock.textLarge</id>
+        <value>Открыт!</value>
+    </string>
+    <string>
+        <id>bnet_turnRate_dynamic</id>
+        <value>Динамическая</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_label_preferPort6112</id>
+        <value>Предпочитаемый порт: 6112</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.dev79</id>
+        <value>Сервер для внутреннего тестирования.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.usWestDesc</id>
+        <value>Добро пожаловать на Дикий Запад! На этом сервере может быть не так много игроков, но ставки здесь выше, а противники еще опаснее!</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.usEastDesc</id>
+        <value>Этот сервер расположен в Чикаго и обрабатывает данные матчей для Северной и Южной Америки. Ввиду большого числа игроков здесь вы столкнетесь с разнообразием стилей игры и стратегических приемов.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.europeDesc</id>
+        <value>В плане подготовки новых профессиональных киберспортсменов европейский сервер уступает только корейскому. Культурное разнообразие способствует развитию изобретательных стилей игры и позволяет игрокам находить друзей по всему континенту.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.koreaDesc</id>
+        <value>Корейские игроки в совершенстве освоили искусство войны и стали непревзойденными мастерами StarCraft. Готовьтесь встретить серьезное сопротивление.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.taiwanDesc</id>
+        <value>Новый шлюз StarCraft, введенный для поддержки игроков, разговаривающих на японском и китайском (традиционное и упрощенное письмо) языках. Этому серверу еще предстоит прославиться. Рискнете возглавить авангард и устремиться в битву?</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.fishDesc</id>
+        <value>«Fish Server» — сторонний сервер, славящийся высоким мастерством игроков, участвующих в пользовательских матчах.</value>
+    </string>
+    <string>
+        <id>scr.profile.noProfile</id>
+        <value>У вас нет привязанных к этому шлюзу профилей.</value>
+    </string>
+    <string>
+        <id>scr.profile.noProfileBtn</id>
+        <value>Создать профиль</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_customGamesWinsLossesDisconnects</id>
+        <value>[{gatewayName}] – матчи в режиме «Своя игра». Победы: {wins}. Поражения: {losses}. Отключения: {disconnects}.</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_allSeasonsWinsLossesDisconnects</id>
+        <value>[{gatewayName}] – рейтинговые матчи. Победы: {wins}. Поражения: {losses}. Отключения: {disconnects}.</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_seasonWinsLossesDisconnects</id>
+        <value>[{gatewayName}] – рейтинговые матчи текущего сезона. Победы: {wins}. Поражения: {losses}. Отключения: {disconnects}.</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_or</id>
+        <value>или</value>
+    </string>
+    <string>
+        <id>launcher_failed_to_start</id>
+        <value>Не удалось запустить приложение Battle.net.</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.filter.gameType.opt.2</id>
+        <value>2х2</value>
+    </string>
+    <string>
+        <id>profile_skins_carbot</id>
+        <value>Мультяшки</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_HeyJini_title</id>
+        <value>Hey Jini</value>
+    </string>
+    <string>
+        <id>squad_channel_title</id>
+        <value>Взвод</value>
+    </string>
+    <string>
+        <id>squad_lobby_create_error</id>
+        <value>Не удалось создать лобби взвода.</value>
+    </string>
+    <string>
+        <id>squad_invite</id>
+        <value>Пригласить</value>
+    </string>
+    <string>
+        <id>squad_invite_timeout</id>
+        <value>Приглашение будет отменено через {cancelTimeInSec} сек.</value>
+    </string>
+    <string>
+        <id>squad_kick</id>
+        <value>Исключить из взвода</value>
+    </string>
+    <string>
+        <id>squad_disband</id>
+        <value>Распустить взвод</value>
+    </string>
+    <string>
+        <id>squad_leave</id>
+        <value>Покинуть взвод</value>
+    </string>
+    <string>
+        <id>squad_invite_pending</id>
+        <value>Ожидается ответ</value>
+    </string>
+    <string>
+        <id>squad_invite_accepted</id>
+        <value>Приглашение принято</value>
+    </string>
+    <string>
+        <id>squad_invite_message</id>
+        <value>приглашает вас в свой взвод.</value>
+    </string>
+    <string>
+        <id>squad_queuing_message_2v2</id>
+        <value>Ваш взвод вступил в очередь на рейтинговый матч 2х2.</value>
+    </string>
+    <string>
+        <id>squad_chooseRace</id>
+        <value>Выберите расу.</value>
+    </string>
+    <string>
+        <id>squad_selecting_race</id>
+        <value>Выбор расы</value>
+    </string>
+    <string>
+        <id>squad_ready</id>
+        <value>Готово!</value>
+    </string>
+    <string>
+        <id>squad_invite_player</id>
+        <value>g\\4П\\1ригласить</value>
+    </string>
+    <string>
+        <id>squad_invite_player_popup_enter_info</id>
+        <value>Введите BattleTag#0000</value>
+    </string>
+    <string>
+        <id>squad_recent_players</id>
+        <value>Недавние игроки</value>
+    </string>
+    <string>
+        <id>squad_automatch_warning</id>
+        <value>Мы укомплектуем ваш взвод игроками с подходящим уровнем навыка.</value>
+    </string>
+    <string>
+        <id>squad_invite_a_player</id>
+        <value>Пригласить</value>
+    </string>
+    <string>
+        <id>squad_current</id>
+        <value>ТЕКУЩИЙ ВЗВОД</value>
+    </string>
+    <string>
+        <id>squad_team_view</id>
+        <value>Просмотр команды</value>
+    </string>
+    <string>
+        <id>squad_info_invite_player</id>
+        <value>Вы пригласили игрока {playerName} в свой взвод.</value>
+    </string>
+    <string>
+        <id>squad_info_kick_player</id>
+        <value>Вы исключили игрока {playerName} из взвода.</value>
+    </string>
+    <string>
+        <id>squad_info_kicked_from_squad</id>
+        <value>Вас исключили из взвода.</value>
+    </string>
+    <string>
+        <id>squad_info_leave_squad</id>
+        <value>Вы покинули взвод.</value>
+    </string>
+    <string>
+        <id>squad_info_player_left_squad</id>
+        <value>{playerName} покидает взвод.</value>
+    </string>
+    <string>
+        <id>squad_info_squad_dismissed</id>
+        <value>Ваш взвод был распущен.</value>
+    </string>
+    <string>
+        <id>squad_info_accept_invite</id>
+        <value>Вы приняли приглашение во взвод от игрока {playerName}.</value>
+    </string>
+    <string>
+        <id>squad_info_decline_invite</id>
+        <value>Вы отклонили приглашение во взвод от игрока {playerName}.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_accepted</id>
+        <value>{playerName} принимает ваше приглашение во взвод.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_declined</id>
+        <value>{playerName} отклоняет ваше приглашение во взвод.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_timeout</id>
+        <value>Срок действия приглашения во взвод от игрока {playerName} истек.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_error</id>
+        <value>Не удалось пригласить во взвод.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_reject_from_sd_user</id>
+        <value>{playerName} использует SD-версию игры и не может присоединиться ко взводу.</value>
+    </string>
+    <string>
+        <id>squad_info_cancel_race_select</id>
+        <value>{playerName} отменяет выбор расы.</value>
+    </string>
+    <string>
+        <id>squad_tooltip_for_disabled_ranked_button</id>
+        <value>Вы уже состоите во взводе для рейтинговых матчей.</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_HeyJini_desc</id>
+        <value>В Корее Hey Jini обожают дети всех возрастов. Теперь ее жизнерадостный голос порадует вас и во время напряженных матчей! Добавьте к этому облики из набора «Мультяшки», и станет ясно – StarCraft все возрасты покорны!</value>
+    </string>
+    <string>
+        <id>loginDELCHARFAIL</id>
+        <value>Невозможно удалить профиль. Файл на диске может иметь атрибут «только для чтения».</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_overallWinsLossesDisconnects</id>
+        <value>[{gatewayName}] – все матчи. Победы: {wins}. Поражения: {losses}. Отключения: {disconnects}.</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_default_label</id>
+        <value>Стандартная</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_BlizzCon2017_label</id>
+        <value>BlizzCon 2017</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_SCAnniversary_label</id>
+        <value>20-я годовщина</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_label</id>
+        <value>Консоль</value>
+    </string>
+    <string>
+        <id>scr.DataError.desc</id>
+        <value>В данный момент результаты не могут быть отображены, но они были учтены и появятся в статистике позднее.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelpCommandsList</id>
+        <value>Доступные команды:</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_errorInit</id>
+        <value>Не удалось начать поиск матча</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.btn.replay</id>
+        <value>Посмотреть повтор</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.win</id>
+        <value>Победа</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.loss</id>
+        <value>Поражение</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.draw</id>
+        <value>Ничья</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.disconnect</id>
+        <value>Отключение</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.undecided</id>
+        <value>Без результата</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.preview.information.label</id>
+        <value>Карта и параметры</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.table.heading.3</id>
+        <value>Результат</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.table.heading.4</id>
+        <value>Дата</value>
+    </string>
+    <string>
+        <id>scr.profile.noHistory</id>
+        <value>Данные истории матчей не найдены.</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.1</id>
+        <value>Стычка</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.2</id>
+        <value>Каждый за себя</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.3</id>
+        <value>Один на один</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.4</id>
+        <value>Захват флага</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.5</id>
+        <value>Алчность</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.6</id>
+        <value>Бойня</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.7</id>
+        <value>Внезапная смерть</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.8</id>
+        <value>Рейтинг</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.9</id>
+        <value>Настройки карты</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.10</id>
+        <value>Совм. стычка</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.11</id>
+        <value>Совм. кажд. за себя</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.12</id>
+        <value>Совм. захв. флага</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.13</id>
+        <value>Верх на низ</value>
+    </string>
+    <string>
+        <id>scr.profile.maps.information.label</id>
+        <value>Сведения о карте</value>
+    </string>
+    <string>
+        <id>blizzcon.esports.brackets.draws</id>
+        <value>Ничьи</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.1</id>
+        <value>Сводка</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.2</id>
+        <value>Показатели</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.3</id>
+        <value>История</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.4</id>
+        <value>Сезоны</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.5</id>
+        <value>Коллекция</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.6</id>
+        <value>Настройки профиля</value>
+    </string>
+    <string>
+        <id>scr.profile.editableField.title.placeholder</id>
+        <value>Введите заголовок</value>
+    </string>
+    <string>
+        <id>scr.profile.editableField.desc.placeholder</id>
+        <value>Расскажите о себе</value>
+    </string>
+    <string>
+        <id>scr.profile.season.currentSeason.label</id>
+        <value>Текущий сезон</value>
+    </string>
+    <string>
+        <id>scr.profile.maps.recentlyPlayed.label</id>
+        <value>Последняя карта</value>
+    </string>
+    <string>
+        <id>scr.profile.stats.header.title</id>
+        <value>Вся статистика</value>
+    </string>
+    <string>
+        <id>scr.profile.replays.header.title</id>
+        <value>История матчей</value>
+    </string>
+    <string>
+        <id>scr.profile.replays.filter.opt.1</id>
+        <value>Все типы</value>
+    </string>
+    <string>
+        <id>scr.profile.btn.equip</id>
+        <value>ВЫБРАТЬ</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.unlock.label</id>
+        <value>Прогресс</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.unlocked</id>
+        <value>в коллекции</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.avatar.noData</id>
+        <value>Вы еще не выбрали портрет профиля.</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.avatar.desc.1</id>
+        <value>Накопите</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.avatar.desc.2</id>
+        <value>в рейтинговых матчах, чтобы получить этот портрет.</value>
+    </string>
+    <string>
+        <id>scr.profile.maps.noData</id>
+        <value>Данные о карте не найдены.</value>
+    </string>
+    <string>
+        <id>league_ranked_unrankedNotice</id>
+        <value>В данный момент вам не присвоен рейтинг.</value>
+    </string>
+    <string>
+        <id>league_ranked_completionRequirement</id>
+        <value>Вам необходимо сыграть следующее количество матчей для квалификации: %s</value>
+    </string>
+    <string>
+        <id>news_banner_welcome</id>
+        <value>Добро пожаловать, командир.</value>
+    </string>
+    <string>
+        <id>news_banner_join</id>
+        <value>Присоединяйтесь к сообществу:</value>
+    </string>
+    <string>
+        <id>news_banner_forums</id>
+        <value>Официальные форумы</value>
+    </string>
+    <string>
+        <id>bnet_latency_low</id>
+        <value>Низкая</value>
+    </string>
+    <string>
+        <id>bnet_latency_high</id>
+        <value>Высокая</value>
+    </string>
+    <string>
+        <id>bnet_latency_extraHigh</id>
+        <value>Очень высокая</value>
+    </string>
+    <string>
+        <id>bnet_dtr_scanInProgress</id>
+        <value>Расчет частоты передачи...</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_soundBoard</id>
+        <value>Звуковая плата</value>
+    </string>
+    <string>
+        <id>league_ranked_matchCompletetion_grats</id>
+        <value>Отличная работа, командир!</value>
+    </string>
+    <string>
+        <id>league_ranked_matchCompletetion_sorry</id>
+        <value>Впереди ждут новые битвы!</value>
+    </string>
+    <string>
+        <id>league_ranked_unrankedNotice_toast</id>
+        <value>Осталось квалификационных матчей: %s</value>
+    </string>
+    <string>
+        <id>league_ranked_rankUp</id>
+        <value>Ваш рейтинг повышен!</value>
+    </string>
+    <string>
+        <id>league_ranked_welcome</id>
+        <value>ВАША НОВАЯ ЛИГА – %s!</value>
+    </string>
+    <string>
+        <id>league_toast_league</id>
+        <value>Лига</value>
+    </string>
+    <string>
+        <id>stats_career</id>
+        <value>ОБЩАЯ СТАТИСТИКА</value>
+    </string>
+    <string>
+        <id>stats_season</id>
+        <value>СЕЗОННАЯ СТАТИСТИКА</value>
+    </string>
+    <string>
+        <id>career_stats_title</id>
+        <value>Что такое общая статистика?</value>
+    </string>
+    <string>
+        <id>career_stats_description</id>
+        <value>На эти показатели влияют все рейтинговые и нерейтинговые матчи, сыгранные на данной учетной записи. Они не архивируются и не обнуляются.</value>
+    </string>
+    <string>
+        <id>season_stats_title</id>
+        <value>Что такое сезонная статистика?</value>
+    </string>
+    <string>
+        <id>season_stats_description</id>
+        <value>Здесь отображаются данные о сыгранных в текущем сезоне матчах. В начале каждого нового сезона эти данные сбрасываются и заносятся в архив.</value>
+    </string>
+    <string>
+        <id>season_mmr_title</id>
+        <value>Что такое MMR?</value>
+    </string>
+    <string>
+        <id>season_mmr_description</id>
+        <value>Рейтинг подбора соперников (MMR) помогает найти игроков со схожим уровнем навыков. Ваш MMR увеличивается или уменьшается после каждого матча в зависимости от его исхода.</value>
+    </string>
+    <string>
+        <id>season_srank_title</id>
+        <value>Игроки ранга S</value>
+    </string>
+    <string>
+        <id>season_srank_description</id>
+        <value>отмечаются как «пассивные», если не завершают хотя бы 5 матчей в неделю. Каждый понедельник в 20:00 МСК у игроков с данным статусом снижается MMR.</value>
+    </string>
+    <string>
+        <id>season_end_title</id>
+        <value>Окончание 1-го сезона 2018 г:</value>
+    </string>
+    <string>
+        <id>season_end_date</id>
+        <value>30.09.2018</value>
+    </string>
+    <string>
+        <id>season_title_2018_1</id>
+        <value>1-й сезон 2018 г.</value>
+    </string>
+    <string>
+        <id>season_info_introducing</id>
+        <value>ПРЕДСТАВЛЯЕМ</value>
+    </string>
+    <string>
+        <id>season_info_newSeason</id>
+        <value>НОВАЯ СИСТЕМА ЛИГ И СЕЗОНОВ</value>
+    </string>
+    <string>
+        <id>season_info_prideAndAccomplishment</id>
+        <value>ДОБЕЙТЕСЬ ВЕЛИЧИЯ И ЗАСЛУЖИТЕ НАГРАДЫ</value>
+    </string>
+    <string>
+        <id>season_info_exclusive</id>
+        <value>ЭКСКЛЮЗИВНЫЕ ПОРТРЕТЫ</value>
+    </string>
+    <string>
+        <id>season_info_rankPortraits</id>
+        <value>РАМКИ ДЛЯ ПОРТРЕТА С СИМВОЛИКОЙ РАНГА</value>
+    </string>
+    <string>
+        <id>season_info_howDoesItWork</id>
+        <value>КАК ВСЕ УСТРОЕНО?</value>
+    </string>
+    <string>
+        <id>season_info_placementMatches</id>
+        <value>Квалификационные матчи</value>
+    </string>
+    <string>
+        <id>season_info_startTheSeason</id>
+        <value>Все игроки начинают сезон без рейтинга и распределяются по лигам по результатам 5 квалификационных матчей.</value>
+    </string>
+    <string>
+        <id>season_info_frontierLeague</id>
+        <value>MMR пограничной лиги</value>
+    </string>
+    <string>
+        <id>season_info_carryOver</id>
+        <value>MMR пограничной лиги используется для определения подходящих соперников в квалификационных матчах первого сезона.</value>
+    </string>
+    <string>
+        <id>season_info_mmr_decay</id>
+        <value>Падение MMR</value>
+    </string>
+    <string>
+        <id>season_info_mmr_decay_description</id>
+        <value>Игроки ранга S отмечаются как «пассивные», если не завершают хотя бы 5 матчей в неделю. Каждый понедельник в 20:00 МСК у игроков с данным статусом снижается MMR.</value>
+    </string>
+    <string>
+        <id>season_info_top_players</id>
+        <value>Лучшие игроки</value>
+    </string>
+    <string>
+        <id>season_info_achieve_through_placement</id>
+        <value>Доступно после завершения квалификационных матчей</value>
+    </string>
+    <string>
+        <id>season_info_at_season_start</id>
+        <value>Все игроки на старте сезона</value>
+    </string>
+    <string>
+        <id>profile_console_skins</id>
+        <value>Облики консоли</value>
+    </string>
+    <string>
+        <id>profile_unit_skins</id>
+        <value>Облики войск и строений</value>
+    </string>
+    <string>
+        <id>profile_collections_available</id>
+        <value>Доступно: {numAvailable}</value>
+    </string>
+    <string>
+        <id>profile_all_collections</id>
+        <value>Все предметы</value>
+    </string>
+    <string>
+        <id>profile_skins_default</id>
+        <value>Стандартные облики</value>
+    </string>
+    <string>
+        <id>profile_skins_preorder</id>
+        <value>Облики за предзаказ</value>
+    </string>
+    <string>
+        <id>profile_season_history</id>
+        <value>История сезона</value>
+    </string>
+    <string>
+        <id>league_ranked_current_status</id>
+        <value>Поздравляем! Теперь ваша лига – %s!</value>
+    </string>
+    <string>
+        <id>chat_error_joinAlreadyInProgress</id>
+        <value>Вы уже отправляли запрос на присоединение к этому каналу.</value>
+    </string>
+    <string>
+        <id>profile_season_your_wins</id>
+        <value>Ваши победы</value>
+    </string>
+    <string>
+        <id>profile_season_opponent</id>
+        <value>Противник</value>
+    </string>
+    <string>
+        <id>profile_season_gamesplayed</id>
+        <value>Матчей за эту неделю:</value>
+    </string>
+    <string>
+        <id>profile_collections_rankedFrame</id>
+        <value>Рейтинговая рамка для портрета</value>
+    </string>
+    <string>
+        <id>profile_season_1v1global</id>
+        <value>Глобальный ранг 1х1</value>
+    </string>
+    <string>
+        <id>profile_season_matchPreview</id>
+        <value>Информация о матче</value>
+    </string>
+    <string>
+        <id>profile_season_mapStat</id>
+        <value>В текущем сезоне %s победили в %i% матчей на этой карте.</value>
+    </string>
+    <string>
+        <id>profile_season_dateformatting</id>
+        <value>%d.%m.%y</value>
+    </string>
+    <string>
+        <id>profile_season</id>
+        <value>Сезон</value>
+    </string>
+    <string>
+        <id>scr.waiting.title</id>
+        <value>Ожидание результатов</value>
+    </string>
+    <string>
+        <id>play_again</id>
+        <value>c\\4С\\1ыграть еще?</value>
+    </string>
+    <string>
+        <id>news_str</id>
+        <value>y\\4Н\\1овости</value>
+    </string>
+    <string>
+        <id>bnet_error_classicServer_TE_DroppedDueToRateLimit</id>
+        <value>Запрос отклонен из-за большого количества выполняемых операций.</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_mapListsDownloadProgressPopup_title</id>
+        <value>Загрузка списка рейтинговых карт...</value>
+    </string>
+    <string>
+        <id>profile_data_error</id>
+        <value>Не удается загрузить данные профиля. Пожалуйста, повторите попытку.</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.filter.region.opt.1</id>
+        <value>Все</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_BlizzCon2018_label</id>
+        <value>BlizzCon 2018</value>
+    </string>
+    <string>
+        <id>season_info_newSeasonAndMapPool</id>
+        <value>НОВЫЙ СЕЗОН И ПУЛ КАРТ</value>
+    </string>
+    <string>
+        <id>season_info_newRewards</id>
+        <value>НОВЫЕ НАГРАДЫ</value>
+    </string>
+    <string>
+        <id>season_info_season2_mapPool</id>
+        <value>ПУЛ КАРТ 2-ГО СЕЗОНА</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_noStatsFound</id>
+        <value>Статистика не найдена.</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.filter.igr</id>
+        <value>IGR</value>
+    </string>
+    <string>
+        <id>chat_error_AE_WhisperQuotaExceeded</id>
+        <value>Личное сообщение не отправлено, поскольку вы отправили слишком много личных сообщений за короткий промежуток времени.</value>
+    </string>
+    <string>
+        <id>chat_error_AE_FriendInviteeAtMaxFriends</id>
+        <value>Количество друзей по сети Blizzard этого игрока уже достигло максимума.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_presenceNotifications_enabled</id>
+        <value>Уведомления о статусе друзей будут отображаться.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_presenceNotifications_disabled</id>
+        <value>Уведомления о статусе друзей будут скрыты.</value>
+    </string>
+    <string>
+        <id>bnet_availabilityChange_online</id>
+        <value>Вы сменили статус на «В сети».</value>
+    </string>
+    <string>
+        <id>bnet_availabilityChange_away</id>
+        <value>Вы сменили статус на «Отсутствует».</value>
+    </string>
+    <string>
+        <id>bnet_availabilityChange_dnd</id>
+        <value>Вы сменили статус на «Занят» и не будете получать личные сообщения или уведомления о статусе друзей.</value>
+    </string>
+    <string>
+        <id>scr.profile.btn.purchase</id>
+        <value>КУПИТЬ</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_on_description</id>
+        <value>Включить уведомления о статусе друзей.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_off_description</id>
+        <value>Отключить уведомления о статусе друзей.</value>
+    </string>
+    <string>
+        <id>season_info_season3_mapPool</id>
+        <value>ПУЛ КАРТ 3-ГО СЕЗОНА</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_title</id>
+        <value>Комментаторы</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_default_title</id>
+        <value>Стандартный</value>
+    </string>
+    <string>
+        <id>replay_date</id>
+        <value>Дата:</value>
+    </string>
+    <string>
+        <id>replay_length</id>
+        <value>Длительность:</value>
+    </string>
+    <string>
+        <id>replay_file_name</id>
+        <value>Имя файла:</value>
+    </string>
+    <string>
+        <id>season_info_season_mapPool</id>
+        <value>ПУЛ КАРТ {seasonNumber}-ГО СЕЗОНА</value>
+    </string>
+    <string>
+        <id>scr.profile.btn.preview</id>
+        <value>Демо</value>
+    </string>
+    <string>
+        <id>bnet_availabilityChange_offline</id>
+        <value>Вы сменили статус на «Не в сети».</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Jaekyung_title</id>
+        <value>Ом</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Yongjun_title</id>
+        <value>Чон</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Jungmin_title</id>
+        <value>Ким</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_UmJeonKim_title</id>
+        <value>Трио «Ом, Чон, Ким»</value>
+    </string>
+    <string>
+        <id>recent_players</id>
+        <value>Недавние игроки</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Jaekyung_desc</id>
+        <value>Чэкён – настоящая легенда киберспорта в Корее. Он комментирует матчи с первого дня существования Star League. Теперь его талант и остроумие скрасят каждый ваш поединок в StarCraft!</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Yongjun_desc</id>
+        <value>Йончун – яркий и запоминающийся комментатор. Он всегда подает материал так, будто участвует в рэп-батле. Его напор и неуемная энергия будут задавать тон каждому вашему матчу в StarCraft!</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Jungmin_desc</id>
+        <value>В разгар киберспортивной карьеры Чонмина по его матчам за терранов можно было писать учебники. Его аналитика, подкрепленная многолетним игровым опытом, определенно не будет лишней во время игры в StarCraft.</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_UmJeonKim_desc</id>
+        <value>В комплект «Три легенды» входят индивидуальные наборы комментаторов Ома, Чона и Кима, а также их совместный набор «Трио \"Ом, Чон, Ким\"», который подарит вам идеальное сочетание глубокого анализа, талантливого повествования и любви к своему делу!</value>
+    </string>
+    <string>
+        <id>error_cant_load_last_replay</id>
+        <value>Не удалось загрузить последний повтор.</value>
+    </string>
+    <string>
+        <id>profile_collections_leaveMmQueueForSimpleCheckout</id>
+        <value>Чтобы завершить покупку, нужно покинуть очередь на матч. Вы согласны?</value>
+    </string>
+    <string>
+        <id>tag_zerg</id>
+        <value>Z</value>
+    </string>
+    <string>
+        <id>tag_terran</id>
+        <value>T</value>
+    </string>
+    <string>
+        <id>tag_protoss</id>
+        <value>P</value>
+    </string>
+    <string>
+        <id>tag_random</id>
+        <value>?</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_note</id>
+        <value>Корейский (без субтитров)</value>
+    </string>
+    <string>
+        <id>bnet_renameToonProgressPopup_title</id>
+        <value>Смена имени...</value>
+    </string>
+    <string>
+        <id>bnet_renameToonRequiredWarning</id>
+        <value>Профиль \"{toonName}\" необходимо переименовать.</value>
+    </string>
+    <string>
+        <id>bnet_toonRename_characterName</id>
+        <value>Имя профиля</value>
+    </string>
+    <string>
+        <id>bnet_toonRename_renameCharacter</id>
+        <value>Переименовать</value>
+    </string>
+    <string>
+        <id>profile_skins_carbot_desc</id>
+        <value>Добавьте в StarCraft легкости и очарования мультиков от Carbot! С этим вам поможет набор обликов «Мультяшки»! Каждая боевая единица, каждое строение, меню или элемент карты – все станет мультяшным как в сетевых матчах, так и в одиночных кампаниях!</value>
+    </string>
+    <string>
+        <id>season_info_season4_mapPool</id>
+        <value>ПУЛ КАРТ 4-ГО СЕЗОНА</value>
+    </string>
+    <string>
+        <id>lobbyScreen_selectRace</id>
+        <value>Выбор расы</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Pink</id>
+        <value>Розовый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Red</id>
+        <value>Красный</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Tan</id>
+        <value>Бежевый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Orange</id>
+        <value>Оранжевый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Brown</id>
+        <value>Коричневый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_PaleYellow</id>
+        <value>Светло-желтый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Yellow</id>
+        <value>Желтый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Olive</id>
+        <value>Оливковый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Lime</id>
+        <value>Лаймовый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_PaleGreen</id>
+        <value>Светло-синий</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Green</id>
+        <value>Зеленый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Cyan</id>
+        <value>Зелено-голубой</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Teal</id>
+        <value>Бирюзовый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Blue</id>
+        <value>Синий</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Navy</id>
+        <value>Морской</value>
+    </string>
+    <string>
+        <id>lobbyScreen_DarkAqua</id>
+        <value>Темно-бирюзовый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_BluishGrey</id>
+        <value>Серо-голубой</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Purple</id>
+        <value>Фиолетовый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Magenta</id>
+        <value>Пурпурный</value>
+    </string>
+    <string>
+        <id>lobbyScreen_White</id>
+        <value>Белый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Grey</id>
+        <value>Серый</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Black</id>
+        <value>Черный</value>
+    </string>
+    <string>
+        <id>bnet_chat_defaultChannelName</id>
+        <value>&lt;Канал по умолчанию&gt;</value>
+    </string>
+    <string>
+        <id>squad_popup_disband_squad_confirm</id>
+        <value>Вы уверены, что хотите\\n\\4распустить взвод?\\2</value>
+    </string>
+    <string>
+        <id>squad_popup_leave_squad_confirm</id>
+        <value>Вы уверены, что хотите\\n\\4покинуть взвод?\\2</value>
+    </string>
+    <string>
+        <id>squad_popup_stay_with_squad</id>
+        <value>j\\4О\\1статься во взводе</value>
+    </string>
+    <string>
+        <id>squad_popup_disband_squad</id>
+        <value>dРаспустить \\4в\\1звод</value>
+    </string>
+    <string>
+        <id>squad_popup_leave_squad</id>
+        <value>lПокинуть взво\\4д\\1</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Random</id>
+        <value>Случайная раса</value>
+    </string>
+    <string>
+        <id>squad_waiting_for_player</id>
+        <value>Ожидание игрока</value>
+    </string>
+    <string>
+        <id>squad_popup_squad_is_full</id>
+        <value>Взвод укомплектован. В него нельзя пригласить больше игроков.</value>
+    </string>
+    <string>
+        <id>squad_popup_squad_is_pending</id>
+        <value>Ожидание ответа на приглашение. Дождитесь результата, прежде чем повторить попытку.</value>
+    </string>
+    <string>
+        <id>squad_popup_wait_for_invite_result</id>
+        <value>Дождитесь, когда игрок ответит на ваше приглашение.</value>
+    </string>
+    <string>
+        <id>squad_chooseRace_timeout</id>
+        <value>Выбор расы будет отменен через {cancelTimeInSec} сек.</value>
+    </string>
+    <string>
+        <id>squad_popup_squad_guest_can_not_invite</id>
+        <value>Вы уже приглашены во взвод и не можете приглашать других игроков.</value>
+    </string>
+    <string>
+        <id>squad_popup_squad_invite_waiting</id>
+        <value>У вас есть неотвеченное приглашение во взвод. Отклоните его, прежде чем приглашать других игроков.</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_KRC_Silver_label</id>
+        <value>Оркестр 2019: серебро</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_KRC_Gold_label</id>
+        <value>Оркестр 2019: золото</value>
+    </string>
+    <string>
+        <id>squad_info_invite_reject_from_user_in_matchmaking</id>
+        <value>{playerName} уже ищет матч и не может принять приглашение.</value>
+    </string>
+    <string>
+        <id>squad_popup_disallow_invite_when_in_matchmaking</id>
+        <value>Вы не можете пригласить игрока во взвод, так как находитесь в очереди на матч.</value>
+    </string>
+    <string>
+        <id>squad_popup_disallow_1v1_if_invited</id>
+        <value>Вы не можете попасть в очередь на матч 1х1, так как состоите во взводе.</value>
+    </string>
+    <string>
+        <id>squad_popup_disallow_1v1_for_squad_leader</id>
+        <value>Вы не можете попасть в очередь на матч 1х1, так как являетесь лидером взвода.</value>
+    </string>
+    <string>
+        <id>squad_popup_not_invite_player_in_custom_game</id>
+        <value>Вы не можете пригласить игрока, уже участвующего в матче «Своей игры».</value>
+    </string>
+    <string>
+        <id>squad_info_leader_cancel_matchmaking</id>
+        <value>Лидер взвода прекратил поиск матча.</value>
+    </string>
+    <string>
+        <id>social_panel_message_button</id>
+        <value>Отправить сообщение</value>
+    </string>
+    <string>
+        <id>social_panel_friend_button</id>
+        <value>Добавить в друзья</value>
+    </string>
+    <string>
+        <id>social_panel_ignore_button</id>
+        <value>Игнорировать</value>
+    </string>
+    <string>
+        <id>social_panel_unignore_button</id>
+        <value>Перестать игнорировать</value>
+    </string>
+    <string>
+        <id>social_panel_report_button</id>
+        <value>Пожаловаться</value>
+    </string>
+    <string>
+        <id>social_panel_header</id>
+        <value>Общение</value>
+    </string>
+    <string>
+        <id>social_panel_report_reason</id>
+        <value>Выберите причину:</value>
+    </string>
+    <string>
+        <id>social_panel_report_spam</id>
+        <value>Спам</value>
+    </string>
+    <string>
+        <id>social_panel_report_harassment</id>
+        <value>Оскорбление</value>
+    </string>
+    <string>
+        <id>social_panel_report_cheating</id>
+        <value>Мошенничество</value>
+    </string>
+    <string>
+        <id>social_panel_report_account_name</id>
+        <value>Учетная запись</value>
+    </string>
+    <string>
+        <id>social_panel_report_battle_tag</id>
+        <value>BattleTag</value>
+    </string>
+    <string>
+        <id>social_panel_report_game_name</id>
+        <value>Название матча</value>
+    </string>
+    <string>
+        <id>profile_season_2v2global</id>
+        <value>Глобальный ранг 2х2</value>
+    </string>
+    <string>
+        <id>str_referee</id>
+        <value>Судья</value>
+    </string>
+    <string>
+        <id>strPAUSED_observer</id>
+        <value>{name} приостанавливает матч.</value>
+    </string>
+    <string>
+        <id>createGameScreen_refereeOption</id>
+        <value>Судьи</value>
+    </string>
+    <string>
+        <id>lobbyScreen_referees</id>
+        <value>Судьи</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_War3Spoils_label</id>
+        <value>Warcraft 3 Spoils of War</value>
+    </string>
+</strings>

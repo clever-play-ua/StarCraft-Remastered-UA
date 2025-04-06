@@ -1,0 +1,4907 @@
+[
+  {
+    "id": "gluGameLobby-2",
+    "Key": "gluGameLobby-2",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "gluGameLobby-1",
+    "Key": "gluGameLobby-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluMain-11",
+    "Key": "gluMain-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "netdlg-8",
+    "Key": "netdlg-8",
+    "Value": "промежутки времени между щелчком"
+  },
+  {
+    "id": "netdlg-9",
+    "Key": "netdlg-9",
+    "Value": "мыши и реакцией боевой единицы на этот"
+  },
+  {
+    "id": "netdlg-12",
+    "Key": "netdlg-12",
+    "Value": "но сглаживает производительность сети"
+  },
+  {
+    "id": "netdlg-13",
+    "Key": "netdlg-13",
+    "Value": "в системах с медленным или нестабильным"
+  },
+  {
+    "id": "netdlg-14",
+    "Key": "netdlg-14",
+    "Value": "подключением."
+  },
+  {
+    "id": "gluBattlenetCreateGameScreen-3",
+    "Key": "gluBattlenetCreateGameScreen-3",
+    "Value": "Используемый UDP-порт: %d."
+  },
+  {
+    "id": "allyfltr-20",
+    "Key": "allyfltr-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-21",
+    "Key": "allyfltr-21",
+    "Value": "Общая победа"
+  },
+  {
+    "id": "gluMain-16",
+    "Key": "gluMain-16",
+    "Value": "c\\4С\\1етевая игра22222"
+  },
+  {
+    "id": "msnstat2-15",
+    "Key": "msnstat2-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-20",
+    "Key": "msnstat2-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-21",
+    "Key": "msnstat2-21",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-22",
+    "Key": "msnstat2-22",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-15",
+    "Key": "msnstat4-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-20",
+    "Key": "msnstat4-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-21",
+    "Key": "msnstat4-21",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-22",
+    "Key": "msnstat4-22",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-15",
+    "Key": "msnstat6-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-20",
+    "Key": "msnstat6-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-21",
+    "Key": "msnstat6-21",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-22",
+    "Key": "msnstat6-22",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-19",
+    "Key": "msnstats-19",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-20",
+    "Key": "msnstats-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-21",
+    "Key": "msnstats-21",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-22",
+    "Key": "teamfltr-22",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-23",
+    "Key": "teamfltr-23",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-48",
+    "Key": "teamfltr-48",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-49",
+    "Key": "teamfltr-49",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-50",
+    "Key": "teamfltr-50",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-51",
+    "Key": "teamfltr-51",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-52",
+    "Key": "teamfltr-52",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "abrtmenu-8",
+    "Key": "abrtmenu-8",
+    "Value": "d\\u0004В\\u0001ыйти (ничья)"
+  },
+  {
+    "id": "abrtmenu-9",
+    "Key": "abrtmenu-9",
+    "Value": "lЗа\\u0004к\\u0001рыть повтор"
+  },
+  {
+    "id": "abrtmenu-10",
+    "Key": "abrtmenu-10",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "allyfltr-12",
+    "Key": "allyfltr-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-13",
+    "Key": "allyfltr-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-32",
+    "Key": "allyfltr-32",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-33",
+    "Key": "allyfltr-33",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-34",
+    "Key": "allyfltr-34",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gamemenu-8",
+    "Key": "gamemenu-8",
+    "Value": "w\\u0004Ц\\u0001ели задания"
+  },
+  {
+    "id": "gamemenu-9",
+    "Key": "gamemenu-9",
+    "Value": "tЗав\\u0004е\\u0001ршить задание"
+  },
+  {
+    "id": "gamemenu-10",
+    "Key": "gamemenu-10",
+    "Value": "Меню"
+  },
+  {
+    "id": "gluCmpgn-9",
+    "Key": "gluCmpgn-9",
+    "Value": "Кампания терранов\\nне завершена."
+  },
+  {
+    "id": "gluExpCmpgn-9",
+    "Key": "gluExpCmpgn-9",
+    "Value": "Кампания протоссов\\nне завершена."
+  },
+  {
+    "id": "gluJoin-11",
+    "Key": "gluJoin-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluJoin-13",
+    "Key": "gluJoin-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluJoin-14",
+    "Key": "gluJoin-14",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluJoin-16",
+    "Key": "gluJoin-16",
+    "Value": "vСоздать \\u0004м\\u0001атч"
+  },
+  {
+    "id": "gluJoin-17",
+    "Key": "gluJoin-17",
+    "Value": "Используемые UDP-порты: %d и %d."
+  },
+  {
+    "id": "gluMain-10",
+    "Key": "gluMain-10",
+    "Value": "d[\\u0004В\\u0001ход]"
+  },
+  {
+    "id": "gluMain-18",
+    "Key": "gluMain-18",
+    "Value": "j\\4О\\диночная игра1111"
+  },
+  {
+    "id": "msnstat2-7",
+    "Key": "msnstat2-7",
+    "Value": "Результат"
+  },
+  {
+    "id": "msnstat2-12",
+    "Key": "msnstat2-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-13",
+    "Key": "msnstat2-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-14",
+    "Key": "msnstat2-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-7",
+    "Key": "msnstat4-7",
+    "Value": "Результат"
+  },
+  {
+    "id": "msnstat4-12",
+    "Key": "msnstat4-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-13",
+    "Key": "msnstat4-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-14",
+    "Key": "msnstat4-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-7",
+    "Key": "msnstat6-7",
+    "Value": "Результат"
+  },
+  {
+    "id": "msnstat6-12",
+    "Key": "msnstat6-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-13",
+    "Key": "msnstat6-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-14",
+    "Key": "msnstat6-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-11",
+    "Key": "msnstats-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-12",
+    "Key": "msnstats-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-13",
+    "Key": "msnstats-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "netdlg-5",
+    "Key": "netdlg-5",
+    "Value": "c\\u0004С\\u0001верхвысокая задержка"
+  },
+  {
+    "id": "netdlg-6",
+    "Key": "netdlg-6",
+    "Value": "Настройки сети"
+  },
+  {
+    "id": "netdlg-10",
+    "Key": "netdlg-10",
+    "Value": "щелчок."
+  },
+  {
+    "id": "options-7",
+    "Key": "options-7",
+    "Value": "tС\\u0004е\\u0001ть"
+  },
+  {
+    "id": "options-8",
+    "Key": "options-8",
+    "Value": "Настройки игры"
+  },
+  {
+    "id": "snd_dlg-6",
+    "Key": "snd_dlg-6",
+    "Value": "c\\u0004С\\u0001убтитры"
+  },
+  {
+    "id": "snd_dlg-7",
+    "Key": "snd_dlg-7",
+    "Value": "Громкость музыки"
+  },
+  {
+    "id": "snd_dlg-10",
+    "Key": "snd_dlg-10",
+    "Value": "минимальная"
+  },
+  {
+    "id": "snd_dlg-11",
+    "Key": "snd_dlg-11",
+    "Value": "максимальная"
+  },
+  {
+    "id": "snd_dlg-12",
+    "Key": "snd_dlg-12",
+    "Value": "максимальная"
+  },
+  {
+    "id": "snd_dlg-13",
+    "Key": "snd_dlg-13",
+    "Value": "Настройки звука"
+  },
+  {
+    "id": "spd_dlg-7",
+    "Key": "spd_dlg-7",
+    "Value": "медленно"
+  },
+  {
+    "id": "spd_dlg-8",
+    "Key": "spd_dlg-8",
+    "Value": "медленно"
+  },
+  {
+    "id": "spd_dlg-12",
+    "Key": "spd_dlg-12",
+    "Value": "быстро"
+  },
+  {
+    "id": "spd_dlg-13",
+    "Key": "spd_dlg-13",
+    "Value": "быстро"
+  },
+  {
+    "id": "spd_dlg-14",
+    "Key": "spd_dlg-14",
+    "Value": "высокая"
+  },
+  {
+    "id": "spd_dlg-15",
+    "Key": "spd_dlg-15",
+    "Value": "Настройки скорости"
+  },
+  {
+    "id": "spd_dlg-16",
+    "Key": "spd_dlg-16",
+    "Value": "v\\u0004М\\u0001асштабирование мыши"
+  },
+  {
+    "id": "spd_dlg-17",
+    "Key": "spd_dlg-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-14",
+    "Key": "teamfltr-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-15",
+    "Key": "teamfltr-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-40",
+    "Key": "teamfltr-40",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-41",
+    "Key": "teamfltr-41",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-42",
+    "Key": "teamfltr-42",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-43",
+    "Key": "teamfltr-43",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-44",
+    "Key": "teamfltr-44",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-10",
+    "Key": "timeout-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-11",
+    "Key": "timeout-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "tips_dlg-4",
+    "Key": "tips_dlg-4",
+    "Value": "x"
+  },
+  {
+    "id": "tips_dlg-5",
+    "Key": "tips_dlg-5",
+    "Value": "pПоказывать советы при \\u0004з\\u0001апуске"
+  },
+  {
+    "id": "tips_dlg-6",
+    "Key": "tips_dlg-6",
+    "Value": "Полезные советы"
+  },
+  {
+    "id": "video-3",
+    "Key": "video-3",
+    "Value": "aБилинейная \\u0004ф\\u0001ильтрация"
+  },
+  {
+    "id": "video-6",
+    "Key": "video-6",
+    "Value": "j\\u0004О\\u0001конный режим"
+  },
+  {
+    "id": "video-8",
+    "Key": "video-8",
+    "Value": "g\\u0004П\\u0001олноэкранный режим"
+  },
+  {
+    "id": "video-13",
+    "Key": "video-13",
+    "Value": "максимальная"
+  },
+  {
+    "id": "video-12",
+    "Key": "video-12",
+    "Value": "максимальная"
+  },
+  {
+    "id": "video-15",
+    "Key": "video-15",
+    "Value": "cВертикальная \\u0004с\\u0001инхронизация"
+  },
+  {
+    "id": "voice-6",
+    "Key": "voice-6",
+    "Value": "Уровень записи"
+  },
+  {
+    "id": "voice-7",
+    "Key": "voice-7",
+    "Value": "Громкость воспроизведения"
+  },
+  {
+    "id": "voice-14",
+    "Key": "voice-14",
+    "Value": "макс"
+  },
+  {
+    "id": "voice-15",
+    "Key": "voice-15",
+    "Value": "Голосовой чат"
+  },
+  {
+    "id": "wmission-8",
+    "Key": "wmission-8",
+    "Value": "Скоро сервер определит результат."
+  },
+  {
+    "id": "abrtmenu-4",
+    "Key": "abrtmenu-4",
+    "Value": "sВ\\u0004ы\\u0001йти из игры"
+  },
+  {
+    "id": "abrtmenu-5",
+    "Key": "abrtmenu-5",
+    "Value": "Завершить задание"
+  },
+  {
+    "id": "abrtmenu-6",
+    "Key": "abrtmenu-6",
+    "Value": "c\\u0004С\\u0001даться"
+  },
+  {
+    "id": "abrtmenu-7",
+    "Key": "abrtmenu-7",
+    "Value": "g\\u0004П\\u0001обеда"
+  },
+  {
+    "id": "allyfltr-4",
+    "Key": "allyfltr-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-5",
+    "Key": "allyfltr-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-24",
+    "Key": "allyfltr-24",
+    "Value": "Общий доступ"
+  },
+  {
+    "id": "allyfltr-25",
+    "Key": "allyfltr-25",
+    "Value": "Обзор"
+  },
+  {
+    "id": "allyfltr-26",
+    "Key": "allyfltr-26",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-27",
+    "Key": "allyfltr-27",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-28",
+    "Key": "allyfltr-28",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gamemenu-4",
+    "Key": "gamemenu-4",
+    "Value": "pПау\\u0004з\\u0001а"
+  },
+  {
+    "id": "gamemenu-5",
+    "Key": "gamemenu-5",
+    "Value": "g\\u0004П\\u0001родолжить игру"
+  },
+  {
+    "id": "gamemenu-6",
+    "Key": "gamemenu-6",
+    "Value": "y\\u0004Н\\u0001астройки"
+  },
+  {
+    "id": "gamemenu-7",
+    "Key": "gamemenu-7",
+    "Value": "dСпра\\u0004в\\u0001ка"
+  },
+  {
+    "id": "gluCmpgn-6",
+    "Key": "gluCmpgn-6",
+    "Value": "y\\u0004Н\\u0001азад"
+  },
+  {
+    "id": "gluExpCmpgn-6",
+    "Key": "gluExpCmpgn-6",
+    "Value": "y\\u0004Н\\u0001азад"
+  },
+  {
+    "id": "gluJoin-8",
+    "Key": "gluJoin-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluJoin-10",
+    "Key": "gluJoin-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluJoin-15",
+    "Key": "gluJoin-15",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluMain-7",
+    "Key": "gluMain-7",
+    "Value": "d\\u0004В\\u0001ступительный роли2222к"
+  },
+  {
+    "id": "gluMain-14",
+    "Key": "gluMain-14",
+    "Value": "d\\u0004В\\u0001ступительный рол2222ик"
+  },
+  {
+    "id": "gluModemEntry-4",
+    "Key": "gluModemEntry-4",
+    "Value": "c\\4C\\1ancel"
+  },
+  {
+    "id": "gluRdyP-4",
+    "Key": "gluRdyP-4",
+    "Value": "g\\u0004П\\u0001овтор"
+  },
+  {
+    "id": "gluRdyT-4",
+    "Key": "gluRdyT-4",
+    "Value": "g\\u0004П\\u0001овтор"
+  },
+  {
+    "id": "GluRdyZ-4",
+    "Key": "GluRdyZ-4",
+    "Value": "g\\u0004П\\u0001овтор"
+  },
+  {
+    "id": "gluScore-7",
+    "Key": "gluScore-7",
+    "Value": "g\\u0004П\\u0001росмотр"
+  },
+  {
+    "id": "helpmenu-4",
+    "Key": "helpmenu-4",
+    "Value": "Меню справки"
+  },
+  {
+    "id": "lmission-4",
+    "Key": "lmission-4",
+    "Value": "Соединение было разорвано."
+  },
+  {
+    "id": "MsgFltr-4",
+    "Key": "MsgFltr-4",
+    "Value": "Отправить союзникам"
+  },
+  {
+    "id": "MsgFltr-5",
+    "Key": "MsgFltr-5",
+    "Value": "Отправить игроку"
+  },
+  {
+    "id": "msnstat2-4",
+    "Key": "msnstat2-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-9",
+    "Key": "msnstat2-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-10",
+    "Key": "msnstat2-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-11",
+    "Key": "msnstat2-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-30",
+    "Key": "msnstat2-30",
+    "Value": "Разрушено"
+  },
+  {
+    "id": "msnstat4-4",
+    "Key": "msnstat4-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-9",
+    "Key": "msnstat4-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-10",
+    "Key": "msnstat4-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-11",
+    "Key": "msnstat4-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-4",
+    "Key": "msnstat6-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-9",
+    "Key": "msnstat6-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-10",
+    "Key": "msnstat6-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-11",
+    "Key": "msnstat6-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-8",
+    "Key": "msnstats-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-9",
+    "Key": "msnstats-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-10",
+    "Key": "msnstats-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "netdlg-7",
+    "Key": "netdlg-7",
+    "Value": "Сниженная задержка уменьшает"
+  },
+  {
+    "id": "netdlg-11",
+    "Key": "netdlg-11",
+    "Value": "Увеличенная задержка повышает это время,"
+  },
+  {
+    "id": "options-4",
+    "Key": "options-4",
+    "Value": "u\\u0004Г\\u0001рафика"
+  },
+  {
+    "id": "options-5",
+    "Key": "options-5",
+    "Value": "b\\u0004И\\u0001гра"
+  },
+  {
+    "id": "options-6",
+    "Key": "options-6",
+    "Value": "d\\u0004В\\u0001вод"
+  },
+  {
+    "id": "quit-4",
+    "Key": "quit-4",
+    "Value": "хотите выйти из"
+  },
+  {
+    "id": "quit-5",
+    "Key": "quit-5",
+    "Value": "StarCraft?"
+  },
+  {
+    "id": "quit2mnu-4",
+    "Key": "quit2mnu-4",
+    "Value": "Вы уверены, что"
+  },
+  {
+    "id": "quit2mnu-5",
+    "Key": "quit2mnu-5",
+    "Value": "хотите завершить"
+  },
+  {
+    "id": "quit2mnu-6",
+    "Key": "quit2mnu-6",
+    "Value": "задание?"
+  },
+  {
+    "id": "quitrepl-4",
+    "Key": "quitrepl-4",
+    "Value": "хотите закрыть"
+  },
+  {
+    "id": "quitrepl-5",
+    "Key": "quitrepl-5",
+    "Value": "повтор?"
+  },
+  {
+    "id": "restart-4",
+    "Key": "restart-4",
+    "Value": "хотите начать"
+  },
+  {
+    "id": "restart-5",
+    "Key": "restart-5",
+    "Value": "задание сначала?"
+  },
+  {
+    "id": "snd_dlg-8",
+    "Key": "snd_dlg-8",
+    "Value": "Громкость эффектов"
+  },
+  {
+    "id": "teamfltr-4",
+    "Key": "teamfltr-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-5",
+    "Key": "teamfltr-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-30",
+    "Key": "teamfltr-30",
+    "Value": "Общий доступ"
+  },
+  {
+    "id": "teamfltr-31",
+    "Key": "teamfltr-31",
+    "Value": "Обзор"
+  },
+  {
+    "id": "teamfltr-32",
+    "Key": "teamfltr-32",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-33",
+    "Key": "teamfltr-33",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-34",
+    "Key": "teamfltr-34",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-6",
+    "Key": "timeout-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-7",
+    "Key": "timeout-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "video-11",
+    "Key": "video-11",
+    "Value": "минимальная"
+  },
+  {
+    "id": "video-10",
+    "Key": "video-10",
+    "Value": "минимальная"
+  },
+  {
+    "id": "voice-8",
+    "Key": "voice-8",
+    "Value": "Уровень заглушения"
+  },
+  {
+    "id": "wmission-5",
+    "Key": "wmission-5",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "wmission-7",
+    "Key": "wmission-7",
+    "Value": "Матч завершился вничью."
+  },
+  {
+    "id": "abrtmenu-1",
+    "Key": "abrtmenu-1",
+    "Value": "\\u001BНазад (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "abrtmenu-2",
+    "Key": "abrtmenu-2",
+    "Value": "y\\u0004Н\\u0001ачать сначала"
+  },
+  {
+    "id": "abrtmenu-3",
+    "Key": "abrtmenu-3",
+    "Value": "p\\u0004З\\u0001авершить задание"
+  },
+  {
+    "id": "allyfltr-1",
+    "Key": "allyfltr-1",
+    "Value": "Применить"
+  },
+  {
+    "id": "allyfltr-2",
+    "Key": "allyfltr-2",
+    "Value": "Отмена"
+  },
+  {
+    "id": "allyfltr-3",
+    "Key": "allyfltr-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-6",
+    "Key": "allyfltr-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-7",
+    "Key": "allyfltr-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "bigok-1",
+    "Key": "bigok-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "cancel-1",
+    "Key": "cancel-1",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "dlgFatal-1",
+    "Key": "dlgFatal-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gamemenu-1",
+    "Key": "gamemenu-1",
+    "Value": "\\u001BВернуться в игру (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "gamemenu-2",
+    "Key": "gamemenu-2",
+    "Value": "c\\u0004С\\u0001охранить игру"
+  },
+  {
+    "id": "gamemenu-3",
+    "Key": "gamemenu-3",
+    "Value": "fЗ\\u0004а\\u0001грузить игру"
+  },
+  {
+    "id": "gluCmpgn-1",
+    "Key": "gluCmpgn-1",
+    "Value": "fЗ\\u0004а\\u0001грузить игру"
+  },
+  {
+    "id": "gluCmpgn-2",
+    "Key": "gluCmpgn-2",
+    "Value": "eЗагр\\u0004у\\u0001зить повтор"
+  },
+  {
+    "id": "gluCmpgn-3",
+    "Key": "gluCmpgn-3",
+    "Value": "g\\u0004П\\u0001ротоссы\\n\\u0002Эпизод III\\u0001"
+  },
+  {
+    "id": "gluCmpgn-4",
+    "Key": "gluCmpgn-4",
+    "Value": "n\\u0004Т\\u0001ерраны\\n\\u0002Эпизод I\\u0001"
+  },
+  {
+    "id": "gluCmpgn-5",
+    "Key": "gluCmpgn-5",
+    "Value": "p\\u0004З\\u0001ерги\\n\\u0002Эпизод II\\u0001"
+  },
+  {
+    "id": "gluCmpgn-7",
+    "Key": "gluCmpgn-7",
+    "Value": "c\\u0004С\\u0001воя игра"
+  },
+  {
+    "id": "gluCmpgn-8",
+    "Key": "gluCmpgn-8",
+    "Value": "Кампания терранов\\nне завершена."
+  },
+  {
+    "id": "gluCmpgn-10",
+    "Key": "gluCmpgn-10",
+    "Value": "Кампания зергов\\nне завершена."
+  },
+  {
+    "id": "gluConn-1",
+    "Key": "gluConn-1",
+    "Value": "Тип подключения"
+  },
+  {
+    "id": "gluConn-2",
+    "Key": "gluConn-2",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluConn-3",
+    "Key": "gluConn-3",
+    "Value": "j\\u0004О\\u0001бновить"
+  },
+  {
+    "id": "gluConn-5",
+    "Key": "gluConn-5",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluCreat-1",
+    "Key": "gluCreat-1",
+    "Value": "Создать"
+  },
+  {
+    "id": "gluCreat-2",
+    "Key": "gluCreat-2",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluCreat-3",
+    "Key": "gluCreat-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluCreat-4",
+    "Key": "gluCreat-4",
+    "Value": "Тип игры:"
+  },
+  {
+    "id": "gluCreat-5",
+    "Key": "gluCreat-5",
+    "Value": "Подтип"
+  },
+  {
+    "id": "gluCreat-6",
+    "Key": "gluCreat-6",
+    "Value": "-"
+  },
+  {
+    "id": "gluCreat-7",
+    "Key": "gluCreat-7",
+    "Value": "+"
+  },
+  {
+    "id": "gluCustm-1",
+    "Key": "gluCustm-1",
+    "Value": "Создать"
+  },
+  {
+    "id": "gluCustm-2",
+    "Key": "gluCustm-2",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluCustm-3",
+    "Key": "gluCustm-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluCustm-4",
+    "Key": "gluCustm-4",
+    "Value": "Тип игры:"
+  },
+  {
+    "id": "gluDelCh-1",
+    "Key": "gluDelCh-1",
+    "Value": "l\\u0004Д\\u0001а"
+  },
+  {
+    "id": "gluDelCh-2",
+    "Key": "gluDelCh-2",
+    "Value": "y\\u0004Н\\u0001ет"
+  },
+  {
+    "id": "gluDelCh-3",
+    "Key": "gluDelCh-3",
+    "Value": "Вы уверены?"
+  },
+  {
+    "id": "gluEOk-1",
+    "Key": "gluEOk-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluEOkCancel-1",
+    "Key": "gluEOkCancel-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluEOkCancel-2",
+    "Key": "gluEOkCancel-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluExpCmpgn-1",
+    "Key": "gluExpCmpgn-1",
+    "Value": "fЗ\\u0004а\\u0001грузить игру"
+  },
+  {
+    "id": "gluExpCmpgn-2",
+    "Key": "gluExpCmpgn-2",
+    "Value": "eЗагр\\u0004у\\u0001зить повтор"
+  },
+  {
+    "id": "gluExpCmpgn-3",
+    "Key": "gluExpCmpgn-3",
+    "Value": "p\\u0004З\\u0001ерги\\n\\u0002Эпизод VI\\u0001"
+  },
+  {
+    "id": "gluExpCmpgn-4",
+    "Key": "gluExpCmpgn-4",
+    "Value": "g\\u0004П\\u0001ротоссы\\n\\u0002Эпизод IV\\u0001"
+  },
+  {
+    "id": "gluExpCmpgn-5",
+    "Key": "gluExpCmpgn-5",
+    "Value": "n\\u0004Т\\u0001ерраны\\n\\u0002Эпизод V\\u0001"
+  },
+  {
+    "id": "gluExpCmpgn-7",
+    "Key": "gluExpCmpgn-7",
+    "Value": "c\\u0004С\\u0001воя игра"
+  },
+  {
+    "id": "gluExpCmpgn-8",
+    "Key": "gluExpCmpgn-8",
+    "Value": "Кампания протоссов\\nне завершена."
+  },
+  {
+    "id": "gluExpCmpgn-10",
+    "Key": "gluExpCmpgn-10",
+    "Value": "Кампания терранов\\nне завершена."
+  },
+  {
+    "id": "gluGameMode-1",
+    "Key": "gluGameMode-1",
+    "Value": "j\\u0004О\\u0001ригинальная игра"
+  },
+  {
+    "id": "gluGameMode-2",
+    "Key": "gluGameMode-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluGameMode-3",
+    "Key": "gluGameMode-3",
+    "Value": "l\\u0004Д\\u0001ополнение"
+  },
+  {
+    "id": "gluJoin-1",
+    "Key": "gluJoin-1",
+    "Value": "Матчи"
+  },
+  {
+    "id": "gluJoin-2",
+    "Key": "gluJoin-2",
+    "Value": "Название матча:"
+  },
+  {
+    "id": "gluJoin-3",
+    "Key": "gluJoin-3",
+    "Value": "Тип игры:"
+  },
+  {
+    "id": "gluJoin-4",
+    "Key": "gluJoin-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluJoin-5",
+    "Key": "gluJoin-5",
+    "Value": "Название карты:"
+  },
+  {
+    "id": "gluJoin-6",
+    "Key": "gluJoin-6",
+    "Value": "Размер карты:"
+  },
+  {
+    "id": "gluJoin-7",
+    "Key": "gluJoin-7",
+    "Value": "Скорость игры:"
+  },
+  {
+    "id": "gluJoin-9",
+    "Key": "gluJoin-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluLoad-1",
+    "Key": "gluLoad-1",
+    "Value": "Сохранения"
+  },
+  {
+    "id": "gluLoad-2",
+    "Key": "gluLoad-2",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluLoad-3",
+    "Key": "gluLoad-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluLoad-4",
+    "Key": "gluLoad-4",
+    "Value": "e\\u0004У\\u0001далить"
+  },
+  {
+    "id": "gluLogin-2",
+    "Key": "gluLogin-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluLogin-3",
+    "Key": "gluLogin-3",
+    "Value": "c\\u0004С\\u0001оздать"
+  },
+  {
+    "id": "gluLogin-4",
+    "Key": "gluLogin-4",
+    "Value": "e\\u0004У\\u0001далить"
+  },
+  {
+    "id": "gluLogin-1",
+    "Key": "gluLogin-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluLogin-5",
+    "Key": "gluLogin-5",
+    "Value": "Профиль"
+  },
+  {
+    "id": "gluMain-1",
+    "Key": "gluMain-1",
+    "Value": "sВ\\u0004ы\\u0001ход"
+  },
+  {
+    "id": "gluMain-3",
+    "Key": "gluMain-3",
+    "Value": "j\\u0004О\\u0001диночная игра"
+  },
+  {
+    "id": "gluMain-4",
+    "Key": "gluMain-4",
+    "Value": "c\\u0004С\\u0001етевая игра111111"
+  },
+  {
+    "id": "gluMain-2",
+    "Key": "gluMain-2",
+    "Value": "\\u0005Одиночная игра"
+  },
+  {
+    "id": "gluMain-5",
+    "Key": "gluMain-5",
+    "Value": "y\\u0004Н\\u0001астройки"
+  },
+  {
+    "id": "gluModem-1",
+    "Key": "gluModem-1",
+    "Value": "o\\4O\\1k"
+  },
+  {
+    "id": "gluModem-2",
+    "Key": "gluModem-2",
+    "Value": "c\\4C\\1ancel"
+  },
+  {
+    "id": "gluModem-3",
+    "Key": "gluModem-3",
+    "Value": "n\\4N\\1ew Number"
+  },
+  {
+    "id": "gluModem-4",
+    "Key": "gluModem-4",
+    "Value": "d\\4D\\1elete"
+  },
+  {
+    "id": "gluModem-5",
+    "Key": "gluModem-5",
+    "Value": "gCreate \\4G\\1ame"
+  },
+  {
+    "id": "gluModem-6",
+    "Key": "gluModem-6",
+    "Value": "Tel. Numbers"
+  },
+  {
+    "id": "gluModem-7",
+    "Key": "gluModem-7",
+    "Value": "Modem"
+  },
+  {
+    "id": "gluModemEntry-1",
+    "Key": "gluModemEntry-1",
+    "Value": "Enter name:"
+  },
+  {
+    "id": "gluModemEntry-2",
+    "Key": "gluModemEntry-2",
+    "Value": "Enter number:"
+  },
+  {
+    "id": "gluModemEntry-3",
+    "Key": "gluModemEntry-3",
+    "Value": "o\\4O\\1k"
+  },
+  {
+    "id": "gluModemList-1",
+    "Key": "gluModemList-1",
+    "Value": "Please select a modem:"
+  },
+  {
+    "id": "gluModemList-2",
+    "Key": "gluModemList-2",
+    "Value": "o\\4O\\1k"
+  },
+  {
+    "id": "gluModemList-3",
+    "Key": "gluModemList-3",
+    "Value": "c\\4C\\1ancel"
+  },
+  {
+    "id": "gluModemStatus-1",
+    "Key": "gluModemStatus-1",
+    "Value": "c\\4C\\1ancel"
+  },
+  {
+    "id": "gluNewCh-1",
+    "Key": "gluNewCh-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluNewCh-2",
+    "Key": "gluNewCh-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluNewCh-3",
+    "Key": "gluNewCh-3",
+    "Value": "Введите ваше имя:"
+  },
+  {
+    "id": "gluPEdit-1",
+    "Key": "gluPEdit-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluPEdit-2",
+    "Key": "gluPEdit-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluPOk-1",
+    "Key": "gluPOk-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluPOkCancel-1",
+    "Key": "gluPOkCancel-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluPOkCancel-2",
+    "Key": "gluPOkCancel-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluPOkSplit-1",
+    "Key": "gluPOkSplit-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluRdyP-1",
+    "Key": "gluRdyP-1",
+    "Value": "y\\u0004Н\\u0001ачать"
+  },
+  {
+    "id": "gluRdyP-2",
+    "Key": "gluRdyP-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluRdyP-3",
+    "Key": "gluRdyP-3",
+    "Value": "jПр\\u0004о\\u0001пустить"
+  },
+  {
+    "id": "gluRdyP-5",
+    "Key": "gluRdyP-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyP-6",
+    "Key": "gluRdyP-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyP-7",
+    "Key": "gluRdyP-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyP-8",
+    "Key": "gluRdyP-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyT-1",
+    "Key": "gluRdyT-1",
+    "Value": "y\\u0004Н\\u0001ачать"
+  },
+  {
+    "id": "gluRdyT-2",
+    "Key": "gluRdyT-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluRdyT-3",
+    "Key": "gluRdyT-3",
+    "Value": "jПр\\u0004о\\u0001пустить"
+  },
+  {
+    "id": "gluRdyT-5",
+    "Key": "gluRdyT-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyT-6",
+    "Key": "gluRdyT-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyT-7",
+    "Key": "gluRdyT-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyT-8",
+    "Key": "gluRdyT-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "GluRdyZ-1",
+    "Key": "GluRdyZ-1",
+    "Value": "y\\u0004Н\\u0001ачать"
+  },
+  {
+    "id": "GluRdyZ-2",
+    "Key": "GluRdyZ-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "GluRdyZ-3",
+    "Key": "GluRdyZ-3",
+    "Value": "jПр\\u0004о\\u0001пустить"
+  },
+  {
+    "id": "GluRdyZ-5",
+    "Key": "GluRdyZ-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "GluRdyZ-6",
+    "Key": "GluRdyZ-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "GluRdyZ-7",
+    "Key": "GluRdyZ-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "GluRdyZ-8",
+    "Key": "GluRdyZ-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluScore-1",
+    "Key": "gluScore-1",
+    "Value": "dС\\u0004в\\u0001одка"
+  },
+  {
+    "id": "gluScore-2",
+    "Key": "gluScore-2",
+    "Value": "rВойс\\u0004к\\u0001а"
+  },
+  {
+    "id": "help-1",
+    "Key": "help-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "help-2",
+    "Key": "help-2",
+    "Value": "Справка StarCraft"
+  },
+  {
+    "id": "helpmenu-1",
+    "Key": "helpmenu-1",
+    "Value": "\\u001BНазад (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "helpmenu-2",
+    "Key": "helpmenu-2",
+    "Value": "rСправка по \\u0004к\\u0001лавишам"
+  },
+  {
+    "id": "helpmenu-3",
+    "Key": "helpmenu-3",
+    "Value": "g\\u0004П\\u0001олезные советы"
+  },
+  {
+    "id": "lmission-1",
+    "Key": "lmission-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "lmission-2",
+    "Key": "lmission-2",
+    "Value": "pСтать \\u0004з\\u0001рителем"
+  },
+  {
+    "id": "lmission-3",
+    "Key": "lmission-3",
+    "Value": "Вам не удалось\\nодержать победу!"
+  },
+  {
+    "id": "loadgame-1",
+    "Key": "loadgame-1",
+    "Value": "fЗ\\u0004а\\u0001грузить"
+  },
+  {
+    "id": "loadgame-2",
+    "Key": "loadgame-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "loadgame-3",
+    "Key": "loadgame-3",
+    "Value": "Загрузить игру"
+  },
+  {
+    "id": "MsgFltr-1",
+    "Key": "MsgFltr-1",
+    "Value": "Применить"
+  },
+  {
+    "id": "MsgFltr-2",
+    "Key": "MsgFltr-2",
+    "Value": "Отмена"
+  },
+  {
+    "id": "MsgFltr-3",
+    "Key": "MsgFltr-3",
+    "Value": "Отправить всем"
+  },
+  {
+    "id": "msnstat2-1",
+    "Key": "msnstat2-1",
+    "Value": "Продолжить"
+  },
+  {
+    "id": "msnstat2-2",
+    "Key": "msnstat2-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-3",
+    "Key": "msnstat2-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-5",
+    "Key": "msnstat2-5",
+    "Value": "Исход"
+  },
+  {
+    "id": "msnstat2-6",
+    "Key": "msnstat2-6",
+    "Value": "Ранг"
+  },
+  {
+    "id": "msnstat2-8",
+    "Key": "msnstat2-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-1",
+    "Key": "msnstat4-1",
+    "Value": "Продолжить"
+  },
+  {
+    "id": "msnstat4-2",
+    "Key": "msnstat4-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-3",
+    "Key": "msnstat4-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-5",
+    "Key": "msnstat4-5",
+    "Value": "Исход"
+  },
+  {
+    "id": "msnstat4-6",
+    "Key": "msnstat4-6",
+    "Value": "Ранг"
+  },
+  {
+    "id": "msnstat4-8",
+    "Key": "msnstat4-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-1",
+    "Key": "msnstat6-1",
+    "Value": "Продолжить"
+  },
+  {
+    "id": "msnstat6-2",
+    "Key": "msnstat6-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-3",
+    "Key": "msnstat6-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-5",
+    "Key": "msnstat6-5",
+    "Value": "Исход"
+  },
+  {
+    "id": "msnstat6-6",
+    "Key": "msnstat6-6",
+    "Value": "Ранг"
+  },
+  {
+    "id": "msnstat6-8",
+    "Key": "msnstat6-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-1",
+    "Key": "msnstats-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-2",
+    "Key": "msnstats-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-3",
+    "Key": "msnstats-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-4",
+    "Key": "msnstats-4",
+    "Value": "Исход"
+  },
+  {
+    "id": "msnstats-5",
+    "Key": "msnstats-5",
+    "Value": "Ранг"
+  },
+  {
+    "id": "msnstats-6",
+    "Key": "msnstats-6",
+    "Value": "Результат"
+  },
+  {
+    "id": "msnstats-7",
+    "Key": "msnstats-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "netdlg-1",
+    "Key": "netdlg-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "netdlg-2",
+    "Key": "netdlg-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "netdlg-3",
+    "Key": "netdlg-3",
+    "Value": "y\\u0004Н\\u0001изкая задержка"
+  },
+  {
+    "id": "netwait-1",
+    "Key": "netwait-1",
+    "Value": "Отмена"
+  },
+  {
+    "id": "netwait-2",
+    "Key": "netwait-2",
+    "Value": "Ожидание ответа от удаленной системы..."
+  },
+  {
+    "id": "objctdlg-1",
+    "Key": "objctdlg-1",
+    "Value": "\\u001BНазад (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "objctdlg-2",
+    "Key": "objctdlg-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "ok-1",
+    "Key": "ok-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "okcancel-1",
+    "Key": "okcancel-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "okcancel-2",
+    "Key": "okcancel-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "options-1",
+    "Key": "options-1",
+    "Value": "\\u001BНазад (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "options-2",
+    "Key": "options-2",
+    "Value": "c\\u0004С\\u0001корость"
+  },
+  {
+    "id": "options-3",
+    "Key": "options-3",
+    "Value": "p\\u0004З\\u0001вук"
+  },
+  {
+    "id": "quit-1",
+    "Key": "quit-1",
+    "Value": "sВ\\u0004ы\\u0001йти из игры"
+  },
+  {
+    "id": "quit-2",
+    "Key": "quit-2",
+    "Value": "\\u001BОтмена (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "quit-3",
+    "Key": "quit-3",
+    "Value": "Вы уверены, что"
+  },
+  {
+    "id": "quit2mnu-1",
+    "Key": "quit2mnu-1",
+    "Value": "p\\u0004З\\u0001авершить задание"
+  },
+  {
+    "id": "quit2mnu-2",
+    "Key": "quit2mnu-2",
+    "Value": "c\\u0004С\\u0001тать зрителем"
+  },
+  {
+    "id": "quit2mnu-3",
+    "Key": "quit2mnu-3",
+    "Value": "\\u001BОтмена (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "quitrepl-1",
+    "Key": "quitrepl-1",
+    "Value": "rЗа\\u0004к\\u0001рыть повтор"
+  },
+  {
+    "id": "quitrepl-2",
+    "Key": "quitrepl-2",
+    "Value": "\\u001BОтмена (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "quitrepl-3",
+    "Key": "quitrepl-3",
+    "Value": "Вы уверены, что"
+  },
+  {
+    "id": "restart-1",
+    "Key": "restart-1",
+    "Value": "y\\u0004Н\\u0001ачать сначала"
+  },
+  {
+    "id": "restart-2",
+    "Key": "restart-2",
+    "Value": "\\u001BОтмена (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "restart-3",
+    "Key": "restart-3",
+    "Value": "Вы уверены, что"
+  },
+  {
+    "id": "savegame-1",
+    "Key": "savegame-1",
+    "Value": "c\\u0004С\\u0001охранить"
+  },
+  {
+    "id": "savegame-2",
+    "Key": "savegame-2",
+    "Value": "e\\u0004У\\u0001далить"
+  },
+  {
+    "id": "savegame-3",
+    "Key": "savegame-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "savegame-4",
+    "Key": "savegame-4",
+    "Value": "Сохранить игру"
+  },
+  {
+    "id": "snd_dlg-1",
+    "Key": "snd_dlg-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "snd_dlg-2",
+    "Key": "snd_dlg-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "snd_dlg-3",
+    "Key": "snd_dlg-3",
+    "Value": "h\\u0004Р\\u0001еплики боевых единиц"
+  },
+  {
+    "id": "snd_dlg-4",
+    "Key": "snd_dlg-4",
+    "Value": "g\\u0004П\\u0001отдверждения"
+  },
+  {
+    "id": "snd_dlg-5",
+    "Key": "snd_dlg-5",
+    "Value": "p\\u0004З\\u0001вуки строительства"
+  },
+  {
+    "id": "snd_dlg-9",
+    "Key": "snd_dlg-9",
+    "Value": "минимальная"
+  },
+  {
+    "id": "spd_dlg-1",
+    "Key": "spd_dlg-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "spd_dlg-2",
+    "Key": "spd_dlg-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "spd_dlg-3",
+    "Key": "spd_dlg-3",
+    "Value": "Скорость игры"
+  },
+  {
+    "id": "spd_dlg-4",
+    "Key": "spd_dlg-4",
+    "Value": "Прокрутка мышью"
+  },
+  {
+    "id": "spd_dlg-5",
+    "Key": "spd_dlg-5",
+    "Value": "Прокрутка клавишами"
+  },
+  {
+    "id": "spd_dlg-6",
+    "Key": "spd_dlg-6",
+    "Value": "x\\u0004Ч\\u0001увствительность мыши"
+  },
+  {
+    "id": "spd_dlg-9",
+    "Key": "spd_dlg-9",
+    "Value": "медленно"
+  },
+  {
+    "id": "spd_dlg-10",
+    "Key": "spd_dlg-10",
+    "Value": "низкая"
+  },
+  {
+    "id": "spd_dlg-11",
+    "Key": "spd_dlg-11",
+    "Value": "быстро"
+  },
+  {
+    "id": "statport-1",
+    "Key": "statport-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statres-1",
+    "Key": "statres-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "stat_f10-1",
+    "Key": "stat_f10-1",
+    "Value": "\\u0079МЕНЮ"
+  },
+  {
+    "id": "teamfltr-1",
+    "Key": "teamfltr-1",
+    "Value": "Применить"
+  },
+  {
+    "id": "teamfltr-2",
+    "Key": "teamfltr-2",
+    "Value": "Отмена"
+  },
+  {
+    "id": "teamfltr-3",
+    "Key": "teamfltr-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-6",
+    "Key": "teamfltr-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-7",
+    "Key": "teamfltr-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-1",
+    "Key": "timeout-1",
+    "Value": "Отключить игроков"
+  },
+  {
+    "id": "timeout-2",
+    "Key": "timeout-2",
+    "Value": "Ожидание игроков:"
+  },
+  {
+    "id": "tips_dlg-1",
+    "Key": "tips_dlg-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "tips_dlg-2",
+    "Key": "tips_dlg-2",
+    "Value": "g\\u0004П\\u0001редыдущий"
+  },
+  {
+    "id": "tips_dlg-3",
+    "Key": "tips_dlg-3",
+    "Value": "c\\u0004С\\u0001ледующий"
+  },
+  {
+    "id": "titledlg-1",
+    "Key": "titledlg-1",
+    "Value": "\\u00A9 Blizzard Entertainment, 1998-{CurrentYear} гг. Все права защищены."
+  },
+  {
+    "id": "titledlg-2",
+    "Key": "titledlg-2",
+    "Value": "Загрузка"
+  },
+  {
+    "id": "video-1",
+    "Key": "video-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "video-2",
+    "Key": "video-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "video-4",
+    "Key": "video-4",
+    "Value": "cВертикальная \\u0004с\\u0001инхронизация"
+  },
+  {
+    "id": "video-7",
+    "Key": "video-7",
+    "Value": "hОконный \\u0004р\\u0001ежим (во весь экран)"
+  },
+  {
+    "id": "voice-1",
+    "Key": "voice-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "voice-2",
+    "Key": "voice-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "voice-3",
+    "Key": "voice-3",
+    "Value": "j\\u0004О\\u0001тправка и получение"
+  },
+  {
+    "id": "voice-4",
+    "Key": "voice-4",
+    "Value": "n\\u0004Т\\u0001олько получение"
+  },
+  {
+    "id": "voice-5",
+    "Key": "voice-5",
+    "Value": "sВ\\u0004ы\\u0001ключить голосовой чат"
+  },
+  {
+    "id": "voice-9",
+    "Key": "voice-9",
+    "Value": "мин"
+  },
+  {
+    "id": "voice-10",
+    "Key": "voice-10",
+    "Value": "мин"
+  },
+  {
+    "id": "voice-11",
+    "Key": "voice-11",
+    "Value": "мин"
+  },
+  {
+    "id": "voice-12",
+    "Key": "voice-12",
+    "Value": "макс"
+  },
+  {
+    "id": "wmission-1",
+    "Key": "wmission-1",
+    "Value": "g\\u0004П\\u0001обеда"
+  },
+  {
+    "id": "wmission-2",
+    "Key": "wmission-2",
+    "Value": "tЗав\\u0004е\\u0001ршить задание"
+  },
+  {
+    "id": "wmission-3",
+    "Key": "wmission-3",
+    "Value": "g\\u0004П\\u0001родолжить игру"
+  },
+  {
+    "id": "wmission-4",
+    "Key": "wmission-4",
+    "Value": "Поздравляем!\\nЗадание выполнено!"
+  },
+  {
+    "id": "wmission-6",
+    "Key": "wmission-6",
+    "Value": "Соединение разорвано."
+  },
+  {
+    "id": "gluBattlenetChat-1",
+    "Key": "gluBattlenetChat-1",
+    "Value": "c\\u0004С\\u0001оздать"
+  },
+  {
+    "id": "gluBattlenetChat-2",
+    "Key": "gluBattlenetChat-2",
+    "Value": "g\\u0004П\\u0001одключиться"
+  },
+  {
+    "id": "gluBattlenetChat-11",
+    "Key": "gluBattlenetChat-11",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "gluBattlenetChat-8",
+    "Key": "gluBattlenetChat-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluBattlenetChat-9",
+    "Key": "gluBattlenetChat-9",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "gluBattlenetChat-7",
+    "Key": "gluBattlenetChat-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluBattlenetChat-3",
+    "Key": "gluBattlenetChat-3",
+    "Value": "nРей\\u0004т\\u0001инговые матчи"
+  },
+  {
+    "id": "gluBattlenetCreateToonPopup-1",
+    "Key": "gluBattlenetCreateToonPopup-1",
+    "Value": "Новый профиль"
+  },
+  {
+    "id": "gluBattlenetLinkToonPopup-1",
+    "Key": "gluBattlenetLinkToonPopup-1",
+    "Value": "Привязать профиль"
+  },
+  {
+    "id": "gluBattlenetPopup-1",
+    "Key": "gluBattlenetPopup-1",
+    "Value": "Обработка..."
+  },
+  {
+    "id": "gluBattlenetPopup-2",
+    "Key": "gluBattlenetPopup-2",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluBattlenetPopup-3",
+    "Key": "gluBattlenetPopup-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluBattlenetToonRegistry-1",
+    "Key": "gluBattlenetToonRegistry-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluBattlenetToonRegistry-2",
+    "Key": "gluBattlenetToonRegistry-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluBattlenetToonRegistry-3",
+    "Key": "gluBattlenetToonRegistry-3",
+    "Value": "y\\u0004Н\\u0001овый"
+  },
+  {
+    "id": "gluBattlenetToonRegistry-8",
+    "Key": "gluBattlenetToonRegistry-8",
+    "Value": "g\\u0004П\\u0001ривязать"
+  },
+  {
+    "id": "gluBattlenetToonRegistry-5",
+    "Key": "gluBattlenetToonRegistry-5",
+    "Value": "Профиль1111"
+  },
+  {
+    "id": "gluBattlenetToonRegistry-4",
+    "Key": "gluBattlenetToonRegistry-4",
+    "Value": "e\\u0004У\\u0001далить"
+  },
+  {
+    "id": "gluBattlenetToonRegistry-9",
+    "Key": "gluBattlenetToonRegistry-9",
+    "Value": "У вас нет профилей, привязанных к этой учетной записи.\\n\\nПожалуйста, создайте \\u0004новый\\u0002 профиль или \\u0004привяжите\\u0002 уже существующий."
+  },
+  {
+    "id": "gluBattlenetToonRegistry-10",
+    "Key": "gluBattlenetToonRegistry-10",
+    "Value": "<ШЛЮЗ>"
+  },
+  {
+    "id": "gluJoinMultiBattlenet-1",
+    "Key": "gluJoinMultiBattlenet-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluJoinMultiBattlenet-3",
+    "Key": "gluJoinMultiBattlenet-3",
+    "Value": "vСоздать \\u0004м\\u0001атч"
+  },
+  {
+    "id": "gluJoinMultiBattlenet-2",
+    "Key": "gluJoinMultiBattlenet-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluJoinMultiBattlenet-4",
+    "Key": "gluJoinMultiBattlenet-4",
+    "Value": "Используемый UDP-порт: %d."
+  },
+  {
+    "id": "gluMain-8",
+    "Key": "gluMain-8",
+    "Value": "u\\u0004Г\\u0001орячие клавиши"
+  },
+  {
+    "id": "gluMain-12",
+    "Key": "gluMain-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluScene-1",
+    "Key": "gluScene-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-22",
+    "Key": "allyfltr-22",
+    "Value": "Союзы"
+  },
+  {
+    "id": "allyfltr-23",
+    "Key": "allyfltr-23",
+    "Value": "Союзники"
+  },
+  {
+    "id": "allyfltr-29",
+    "Key": "allyfltr-29",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-30",
+    "Key": "allyfltr-30",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-31",
+    "Key": "allyfltr-31",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluMain-9",
+    "Key": "gluMain-9",
+    "Value": "c\\u0004С\\u0001оздатели"
+  },
+  {
+    "id": "msnstat2-17",
+    "Key": "msnstat2-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-18",
+    "Key": "msnstat2-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-19",
+    "Key": "msnstat2-19",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-24",
+    "Key": "msnstat2-24",
+    "Value": "Боевые единицы"
+  },
+  {
+    "id": "msnstat2-25",
+    "Key": "msnstat2-25",
+    "Value": "Здания"
+  },
+  {
+    "id": "msnstat2-26",
+    "Key": "msnstat2-26",
+    "Value": "Золото"
+  },
+  {
+    "id": "msnstat2-27",
+    "Key": "msnstat2-27",
+    "Value": "Древесина"
+  },
+  {
+    "id": "msnstat2-28",
+    "Key": "msnstat2-28",
+    "Value": "Нефть"
+  },
+  {
+    "id": "msnstat2-29",
+    "Key": "msnstat2-29",
+    "Value": "Убито"
+  },
+  {
+    "id": "msnstat4-17",
+    "Key": "msnstat4-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-18",
+    "Key": "msnstat4-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-19",
+    "Key": "msnstat4-19",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-24",
+    "Key": "msnstat4-24",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-25",
+    "Key": "msnstat4-25",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-26",
+    "Key": "msnstat4-26",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-27",
+    "Key": "msnstat4-27",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-28",
+    "Key": "msnstat4-28",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-29",
+    "Key": "msnstat4-29",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-30",
+    "Key": "msnstat4-30",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-31",
+    "Key": "msnstat4-31",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-33",
+    "Key": "msnstat4-33",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-34",
+    "Key": "msnstat4-34",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-35",
+    "Key": "msnstat4-35",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-36",
+    "Key": "msnstat4-36",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-37",
+    "Key": "msnstat4-37",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-38",
+    "Key": "msnstat4-38",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-39",
+    "Key": "msnstat4-39",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-40",
+    "Key": "msnstat4-40",
+    "Value": "Боевые единицы"
+  },
+  {
+    "id": "msnstat4-42",
+    "Key": "msnstat4-42",
+    "Value": "Золото"
+  },
+  {
+    "id": "msnstat4-43",
+    "Key": "msnstat4-43",
+    "Value": "Древесина"
+  },
+  {
+    "id": "msnstat4-44",
+    "Key": "msnstat4-44",
+    "Value": "Нефть"
+  },
+  {
+    "id": "msnstat4-45",
+    "Key": "msnstat4-45",
+    "Value": "Убито"
+  },
+  {
+    "id": "msnstat4-46",
+    "Key": "msnstat4-46",
+    "Value": "Разрушено"
+  },
+  {
+    "id": "msnstat6-17",
+    "Key": "msnstat6-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-18",
+    "Key": "msnstat6-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-19",
+    "Key": "msnstat6-19",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-24",
+    "Key": "msnstat6-24",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-25",
+    "Key": "msnstat6-25",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-26",
+    "Key": "msnstat6-26",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-27",
+    "Key": "msnstat6-27",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-28",
+    "Key": "msnstat6-28",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-29",
+    "Key": "msnstat6-29",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-30",
+    "Key": "msnstat6-30",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-31",
+    "Key": "msnstat6-31",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-33",
+    "Key": "msnstat6-33",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-34",
+    "Key": "msnstat6-34",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-35",
+    "Key": "msnstat6-35",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-36",
+    "Key": "msnstat6-36",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-37",
+    "Key": "msnstat6-37",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-38",
+    "Key": "msnstat6-38",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-39",
+    "Key": "msnstat6-39",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-40",
+    "Key": "msnstat6-40",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-42",
+    "Key": "msnstat6-42",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-43",
+    "Key": "msnstat6-43",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-44",
+    "Key": "msnstat6-44",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-45",
+    "Key": "msnstat6-45",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-46",
+    "Key": "msnstat6-46",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-47",
+    "Key": "msnstat6-47",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-48",
+    "Key": "msnstat6-48",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-49",
+    "Key": "msnstat6-49",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-51",
+    "Key": "msnstat6-51",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-52",
+    "Key": "msnstat6-52",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-53",
+    "Key": "msnstat6-53",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-54",
+    "Key": "msnstat6-54",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-55",
+    "Key": "msnstat6-55",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-56",
+    "Key": "msnstat6-56",
+    "Value": "Боевые единицы"
+  },
+  {
+    "id": "msnstat6-57",
+    "Key": "msnstat6-57",
+    "Value": "Здания"
+  },
+  {
+    "id": "msnstat6-58",
+    "Key": "msnstat6-58",
+    "Value": "Золото"
+  },
+  {
+    "id": "msnstat6-60",
+    "Key": "msnstat6-60",
+    "Value": "Нефть"
+  },
+  {
+    "id": "msnstat6-61",
+    "Key": "msnstat6-61",
+    "Value": "Убито"
+  },
+  {
+    "id": "msnstat6-62",
+    "Key": "msnstat6-62",
+    "Value": "Разрушено"
+  },
+  {
+    "id": "msnstats-16",
+    "Key": "msnstats-16",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-17",
+    "Key": "msnstats-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-18",
+    "Key": "msnstats-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-23",
+    "Key": "msnstats-23",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-24",
+    "Key": "msnstats-24",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-25",
+    "Key": "msnstats-25",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-26",
+    "Key": "msnstats-26",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-27",
+    "Key": "msnstats-27",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-28",
+    "Key": "msnstats-28",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-29",
+    "Key": "msnstats-29",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-30",
+    "Key": "msnstats-30",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-32",
+    "Key": "msnstats-32",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-33",
+    "Key": "msnstats-33",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-34",
+    "Key": "msnstats-34",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-35",
+    "Key": "msnstats-35",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-36",
+    "Key": "msnstats-36",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-37",
+    "Key": "msnstats-37",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-38",
+    "Key": "msnstats-38",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-39",
+    "Key": "msnstats-39",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-41",
+    "Key": "msnstats-41",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-42",
+    "Key": "msnstats-42",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-43",
+    "Key": "msnstats-43",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-44",
+    "Key": "msnstats-44",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-45",
+    "Key": "msnstats-45",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-46",
+    "Key": "msnstats-46",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-47",
+    "Key": "msnstats-47",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-48",
+    "Key": "msnstats-48",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-50",
+    "Key": "msnstats-50",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-51",
+    "Key": "msnstats-51",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-52",
+    "Key": "msnstats-52",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-53",
+    "Key": "msnstats-53",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-54",
+    "Key": "msnstats-54",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-55",
+    "Key": "msnstats-55",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-56",
+    "Key": "msnstats-56",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-57",
+    "Key": "msnstats-57",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-59",
+    "Key": "msnstats-59",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-60",
+    "Key": "msnstats-60",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-61",
+    "Key": "msnstats-61",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-62",
+    "Key": "msnstats-62",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-63",
+    "Key": "msnstats-63",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-64",
+    "Key": "msnstats-64",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-65",
+    "Key": "msnstats-65",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-66",
+    "Key": "msnstats-66",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-68",
+    "Key": "msnstats-68",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-69",
+    "Key": "msnstats-69",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-70",
+    "Key": "msnstats-70",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-71",
+    "Key": "msnstats-71",
+    "Value": "Боевые единицы"
+  },
+  {
+    "id": "msnstats-72",
+    "Key": "msnstats-72",
+    "Value": "Здания"
+  },
+  {
+    "id": "msnstats-73",
+    "Key": "msnstats-73",
+    "Value": "Золото"
+  },
+  {
+    "id": "msnstats-74",
+    "Key": "msnstats-74",
+    "Value": "Древесина"
+  },
+  {
+    "id": "msnstats-75",
+    "Key": "msnstats-75",
+    "Value": "Нефть"
+  },
+  {
+    "id": "msnstats-77",
+    "Key": "msnstats-77",
+    "Value": "Разрушено"
+  },
+  {
+    "id": "teamfltr-24",
+    "Key": "teamfltr-24",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-25",
+    "Key": "teamfltr-25",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-26",
+    "Key": "teamfltr-26",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-27",
+    "Key": "teamfltr-27",
+    "Value": "Общая победа"
+  },
+  {
+    "id": "teamfltr-28",
+    "Key": "teamfltr-28",
+    "Value": "Союзы"
+  },
+  {
+    "id": "teamfltr-29",
+    "Key": "teamfltr-29",
+    "Value": "Союзники"
+  },
+  {
+    "id": "teamfltr-35",
+    "Key": "teamfltr-35",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-36",
+    "Key": "teamfltr-36",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-37",
+    "Key": "teamfltr-37",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-38",
+    "Key": "teamfltr-38",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-39",
+    "Key": "teamfltr-39",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-45",
+    "Key": "teamfltr-45",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-46",
+    "Key": "teamfltr-46",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-47",
+    "Key": "teamfltr-47",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-53",
+    "Key": "teamfltr-53",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-54",
+    "Key": "teamfltr-54",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-55",
+    "Key": "teamfltr-55",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluConn-4",
+    "Key": "gluConn-4",
+    "Value": "d\\u0004В\\u0001ход"
+  },
+  {
+    "id": "gluGameMode-4",
+    "Key": "gluGameMode-4",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "GLUHIST-1",
+    "Key": "GLUHIST-1",
+    "Value": "Выберите начальное задание"
+  },
+  {
+    "id": "GLUHIST-2",
+    "Key": "GLUHIST-2",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "GLUHIST-3",
+    "Key": "GLUHIST-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluPEdit-3",
+    "Key": "gluPEdit-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluPOkCancel-3",
+    "Key": "gluPOkCancel-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluRdyP-12",
+    "Key": "gluRdyP-12",
+    "Value": "\\n\\nНет данных инструктажа"
+  },
+  {
+    "id": "gluRdyP-13",
+    "Key": "gluRdyP-13",
+    "Value": "Задачи"
+  },
+  {
+    "id": "gluRdyT-12",
+    "Key": "gluRdyT-12",
+    "Value": "\\n\\nНет данных инструктажа"
+  },
+  {
+    "id": "gluRdyT-13",
+    "Key": "gluRdyT-13",
+    "Value": "Задачи"
+  },
+  {
+    "id": "GluRdyZ-12",
+    "Key": "GluRdyZ-12",
+    "Value": "\\n\\nНет данных инструктажа"
+  },
+  {
+    "id": "GluRdyZ-13",
+    "Key": "GluRdyZ-13",
+    "Value": "Задачи"
+  },
+  {
+    "id": "gluScene-2",
+    "Key": "gluScene-2",
+    "Value": "X"
+  },
+  {
+    "id": "gluScore-3",
+    "Key": "gluScore-3",
+    "Value": "nС\\u0004т\\u0001роения"
+  },
+  {
+    "id": "msnstat4-41",
+    "Key": "msnstat4-41",
+    "Value": "Здания"
+  },
+  {
+    "id": "msnstat6-59",
+    "Key": "msnstat6-59",
+    "Value": "Древесина"
+  },
+  {
+    "id": "msnstats-76",
+    "Key": "msnstats-76",
+    "Value": "Убито"
+  },
+  {
+    "id": "objctdlg-3",
+    "Key": "objctdlg-3",
+    "Value": "Задачи"
+  },
+  {
+    "id": "ptextbox-1",
+    "Key": "ptextbox-1",
+    "Value": "Сообщение:"
+  },
+  {
+    "id": "ptextbox-2",
+    "Key": "ptextbox-2",
+    "Value": "Союзникам:"
+  },
+  {
+    "id": "ptextbox-3",
+    "Key": "ptextbox-3",
+    "Value": "Всем:"
+  },
+  {
+    "id": "ptextbox-5",
+    "Key": "ptextbox-5",
+    "Value": "Игроку %s:"
+  },
+  {
+    "id": "statport-2",
+    "Key": "statport-2",
+    "Value": " "
+  },
+  {
+    "id": "statres-8",
+    "Key": "statres-8",
+    "Value": "Наблюдение"
+  },
+  {
+    "id": "ttextbox-1",
+    "Key": "ttextbox-1",
+    "Value": "Сообщение:"
+  },
+  {
+    "id": "ttextbox-2",
+    "Key": "ttextbox-2",
+    "Value": "Союзникам:"
+  },
+  {
+    "id": "ttextbox-3",
+    "Key": "ttextbox-3",
+    "Value": "Всем:"
+  },
+  {
+    "id": "ttextbox-5",
+    "Key": "ttextbox-5",
+    "Value": "Игроку %s:"
+  },
+  {
+    "id": "ztextbox-1",
+    "Key": "ztextbox-1",
+    "Value": "Сообщение:"
+  },
+  {
+    "id": "ztextbox-2",
+    "Key": "ztextbox-2",
+    "Value": "Союзникам:"
+  },
+  {
+    "id": "ztextbox-3",
+    "Key": "ztextbox-3",
+    "Value": "Всем:"
+  },
+  {
+    "id": "ztextbox-5",
+    "Key": "ztextbox-5",
+    "Value": "Игроку %s:"
+  },
+  {
+    "id": "allyfltr-8",
+    "Key": "allyfltr-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-9",
+    "Key": "allyfltr-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-10",
+    "Key": "allyfltr-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-11",
+    "Key": "allyfltr-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-14",
+    "Key": "allyfltr-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-15",
+    "Key": "allyfltr-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-16",
+    "Key": "allyfltr-16",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-17",
+    "Key": "allyfltr-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-18",
+    "Key": "allyfltr-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "allyfltr-19",
+    "Key": "allyfltr-19",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "bigok-2",
+    "Key": "bigok-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "cancel-2",
+    "Key": "cancel-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "dfinale-1",
+    "Key": "dfinale-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "dlgFatal-2",
+    "Key": "dlgFatal-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "dlgFatal-3",
+    "Key": "dlgFatal-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "finaldlg-1",
+    "Key": "finaldlg-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluConn-6",
+    "Key": "gluConn-6",
+    "Value": "d[\\u0004В\\u0001ход]"
+  },
+  {
+    "id": "gluConn-7",
+    "Key": "gluConn-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluEOk-2",
+    "Key": "gluEOk-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluEOkCancel-3",
+    "Key": "gluEOkCancel-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluPOk-2",
+    "Key": "gluPOk-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluPOkSplit-2",
+    "Key": "gluPOkSplit-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluPOkSplit-3",
+    "Key": "gluPOkSplit-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyP-9",
+    "Key": "gluRdyP-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyP-10",
+    "Key": "gluRdyP-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyP-11",
+    "Key": "gluRdyP-11",
+    "Value": "Ожидание других игроков"
+  },
+  {
+    "id": "gluRdyT-9",
+    "Key": "gluRdyT-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyT-10",
+    "Key": "gluRdyT-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluRdyT-11",
+    "Key": "gluRdyT-11",
+    "Value": "Ожидание других игроков"
+  },
+  {
+    "id": "GluRdyZ-9",
+    "Key": "GluRdyZ-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "GluRdyZ-10",
+    "Key": "GluRdyZ-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "GluRdyZ-11",
+    "Key": "GluRdyZ-11",
+    "Value": "Ожидание других игроков"
+  },
+  {
+    "id": "minimap-1",
+    "Key": "minimap-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "minimap-2",
+    "Key": "minimap-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "minimap-3",
+    "Key": "minimap-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-16",
+    "Key": "msnstat2-16",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat2-23",
+    "Key": "msnstat2-23",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-16",
+    "Key": "msnstat4-16",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-23",
+    "Key": "msnstat4-23",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat4-32",
+    "Key": "msnstat4-32",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-16",
+    "Key": "msnstat6-16",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-23",
+    "Key": "msnstat6-23",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-32",
+    "Key": "msnstat6-32",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-41",
+    "Key": "msnstat6-41",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstat6-50",
+    "Key": "msnstat6-50",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-14",
+    "Key": "msnstats-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-15",
+    "Key": "msnstats-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-22",
+    "Key": "msnstats-22",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-31",
+    "Key": "msnstats-31",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-40",
+    "Key": "msnstats-40",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-49",
+    "Key": "msnstats-49",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-58",
+    "Key": "msnstats-58",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "msnstats-67",
+    "Key": "msnstats-67",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "ok-2",
+    "Key": "ok-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "okcancel-3",
+    "Key": "okcancel-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "ptextbox-4",
+    "Key": "ptextbox-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "ptextbox-7",
+    "Key": "ptextbox-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-1",
+    "Key": "statbtnn-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-2",
+    "Key": "statbtnn-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-3",
+    "Key": "statbtnn-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-4",
+    "Key": "statbtnn-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-5",
+    "Key": "statbtnn-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-6",
+    "Key": "statbtnn-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-7",
+    "Key": "statbtnn-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-8",
+    "Key": "statbtnn-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-9",
+    "Key": "statbtnn-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-10",
+    "Key": "statbtnn-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-11",
+    "Key": "statbtnn-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-12",
+    "Key": "statbtnn-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnn-13",
+    "Key": "statbtnn-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-1",
+    "Key": "statbtnp-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-2",
+    "Key": "statbtnp-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-3",
+    "Key": "statbtnp-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-4",
+    "Key": "statbtnp-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-5",
+    "Key": "statbtnp-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-6",
+    "Key": "statbtnp-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-7",
+    "Key": "statbtnp-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-8",
+    "Key": "statbtnp-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnp-9",
+    "Key": "statbtnp-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-1",
+    "Key": "statbtnt-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-2",
+    "Key": "statbtnt-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-3",
+    "Key": "statbtnt-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-4",
+    "Key": "statbtnt-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-5",
+    "Key": "statbtnt-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-6",
+    "Key": "statbtnt-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-7",
+    "Key": "statbtnt-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-8",
+    "Key": "statbtnt-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnt-9",
+    "Key": "statbtnt-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-1",
+    "Key": "statbtnz-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-2",
+    "Key": "statbtnz-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-3",
+    "Key": "statbtnz-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-4",
+    "Key": "statbtnz-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-5",
+    "Key": "statbtnz-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-6",
+    "Key": "statbtnz-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-7",
+    "Key": "statbtnz-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-8",
+    "Key": "statbtnz-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnz-9",
+    "Key": "statbtnz-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-1",
+    "Key": "statdata-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-2",
+    "Key": "statdata-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-3",
+    "Key": "statdata-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-4",
+    "Key": "statdata-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-5",
+    "Key": "statdata-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-6",
+    "Key": "statdata-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-7",
+    "Key": "statdata-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-8",
+    "Key": "statdata-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-9",
+    "Key": "statdata-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-10",
+    "Key": "statdata-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-11",
+    "Key": "statdata-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-12",
+    "Key": "statdata-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-13",
+    "Key": "statdata-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-14",
+    "Key": "statdata-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-15",
+    "Key": "statdata-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-16",
+    "Key": "statdata-16",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-17",
+    "Key": "statdata-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-18",
+    "Key": "statdata-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-19",
+    "Key": "statdata-19",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-20",
+    "Key": "statdata-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-21",
+    "Key": "statdata-21",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-22",
+    "Key": "statdata-22",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-23",
+    "Key": "statdata-23",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-24",
+    "Key": "statdata-24",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-25",
+    "Key": "statdata-25",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-26",
+    "Key": "statdata-26",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-27",
+    "Key": "statdata-27",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-28",
+    "Key": "statdata-28",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-29",
+    "Key": "statdata-29",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-30",
+    "Key": "statdata-30",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-31",
+    "Key": "statdata-31",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-32",
+    "Key": "statdata-32",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-33",
+    "Key": "statdata-33",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-34",
+    "Key": "statdata-34",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-35",
+    "Key": "statdata-35",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-36",
+    "Key": "statdata-36",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-37",
+    "Key": "statdata-37",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-38",
+    "Key": "statdata-38",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-39",
+    "Key": "statdata-39",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-40",
+    "Key": "statdata-40",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-41",
+    "Key": "statdata-41",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-42",
+    "Key": "statdata-42",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-43",
+    "Key": "statdata-43",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-44",
+    "Key": "statdata-44",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-45",
+    "Key": "statdata-45",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-46",
+    "Key": "statdata-46",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-47",
+    "Key": "statdata-47",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-48",
+    "Key": "statdata-48",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-49",
+    "Key": "statdata-49",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-50",
+    "Key": "statdata-50",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-51",
+    "Key": "statdata-51",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-52",
+    "Key": "statdata-52",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-53",
+    "Key": "statdata-53",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-54",
+    "Key": "statdata-54",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-55",
+    "Key": "statdata-55",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-56",
+    "Key": "statdata-56",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statdata-57",
+    "Key": "statdata-57",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statfluf-1",
+    "Key": "statfluf-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-1",
+    "Key": "StatLB-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-2",
+    "Key": "StatLB-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-3",
+    "Key": "StatLB-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-4",
+    "Key": "StatLB-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-5",
+    "Key": "StatLB-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-6",
+    "Key": "StatLB-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-7",
+    "Key": "StatLB-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-8",
+    "Key": "StatLB-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-9",
+    "Key": "StatLB-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-10",
+    "Key": "StatLB-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-11",
+    "Key": "StatLB-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-12",
+    "Key": "StatLB-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-13",
+    "Key": "StatLB-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-14",
+    "Key": "StatLB-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-15",
+    "Key": "StatLB-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-16",
+    "Key": "StatLB-16",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-17",
+    "Key": "StatLB-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-18",
+    "Key": "StatLB-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-19",
+    "Key": "StatLB-19",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-20",
+    "Key": "StatLB-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-21",
+    "Key": "StatLB-21",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-22",
+    "Key": "StatLB-22",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-23",
+    "Key": "StatLB-23",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-24",
+    "Key": "StatLB-24",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-25",
+    "Key": "StatLB-25",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-26",
+    "Key": "StatLB-26",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-27",
+    "Key": "StatLB-27",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-28",
+    "Key": "StatLB-28",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-29",
+    "Key": "StatLB-29",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-30",
+    "Key": "StatLB-30",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-31",
+    "Key": "StatLB-31",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-32",
+    "Key": "StatLB-32",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-33",
+    "Key": "StatLB-33",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-34",
+    "Key": "StatLB-34",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "StatLB-35",
+    "Key": "StatLB-35",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statres-2",
+    "Key": "statres-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statres-3",
+    "Key": "statres-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statres-4",
+    "Key": "statres-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statres-5",
+    "Key": "statres-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statres-6",
+    "Key": "statres-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statres-7",
+    "Key": "statres-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statwire-1",
+    "Key": "statwire-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-8",
+    "Key": "teamfltr-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-9",
+    "Key": "teamfltr-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-10",
+    "Key": "teamfltr-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-11",
+    "Key": "teamfltr-11",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-12",
+    "Key": "teamfltr-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-13",
+    "Key": "teamfltr-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-16",
+    "Key": "teamfltr-16",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-17",
+    "Key": "teamfltr-17",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-18",
+    "Key": "teamfltr-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-19",
+    "Key": "teamfltr-19",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-20",
+    "Key": "teamfltr-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "teamfltr-21",
+    "Key": "teamfltr-21",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-3",
+    "Key": "timeout-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-4",
+    "Key": "timeout-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-5",
+    "Key": "timeout-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-8",
+    "Key": "timeout-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-9",
+    "Key": "timeout-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-12",
+    "Key": "timeout-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-13",
+    "Key": "timeout-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-14",
+    "Key": "timeout-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "timeout-15",
+    "Key": "timeout-15",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "ttextbox-4",
+    "Key": "ttextbox-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "ttextbox-7",
+    "Key": "ttextbox-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "wait-1",
+    "Key": "wait-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "ztextbox-4",
+    "Key": "ztextbox-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "ztextbox-7",
+    "Key": "ztextbox-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluScore-4",
+    "Key": "gluScore-4",
+    "Value": "h\\u0004Р\\u0001есурсы"
+  },
+  {
+    "id": "gluScore-5",
+    "Key": "gluScore-5",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluScore-6",
+    "Key": "gluScore-6",
+    "Value": "c\\u0004С\\u0001охранить повтор"
+  },
+  {
+    "id": "gluScore-8",
+    "Key": "gluScore-8",
+    "Value": "Общий счет"
+  },
+  {
+    "id": "MsgFltr-6",
+    "Key": "MsgFltr-6",
+    "Value": "Обмен сообщениями"
+  },
+  {
+    "id": "netdlg-4",
+    "Key": "netdlg-4",
+    "Value": "d\\u0004В\\u0001ысокая задержка"
+  },
+  {
+    "id": "video-9",
+    "Key": "video-9",
+    "Value": "Коррекция гаммы"
+  },
+  {
+    "id": "voice-13",
+    "Key": "voice-13",
+    "Value": "макс"
+  },
+  {
+    "id": "minimap-7",
+    "Key": "minimap-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "minimap-8",
+    "Key": "minimap-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "minimap-9",
+    "Key": "minimap-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluSimpleCheckoutPopup-4",
+    "Key": "gluSimpleCheckoutPopup-4",
+    "Value": "X"
+  },
+  {
+    "id": "gluBattlenetChat-5",
+    "Key": "gluBattlenetChat-5",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "gluBattlenetLeaderboardScreen-2",
+    "Key": "gluBattlenetLeaderboardScreen-2",
+    "Value": "\\u001B"
+  },
+  {
+    "id": "gluBattlenetLeaderboardScreen-1",
+    "Key": "gluBattlenetLeaderboardScreen-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluBattlenetUserProfileScreen-2",
+    "Key": "gluBattlenetUserProfileScreen-2",
+    "Value": "\\u001B"
+  },
+  {
+    "id": "gluBattlenetUserProfileScreen-1",
+    "Key": "gluBattlenetUserProfileScreen-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluBattlenetChat-10",
+    "Key": "gluBattlenetChat-10",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "apm_dlg-4",
+    "Key": "apm_dlg-4",
+    "Value": "g\\u0004П\\u0001оказывать значение APM"
+  },
+  {
+    "id": "apm_dlg-5",
+    "Key": "apm_dlg-5",
+    "Value": "b\\u0004И\\u0001спользовать значение эффективного APM (EPM)"
+  },
+  {
+    "id": "apm_dlg-6",
+    "Key": "apm_dlg-6",
+    "Value": "jПоказывать \\u0004о\\u0001ба значения (APM/EPM)"
+  },
+  {
+    "id": "apm_dlg-7",
+    "Key": "apm_dlg-7",
+    "Value": "Сигнал при APM <"
+  },
+  {
+    "id": "apm_dlg-8",
+    "Key": "apm_dlg-8",
+    "Value": "w\\u0004Ц\\u0001вет текста"
+  },
+  {
+    "id": "apm_dlg-9",
+    "Key": "apm_dlg-9",
+    "Value": "p\\u0004З\\u0001вуковой сигнал"
+  },
+  {
+    "id": "apm_dlg-10",
+    "Key": "apm_dlg-10",
+    "Value": "Профиль горячих клавиш"
+  },
+  {
+    "id": "apm_dlg-11",
+    "Key": "apm_dlg-11",
+    "Value": "b\\u0004B\\u0001rood War"
+  },
+  {
+    "id": "apm_dlg-12",
+    "Key": "apm_dlg-12",
+    "Value": "c\\u0004С\\u0001воя игра"
+  },
+  {
+    "id": "gameopt_dlg-8",
+    "Key": "gameopt_dlg-8",
+    "Value": "Настройки игры"
+  },
+  {
+    "id": "gluBattlenetLeaderboardScreen-3",
+    "Key": "gluBattlenetLeaderboardScreen-3",
+    "Value": "\\u001B"
+  },
+  {
+    "id": "gluBattlenetMatchmakingToastScreen-1",
+    "Key": "gluBattlenetMatchmakingToastScreen-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluBattlenetMatchmakingToastScreen-2",
+    "Key": "gluBattlenetMatchmakingToastScreen-2",
+    "Value": "c\\u0004С\\u0001ыграть еще?"
+  },
+  {
+    "id": "gluSimpleCheckoutPopup-1",
+    "Key": "gluSimpleCheckoutPopup-1",
+    "Value": "X"
+  },
+  {
+    "id": "gluSimpleCheckoutPopup-2",
+    "Key": "gluSimpleCheckoutPopup-2",
+    "Value": "X"
+  },
+  {
+    "id": "gluBattlenetUserProfileScreen-3",
+    "Key": "gluBattlenetUserProfileScreen-3",
+    "Value": "\\u001B"
+  },
+  {
+    "id": "minimap-4",
+    "Key": "minimap-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "minimap-5",
+    "Key": "minimap-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "minimap-6",
+    "Key": "minimap-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluSimpleCheckoutPopup-3",
+    "Key": "gluSimpleCheckoutPopup-3",
+    "Value": "X"
+  },
+  {
+    "id": "gluBattlenetChat-4",
+    "Key": "gluBattlenetChat-4",
+    "Value": "h\\u0004Р\\u0001ейтинговые таблицы"
+  },
+  {
+    "id": "gluMain-15",
+    "Key": "gluMain-15",
+    "Value": "\\5Одиночная игра"
+  },
+  {
+    "id": "gluMatchmaking-3",
+    "Key": "gluMatchmaking-3",
+    "Value": "d\\u0004В\\u0001ыбор карт"
+  },
+  {
+    "id": "gluMatchmaking-1",
+    "Key": "gluMatchmaking-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluMatchmaking-2",
+    "Key": "gluMatchmaking-2",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "video-14",
+    "Key": "video-14",
+    "Value": "Настройки графики"
+  },
+  {
+    "id": "gluJoin-12",
+    "Key": "gluJoin-12",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "video-5",
+    "Key": "video-5",
+    "Value": "uО\\u0004г\\u0001раничение FPS"
+  },
+  {
+    "id": "ptextbox-6",
+    "Key": "ptextbox-6",
+    "Value": "Наблюдателям:"
+  },
+  {
+    "id": "ttextbox-6",
+    "Key": "ttextbox-6",
+    "Value": "Наблюдателям:"
+  },
+  {
+    "id": "ztextbox-6",
+    "Key": "ztextbox-6",
+    "Value": "Наблюдателям:"
+  },
+  {
+    "id": "gluWebAuthenticationPopup1280-1",
+    "Key": "gluWebAuthenticationPopup1280-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluWebAuthenticationPopup1280-2",
+    "Key": "gluWebAuthenticationPopup1280-2",
+    "Value": "X"
+  },
+  {
+    "id": "gluWebAuthenticationPopup640-1",
+    "Key": "gluWebAuthenticationPopup640-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluWebAuthenticationPopup640-2",
+    "Key": "gluWebAuthenticationPopup640-2",
+    "Value": "X"
+  },
+  {
+    "id": "gluMain-22",
+    "Key": "gluMain-22",
+    "Value": "\\u0005Одиночная игра"
+  },
+  {
+    "id": "gluMain-23",
+    "Key": "gluMain-23",
+    "Value": "\\u0005Редактор карт"
+  },
+  {
+    "id": "gluMain-13",
+    "Key": "gluMain-13",
+    "Value": "\\5Одиночная игра"
+  },
+  {
+    "id": "gluMain-17",
+    "Key": "gluMain-17",
+    "Value": "\\u0005Одиночная игра"
+  },
+  {
+    "id": "gluMain-19",
+    "Key": "gluMain-19",
+    "Value": "\\5Одиночная игра"
+  },
+  {
+    "id": "gluMain-21",
+    "Key": "gluMain-21",
+    "Value": "u\\u0004Г\\u0001орячие клавиши"
+  },
+  {
+    "id": "gluMain-20",
+    "Key": "gluMain-20",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluMain-6",
+    "Key": "gluMain-6",
+    "Value": "r\\u0004К\\u0001оллекция"
+  },
+  {
+    "id": "apm_dlg-1",
+    "Key": "apm_dlg-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "apm_dlg-2",
+    "Key": "apm_dlg-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "apm_dlg-3",
+    "Key": "apm_dlg-3",
+    "Value": "Отслеживание APM"
+  },
+  {
+    "id": "quitUploadWarning-1",
+    "Key": "quitUploadWarning-1",
+    "Value": "sВ\\u0004ы\\u0001йти из игры"
+  },
+  {
+    "id": "quitUploadWarning-2",
+    "Key": "quitUploadWarning-2",
+    "Value": "\\u001BОтмена (\\u0004Esc\\u0001)"
+  },
+  {
+    "id": "quitUploadWarning-3",
+    "Key": "quitUploadWarning-3",
+    "Value": "ВЫГРУЗКА ДАННЫХ"
+  },
+  {
+    "id": "quitUploadWarning-4",
+    "Key": "quitUploadWarning-4",
+    "Value": "Ваши данные не сохранятся"
+  },
+  {
+    "id": "quitUploadWarning-5",
+    "Key": "quitUploadWarning-5",
+    "Value": "в облаке, если вы выйдете"
+  },
+  {
+    "id": "quitUploadWarning-6",
+    "Key": "quitUploadWarning-6",
+    "Value": "из игры сейчас."
+  },
+  {
+    "id": "quitUploadWarning-7",
+    "Key": "quitUploadWarning-7",
+    "Value": "\\u0002(0 байт осталось)"
+  },
+  {
+    "id": "quitUploadWarning-8",
+    "Key": "quitUploadWarning-8",
+    "Value": "Вы уверены, что хотите"
+  },
+  {
+    "id": "quitUploadWarning-9",
+    "Key": "quitUploadWarning-9",
+    "Value": "выйти из StarCraft?"
+  },
+  {
+    "id": "gameopt_dlg-1",
+    "Key": "gameopt_dlg-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gameopt_dlg-2",
+    "Key": "gameopt_dlg-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gameopt_dlg-3",
+    "Key": "gameopt_dlg-3",
+    "Value": "tТайм\\u0004е\\u0001р"
+  },
+  {
+    "id": "gameopt_dlg-4",
+    "Key": "gameopt_dlg-4",
+    "Value": "x\\u0004Ч\\u0001ередование цветов"
+  },
+  {
+    "id": "gameopt_dlg-5",
+    "Key": "gameopt_dlg-5",
+    "Value": "f\\u0004А\\u0001нимированные портреты"
+  },
+  {
+    "id": "gameopt_dlg-6",
+    "Key": "gameopt_dlg-6",
+    "Value": "c\\u0004C\\u0001татичные портреты"
+  },
+  {
+    "id": "gameopt_dlg-7",
+    "Key": "gameopt_dlg-7",
+    "Value": "j\\u0004О\\u0001тключить портреты"
+  },
+  {
+    "id": "gluBattlenetCreateGameScreen-1",
+    "Key": "gluBattlenetCreateGameScreen-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluBattlenetCreateGameScreen-2",
+    "Key": "gluBattlenetCreateGameScreen-2",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluBattlenetPopupLarge-1",
+    "Key": "gluBattlenetPopupLarge-1",
+    "Value": "Обработка..."
+  },
+  {
+    "id": "gluBattlenetPopupLarge-2",
+    "Key": "gluBattlenetPopupLarge-2",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluBattlenetPopupLarge-3",
+    "Key": "gluBattlenetPopupLarge-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "statbtnn-14",
+    "Key": "statbtnn-14",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "chathist-1",
+    "Key": "chathist-1",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "chathist-2",
+    "Key": "chathist-2",
+    "Value": "История сообщений"
+  },
+  {
+    "id": "statbtnbc2017-1",
+    "Key": "statbtnbc2017-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnbc2017-2",
+    "Key": "statbtnbc2017-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnbc2017-3",
+    "Key": "statbtnbc2017-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnbc2017-4",
+    "Key": "statbtnbc2017-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnbc2017-5",
+    "Key": "statbtnbc2017-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnbc2017-6",
+    "Key": "statbtnbc2017-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnbc2017-7",
+    "Key": "statbtnbc2017-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnbc2017-8",
+    "Key": "statbtnbc2017-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnbc2017-9",
+    "Key": "statbtnbc2017-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "dlgFatal-4",
+    "Key": "dlgFatal-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "dlgFatal-5",
+    "Key": "dlgFatal-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-1",
+    "Key": "statbtnSC_20thAnniversary-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-2",
+    "Key": "statbtnSC_20thAnniversary-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-3",
+    "Key": "statbtnSC_20thAnniversary-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-4",
+    "Key": "statbtnSC_20thAnniversary-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-5",
+    "Key": "statbtnSC_20thAnniversary-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-6",
+    "Key": "statbtnSC_20thAnniversary-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-7",
+    "Key": "statbtnSC_20thAnniversary-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-8",
+    "Key": "statbtnSC_20thAnniversary-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtnSC_20thAnniversary-9",
+    "Key": "statbtnSC_20thAnniversary-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluBattlenetChat-6",
+    "Key": "gluBattlenetChat-6",
+    "Value": "y\\u0004Н\\u0001овости"
+  },
+  {
+    "id": "statbtnbc2018-9",
+    "Key": "statbtnbc2018-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "gluScore-10",
+    "Key": "gluScore-10",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluScore-9",
+    "Key": "gluScore-9",
+    "Value": "c\\u0004С\\u0001охранить повтор"
+  },
+  {
+    "id": "gluBattlenetPopupSquad-1",
+    "Key": "gluBattlenetPopupSquad-1",
+    "Value": "Обработка..."
+  },
+  {
+    "id": "gluBattlenetPopupSquad-2",
+    "Key": "gluBattlenetPopupSquad-2",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "gluBattlenetPopupSquad-3",
+    "Key": "gluBattlenetPopupSquad-3",
+    "Value": "nО\\u0004т\\u0001мена"
+  },
+  {
+    "id": "gluBattlenetMatchmakingToastScreen-3",
+    "Key": "gluBattlenetMatchmakingToastScreen-3",
+    "Value": "g\\u0004П\\u0001ригласить игрока"
+  },
+  {
+    "id": "statbtndefault-1",
+    "Key": "statbtndefault-1",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtndefault-2",
+    "Key": "statbtndefault-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtndefault-3",
+    "Key": "statbtndefault-3",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtndefault-4",
+    "Key": "statbtndefault-4",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtndefault-5",
+    "Key": "statbtndefault-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtndefault-6",
+    "Key": "statbtndefault-6",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtndefault-7",
+    "Key": "statbtndefault-7",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtndefault-8",
+    "Key": "statbtndefault-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "statbtndefault-9",
+    "Key": "statbtndefault-9",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "textbox-6",
+    "Key": "textbox-6",
+    "Value": "Игроку {name}:"
+  },
+  {
+    "id": "gamemenu-social",
+    "Key": "gamemenu-social",
+    "Value": "j\\u0004О\\u0001бщение"
+  }
+]
