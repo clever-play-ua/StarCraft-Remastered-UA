@@ -1,0 +1,1531 @@
+
+#################################
+# gluAll.txt
+# created 12.15.97 out of all the glue screens txt files
+# Dan Liebgold
+#################################
+#################################
+# Main Menu
+#################################
+mainEDITORGONE,				StarCraft cannot locate the Campaign Editor. You will need to reinstall StarCraft to access the Editor.
+mainSPAWNEDLABEL_ss,				spawned by %s, %s
+mainFULLLABEL_s,				%s
+#################################
+# Score Screen Strings
+#################################
+scoreUNITS,				Units
+scoreINFRASTRUCTURE,				Structures
+scoreRESOURCES,				Resources
+scoreUBUILT,				Produced
+scoreUKILLED,				Killed
+scoreULOST,				Lost
+scoreSBUILT,				Constructed
+scoreSDESTROYED,				Razed
+scoreSLOST,				Lost
+scoreRGASES,				Gas Mined
+scoreRMINERALS,				Minerals Mined
+scoreRSPENT,				Total Spent
+scoreTIME_s,				Elapsed Time: %s
+scoreLOST,				Defeat!
+scoreWON,				Victory!
+scoreDRAW,				Draw!
+scoreDISCONNECT,				Disconnect
+scoreUNDECIDED,				Undecided
+scorePENDING,				Pending
+#############################################################################
+# Load Screen
+#############################################################################
+loadCONFIRMDELETE,				Delete this saved game?
+#############################################################################
+# LOGIN SCREEN STRINGS
+#############################################################################
+loginNEWCHAR,				Enter new character name:
+loginDELCHAR,				Delete this character? Associated saved games will be deleted too.
+loginDELCHARFAIL,           Unable to delete this character - the file may be read-only on disk.
+loginNAMEEXISTS,				That name already exists!
+loginTOOMANY,				Please delete a character before adding a new one.
+loginCREATEERROR,				File error creating new character. Make sure there is enough disk space on the disk StarCraft is installed to, and that you have permission to write to that disk.
+#################################
+# Create interface
+#################################
+gameUpOneLevel,				Up One Level
+gameSaveGames,				Save
+gamePlayers,				%u
+gamePlayersText_cs,				Number of Players:%c%s
+gameMapSize,				%ux%u
+gameMapSizeText_cs,				Map Size:%c%s
+gameMapERAText_cs,				Tileset:%c%s
+gameOpponents,				%u
+gameOpponentsText_cs,				Computer Slots:%c%s
+gameHumans,				%u
+gameHumansText_cs,				Human Slots:%c%s
+gameMapERA,				Badlands
+gameMapERA1,				Space
+gameMapERA2,				Installation
+gameMapERA3,				Ashworld
+gameMapERA4,				Jungle
+gameMapERA5,				Desert
+gameMapERA6,				Ice
+gameMapERA7,				Twilight
+saveTITLE,				Saved Game
+saveMAPNAME_s,				Map Name: %s
+#################################
+# Game Creation errors
+#################################
+gameMAPERROR,				Unable to Load Map!
+gameAUTHREQUIRED,				You must select an authenticated ladder map to start a ladder game.
+gameINVALIDMAP,				The selected scenario is not valid.
+gameCREATEERROR,				An error occurred while trying to create the game.
+gameCREATEEXISTS,				Network game already exists!
+gameBADGAMETYPE,				The selected map does not support the selected game type and options.
+gameTOOMANYGAMES,				Unable to create game because there are too many games already running on this network.
+gameNETWORKERROR,				Unable to create game because there was an error initializing the network.
+gameNEEDOPPONENT,				You must have at least one computer opponent.
+gameNEEDHUMAN,				This map does not have a slot for a human participant.
+gameMAPDEFAULTONLY,				This map can only be played with the "Use Map Settings" game type.
+maperrorHIGHERVERSION,				This scenario is intended for use with a StarCraft Expansion Set.
+maperrorTITLE,				Invalid Scenario
+maperrorLONGNAME,				This scenario is unreadable because its filename is too long.
+maperrorINVALID,				This scenario is unreadable because it is invalid or corrupted.
+saveerrorTITLE,				Invalid Saved Game
+saveerrorLONGNAME,				This saved game is unreadable because its filename is too long.
+saveerrorINVALID,				This saved game is unreadable because it is invalid or corrupted.
+saveerrorVERSION,				This saved game is unreadable because of a version mismatch.
+#################################
+# MODEM STUFF
+#################################
+modemPHONEBOOK,				Phonebook
+modemENTRY,				entry
+modemNEWENTRY,				Enter new phone number:
+modemCONFIRMDELETE,				Are you sure you want to delete this entry?
+modemREPLACEENTRY_s,				Do you wish to replace the entry '%s'?
+modemTOOMANYENTRIES,				Too many phone book entries. Please delete an entry before adding another.
+modemINITERROR,				An error occurred while trying to initialize the modem.
+modemNOMODEMS,				No modems were detected.
+modemVERSIONERROR,				Unable to join the detected game. Your version of StarCraft is incompatible with the game creator's version.
+modemNOANSWERERROR,				Unable to connect. There was no answer at the number dialed.
+modemNETWORKERROR,				Unable to dial. Either no dial tone was detected or there were problems configuring the modem.
+modemBUSYERROR,				Unable to connect. The number dialed was busy.
+modemOFFERROR,				Unable to detect the modem. Please ensure that your modem is properly installed, turned on, and correctly connected.
+modemJOINERROR,				Unable to establish a connection. A game of StarCraft was not detected at the specified phone number.
+modemCONFIRMHANGUP,				Are you sure you want to hang up on your current connection?
+modemDESCRIPTION,				Two players can play StarCraft via Modem. To create a modem game, click on the Create Game button below and your computer will be set to auto answer incoming calls. To join a game that has already been created, select the phone number from the list to the left or enter a new number.
+modemGAMENAME_u,				Game %u
+#################################
+# Multiplayer/Battle.net Options
+#################################
+# GAMESPEED
+gameSLOWEST,				Slowest
+gameSLOWER,				Slower
+gameSLOW,				Slow
+gameNORMAL,				Normal
+gameFAST,				Fast
+gameFASTER,				Faster
+gameFASTEST,				Fastest
+gameSHOWALL,				Show All
+gameSPEED,				Speed:
+#############################################################################
+# connection modes
+#############################################################################
+conANSWER,				Answer
+conCALL,				Call
+#############################################################################
+# connection methods
+#############################################################################
+conMODEM,				Modem
+conDIRECT,				Direct Connect
+conIPX,				IPX network
+conBTLN,				Battle.net
+#############################################################################
+# brief descriptions
+#############################################################################
+conMODEM_d,				Requirements: Each computer will need a properly configured modem connected to a phone line. Modems can be configured by using the Control Panel item called "Modems". Each player needs a different phone number.
+conDIRECT_d,				Requirements: The computers must be linked together using a null-modem cable that is connected to a free serial port on each computer.
+conIPX_d,				Requirements: Your computer will need the IPX protocol installed, and it must be connected to your opponents' computers via local-area network cables.
+conBTLN_d,				Requirements: Your computer will need access to the Internet.
+conSUPPORTED,				Supports up to %d players
+#############################################################################
+# extended descriptions
+#############################################################################
+conIPX_ext,				Local-area networks are commonly used to connect office computers together, but home networks can also be constructed relatively inexpensively. Players connected to a local-area network can play against any other players connected to the same network.
+conBTLN_ext,				Battle.net is a free Internet gaming service provided by Blizzard Entertainment which allows players to meet up, challenge other players, and join games, all without paying any charges apart from normal Internet connection charges.
+conMODEM_ext,				Two players can play together by over the telephone by using two modems. One computer is configured to answer its modem, and the other computer is configured to call the first computer.
+conDIRECT_ext,				Two players can play by connecting their computers together with a "null-modem" cable. One computer is configured to host the game, and the other computer can then join the game.
+#############################################################################
+# error messages
+#############################################################################
+conPROVERROR,				The selected network provider could not be initialized.
+#################################
+# Chatroom Strings
+#################################
+chatPLAYERJOINED_s,				Player %s has joined the game.
+chatPLAYERLEFT_s,				Player %s has left the game.
+chatDISTERROR,				An error occurred while distributing the map.
+chatASSIGNTEAMS,				Each players must be assigned to a team.
+chatONESIDE,				You must have an opponent in order to start a game.
+chatFILETRANSFERRING,				The scenario map file is still being distributed.
+chatBOOTED,				You have been booted!
+chatBANNED,				You have been banned!
+chatSLOTCLOSED,				The game creator closed all available slots!
+chatHOSTLEFT,				The game host has left.
+chatUNJOINABLE,				Unable to join game.
+chatVERSIONMISMATCH,				You cannot join this game because it is a different version of StarCraft.
+chatINVALIDSAVE,				Save game file not found.
+chatINVALIDSPAWN,				You are not able to join this game.  It was not created with the same CD that spawned your copy of StarCraft.
+chatINVALIDMAP,				Unable to authenticate map.
+chatFDERROR,				Unable to write scenario file.
+chatCONFIRMBOOT_s,				Performing this action will boot:\n%s\nContinue?
+chatPLAYERS,				Players
+chatCOMPUTERSLOT,				Computer Player
+chatNEUTRALSLOT,				Neutral Slot
+chatSECONDS,				seconds
+chatSOON,				soon!
+slotCOMPUTER,				Computer
+slotOPEN,				Open
+slotCLOSED,				Closed
+slotBAN,				Ban Player!
+#############################################################################
+# Battle.net Strings
+#############################################################################
+bnMAP,				Map:
+bnCREATOR,				Creator:
+bnTYPE,				Type:
+bnSPEED,				Speed:
+bnTIME,				Time:  %d:%02d%s
+bnAM,				AM
+bnPM,				PM
+bnCREATEEXISTS,				A game by that name already exists!
+bnNAMENEEDED,				Please enter a game name to continue.
+bnMAPNEEDED,				Please select a map to continue.
+bnPASSWORDNEEDED,				You must enter a password to start a saved game.
+bnNOLADDER,				You cannot play ladder games until you have at least 10 non-ladder wins.
+bnSPAWNNOLADDER,				Unable to join selected game. Ladder games are unavailable because this is a spawned copy of StarCraft.
+bnCANTJOIN,				Unable to join selected game.
+bnRESTRICTEDCHANNEL,				The selected channel is restricted.
+profLADDERGAMES,				Ladder Games
+profNORMALGAMES,				Normal Games
+profRATINGTITLE,				Rating:
+profRANKTITLE,				Rank:
+profUNRATED,				Unrated
+profLASTGAMETITLE,				Last Game:
+profRANK_s,				#%s
+profUNRANKED,				Unranked
+profRATINGHIGH_s,				(High: %s)
+profRANKHIGH_s,				(High: #%s)
+profRECORD_ss,				Record: %s/%s
+profDISCONNECTS_s,				Disconnects: %s
+profNEVERPLAYED,				Never Played
+profNOINFORMATION,				No information available
+#############################################################################
+# patch 1.02
+#############################################################################
+# strings for ladder subtypes
+ladNOPENALTY,				No penalty
+ladASLOSS,				Count as loss
+# new strings needed for PGL functionality
+# Replaced with generic league strings in 1.12
+# bnNOPGL,		Only PGL members are allowed to participate in PGL games.
+# gamePGLAUTHREQUIRED,	You must select an authenticated PGL map to start a PGL game.
+# bnSPAWNNOPGL,	Unable to join selected game. PGL games are unavailable because this is a spawned copy of StarCraft.
+# new strings needed for CompUSA functionality
+# Replaced with generic league strings in 1.12
+# bnNOPGL,		Only CompUSA members are allowed to participate in CompUSA games.
+# gamePGLAUTHREQUIRED,	You must select an authenticated CompUSA map to start a CompUSA game.
+# bnSPAWNNOPGL,	Unable to join selected game. CompUSA games are unavailable because this is a spawned copy of StarCraft.
+#############################################################################
+# Brood War additions
+#############################################################################
+errRETAILCD,				Please insert your StarCraft CD into the CD-ROM drive.
+errBROODWARCD,				Please insert your Brood War CD into the CD-ROM drive.
+errANYCD,				Please insert either the StarCraft or Brood War CD into the CD-ROM drive.
+gluSELECTTYPE,				Select Game Type
+gameTYPEDISABLED,				Unable to create game because the selected game type is currently unavailable.
+#############################################################################
+# patch 1.07
+#############################################################################
+# new strings needed for KBK functionality
+# Replaced with generic league strings in 1.12
+# bnNOKBK,		Only KBK members are allowed to participate in KBK games.
+# gameKBKAUTHREQUIRED,	You must select an authenticated KBK map to start a KBK game.
+# bnSPAWNNOKBK,	Unable to join selected game. KBK games are unavailable because this is a spawned copy of StarCraft.
+# gameKBKtwoplayers, A KBK game must have two and only two non-referee players in it.
+#############################################################################
+# patch 1.08
+#############################################################################
+tvbSIDES,				%d vs %d
+tvbTEAMONE,				Home Team
+tvbTEAMTWO,				Away Team
+tvbSWITCHWITH,				Switch with %s
+tvbMOVETO,				Move to %s
+scoreReplaySavedStr,				sReplay \4S\1aved
+scoreReplayTitle,				Replay Information
+saveReplayDialogTitle,				Save Replay
+replayChatTitle,				Replay of:
+replayEndGame,				The replay has finished.
+visionDialogTitle,				Replay Players
+visionRevealAll,				Reveal Entire Map
+bnREPLAYPASSWORDNEEDED,				You must enter a password to start a replay.
+conGatewayInfo,				If the selected Gateway does not best represent your current location, select the correct Gateway for the best possible connection.
+gameNOTENOUGHPLAYERS,				There are not enough players to start the game.
+# Replaced with generic league strings in 1.12
+# gameKBKsubtype1,			Singles
+# gameKBKsubtype2,			Team
+# gameKBKsubtype3,			Beginner
+# gameKBKsubtype4,			Pro
+# gameKBKsubtype5,			Zone
+# gameKBKsubtype6,			Game Room
+gameMAPTOOSMALL,				The selected map does not have enough player slots for the selected game type.
+#gameKBKnobroodwar,			Please reconnect to Battle.net with StarCraft Original to play No Brood War game types.
+#gameKBKnotfemale,			Only KBK authorized female players can play KBK Women Only games.
+#gameKBKrequirebroodwar,		Brood War is required to play KBK games.
+replayEndGameButton,				xE\4x\1it Replay
+conUDP,				UDP network
+conUDP_d,				Requirements: All computers must be connected to a TCP/IP compatible network.
+conUDP_ext,				Local-area networks are commonly used to connect office computers together, but home networks can also be constructed relatively inexpensively. Players connected to a local-area network can play against any other players connected to the same network.
+#############################################################################
+# patch 1.12
+#############################################################################
+bnNoTourn,				Only league members are allowed to participate in league games.
+gameTournAuthRequired,				You must select an official league map to start a league game.
+bnSpawnNoTourn,				Unable to join selected game. League games are unavailable because this is a spawned copy of StarCraft.
+gameTournTwoPlayers,				A league game must have two and only two non-referee players in it.
+gameTournNoBroodWar,				Please reconnect to Battle.net with StarCraft Original to play No Brood War game types.
+gameTournRequireBroodWar,				Brood War is required to play league games.
+slotPublic,				Make Game Public
+slotPublic2,				Make Public
+#############################################################################
+# patch 1.14.0
+#############################################################################
+profWINS,				Wins:
+profLOSSES,				Losses:
+#############################################################################
+# patch 1.15.0
+#############################################################################
+chatSECOND,				second
+#############################################################################
+# patch 1.18
+#############################################################################
+scoreAPMTitle,          APM
+scoreEPMTitle,          EPM
+gameCloudFolder,        Cloud
+gameCloudPopularMaps,   Popular Maps
+gameCloudSaveGames,     Save Games
+gameCloudReplays,       Replays
+gameCloudMaps,          Maps
+
+#############################################################################
+# Battlenet 2017: v1.19
+#############################################################################
+
+bnet119_connection_title,										Select Connection
+bnet119_connection_error,										Unable to retrieve connection list.
+bnet119_page_load_error,										Unable to load page.
+
+bnet119_registry_title,											Registry
+bnet119_registry_empty,											Select 'New' to create a character.
+
+bnet119_authentication_progressPopup_title,                     Authenticating...
+bnet119_authentication_progressPopup_queuing_title,             The Blizzard servers are busy right now! You're position {position} in the queue (estimated time: {seconds}s).
+bnet119_authentication_error_prefix,                            Login failure:
+bnet119_loggedOut,                                              You have been logged out.
+
+bnet119_toonRegistry_create_error_CE_LimitReached,              You have reached your limit of profiles. Delete one.
+bnet119_toonRegistry_create_error_CE_ToonInUse,                 That profile already exists. Try a different name or gateway.
+bnet119_toonRegistry_create_error_CE_BadToon,                   Invalid profile name.
+bnet119_toonRegistry_create_error_CE_BadToon_BadWords,          Invalid profile name (bad word).
+bnet119_toonRegistry_create_error_CE_BadToon_InvalidChar,       Invalid profile name (invalid char/s).
+bnet119_toonRegistry_create_error_CE_BadToon_TooLong,           Invalid profile name (too long).
+bnet119_toonRegistry_create_error_CE_BadToon_TooShort,          Invalid profile name (too short).
+bnet119_toonRegistry_create_error_CE_BadAuthToken,              Incorrect password.
+
+bnet119_toonRegistry_link_error_CE_LimitReached,                You have reached your limit of profiles. Delete one.
+bnet119_toonRegistry_link_error_CE_ToonInUse,                   That profile already exists. Try a different name or gateway.
+bnet119_toonRegistry_link_error_CE_BadToon,                     Invalid profile name.
+bnet119_toonRegistry_link_error_CE_BadToon_BadWords,            Invalid profile name (bad word).
+bnet119_toonRegistry_link_error_CE_BadToon_InvalidChar,         Invalid profile name (invalid char/s).
+bnet119_toonRegistry_link_error_CE_BadToon_TooLong,             Invalid profile name (too long).
+bnet119_toonRegistry_link_error_CE_BadToon_TooShort,            Invalid profile name (too short).
+bnet119_toonRegistry_link_error_CE_BadAuthToken,                Incorrect password.
+bnet119_toonRegistry_linkProgressPopup_title,                   Linking...
+
+bnet119_toonRegistry_delete_confirmation,                       WARNING: Deleting a profile is a \4permanent\2 operation. You will \1not\2 be able to retrieve your profile once it is deleted.\n\nAre you sure you want to delete this profile?
+bnet119_toonRegistry_deleteProgressPopup_title,                 Deleting...
+
+bnet119_toonRegistry_error_CE_DuplicateConnection,              You're connected on this toon elsewhere. Only one connection is allowed.
+bnet119_toonRegistry_error_CE_FailedToConnect,                  Failed to connect to Classic Server.
+
+bnet119_cloud_uploadQuitConfirmation,                           Upload in progress. Really quit?\n(%s).
+bnet119_cloud_deleteProgressPopup_title,                        Deleting...
+
+bnet119_matchmaking_title,										Ranked Play
+bnet119_matchmaking_selectRace,									Select Race
+bnet119_matchmaking_selectMode,									Select Game Type
+bnet_matchmaking_errorInit,									    Unable to start matchmaking
+bnet_matchmaking_mapListsDownloadProgressPopup_title,           Downloading ranked map lists...
+
+bnet119_matchmakingMapPreferences_title,						m\4M\1ap Preferences
+bnet119_matchmakingMapPreferences_voteDescription,				Vote for up to 3 maps. These maps will be selected less frequently when searching.
+bnet119_matchmakingMapPreferences_voteRemaining,				Votes Remaining
+
+bnet119_matchmakingSearch_title,								Searching
+bnet119_matchmakingSearch_matchFound,							Match Found!
+bnet119_matchmakingSearch_estimatedTime,						Estimated Time
+bnet119_matchmakingSearch_elapsedTime,							Elapsed Time
+bnet119_matchmakingSearch_cancel,								eCanc\4e\1l
+bnet119_matchmakingSearch_ready,								eR\4e\1ady
+
+bnet119_matchmakingLoading_vs,									VS
+bnet119_matchmakingLoading_countdownLabel,						Match will start in
+bnet119_matchmakingLoading_wins,								Wins
+bnet119_matchmakingLoading_losses,								Losses
+bnet119_matchmakingLoading_disconnects,							Disconnects
+bnet119_matchmakingLoading_loading,								Loading
+
+bnet119_matchmakingScreen_error_noGameModes,                    Could not get game modes.
+bnet119_matchmakingScreen_error_noMapList,                      Unable to download map list.
+
+bnet119_toonCreation_createNewCharacter,						Create New Character
+bnet119_toonCreation_characterName,								Character Name
+bnet119_toonCreation_or,										or
+
+bnet_toonRename_renameCharacter,                                Rename Character
+bnet_toonRename_characterName,                                  Character Name
+
+bnet119_chatPanel_contextMenu_whisper,							Whisper
+bnet119_chatPanel_contextMenu_playCustom,						Play Custom
+bnet119_chatPanel_contextMenu_joinLobby,						Join Lobby
+bnet119_chatPanel_contextMenu_viewProfile,						View Profile
+bnet119_chatPanel_contextMenu_removeFriend,						Remove Friend
+bnet119_chatPanel_contextMenu_designateUser,					Designate as Moderator
+bnet119_chatPanel_contextMenu_kickUser,							Kick User
+bnet119_chatPanel_contextMenu_banUser,							Ban User
+bnet119_chatPanel_contextMenu_resign,							Resign as Moderator
+
+bnet119_selectConnectionScreen_gatewayInfoPane_playersOnline,   Players Online
+bnet119_selectConnectionScreen_gatewayInfoPane_change,			Change
+bnet119_selectConnectionScreen_gatewayInfoPane_seasonRecord1v1,	1v1 Season Record
+bnet119_selectConnectionScreen_gatewayInfoPane_careerWins,		Career Wins
+bnet119_selectConnectionScreen_gatewayInfoPane_careerGames,		Career Games
+bnet119_selectConnectionScreen_gatewayInfoPane_topRace,			Top Race
+
+bnet119_toonInfoPanel_seasonRank,								1v1 Season Rank
+
+bnet119_optionsPanel_general_title,                             Options
+bnet119_optionsPanel_general_restore,                           r\4R\1estore to Default
+bnet119_optionsPanel_general_hotkeys,                           Hotkeys
+bnet119_optionsPanel_general_label_slow,                        slow
+bnet119_optionsPanel_general_label_fast,                        fast
+bnet119_optionsPanel_general_label_min,                         min
+bnet119_optionsPanel_general_label_max,                         max
+bnet119_optionsPanel_general_button_apply,                      Apply
+bnet119_optionsPanel_general_button_reset,                      Reset
+
+bnet119_optionsPanel_tabs_speed,                                pS\4p\1eed
+bnet119_optionsPanel_tabs_sound,                                s\4S\1ound
+bnet119_optionsPanel_tabs_video,                                v\4V\1ideo
+bnet119_optionsPanel_tabs_game,                                 g\4G\1ame
+bnet119_optionsPanel_tabs_network,                              n\4N\1etwork
+bnet119_optionsPanel_tabs_help,                                 h\4H\1elp
+bnet119_optionsPanel_tabs_debug,                                d\4D\1ebug
+
+bnet119_optionsPanel_reset_speed_settings,                      Reset speed settings?
+bnet119_optionsPanel_reset_sound_settings,                      Reset sound settings?
+bnet119_optionsPanel_reset_video_settings,                      Reset video settings?
+bnet119_optionsPanel_reset_game_settings,                       Reset game settings?
+bnet119_optionsPanel_reset_network_settings,                    Reset network settings?
+bnet119_optionsPanel_reset_debug_settings,                      Reset debug settings?
+
+bnet119_optionsPanel_speed_title,                               Speed Options
+bnet119_optionsPanel_speed_subtitle_gameplaySpeed,              Gameplay Speed
+bnet119_optionsPanel_speed_subtitle_cursorSpeed,                Cursor Speed
+bnet119_optionsPanel_speed_subtitle_scrollSpeed,                Scroll Speed
+bnet119_optionsPanel_speed_label_gameSpeed,                     Game Speed
+bnet119_optionsPanel_speed_label_mouseSensitivity,              Mouse Sensitivity
+bnet119_optionsPanel_speed_tooltip_mouseSensitivity,            Turn off to use your operating system's mouse speed setting.
+bnet119_optionsPanel_speed_label_keyScroll,                     Key Scroll Speed
+bnet119_optionsPanel_speed_label_mouseScroll,                   Mouse Scroll Speed
+bnet119_optionsPanel_speed_label_middleMouseScroll,             Middle Mouse Scroll
+bnet119_optionsPanel_speed_label_mouseScaling,                  Use Mouse Scaling
+bnet119_optionsPanel_speed_tooltip_mouseScaling,                Mouse scaling replicates StarCraft's original screen resolution input distance.
+
+bnet119_optionsPanel_sound_title,                               Sound Options
+bnet119_optionsPanel_sound_label_musicVolume,                   Music Volume
+bnet119_optionsPanel_sound_label_digitalVolume,                 Digital Volume
+bnet119_optionsPanel_sound_label_soundPlaysInBackground,        Sound Plays While In Background
+bnet119_optionsPanel_sound_label_unitSpeech,                    Unit Speech
+bnet119_optionsPanel_sound_label_unitAck,                       Unit Acknowledgments
+bnet119_optionsPanel_sound_label_buildingSounds,                Building Sounds
+bnet119_optionsPanel_sound_label_remasteredAudio,               Remastered Audio
+bnet119_optionsPanel_sound_label_gameSubtitles,                 Game Subtitles
+bnet119_optionsPanel_sound_label_cinematicSubtitles,            Cinematic Subtitles
+bnet119_optionsPanel_sound_label_originalUnitVO,                Original Unit Voice Overs
+bnet119_optionsPanel_sound_label_originalCampaignVO,            Original 1998 Campaign
+
+
+bnet119_optionsPanel_video_title,                               Video Options
+bnet119_optionsPanel_video_label_windowMode,                    Display Mode
+bnet119_optionsPanel_video_label_windowMode_windowed,           Windowed
+bnet119_optionsPanel_video_label_windowMode_windowedFullscreen, Windowed (Fullscreen)
+bnet119_optionsPanel_video_label_windowMode_fullscreen,         Fullscreen
+bnet119_optionsPanel_video_tooltip_windowMode_windows,          Pressing Alt+Enter also toggles Windowed mode.
+bnet119_optionsPanel_video_tooltip_windowMode_mac,              Pressing Cmd+M also toggles Windowed mode.
+bnet119_optionsPanel_video_label_monitor,                       Monitor
+bnet119_optionsPanel_video_label_screenResolution,              Screen Resolution
+bnet119_optionsPanel_video_label_gamma,                         Gamma Correction
+bnet119_optionsPanel_video_tooltip_gamma,                       Fullscreen must be active to adjust gamma. Gamma can be adjusted to change the light intensity.
+bnet119_optionsPanel_video_label_fpsCap,                        Enable FPS Cap
+bnet119_optionsPanel_video_label_filtering,                     Enable Bilinear Filtering
+bnet119_optionsPanel_video_tooltip_filtering,                   Only applicable in SD mode. Bilinear filtering will smooth sprites to reduce hard or jagged edges.
+bnet119_optionsPanel_video_label_vsync,                         Enable Vertical Sync
+bnet119_optionsPanel_video_label_hd,                            HD Graphics
+bnet119_optionsPanel_video_label_environmentEffects,            Environment Effects
+bnet119_optionsPanel_video_tooltip_environmentEffects,          Environment Effects are small objects added to better randomize the appearance of the terrain in game.
+bnet119_optionsPanel_video_label_realTimeLighting,              Real-Time Lighting
+bnet119_optionsPanel_video_tooltip_realTimeLighting_disabled,   Real-time lighting requires hardware with greater than 2 GB of VRAM, and is disabled when using the Cartooned skin.
+bnet119_optionsPanel_video_tooltip_realTimeLighting_enabled,    Casts dynamic light across units, buildings, and terrain based on light sources.
+bnet119_optionsPanel_video_label_smoothAnimations,              Smooth Unit Turning
+bnet119_optionsPanel_video_label_colorblindMode,                Colorblind Mode
+bnet119_optionsPanel_video_label_aspect_ratio_widescreen,       Widescreen
+bnet119_optionsPanel_video_label_aspect_ratio_letterbox,        Pillarbox
+bnet119_optionsPanel_video_label_shadowStacking,                Shadow Stacking
+
+bnet119_optionsPanel_game_title,                                Game Options
+bnet119_optionsPanel_game_subtitle_gameplay,                    Gameplay
+bnet119_optionsPanel_game_subtitle_language,                    Language
+bnet119_optionsPanel_game_subtitle_apmTracking,                 Actions Per Minute Tracking
+bnet119_optionsPanel_game_subtitle_mac,                         Mac
+bnet119_optionsPanel_game_subtitle_keyboard,                    Keyboard Input
+bnet119_optionsPanel_game_label_gameTimer,                      Game Timer
+bnet119_optionsPanel_game_label_colorCycling,                   Enable Color Cycling
+bnet119_optionsPanel_game_label_languageFilter,                 Mature Language Filter
+bnet119_optionsPanel_game_label_redBlueTeamColors,              Red vs. Blue Team Colors
+bnet119_optionsPanel_game_label_bonusSkins,                     Show Bonus Skins
+bnet119_optionsPanel_game_label_unitPortraits,                  Unit Portraits
+bnet119_optionsPanel_game_label_unitPortraits_animated,         Animated
+bnet119_optionsPanel_game_label_unitPortraits_still,            Still
+bnet119_optionsPanel_game_label_unitPortraits_disable,          Disabled
+bnet119_optionsPanel_game_label_consolePosition,                Mini-Map Position
+bnet119_optionsPanel_game_label_consolePosition_leftCorner,     Left Corner
+bnet119_optionsPanel_game_label_consolePosition_standard,       Standard
+bnet119_optionsPanel_game_label_textLanguage,                   Text Language
+bnet119_optionsPanel_game_label_voLanguage,                     Voiceover Language
+bnet119_optionsPanel_game_language_description,                 Changing language will require a game restart to take effect
+bnet119_optionsPanel_game_label_apm,                            Display APM In Game
+bnet119_optionsPanel_game_label_epm,                            Alert when APM falls below
+bnet119_optionsPanel_game_label_alert,                          Alert when below
+bnet119_optionsPanel_game_label_colorText,                      Color Text
+bnet119_optionsPanel_game_label_playSound,                      Play Sound
+bnet119_optionsPanel_game_label_portraits,                      Portraits
+bnet119_optionsPanel_game_label_display,                        Display
+bnet119_optionsPanel_game_label_disableOsShortcuts,             Disable OS Keyboard Shortcuts
+bnet119_optionsPanel_game_label_UseCmdAsCtrl,                   Use Command instead of Control for hotkeys
+bnet119_optionsPanel_game_universalAccess_dialog_title,         Universal Access Required
+bnet119_optionsPanel_game_universalAccess_dialog_body,          In order to use this option, you must grant access to StarCraft in Security & Privacy preferences, located in System Preferences. Would you like to open System Preferences now?
+bnet119_optionsPanel_game_universalAccess_dialog_ok,            Open
+bnet119_optionsPanel_game_universalAccess_dialog_cancel,        Cancel
+bnet119_optionsPanel_game_label_standardFunctionKeys,           Use standard function keys
+
+bnet119_optionsPanel_language_deDE,                             Deutsch
+bnet119_optionsPanel_language_enUS,                             English
+bnet119_optionsPanel_language_esES,                             Español - España
+bnet119_optionsPanel_language_esMX,                             Español - Latino
+bnet119_optionsPanel_language_frFR,                             Français
+bnet119_optionsPanel_language_itIT,                             Italiano
+bnet119_optionsPanel_language_jaJP,                             日本語
+bnet119_optionsPanel_language_koUS,                             한국어 (음역)
+bnet119_optionsPanel_language_koKR,                             한국어 (완역)
+bnet119_optionsPanel_language_NOLA,                             [PH] NOLA
+bnet119_optionsPanel_language_plPL,                             Polski
+bnet119_optionsPanel_language_ptBR,                             Português
+bnet119_optionsPanel_language_ruRU,                             Русский
+bnet119_optionsPanel_language_zhCN,                             简体中文
+bnet119_optionsPanel_language_zhTW,                             繁體中文
+
+bnet119_optionsPanel_language_dialog_title,                     Changing Language
+bnet119_optionsPanel_language_dialog_body,                      StarCraft needs to exit to install a new language
+bnet119_optionsPanel_language_dialog_button,                    Exit
+
+bnet119_optionsPanel_network_title,                             Network Options
+bnet119_optionsPanel_network_description,                       Setting lower latency reduces the time between when you click the mouse and when a unit responds to the click. Higher latency increases that time, but smooths network performance for systems with slow or 'lossy' network connections.
+bnet119_optionsPanel_network_subtitle_defaultLatency,           Latency
+bnet119_optionsPanel_network_subtitle_customGameLatency,        Custom Game Latency
+bnet119_optionsPanel_network_subtitle_startDiagnostic,			Start Diagnostic
+bnet119_optionsPanel_network_subtitle_networkDiagnostic,		Network Diagnostic
+bnet119_optionsPanel_network_subtitle_diagnosticLogin,			Login to Battle.net to enable this option.
+bnet119_optionsPanel_network_label_lowLat,                      l\4L\1ow
+bnet119_optionsPanel_network_label_highLat,                     h\4H\1igh
+bnet119_optionsPanel_network_label_extraHighLat,                e\4E\1xtra High
+bnet119_optionsPanel_network_label_preferPort6112,              Prefer port 6112
+
+bnet119_optionsPanel_help_title,                                Help
+
+bnet119_optionsPanel_debug_title,                               Debug Options
+bnet119_optionsPanel_soundBoard,                                Sound Board
+
+optionsPanel_social_label_friendsPresenceNotifications,         Friends presence text notifications
+
+bnet119_hotkeysPanel_header,                                    Hotkeys
+bnet119_hotkeysPanel_units_label,                               Units
+bnet119_hotkeysPanel_buildings_label,                           Buildings
+bnet119_hotkeysPanel_groudUnits_label,                          Ground Units
+bnet119_hotkeysPanel_airUnits_label,                            Air Units
+bnet119_hotkeysPanel_basicBuildings_label,                      Basic
+bnet119_hotkeysPanel_advancedBuildings_label,                   Advanced
+bnet119_hotkeysPanel_unitSelection_instructions,                Click on a unit to view its commands
+bnet119_hotkeysPanel_commandSelection_instructions,             Click on a command to change its hotkey
+bnet119_hotkeysPanel_hotkey_instructions,                       Press the desired key
+bnet119_hotkeysPanel_selected_prefix,                           Selected:
+bnet119_hotkeysPanel_general_actionCard,                        General
+bnet119_hotkeysPanel_basicStructure_actionCard,                 Basic Structure
+bnet119_hotkeysPanel_advancedStructure_actionCard,              Advanced Structure
+bnet119_hotkeysPanel_tankMode_actionCard,                       General - Tank Mode
+bnet119_hotkeysPanel_siegeMode_actionCard,                      General - Siege Mode
+bnet119_hotkeysPanel_uncloaked_actionCard,                      General - Uncloaked
+bnet119_hotkeysPanel_cloaked_actionCard,                        General - Cloaked
+bnet119_hotkeysPanel_lifted_actionCard,                         General - Lifted
+bnet119_hotkeysPanel_burrowed_actionCard,                       General - Burrowed
+bnet119_hotkeysPanel_binding_unitsShared,                       %d units share this command
+bnet119_hotkeysPanel_binding_default,                           Default:
+bnet119_hotkeysPanel_restoreToDefault_button,                   Restore to Default
+bnet119_hotkeysPanel_save_button,                               Save
+bnet119_hotkeysPanel_cancel_button,                             Cancel
+bnet119_hotkeysPanel_dontSave_button,                           Don't Save
+bnet119_hotkeysPanel_continue_button,                           Continue
+bnet119_hotkeysPanel_saveChangesQuestion,                       Save Changes?
+bnet119_hotkeysPanel_saveChangesExplanation,                    Your changes will be lost if you don't save them.
+bnet119_hotkeysPanel_restoreDefaultsQuestion,                   Restore defaults?
+bnet119_hotkeysPanel_restoreDefaultsExplanation,                You will lose your changes, do you wish to continue?
+bnet119_hotkeysPanel_unboundedInstructions,                     There are commands that have become unbound
+
+bnet119_chat_auroraChat_error_AE_NotificationUndeliverable,     That user is offline.
+bnet119_chat_auroraChat_error_AE_FriendshipAlreadyExists,       You are already friends with that user.
+bnet119_chat_auroraChat_error_AE_FriendshipIsSelf,              You can't send a friend request to yourself.
+bnet119_chat_auroraChat_error_AE_FriendInvitationExists,        A friendship invitation with that user already exists.
+chat_error_AE_WhisperQuotaExceeded,                             Whisper not sent because you have sent too many whispers too quickly.
+
+bnet119_home_ad_prePurchaseNow,									PRE-PURCHASE NOW
+bnet119_home_ad_purchaseNow,									PURCHASE NOW
+bnet119_home_ad_igrLaunch,										AVAILABLE IN KOREA JULY 30
+bnet119_chatScreen_ad_globalLaunchText,							LAUNCHES
+bnet119_chatScreen_ad_globalWorldwideText,						WORLDWIDE
+bnet119_chatScreen_ad_globalLaunchDate,							AUGUST 14
+
+#############################################################################
+# Battlenet 2017: v1.18 only
+#############################################################################
+
+bnet118_fakeAuroraAuthentication_progressPopup_title,           Connecting...
+bnet118_fakeAurora_loggedOut,                                   The server connection has been lost.
+bnet118_fakeAuroraAuthentication_error_TE_UnknownEndpoint,      There's a problem connecting to the server right now. Please wait a few minutes and try again.
+bnet118_fakeAuroraAuthentication_error_AE_NoUtilityServer,      There's a problem connecting to the server right now. Please wait a few minutes and try again.
+bnet118_fakeAuroraAuthentication_error_AE_NoGameAccount,        You are not old enough to play online.
+bnet118_fakeAuroraAuthentication_error_AE_SessionNotFound,      You have either been playing too long or you are not permitted to play at this time of day.
+bnet118_fakeAuroraAuthentication_error_AE_ParentalRestricted,   You have either been playing too long or you are not permitted to play at this time of day.
+
+bnet118_login_error_CE_LimitReached,                            You have reached your limit of profiles. Delete one.
+bnet118_login_error_CE_FailedToConnect,                         There's a problem connecting to the server right now. Please wait a few minutes and try again.
+bnet118_login_error_CE_ToonInUse,                               That profile is already in use.
+bnet118_login_error_CE_BadToon,                                 Your login information was incorrect. Please try again.
+bnet118_login_error_CE_BadToon_BadWords,                        Your login information was incorrect. Please try again.
+bnet118_login_error_CE_BadToon_InvalidChar,                     Your login information was incorrect. Please try again.
+bnet118_login_error_CE_BadToon_TooLong,                         Your login information was incorrect. Please try again.
+bnet118_login_error_CE_BadToon_TooShort,                        Your login information was incorrect. Please try again.
+bnet118_login_error_CE_BadAuthToken,                            Incorrect password.
+bnet118_login_error_LE_InUse,                                   The specified profile is already in use. Please select another.
+bnet118_login_error_FE_SecurePhoneDisabled,                     Secure by phone disabled.
+bnet118_login_error_FE_PhoneFailure,                            Phone login failed.
+bnet118_login_error_FE_IncorrectPhone,                          Unregistered phone.
+bnet118_loginProgressPopup_title,                               Logging in...
+bnet118_login_title,											Login
+bnet118_login_newAccount,										n\4N\1ew Account
+bnet118_login_changePassword,									pChange \4P\1assword
+bnet118_login_recoverPassword,									r\4R\1ecover Password
+bnet118_login_changeEmail,										eChange \4E\1mail
+
+bnet118_createToon_error_CE_BadToon,                            Invalid profile name.
+bnet118_createToon_error_CE_BadToon_BadWords,                   The specified profile name contains invalid words.
+bnet118_createToon_error_CE_BadToon_InvalidChar,                The specified profile name contains invalid characters.
+bnet118_createToon_error_CE_BadToon_TooLong,                    The specified profile name is too long.
+bnet118_createToon_error_CE_BadToon_TooShort,                   The specified profile name is too short.
+bnet118_createToon_error_CE_ToonInUse,                          The specified profile name already exists. Try a different name or gateway.
+bnet118_createToon_error_emailAddressMismatch,                  The email addresses must match.
+bnet118_createToon_error_passwordRequired,                      A password is required.
+bnet118_createToon_error_passwordMismatch,                      The passwords must match.
+bnet118_createToon_success_title,                               Account created!
+bnet118_createToon_success_body,                                Please note that inactive accounts are deleted at regular times. If you create a new account, you must be logged into Battle.net long enough (either in one session, or spread over several) to have accumulated 2 hours of time within the first 48 hours. After that, your account becomes permanent so long as you continue to login to this account every 3 months.
+bnet118_createToon_title,                                       Create Account
+bnet118_createToon_email,                                       Email
+bnet118_createToon_repeatEmail,									Repeat Email
+bnet118_createToon_accountName_rules,							An account name is required. It must be under 16 characters in length and not contain any spaces.
+bnet118_createToon_password_rules,								A password is required. It must be between 3-512 characters in length.
+
+bnet118_changePassword_error_CE_BadAuthToken,                   Bad credentials.
+bnet118_changePassword_success,                                 Password changed!
+bnet118_changePassword_error_newPasswordRequired,               A new password is required. It must be between 3-512 characters in length.
+bnet118_changePassword_error_currentPasswordRequired,			The current password is required.
+bnet118_changePassword_error_passwordMismatch,                  The new passwords must match.
+bnet118_changePassword_title,                                   Change Password
+bnet118_changePassword_currentPassword,                         Current Password
+bnet118_changePassword_repeatPassword,                          Repeat Password
+bnet118_changePassword_repeatNewPassword,                       Repeat New Password
+bnet118_changePasswordProgressPopup_title,                      Changing password...
+
+bnet118_changeEmailAddress_error_CE_BadAuthToken,               Bad credentials
+bnet118_changeEmailAddress_error_emailAddressMismatch,          The new email addresses must match.
+bnet118_changeEmailAddress_success,                             Your request to change your email address has been submitted. If the old email address you entered matches the one that is currently bound to this account, an email will be sent to that address with further instructions.
+bnet118_changeEmailAddress_title,                               Change Email Address
+bnet118_changeEmailAddress_body,                                If you have registered an email address for this account, then you can change it here.\nNote that both email addresses must be active for you to make this change.
+bnet118_changeEmailAddress_oldEmailAddress,                     Old Email Address
+bnet118_changeEmailAddress_newEmailAddress,                     New Email Address
+bnet118_changeEmailAddress_repeatNewEmailAddress,               Repeat New Email Address
+bnet118_changeEmailAddressProgressPopup_title,                  Changing email address...
+
+bnet118_resetPassword_error_CE_BadAuthToken,                    Bad credentials.
+bnet118_resetPassword_success,                                  Your request for a new password has been received. If you registered an email address for this account you will receive an email with instructions on how to complete your password change.
+bnet118_resetPassword_emailAddress,                             Email Address
+bnet118_resetPassword_body,                                     If you have forgotten your password and you registered your email address with us for this account, you can request that a new password be sent. Make sure to enter the email address that you registered for the account.
+bnet118_resetPasswordProgressPopup_title,                       Resetting password...
+
+bnet118_eulaPopup_agree,                                        a\4A\1gree
+bnet118_eulaPopup_disagree,                                     d\4D\1isagree
+bnet118_eulaPopup_title,                                        Battle.net Terms of Use
+bnet118_eulaPopup_scrollToBottom,                               Scroll to the bottom to continue.
+
+bnet118_legacyFlow_error_validEmailAddressRequired,             A valid email address is required.
+bnet118_legacyFlow_error_accountNameRequired,                   An account name is required.
+bnet118_legacyFlow_accountName,                                 Account Name
+bnet118_legacyFlow_newPassword,                                 New Password
+bnet118_legacyFlow_password,                                    Password
+bnet118_legacyFlow_recoverPassword,                             Recover Password
+
+bnet118_addFriendPopup_title,                                   Add Friend
+bnet118_addFriendPopup_accountName,                             Enter Account Name
+bnet119_addFriendPopup_suggestFriend,                           Suggested Friends
+bnet119_addFriendPopup_enterInfo,								Enter a StarCraft Character, BattleTag#0000, or email address
+bnet119_addFriendPopup_onLAN,									On LAN
+bnet119_addFriendPopup_classicBnetFriend,						Your Classic Battle.net Friend
+bnet119_addFriendPopup_or,										or
+
+bnet118_selectConnectionScreen_LANPane_title,					Protocol
+bnet118_selectConnectionScreen_LANPane_error,					Unable to retrieve protocol list.
+bnet118_selectConnectionScreen_gatewayPane_title,               Gateway
+bnet118_selectConnectionScreen_gatewayPane_error,				Unable to retrieve gateway list.
+bnet118_selectConnectionScreen_gatewayPane_note,                If the selected Gateway does not best represent your current location, select the correct Gateway for the best possible connection.
+
+bnet118_createGameScreen_error_passwordRequired,                A password is required to create a private game.
+
+bnet_aurora_error_prefix,                                       Failed to make initial server connection
+bnet_error_notConnected,                                        Not connected to the server.
+
+bnet_chat_notConnectedToAnyChannel,                             Not connected to any channel.
+bnet_chat_commandUsage,                                         Usage
+bnet_chat_commandAliases,                                       Aliases
+bnet_chat_unrecognizedCommand,                                  Unrecognized command
+bnet_chat_commandHelpListTitle,                                 Battle.net help topics:
+bnet_chat_commandHelpCommandsList,                              Available commands:
+bnet_chat_commandHelpListMoreInfo_topic,                        Type /help TOPIC for information about a specific topic.
+bnet_chat_commandHelpListMoreInfo_command,                      Type /help COMMAND for information about a specific command.
+bnet_chat_commandHelp_basicCommands_title,                      Basic chat commands:
+bnet_chat_commandHelp_advancedCommands_title,                   Advanced chat commands:
+bnet_chat_commandHelp_commandAliases_title,                     Command aliases:
+bnet_chat_commandHelp_friends_description,                      Add, remove, or whisper a friend
+bnet_chat_commandHelp_friends_add_description,                  Add ACCOUNTNAME to your friends list
+bnet_chat_commandHelp_friends_remove_description,               Remove ACCOUNTNAME from your friends list
+bnet_chat_commandHelp_friends_whisper_description,              Whisper MESSAGE to all Brood War friends and all Blizzard friends who are currently using StarCraft
+bnet_chat_commandHelp_friends_whisperAll_description,           Whisper MESSAGE to all friends
+bnet_chat_commandHelp_friends_listIntelligent_description,      List your Blizzard friends who are currently using StarCraft and your Brood War friends.
+bnet_chat_commandHelp_friends_listAll_description,              List your friends.
+bnet_chat_commandHelp_friends_listBlizzard_description,         List your Blizzard friends.
+bnet_chat_commandHelp_friends_listOnline_description,           List your Blizzard friends who are currently using StarCraft and your Brood War friends who are online.
+bnet_chat_commandHelp_friends_on_description,                   Enable friends presence notifications.
+bnet_chat_commandHelp_friends_off_description,                  Disable friends presence notifications.
+bnet_chat_commandHelp_channel_description,                      Join channel CHANNELNAME
+bnet_chat_commandHelp_dnd_description,                          Starts/stops ignoring all whispers
+bnet_chat_commandHelp_ignore_description,                       Stop receiving messages from ACCOUNTNAME
+bnet_chat_commandHelp_unignore_description,                     Start receiving messages from ACCOUNTNAME
+bnet_chat_commandHelp_report_description,                       Report ACCOUNTNAME for REASON
+bnet_chat_commandHelp_report_spam_description,                  Report ACCOUNTNAME for spamming the channel you are currently in
+bnet_chat_commandHelp_report_harassment_description,            Report ACCOUNTNAME for harassment
+bnet_chat_commandHelp_report_cheating_description,              Report ACCOUNTNAME for cheating in GAMENAME
+bnet_chat_commandHelp_report_accountName_description,           Report ACCOUNTNAME for an offensive account name
+bnet_chat_commandHelp_report_battleTag_description,             Report ACCOUNTNAME for an offensive BattleTag™
+bnet_chat_commandHelp_report_gameName_description,              Report ACCOUNTNAME for an offensive game name
+bnet_chat_commandHelp_users_description,                        Displays the current number of users connected to Battle.net.
+bnet_chat_commandHelp_users_statsSuccess,                       There are {games} games being played.\nThere are {players} players online.
+bnet_chat_commandHelp_users_statsError,                         Failed to retrieve gateway statistics.
+
+bnet_chat_commandHelp_options_description,                      Change messaging options
+bnet_chat_commandHelp_options_ignore_description,               Ignore whispers from anyone who isn't in your friends list
+bnet_chat_commandHelp_options_unignore_description,             Allow whispers from anyone who isn't in your friends list
+bnet_chat_commandHelp_options_ignorepublic_description,         Ignore messages in public chat channels from anyone who isn't in your friends list
+bnet_chat_commandHelp_options_unignorepublic_description,       Allow messages in public chat channels from anyone who isn't in your friends list
+bnet_chat_commandHelp_options_ignoreprivate_description,        Ignore messages in private chat channels from anyone who isn't in your friends list
+bnet_chat_commandHelp_options_unignoreprivate_description,      Allow messages in private chat channels from anyone who isn't in your friends list
+bnet_chat_options_MuteWhispersFromNonFriends,                   Ignoring whispers from non-friends.
+bnet_chat_options_UnmuteWhispersFromNonFriends,                 Allowing whispers from non-friends.
+bnet_chat_options_MutePublicChatFromNonFriends,                 Ignoring public chat from non-friends.
+bnet_chat_options_UnmutePublicChatFromNonFriends,               Allowing public chat from non-friends.
+bnet_chat_options_MutePrivateChatFromNonFriends,                Ignoring private chat from non-friends.
+bnet_chat_options_UnmutePrivateChatFromNonFriends,              Allowing private chat from non-friends.
+bnet_chat_options_status_whispers_muted,                        Allowing private messages from non-friends.
+bnet_chat_options_status_whispers_unmuted,                      Not allowing private messages from non-friends.
+bnet_chat_options_status_publicChat_muted,                      Allowing messages from non-friends in public channels.
+bnet_chat_options_status_publicChat_unmuted,                    Not allowing messages from non-friends in public channels.
+bnet_chat_options_status_privateChat_muted,                     Allowing messages from non-friends in private channels.
+bnet_chat_options_status_privateChat_unmuted,                   Not allowing messages from non-friends in private channels.
+bnet_chat_whisperToPrefix,                                      <To: %s>
+bnet_chat_whisperFromPrefix,                                    <From: %s>
+bnet_chat_whisper_invalidUser,                                  Invalid user.
+bnet_chat_defaultChannelName,                                   <Default channel>
+bnet_chat_joiningDefaultChannel,                                Joining default channel...
+bnet_chat_joiningChannel,                                       Joining channel %s...
+bnet_chat_creatingAndJoiningCustomChannel,                      Joining channel %s...
+bnet_chat_joinDefaultChannel_failure,                           Cannot join channel.
+bnet_chat_joinChannel_failure,                                  Cannot join channel.
+bnet_chat_createJoinCustomChannel_failure,                      Cannot join channel.
+bnet_chat_leavingChannel,                                       Leaving channel %s...
+bnet_chat_leftChannel,                                          Left channel %s.
+bnet_chat_connectedToChatService,                               Connected to chat service.
+bnet_chat_legacyChatDisconnectNotification,                     Disconnected from chat server.
+bnet_chat_legacyProtocolDisconnectNotification,                 Disconnected from server.
+bnet_chat_joinChannel_error_misc,                               Failed to join channel: %s.
+bnet_chat_joinChannel_error_CE_LimitReached,                    Failed to join channel: Limit reached.
+bnet_chat_joinChannel_error_CE_BadChannel,                      Failed to join channel: bad channel.
+bnet_chat_joinChannel_success,                                  Joined channel %s.
+bnet_chat_joinChannel_timeout,                                  Request Timeout.
+bnet_chat_createChannel_error_misc,                             Failed to create channel: %s.
+bnet_chat_createChannel_error_CE_LimitReached,                  Failed to create channel: Limit has been reached.
+bnet_chat_error_misc,                                           Error: %s.
+bnet_chat_error_CE_BadCommand,                                  Error: bad command.
+bnet_chat_error_CE_BadChannel,                                  The channel name is invalid.
+bnet_chat_channelSelectPopup_title,                             Select a Channel
+bnet_chat_channelSelectPopup_body,                              To join or create a private channel, enter a name below
+bnet_chat_addFriendProgressPopup_title,                         Adding friend...
+bnet_chat_addFriend_timeout,                                    The friend request timed out.
+bnet_chat_addFriend_addSelf,                                    You can't add yourself to your friends list.
+bnet_chat_addFriend_error_LE_Failure,                           Invalid user.
+bnet_chat_addFriend_error_LE_RequestTimedOut,                   Failed to add friend.
+bnet_chat_addFriend_error_CE_DuplicateFriend,                   You're already friends with that user.
+bnet_chat_removeFriend_error_notFriends,                        You are not friends with that user.
+bnet_chat_channel_disabled,										Chat is disabled for this channel.
+bnet_chat_command_url,                                          You can copy and paste URLs from the channel messages.
+bnet_chat_command_whoIs_offline,                                {name}, offline.
+bnet_chat_command_whoIs_inGame,                                 {name} ({gateway}), {mutual} using {program} in the {private} game {game}.
+bnet_chat_command_whoIs_inChat,                                 {name} ({gateway}), {mutual} using {program} in the channel {channel}.
+bnet_chat_command_whoIs_online,                                 {name} ({gateway}), {mutual} using {program}.
+bnet_chat_command_whoIs_aurora,                                 {name}, using {program} - {presence}.
+bnet_chat_command_whoIs_auroraNoPresence,                       {name}, using {program}.
+bnet_chat_command_whoIs_mutualFriendship,                       (mutual)
+bnet_chat_command_whoIs_privateGame,                            private
+bnet_chat_command_friends_listIntelligent_title,                Your Blizzard friends who are currently using StarCraft and your Brood War friends are:
+bnet_chat_command_friends_listOnline_title,                     Your Blizzard friends who are currently using StarCraft and your Brood War friends who are online are:
+bnet_chat_command_friends_listAll_title,                        Your friends are:
+bnet_chat_command_friends_listBlizzard_title,                   Your Blizzard friends are:
+bnet_chat_command_friends_whisper_name,                         your friends
+bnet_chat_command_friends_whisper_noFriendsError,               You don't have any friends available to message.
+bnet_chat_command_friends_presenceNotifications_enabled,        Notifications related to friend presence will be displayed.
+bnet_chat_command_friends_presenceNotifications_disabled,       Notifications related to friend presence will be hidden.
+bnet_chat_create,												c\4C\1reate
+
+bnet_connectToonProgressPopup_title,                            Connecting...
+bnet_createToonProgressPopup_title,                             Creating...
+bnet_renameToonProgressPopup_title,                             Renaming...
+
+bnet_renameToonRequiredWarning,                                 The character named "{toonName}" needs to be renamed.
+
+bnet_upgradeRequired,                                           Upgrade required.
+
+bnet_advertisement_error_generalPrefix,                         Failed to advertise the game.
+bnet_advertisement_error_EC_TimedOut,                           Timed out while trying to advertise the game.
+bnet_advertisement_error_EC_InternalError,                      Connection lost while trying to advertise the game.
+bnet_advertisement_error_CE_BadGame,                            The specified game name already exists.
+bnet_advertisement_error_CE_BadGame_BadWords,                   The game name is invalid.
+
+bonjour_install_prompt,                                         Bonjour is required for full LAN functionality. Would you like to activate Bonjour?
+bonjour_not_available,                                          Some LAN functionality will be disabled without the Bonjour service running.
+bonjour_install_prompt_lanGameSearch,                           Bonjour is required to search for available LAN games. Would you like to activate Bonjour?
+bonjour_not_available_lanGameSearch,                            It's not possible to search for LAN games without the Bonjour service running.
+bonjour_failed_to_start,                                        Failed to activate the Bonjour service.
+
+bnet_channels,                                                  Channels
+bnet_passwordPanel_passwordRequired,							Password Required
+bnet_passwordPanel_enterPasswordInfo,							Enter the password to join this game
+
+bnet_participantsPanel_friends,                                 Friends
+bnet_participantsPanel_friendsOffline,                          Offline
+bnet_participantsPanel_friendsOnline,                           Online
+bnet_participantsPanel_channel,									Channel
+bnet_participantsPanel_pendingInvites,							Pending Invites
+bnet_participantsPanel_statusAway,								Away
+bnet_participantsPanel_statusBusy,								Busy
+bnet_participantsPanel_addFriend,								a\4A\1dd Friend
+bnet_participantsPanel_joinChannel,								hJoin C\4h\1annel
+bnet_participantsPanel_reportUser,								Report User
+
+bnet_friends_inviteFriendship,                                  Friend request sent to {name}
+bnet_friends_inviteFriendship_unknownRegion,                    Friend request sent to {name} in Blizzard region {myRegion}
+bnet_friends_inviteFriendship_foreignRegion,                    Friend request sent to {name} in Blizzard region {myRegion} (they're currently in region {theirRegion})
+
+bnet_profileStats_customGamesWinsLossesDisconnects,             [{gatewayName}] Custom Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}.
+bnet_profileStats_allSeasonsWinsLossesDisconnects,              [{gatewayName}] Ranked Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}.
+bnet_profileStats_seasonWinsLossesDisconnects,                  [{gatewayName}] Current Season Ranked Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}.
+bnet_profileStats_overallWinsLossesDisconnects,                 [{gatewayName}] Overall - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}.
+bnet_profileStats_noStatsFound,                                 No stats found.
+
+bnet_joinGame_error_invalidPassword,                            Invalid password.
+bnet_joinGame_error_timeOut,									The join request timed out.
+bnet_joinGame_privateGameSearchProgressPopup_title,             Validating...
+
+bnet_cloud_downloadProgressPopup_title,                         Downloading...
+bnet_cloud_downloadProgressPopup_body,                          Downloading...\n(%s).
+bnet_cloud_sizeRemaining,                                       %s KB remaining
+bnet_cloud_size_s,                                              %s KB
+
+bnet_initialServerDataDownloadProgressPopup_title,              Downloading Settings...
+bnet_fishWarning,                                               This Gateway is not an official Blizzard Gateway. Would you like to continue?
+bnet_fish_terms_title,											Fish Terms of Use
+
+bnet_createGameProgressPopup_title,                             Creating game...
+
+bnet_error_transport,                                           Please check your network connection and try again.
+bnet_error_classicServer_CE_InternalError,                      There's a problem connecting to the server right now. Please wait a few minutes and try again.
+bnet_error_classicServer_TE_DroppedDueToRateLimit,              Request rejected because too many operations are already in progress.
+
+bnet_downloadFailed,                                            Download failed.
+
+bnet_availabilityChange_online,                                 Your availability is now set to online.
+bnet_availabilityChange_away,                                   Your availability is now set to away.
+bnet_availabilityChange_dnd,                                    Your availability is now set to busy (DND). You will not receive whispers or friends presence notifications.
+bnet_availabilityChange_offline,                                Your availability is now set to offline.
+
+infoPane_author,                                                Author
+infoPane_gameCreator,                                           Game Creator
+infoPanel_recentGames,											Recent Games
+infoPane_gameName,                                              Game Name
+infoPane_gameType,                                              Game Type
+infoPane_mapName,                                               Map Name
+infoPane_players,                                               Players
+infoPane_size,                                                  Size
+infoPane_speed,                                                 Speed
+infoPane_turnRate,                                              Turn Rate
+infoPane_suggestedPlayers,                                      Suggested Players
+infoPane_tileset,                                               Tileset
+infoPane_startingIn,											Starting in
+infoPane_noMapImage,											Map Preview Unavailable
+
+str_ok,                                                         o\4O\1k
+str_confirm,                                                    oC\4o\1nfirm
+str_cancel,                                                     c\4C\1ancel
+str_quit,														q\4Q\1uit
+str_referee,                                                    Referee
+strPAUSED_observer,                                             {name} paused the game.
+createGameScreen_title,                                         Create Game
+createGameScreen_gameName,                                      Create Name
+createGameScreen_map,                                           Map
+createGameScreen_privacy,                                       Privacy
+createGameScreen_private,                                       Private
+createGameScreen_public,                                        Public
+createGameScreen_enabled,                                       Enabled
+createGameScreen_disabled,                                      Disabled
+createGameScreen_fileBrowser_title,                             Select Map
+createGameScreen_customHotkeys,									Custom Hotkeys
+createGameScreen_gameLimits,									Unit Limits
+createGameScreen_original,										Original
+createGameScreen_extended,										Extended
+createGameScreen_proxied,										Connection is routing via proxy server
+createGameScreen_refereeOption,									Enable Referees
+
+searchGameScreen_customGames,                                   Custom Games
+searchGameScreen_openGames,										mOpen Ga\4m\1es
+searchGameScreen_popularGames,                                  p\4P\1opular Games
+searchGameScreen_filterSettings,								Filter Settings
+searchGameScreen_showPrivateGames,								Show Private Games
+searchGameScreen_showReplayGames,								Show Replay Games
+searchGameScreen_filter,										f\4F\1ilter
+searchGameScreen_searchCustomGames,								Search custom games
+searchGameScreen_create,										rC\4r\1eate
+searchGameScreen_created,										Created
+searchGameScreen_acceptablePing,								Lowest Acceptable Ping
+searchGameScreen_maxPlayerCount,								Lowest Max Player Count
+searchGameScreen_filterGamesError,								Unable to find games that match your search settings.
+searchGameScreen_results,										Results
+
+lobbyScreen_observers,                                          Observers
+lobbyScreen_referees,                                           Referees
+lobbyScreen_teams,                                              Teams
+lobbyScreen_zerg,												Zerg
+lobbyScreen_terran,												Terran
+lobbyScreen_protoss,											Protoss
+lobbyScreen_random,												Random
+lobbyScreen_selectRace,											Select Race
+lobbyScreen_open,												Open
+lobbyScreen_closed,												Closed
+lobbyScreen_computer,											Computer
+lobbyScreen_makeGamePublic,										Make Game Public
+lobbyScreen_banPlayer,											Ban Player
+lobbyScreen_moveTo,												Move to
+lobbyScreen_switchWith,											Switch with
+lobbyScreen_MapSpecified,                                       Map specified
+lobbyScreen_Random,											Random
+lobbyScreen_Pink,											Pink
+lobbyScreen_Red,											Red
+lobbyScreen_Tan,											Tan
+lobbyScreen_Orange,											Orange
+lobbyScreen_Brown,											Brown
+lobbyScreen_PaleYellow,										Pale Yellow
+lobbyScreen_Yellow,											Yellow
+lobbyScreen_Olive,											Olive
+lobbyScreen_Lime,											Lime
+lobbyScreen_PaleGreen,										Pale Green
+lobbyScreen_Green,											Green
+lobbyScreen_Cyan,											Cyan
+lobbyScreen_Teal,											Teal
+lobbyScreen_Blue,											Blue
+lobbyScreen_Navy,											Navy
+lobbyScreen_DarkAqua,										Dark Aqua
+lobbyScreen_BluishGrey,										Bluish Grey
+lobbyScreen_Purple,											Purple
+lobbyScreen_Magenta,										Magenta
+lobbyScreen_White,											White
+lobbyScreen_Grey,											Grey
+lobbyScreen_Black,											Black
+
+observerScreen_tooltip_map,										Toggle Display of the Minimap.
+observerScreen_tooltip_map_hotkey,								Alt + I
+observerScreen_tooltip_factory,									Toggle Display of the Production Panel.
+observerScreen_tooltip_factory_hotkey,							Alt + F
+observerScreen_tooltip_replay,									Toggle Display of the Replay Panel.
+observerScreen_tooltip_replay_hotkey,							Alt + Y
+observerScreen_tooltip_unit,									Toggle Display of the Unit Panel.
+observerScreen_tooltip_unit_hotkey,								Alt + U
+observerScreen_tooltip_stats,									Toggle Display of the Statistics Panel.
+observerScreen_tooltip_stats_hotkey,							Alt + E
+observerScreen_tooltip_menu,									Open the Game Menu.
+observerScreen_tooltip_menu_hotkey,								Alt + M
+observerScreen_tooltip_help,									Click an icon to show or hide a side panel.
+observerScreen_tooltip_help_hotkey,								Alt + W
+observerScreen_tooltip_diplomacy,								Open the Diplomacy Menu.
+observerScreen_tooltip_diplomacy_hotkey,						Alt + Z
+
+hotkeyPane_title,												Hotkeys
+hotkeyPane_selectedProfile,										Selected Profile
+hotkeyPane_save,												s\4S\1ave
+hotkeyPane_reset,												r\4R\1eset To Default
+hotkeyPane_command,												Command
+hotkeyPane_resetConfirmation,									Reset Confirmation
+hotkeyPane_resetConfirmationDescription,						Custom keybinds will be reset to the default settings. These will need to be saved before taking effect.
+hotkey_profile_custom,                                          Custom
+hotkey_keybindPopup_title,                                      Keybind: %s
+
+reportPlayerScreen_reportPlayer,								Report Player
+reportPlayerScreen_reason,										Reason
+reportPlayerScreen_channelName,									Channel Name
+reportPlayerScreen_gameName,									Game Name
+reportPlayerScreen_spam,										Spam
+reportPlayerScreen_harassment,									Harassment
+reportPlayerScreen_cheating,									Cheating
+reportPlayerScreen_badCharacterName,							Bad Character Name
+reportPlayerScreen_badBattleTag,								Bad BattleTag
+reportPlayerScreen_badGameName,									Bad Game Name
+
+chatNOPLAYERS,                                                  There must be at least one human player to start a game.
+
+spi_battlenet_title,                                            Battle.net®
+spi_battlenet_description,                                      An active connection to an Internet provider, or a direct connection to the Internet.
+spi_lan_title,                                                  Local Area Network
+spi_lan_description,                                            All computers must be connected to an UDP/IP-compatible network.
+
+network_firewall_whitelist,                                     Do you want to add StarCraft to the firewall whitelist?
+
+ngdp_read_failure_title,                                        Read Error
+ngdp_read_failure_message,                                      Error reading game data
+
+bnet_errorPopup_body,                                           Error %s
+
+upgrader_popup_mainMenuButton,                                  m\4M\1ain menu
+upgrader_confirmPopup_knownVersion_title,                       An upgrade to version %s is available! It is required for online play.
+upgrader_confirmPopup_unknownVersion_title,                     An update is available! It is required for online play.
+upgrader_confirmPopup_confirmButton,                            u\4U\1pgrade
+
+selectConnectionScreen_upgradeNotice,                           An upgrade is required before you can play online. Click Upgrade to begin the installation.
+
+graphics_errorTitle,                                            Graphics initialization failure
+graphics_initError,                                             Unable to initialize a suitable rendering API (DirectX9 or OpenGL).\nPlease verify that your display adapter drivers are up to date.
+graphics_eightBitColorError,                                    Attempted to run in 256 color mode. Please verify that\ncompatibility settings are disabled.
+
+chatPlayerJoinedChannel_bnet,									{toonName} has joined {channelName}.
+chatPlayerLeftChannel_bnet,										{toonName} has left {channelName}.
+chatPlayerJoinedChannel_lan,									{toonName} has joined the LAN.
+chatPlayerLeftChannel_lan,										{toonName} has left the LAN.
+chatJoinLeaveVerboseOn,											Enter/Leave notifications: ON
+chatJoinLeaveVerboseOff,										Enter/Leave notifications: OFF
+
+bnet_chat_error_game_end,                                       Error: Failed to send end game result to server.
+
+application_title,                                              StarCraft Brood War
+browser_failed_to_start,                                        A StarCraft service has failed to launch. Your antivirus software may be interfering with a required service. Some functionality of StarCraft may be disabled.
+launcher_failed_to_start,                                       The Battle.net launcher failed to launch.
+
+video_toggle_subtitles_hotkey,                                  s
+
+bnet_matchmaking_generalError,	                                An error occurred while trying to find a match.
+bnet_matchmaking_expansionOnlyError,                            Matchmaking is only available when playing Brood War.
+bnet_matchmaking_unavailableError,                              Matchmaking queues are currently unavailable, please try again later.
+
+bnet_reportUser_succeeded,                                      User has been reported.
+bnet_reportUser_failed,                                         Failed to report user.
+
+bnet_featureError_OfficialGatewayRequired,                      This feature is only available on an official Blizzard gateway.
+
+#############################################################################
+# patch 1.20 // Dropping the intermittent bnet118/bnet119 prefix convention
+#############################################################################
+
+optionsPanel_speed_hardwareCursor_label,                        Hardware Cursor
+optionsPanel_speed_hardwareCursor_tooltip,                      Not available when using mouse scaling
+optionsPanel_speed_mouseConfine_label,                          Use Mouse Confine
+optionsPanel_speed_mouseConfine_tooltip,                        Constrain the cursor to the window when playing. (Alt+F1 to toggle). Note: Only available when in windowed mode.
+
+ossystems_compatibility_mode,                                   StarCraft detected Operating System Compatibility Mode settings. These can impair StarCraft services and it is recommended to disable them.
+
+error_cant_watch_replays,										Can't watch replays while waiting in the match making queue.
+error_cant_load_last_replay,                                    Failed to load last replay.
+error_unrecognizedUser,                                         Unrecognized user - %s.
+userProfile_error_unableToDisplay,                              User is not connected to a recognized gateway.
+
+
+optionsPanel_video_Filtering_label,                             SD Graphics Filter
+optionsPanel_video_Sharp_label,                                 Sharp
+optionsPanel_video_Filtered_label,                              Filtered
+optionsPanel_game_console_default_label,					    Default
+optionsPanel_game_console_BlizzCon2017_label,				    BlizzCon 2017
+optionsPanel_game_console_BlizzCon2018_label,				    BlizzCon 2018
+optionsPanel_game_console_SCAnniversary_label,					20th anniversary
+optionsPanel_game_console_KRC_Silver_label,                     Silver - Orchestra 2019
+optionsPanel_game_console_KRC_Gold_label,						Gold - Orchestra 2019
+optionsPanel_game_console_War3Spoils_label,						Warcraft 3 Spoils of War
+optionsPanel_game_console_label,							    Console
+
+cn_cais_warning1,                                               您已在线进行了{totalHoursOnline}小时的游戏，您的健康游戏时间还剩余{totalHoursRemaining}小时。\n届时您将无法在游戏中获得经验值及其它奖励，\n必须下线累计满5小时才能恢复正常状态。
+cn_cais_warning2,                                               您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入疲劳游戏时间。为了您的健康，请尽快下线休息，\n做适当身体活动，合理安排学习生活。您已经无法在游戏中获得经验值及其它奖励，\n直到您的累计下线时间满5小时后才能恢复正常。
+cn_cais_warning3,                                               您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入不健康游戏时间。为了您的健康，\n请立即下线休息。您已经无法在游戏中获得经验值及其它奖励，\n直到您的累计下线时间满5小时后才能恢复正常。
+
+networkDiagnostic_AlreadyInProgress,                            Network diagnostic already running. Please wait for completion before starting a new one.
+networkDiagnostic_Commencing,                                   Running network diagnostic...
+networkDiagnostic_Firewall.Commencing,                          Checking the Windows firewall...
+networkDiagnostic_Firewall.Whitelisted,                         StarCraft: Remastered is whitelisted in the Windows firewall.
+networkDiagnostic_Firewall.NotWhitelisted,                      StarCraft: Remastered is not whitelisted in the Windows firewall.
+networkDiagnostic_Proxy.NotRequired,                            When hosting games, network traffic does not need to be routed via a proxy server. This PC is capable of connecting directly to other devices.
+networkDiagnostic_Proxy.Required,                               When hosting games, network traffic from this PC will route via a proxy server, because it cannot connect to other devices directly.
+networkDiagnostic_Ping.Commencing,                              Checking inbound UDP traffic on port {Port}...
+networkDiagnostic_Ping.ReceivedData,                            Received response ({Time}ms).
+networkDiagnostic_Ping.NoData,                                  No response was received.
+networkDiagnostic_Ping.PartialFailure,                          Some responses were not received.
+networkDiagnostic_Ping.Success,                                 Inbound UDP traffic check was successful.
+networkDiagnostic_Udp.ExternalIp,                               Attempting to send data via external IP address {address}...
+networkDiagnostic_Udp.Success,                                  Send succcessful.
+networkDiagnostic_Udp.Failure,                                  Send failed.
+networkDiagnostic_Upnp.Commencing,                              Checking UPNP port forwarding...
+networkDiagnostic_Upnp.Timeout,                                 UPNP timed out.
+networkDiagnostic_Upnp.Success,                                 UPNP port forwarding is configured on port {port}.
+networkDiagnostic_Upnp.Failed,                                  UPNP failed.
+networkDiagnostic_Bind.Commencing,                              Checking binding UDP to port 6112...
+networkDiagnostic_Bind.Failure,                                 Failed to bind port 6112.
+networkDiagnostic_Bind.Success,                                 Successfully bound port {port}.
+networkDiagnostic_NatPunch.Commencing,                          Checking NAT punch-through (type 1)...
+networkDiagnostic_NatPunch.NoStunServers,                       No STUN servers available.
+networkDiagnostic_NatPunch.Start,                               Sending STUN packet...
+networkDiagnostic_NatPunch.NoData,                              No response was received.
+networkDiagnostic_NatPunch.BadData,                             Response was corrupt.
+networkDiagnostic_NatPunch.Info,                                STUN response received via external IP {address}.
+networkDiagnostic_NatPunch.Success,                             NAT punch-through successful.
+networkDiagnostic_NatPunch.Failure,                             NAT punch-through failed.
+networkDiagnostic_UdpNat2.ExternalIp,                           External IP address is {address}.
+networkDiagnostic_UdpNat2.Success,                              Attempting to send data via external IP address {address}...
+networkDiagnostic_UdpNat2.Failure,                              NAT punch-through type 2 failed.
+networkDiagnostic_PingNat2.Commencing,                          Checking inbound UDP traffic on port {Port} (NAT punch-through type 2)...
+networkDiagnostic_PingNat2.ReceivedData,                        Received response ({Time}ms).
+networkDiagnostic_PingNat2.NoData,                              No response was received.
+networkDiagnostic_PingNat2.PartialFailure,                      Some responses were not received.
+networkDiagnostic_PingNat2.Success,                             Inbound UDP traffic check was successful (NAT punch-through type 2).
+
+chat_error_CE_AccountMuted,                                     Your account has been silenced.
+chat_error_joinSystemReservedChannelName,                       Unable to join channel with reserved name.
+chat_error_joinAlreadyInProgress,                               A join channel request is already in progress.
+chat_error_AE_FriendInviteeAtMaxFriends,                        That person already has the maximum number of Blizzard friends allowed.
+
+networkTurnRateAdjusted,                                        Setting network turn rate to: %d
+
+bnet_friendFollow_offline,                                      Your friend {friend} has gone offline.
+bnet_friendFollow_online,                                       Your friend {friend} has come online.
+bnet_friendFollow_enteredStarCraft,                             Your friend {friend} has entered StarCraft.
+bnet_friendFollow_exitedStarCraft,                              Your friend {friend} has exited StarCraft.
+bnet_friendFollow_enteredBattlenet,                             Your friend {friend} has entered Battle.net.
+bnet_friendFollow_exitedBattlenet,                              Your friend {friend} has exited Battle.net.
+bnet_friendFollow_enteredRankedGameLobby,                       Your friend {friend} entered a ranked game.
+bnet_friendFollow_enteredSinglePlayerGameLobby,                 Your friend {friend} entered a single player game.
+bnet_friendFollow_enteredReplayGameLobby,                       Your friend {friend} started watching a replay.
+bnet_friendFollow_enteredCustomGameLobby,                       Your friend {friend} entered a custom game called {game}.
+bnet_friendFollow_exitedGameLobby,                              Your friend {friend} left a game.
+
+bnet_createGame_proxyConnectionWarning,                         Due to your network configuration, your connection to other players must be routed via a proxy server, which may add latency.
+bnet_findGame_proxyConnectionWarning,                           Due to the host's network configuration, your connection to this game will route via a proxy server, which may increase latency.
+
+bnet_friendInvitation_regionWarning,                            {name} is playing StarCraft in a different Blizzard region than you. Your friend request to {name} has been sent in the region you are playing in ({myRegion}), and they will receive the friend request when they switch to {myRegion}.
+
+bnet_chat_welcome_intro,                                        Welcome to StarCraft: Remastered!
+bnet_chat_welcome_help,                                         Type /help for a list of commands.
+
+bnet_turnRate_dynamic,                                          Dynamic
+bnet_latency_low,                                               Low
+bnet_latency_high,                                              High
+bnet_latency_extraHigh,                                         Extra high
+bnet_dtr_scanInProgress,                                        Calculating TR...
+
+#############################################################################
+# patch 1.21 // Haven String Migration
+#############################################################################
+
+scr.common.race.terran,											Terran
+scr.common.race.zerg,											Zerg
+scr.common.race.protoss,										Protoss
+
+scr.common.points.label,										MMR:
+scr.common.points.small.label,									MMR
+scr.common.points.noData,										You have not earned any MMR yet.
+
+scr.common.table.noData,										No table results found.
+
+scr.common.location.label,										Location
+
+scr.common.stats.gauge.winRate.label,							Win Rate
+scr.common.stats.gauge.apm.title,								Average APM
+scr.common.stats.gauge.apm.label,								Actions Per Minute
+
+scr.common.stats.overall.title,									Overall Record
+scr.common.stats.overall.label,									Overall
+scr.common.stats.seasonRecord.title,							1v1 Season Record
+
+scr.common.stats.record.win.label,								W
+scr.common.stats.record.loss.label,								L
+scr.common.stats.record.disconnects.label,						D
+scr.common.stats.record.percentage.label,						%
+
+scr.common.stats.wins.label,									Wins
+scr.common.stats.losses.label,									Losses
+scr.common.stats.disconnects.label,								Disconnects
+scr.common.stats.totalGames.label,								Total Games
+scr.common.stats.mostPlayedRace.label,							Most Played
+scr.common.stats.timePlayed.label,								Time Played
+scr.common.stats.accountCreated.label,							Account Created
+scr.common.stats.mmr.label,										MMR
+scr.common.stats.highestMMR.label,								Highest MMR
+scr.common.stats.units.produced.label,							Units Produced
+scr.common.stats.units.killed.label,							Units Killed
+scr.common.stats.units.lost.label,								Units Lost
+scr.common.stats.units.score.label,								Units Score
+scr.common.stats.resources.spent.label,							Resources Spent
+scr.common.stats.resources.score.label,							Resources Score
+scr.common.stats.resources.gasCollected.label,					Gas Collected
+scr.common.stats.resources.mineralsCollected.label,				Minerals Collected
+scr.common.stats.structures.constructed.label,					Structures Constructed
+scr.common.stats.structures.lost.label,							Structures Lost
+scr.common.stats.structures.razed.label,						Structures Razed
+scr.common.stats.structures.score.label,						Structures Score
+scr.common.stats.noData,										No stats data found.
+
+scr.common.rank.currentSeasonRank.label,						Current Season Rank
+
+scr.profile.gateway.link.label,									Learn More
+scr.profile.gateway.playerCount.label,							Players Online:
+scr.profile.gateway.noData,										No gateway data found.
+
+scr.profile.gateway.dev79,                                      A development server for internal testing.
+scr.profile.gateway.usWestDesc,                                 Welcome to the Wild West. The population of this server may not be massive, but the stakes are high and the competition is deadly.
+scr.profile.gateway.usEastDesc,                                 Based in the City of Broad Shoulders, this server plays host to players from across the Americas. With a larger population, comes more styles and strategy in gameplay.
+scr.profile.gateway.europeDesc,                                 The European server is second only to Korea in fostering professional players. Diversity in culture has led to innovative gameplay, and friendships that span the continent.
+scr.profile.gateway.koreaDesc,                                  The Land of the Calm Dawn has mastered the art of war, and emerged as home to the most renowned StarCraft players on Earth. Do not arrive idle to this melee.
+scr.profile.gateway.taiwanDesc,                                 The newest Gateway to StarCraft. Created to support communication in Japanese, Simplified Chinese and Traditional Chinese. This server has yet to make a name for itself. Will you be one to join in battle to help write its story?
+scr.profile.gateway.fishDesc,                                   Fish Server is a third-party server revered for the quality of players on their custom ladder.
+scr.profile.changeProfile,										Change Profile
+
+scr.profile.matches.btn.replay,                                 Watch Replay
+scr.profile.matches.outcome.win,                                Win
+scr.profile.matches.outcome.loss,                               Loss
+scr.profile.matches.outcome.draw,                               Draw
+scr.profile.matches.outcome.disconnect,                         Disconnect
+scr.profile.matches.outcome.undecided,                          Undecided
+scr.profile.matches.preview.information.label,                  Map & Settings
+scr.profile.matches.table.heading.3,                            Result
+scr.profile.matches.table.heading.4,                            Match Date
+
+scr.profile.noProfile,                                          You do not have any profiles on this gateway.
+scr.profile.noProfileBtn,                                       Create Profile
+scr.profile.noHistory,                                          No match history data found.
+
+scr.common.time.hr,												hr
+scr.common.time.hrs,											hrs
+scr.common.time.min,											min
+scr.common.time.sec,											sec
+
+scr.common.terms.gameType.1,                                    Melee
+scr.common.terms.gameType.2,                                    Free For All
+scr.common.terms.gameType.3,                                    One on One
+scr.common.terms.gameType.4,                                    Capture The Flag
+scr.common.terms.gameType.5,                                    Greed
+scr.common.terms.gameType.6,                                    Slaughter
+scr.common.terms.gameType.7,                                    Sudden Death
+scr.common.terms.gameType.8,                                    Ladder
+scr.common.terms.gameType.9,                                    Use Map Settings
+scr.common.terms.gameType.10,                                   Team Melee
+scr.common.terms.gameType.11,                                   Team Free For All
+scr.common.terms.gameType.12,                                   Team Capture The Flag
+scr.common.terms.gameType.13,                                   Top vs Bottom
+
+scr.profile.league.frontier,									Frontier League
+scr.profile.season.1.title,										2017 Season 1
+
+scr.profile.season.0.title,										The Frontier League
+scr.profile.season.0.description1,								Welcome, pioneers. You are joining in the exploration of a new era of StarCraft.
+scr.profile.season.0.description2,								Matches will be made by comparing your global rating and geographical distance against that of your opponent. This is a grand moment of discovery; thank you for playing and helping to refine this new system.
+scr.profile.maps.information.label,                             Map Information
+
+scr.common.autocomplete.matches,								matches
+
+scr.leaderboard.filter.region.opt.1,                            Global
+scr.leaderboard.filter.igr,                                     IGR
+scr.leaderboard.table.heading.1,								Rank
+scr.leaderboard.table.heading.2,								Player
+scr.leaderboard.table.heading.3,								Most Played
+scr.leaderboard.table.heading.4,								MMR
+scr.leaderboard.table.heading.5,								Wins
+scr.leaderboard.table.heading.6,								Losses
+scr.leaderboard.table.heading.7,								Disconnects
+
+scr.leaderboard.title,											Leaderboard
+
+scr.leaderboard.updateInterval,									Updates every %%interval%% minutes
+scr.leaderboard.updateLatest,									Last updated @ %%lastUpdate%% UTC
+
+scr.leaderboard.filter.gameType.opt.1,							1v1
+scr.leaderboard.filter.gameType.opt.2,							2v2
+scr.leaderboard.btn.topPlayers.label,							Top Players
+scr.leaderboard.btn.myself.label,								Myself
+scr.leaderboard.search.placeholder,								Enter a Profile Name or BattleTag
+
+scr.leaderboard.profileModule.yourRank.part.1,					You're ranked
+scr.leaderboard.profileModule.yourRank.part.2,					on
+scr.leaderboard.profileModule.yourRank.noData,					You haven't played enough matches on
+
+scr.common.title.win,											Victory!
+scr.common.title.loss,											Defeat!
+blizzcon.esports.brackets.draws,                                Draws
+
+scr.toast.points.yours,											Matchmaker Rating
+
+scr.profile.zerg.points.desc,									Zerg Points
+scr.profile.protoss.points.desc,								Protoss Points
+scr.profile.terran.points.desc,									Terran Points
+
+scr.toast.unlock.textSmall.portrait,							New Portrait
+scr.toast.unlock.textLarge,										Unlocked!
+scr.waiting.title,                                              Waiting For Results...
+scr.DataError.desc,                                             Cannot display results at this time. Your stats have been recorded and will be updated shortly.
+
+scr.profile.tab.heading.1,                                      Summary
+scr.profile.tab.heading.2,                                      Stats
+scr.profile.tab.heading.3,                                      History
+scr.profile.tab.heading.4,                                      Seasons
+scr.profile.tab.heading.5,                                      Collections
+scr.profile.tab.heading.6,                                      Profile Settings
+
+scr.profile.editableField.title.placeholder,                    Enter a title...
+scr.profile.editableField.desc.placeholder,                     Let them know who you are...
+
+scr.profile.season.currentSeason.label,                         Current Season
+scr.profile.maps.recentlyPlayed.label,                          Recently Played
+scr.profile.maps.noData,                                        No map data found.
+
+scr.profile.stats.header.title,                                 All Statistics
+
+scr.profile.replays.header.title,                               Match History
+scr.profile.replays.filter.opt.1,                               All Game Types
+scr.profile.btn.equip,                                          EQUIP
+scr.profile.btn.purchase,                                       BUY NOW
+scr.profile.btn.preview,                                        Preview
+
+scr.profile.collections.unlock.label,                           Unlock Progress
+scr.profile.collections.unlocked,                               unlocked
+scr.profile.collections.avatar.noData,                          You have not selected a profile avatar yet.
+scr.profile.collections.avatar.desc.1,                          Get
+scr.profile.collections.avatar.desc.2,                          points in Ranked Play to unlock this portrait.
+
+#############################################################################
+# patch 1.22 // Seasonal Leagues
+#############################################################################
+
+league_ranked_unrankedNotice,                                   You are currently unranked.
+league_ranked_completionRequirement,                            You must complete %s more placement matches to qualify for a league.
+league_ranked_matchCompletetion_grats,                          Excellent work, commander!
+league_ranked_matchCompletetion_sorry,                          The next battle awaits!
+league_ranked_unrankedNotice_toast,                             %s placement matches remain.
+league_ranked_current_status,                                   Congratulations! You are in %s League.
+league_ranked_rankUp,                                           You've Ranked Up!
+league_ranked_welcome,                                          WELCOME TO %s LEAGUE
+league_toast_league,                                            League
+
+news_banner_welcome,                                            Welcome Commander
+news_banner_join,                                               Join the Community:
+news_banner_forums,                                             Official Forums
+news_str,                                                       n\4N\1ews
+
+stats_career,                                                   CAREER STATS
+stats_season,                                                   SEASON STATS
+career_stats_title,                                             What are career stats?
+career_stats_description,                                       All ranked and unranked games played on this account contribute to these stats. Career stats will never be archived or reset.
+season_stats_title,                                             What are season stats?
+season_stats_description,                                       Statistics on ranked games played during the current season are displayed here. Statistics reset at the beginning of each new season, when the previous season's statistics are archived.
+season_mmr_title,                                               What is MMR?
+season_mmr_description,                                         Matchmaking Rating (MMR) helps us find appropriate opponents for your skill level. MMR is gained or lost at the end of each match, depending on the outcome.
+season_srank_title,                                             S Rank players
+season_srank_description,                                       will be marked as "inactive" if they do not play at least 5 games each week. “Inactive” status will trigger weekly MMR decay.
+season_end_title,                                               2018 Season 1 End Date:
+season_end_date,                                                09/30/2018
+season_title_2018_1,									        2018 Season 1
+season_info_introducing,                                        INTRODUCING
+season_info_newSeason,                                          A NEW SEASON & LEAGUE SYSTEM
+season_info_prideAndAccomplishment,                             ACHIEVE GREATNESS & EARN REWARDS
+season_info_exclusive,                                          EXCLUSIVE PORTRAITS
+season_info_rankPortraits,                                      RANK THEMED PORTRAIT FRAMES
+season_info_howDoesItWork,                                      HOW DOES IT WORK?
+season_info_placementMatches,                                   Placement Matches
+season_info_startTheSeason,                                     All players begin the season unranked and are placed in the appropriate league after completing 5 placement matches.
+season_info_frontierLeague,                                     Frontier League MMR
+season_info_carryOver,                                          Frontier League MMR will be used to determine suitable opponents for Season 1 placement matches.
+season_info_mmr_decay,                                          MMR Decay
+season_info_mmr_decay_description,                              S Rank players will be marked "inactive" if they do not play at least 5 games each week. "Inactive" status will trigger weekly MMR decay every Monday at 6:00 PM (GMT).
+season_info_top_players,                                        Top Players
+season_info_achieve_through_placement,                          Achievable through placement matches
+season_info_at_season_start,                                    All players at season start
+
+profile_console_skins,                                          Console Skins
+profile_unit_skins,                                             Unit & Structure Skins
+profile_collections_available,                                  {numAvailable} Available
+profile_all_collections,                                        All Collections
+
+profile_skins_default,                                          Standard Skins
+profile_skins_preorder,                                         Pre-Order Skins
+profile_skins_carbot,                                           Cartooned Skins
+profile_skins_carbot_desc,                                      Infuse your StarCraft experience with the lighthearted charm of Carbot Animations with StarCraft: Cartooned! Every unit, structure, map, menu, and mission takes on a whole new cartoon aesthetic in multiplayer matches and the entire single-player campaign!
+
+profile_collection_announcers_title,                            Announcers
+profile_collection_announcers_default_title,                    Default
+profile_collection_announcers_Jaekyung_title,                   Um
+profile_collection_announcers_Yongjun_title,                    Jeon
+profile_collection_announcers_Jungmin_title,                    Kim
+profile_collection_announcers_UmJeonKim_title,                  Um, Jeon, Kim Trio
+profile_collection_announcers_HeyJini_title,                    Hey Jini
+
+profile_collection_announcers_Jaekyung_desc,                    Jae Kyung is an esports legend in Korea, having been at the mic since the very first day of Star League. Welcome his legendary commentating-and witty storytelling-into your own StarCraft games!
+profile_collection_announcers_Yongjun_desc,                     Yong Jun is a passionate announcer whose provocative approach to commentating reminds fans of rowdy battle rap. Allow his boisterous presence to charge up the atmosphere in your StarCraft matches.
+profile_collection_announcers_Jungmin_desc,                     In his heyday as a formidable pro player, Jungmin was known as "By-The-Book Terran." Let his analytic commentary, based on years of competitive experience, add color to your StarCraft games.
+profile_collection_announcers_UmJeonKim_desc,                   The Voices of Legend bundle includes the Um, Jeon, and Kim individual announcer packs, as well as the exclusive Um-Jeon-Kim Trio announcer, featuring the perfect combination of analysis, storytelling, and passion!
+profile_collection_announcers_HeyJini_desc,                     Hey Jini is beloved by kids of all ages in Korea, and now you can have her bubbly voice cheering you on during your matches. When paired with the Cartooned skin, it's the perfect way to share the joy of StarCraft across generations!
+profile_collection_announcers_note,                             Korean only (No Subtitles)
+
+profile_collections_leaveMmQueueForSimpleCheckout,              You need to leave the matchmaking queue to complete the purchase. Is this OK?
+
+profile_season_history,                                         Season History
+profile_season_your_wins,                                       Your Wins
+profile_season_opponent,                                        Opponent
+profile_season_gamesplayed,                                     Games played this week:
+profile_collections_rankedFrame,                                Show Ranked Portrait Frame
+profile_season_1v1global,                                       1v1 Global Rank
+profile_season_matchPreview,                                    Match Preview
+profile_season_mapStat,                                         During this season %s has won %i% of games played on this map.
+profile_season_dateformatting,                                  %m/%d/%y
+profile_season,                                                 Season
+
+replay_date,                                                    Date:
+replay_length,                                                  Length:
+replay_file_name,                                               File Name:
+
+play_again,                                                     p\4P\1lay Again?
+profile_data_error,                                             Unable to load profile data. Please try again.
+
+season_info_newSeasonAndMapPool,                                A NEW SEASON & NEW MAP POOL
+season_info_newRewards,                                         EARN NEW REWARDS
+season_info_season2_mapPool,                                    SEASON 2 MAP POOL
+season_info_season3_mapPool,                                    SEASON 3 MAP POOL
+season_info_season4_mapPool,                                    SEASON 4 MAP POOL
+season_info_season_mapPool,                                     SEASON {seasonNumber} MAP POOL
+
+recent_players,                                                 Recent Players
+
+#############################################################################
+# patch 1.23 // Squads
+#############################################################################
+
+squad_channel_title,                                            Squad
+squad_lobby_create_error,                                       Failed to create lobby for squad.
+squad_invite,                                                   Invite to Squad
+squad_invite_timeout,                                           The invite will be cancelled in {cancelTimeInSec} seconds.
+squad_kick,                                                     Kick from Squad
+squad_disband,                                                  Disband Squad
+squad_leave,                                                    Leave Squad
+squad_invite_pending,                                           Invite Pending
+squad_invite_accepted,                                          Invite Accepted
+squad_invite_message,                                           has invited you to a squad.
+squad_queuing_message_2v2,                                      Your squad is queuing for ranked 2v2.
+squad_chooseRace,                                               Please choose a race.                                                   
+squad_selecting_race,                                           Selecting Race
+squad_ready,                                                    Ready!
+squad_invite_player,                                            i\4I\1nvite Player
+squad_invite_player_popup_enter_info,                           Enter a BattleTag#0000
+squad_recent_players,                                           Recent Players
+squad_automatch_warning,                                        We will auto match you with similarly skilled players to fill the empty slot in your squad.
+squad_invite_a_player,                                          Invite a Player
+squad_current,                                                  CURRENT SQUAD
+squad_team_view,                                                Team View
+squad_info_invite_player,                                       You have invited {playerName} to join your squad.
+squad_info_kick_player,                                         You have kicked {playerName} from your squad.
+squad_info_kicked_from_squad,                                   You have been dismissed from squad.
+squad_info_leave_squad,                                         You have left squad.
+squad_info_player_left_squad,                                   {playerName} has left squad.
+squad_info_squad_dismissed,                                     Your squad has been dismissed.
+squad_info_accept_invite,                                       You have accepted squad invite from {playerName}.
+squad_info_decline_invite,                                      You have declined squad invite from {playerName}.
+squad_info_invite_accepted,                                     Your squad invite to {playerName} has been accepted.
+squad_info_invite_declined,                                     Your squad invite to {playerName} has been declined.
+squad_info_invite_timeout,                                      The squad invite from {playerName} has timed out.
+squad_info_invite_error,                                        The squad invite failed.
+squad_info_invite_reject_from_sd_user,                          {playerName} is a SD user and thus cannot join squad.
+squad_info_cancel_race_select,                                  {playerName} has canceled race selection.
+squad_tooltip_for_disabled_ranked_button,                       You are already in a squad for ranked play.
+
+#############################################################################
+# Race tags
+#############################################################################
+
+tag_zerg,                                                       Z
+tag_terran,                                                     T
+tag_protoss,                                                    P
+tag_random,                                                     ?
+
+#############################################################################
+# Social Popup
+#############################################################################
+
+social_panel_message_button,                                    Message
+social_panel_friend_button,                                     Friend
+social_panel_ignore_button,                                     Ignore
+social_panel_unignore_button,                                   Unignore
+social_panel_report_button,                                     Report
+social_panel_header,                                            Social
+social_panel_report_reason,                                     Choose Reason:
+social_panel_report_spam,                                       Spam
+social_panel_report_harassment,                                 Harassment
+social_panel_report_cheating,                                   Cheating
+social_panel_report_account_name,                               Account Name
+social_panel_report_battle_tag,                                 Battle Tag
+social_panel_report_game_name,                                  Game Name

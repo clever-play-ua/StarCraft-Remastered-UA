@@ -1,0 +1,6512 @@
+﻿[
+  {
+    "id": "bnet119_authentication_progressPopup_title",
+    "Key": "bnet119_authentication_progressPopup_title",
+    "Value": "Выполняется вход..."
+  },
+  {
+    "id": "bnet119_authentication_error_prefix",
+    "Key": "bnet119_authentication_error_prefix",
+    "Value": "Ошибка входа:"
+  },
+  {
+    "id": "bnet119_loggedOut",
+    "Key": "bnet119_loggedOut",
+    "Value": "Вы вышли из системы."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_LimitReached",
+    "Key": "bnet119_toonRegistry_create_error_CE_LimitReached",
+    "Value": "Вы достигли лимита профилей. Удалите как минимум один из них."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_ToonInUse",
+    "Key": "bnet119_toonRegistry_create_error_CE_ToonInUse",
+    "Value": "Этот профиль уже существует. Попробуйте указать другое имя или шлюз."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon",
+    "Value": "Некорректное имя профиля."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon_BadWords",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon_BadWords",
+    "Value": "Некорректное имя профиля (ненормативная лексика)."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon_InvalidChar",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon_InvalidChar",
+    "Value": "Некорректное имя профиля (некорректные символы)."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon_TooLong",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon_TooLong",
+    "Value": "Некорректное имя профиля (имя слишком длинное)."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon_TooShort",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon_TooShort",
+    "Value": "Некорректное имя профиля (имя слишком короткое)."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadAuthToken",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadAuthToken",
+    "Value": "Неверный пароль."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_LimitReached",
+    "Key": "bnet119_toonRegistry_link_error_CE_LimitReached",
+    "Value": "Вы достигли лимита профилей. Удалите как минимум один из них."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_ToonInUse",
+    "Key": "bnet119_toonRegistry_link_error_CE_ToonInUse",
+    "Value": "Этот профиль уже существует. Попробуйте указать другое имя или шлюз."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon",
+    "Value": "Некорректное имя профиля."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon_BadWords",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon_BadWords",
+    "Value": "Некорректное имя профиля (ненормативная лексика)."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon_InvalidChar",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon_InvalidChar",
+    "Value": "Некорректное имя профиля (некорректные символы)."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon_TooLong",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon_TooLong",
+    "Value": "Некорректное имя профиля (имя слишком длинное)."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon_TooShort",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon_TooShort",
+    "Value": "Некорректное имя профиля (имя слишком короткое)."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadAuthToken",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadAuthToken",
+    "Value": "Неверный пароль."
+  },
+  {
+    "id": "bnet119_toonRegistry_linkProgressPopup_title",
+    "Key": "bnet119_toonRegistry_linkProgressPopup_title",
+    "Value": "Привязка..."
+  },
+  {
+    "id": "bnet119_toonRegistry_delete_confirmation",
+    "Key": "bnet119_toonRegistry_delete_confirmation",
+    "Value": "ВНИМАНИЕ: удаление профиля – \\u0004необратимая\\u0002 операция. Вы \\u0001не сможете\\u0002 восстановить ваш профиль после удаления.\\n\\nВы уверены, что хотите удалить этот профиль?"
+  },
+  {
+    "id": "bnet119_toonRegistry_deleteProgressPopup_title",
+    "Key": "bnet119_toonRegistry_deleteProgressPopup_title",
+    "Value": "Удаление..."
+  },
+  {
+    "id": "bnet119_toonRegistry_error_CE_DuplicateConnection",
+    "Key": "bnet119_toonRegistry_error_CE_DuplicateConnection",
+    "Value": "Вы уже подключены к этому профилю. Допускается только одно подключение."
+  },
+  {
+    "id": "bnet119_toonRegistry_error_CE_FailedToConnect",
+    "Key": "bnet119_toonRegistry_error_CE_FailedToConnect",
+    "Value": "Ошибка подключения к классическому серверу."
+  },
+  {
+    "id": "bnet119_cloud_uploadQuitConfirmation",
+    "Key": "bnet119_cloud_uploadQuitConfirmation",
+    "Value": "Идет выгрузка данных. Все равно выйти?\\n(%s)."
+  },
+  {
+    "id": "bnet119_cloud_deleteProgressPopup_title",
+    "Key": "bnet119_cloud_deleteProgressPopup_title",
+    "Value": "Удаление..."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_TE_UnknownEndpoint",
+    "Key": "bnet118_fakeAuroraAuthentication_error_TE_UnknownEndpoint",
+    "Value": "Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_34200",
+    "Key": "bnet118_fakeAuroraAuthentication_error_34200",
+    "Value": "Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_progressPopup_title",
+    "Key": "bnet118_fakeAuroraAuthentication_progressPopup_title",
+    "Value": "Подключение..."
+  },
+  {
+    "id": "bnet118_fakeAurora_loggedOut",
+    "Key": "bnet118_fakeAurora_loggedOut",
+    "Value": "Соединение с сервером разорвано."
+  },
+  {
+    "id": "bnet118_login_error_CE_LimitReached",
+    "Key": "bnet118_login_error_CE_LimitReached",
+    "Value": "Вы достигли лимита профилей. Удалите как минимум один из них."
+  },
+  {
+    "id": "bnet118_login_error_CE_ToonInUse",
+    "Key": "bnet118_login_error_CE_ToonInUse",
+    "Value": "Этот профиль уже используется."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon",
+    "Key": "bnet118_login_error_CE_BadToon",
+    "Value": "Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon_BadWords",
+    "Key": "bnet118_login_error_CE_BadToon_BadWords",
+    "Value": "Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon_InvalidChar",
+    "Key": "bnet118_login_error_CE_BadToon_InvalidChar",
+    "Value": "Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon_TooLong",
+    "Key": "bnet118_login_error_CE_BadToon_TooLong",
+    "Value": "Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon_TooShort",
+    "Key": "bnet118_login_error_CE_BadToon_TooShort",
+    "Value": "Вы указали неверный адрес электронной почты или пароль. Пожалуйста, повторите попытку."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadAuthToken",
+    "Key": "bnet118_login_error_CE_BadAuthToken",
+    "Value": "Неверный пароль."
+  },
+  {
+    "id": "bnet118_loginProgressPopup_title",
+    "Key": "bnet118_loginProgressPopup_title",
+    "Value": "Подключение..."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon",
+    "Key": "bnet118_createToon_error_CE_BadToon",
+    "Value": "Некорректное имя профиля."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon_BadWords",
+    "Key": "bnet118_createToon_error_CE_BadToon_BadWords",
+    "Value": "Указанное имя профиля содержит ненормативную лексику."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon_InvalidChar",
+    "Key": "bnet118_createToon_error_CE_BadToon_InvalidChar",
+    "Value": "Указанное имя профиля содержит некорректные символы."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon_TooLong",
+    "Key": "bnet118_createToon_error_CE_BadToon_TooLong",
+    "Value": "Указанное имя профиля слишком длинное."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon_TooShort",
+    "Key": "bnet118_createToon_error_CE_BadToon_TooShort",
+    "Value": "Указанное имя профиля слишком короткое."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_ToonInUse",
+    "Key": "bnet118_createToon_error_CE_ToonInUse",
+    "Value": "Этот профиль уже существует. Попробуйте указать другое имя или шлюз."
+  },
+  {
+    "id": "bnet118_changePassword_error_CE_BadAuthToken",
+    "Key": "bnet118_changePassword_error_CE_BadAuthToken",
+    "Value": "Неверные данные авторизации."
+  },
+  {
+    "id": "bnet118_changePassword_success",
+    "Key": "bnet118_changePassword_success",
+    "Value": "Пароль изменен!"
+  },
+  {
+    "id": "bnet118_changePasswordProgressPopup_title",
+    "Key": "bnet118_changePasswordProgressPopup_title",
+    "Value": "Смена пароля..."
+  },
+  {
+    "id": "bnet118_changeEmailAddress_error_CE_BadAuthToken",
+    "Key": "bnet118_changeEmailAddress_error_CE_BadAuthToken",
+    "Value": "Неверные данные авторизации"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_success",
+    "Key": "bnet118_changeEmailAddress_success",
+    "Value": "Ваш запрос смены адреса электронной почты отправлен. Если указанный старый адрес совпадает с тем, к которому в данный момент привязана ваша учетная запись, на этот адрес будет отправлено письмо с дальнейшими инструкциями."
+  },
+  {
+    "id": "bnet118_changeEmailAddressProgressPopup_title",
+    "Key": "bnet118_changeEmailAddressProgressPopup_title",
+    "Value": "Идет смена адреса электронной почты..."
+  },
+  {
+    "id": "bnet118_resetPassword_error_CE_BadAuthToken",
+    "Key": "bnet118_resetPassword_error_CE_BadAuthToken",
+    "Value": "Неверные данные авторизации."
+  },
+  {
+    "id": "bnet118_resetPassword_success",
+    "Key": "bnet118_resetPassword_success",
+    "Value": "Запрос нового пароля получен. Если вы указывали для этой учетной записи адрес электронной почты, на него вам придет письмо с инструкциями по смене пароля."
+  },
+  {
+    "id": "bnet118_resetPasswordProgressPopup_title",
+    "Key": "bnet118_resetPasswordProgressPopup_title",
+    "Value": "Сброс пароля..."
+  },
+  {
+    "id": "bnet_chat_notConnectedToAnyChannel",
+    "Key": "bnet_chat_notConnectedToAnyChannel",
+    "Value": "Вы не подключены ни к одному каналу."
+  },
+  {
+    "id": "bnet_chat_commandUsage",
+    "Key": "bnet_chat_commandUsage",
+    "Value": "Использование"
+  },
+  {
+    "id": "bnet_chat_commandAliases",
+    "Key": "bnet_chat_commandAliases",
+    "Value": "Сокращения"
+  },
+  {
+    "id": "bnet_chat_unrecognizedCommand",
+    "Key": "bnet_chat_unrecognizedCommand",
+    "Value": "Неизвестная команда"
+  },
+  {
+    "id": "bnet_chat_commandHelpListTitle",
+    "Key": "bnet_chat_commandHelpListTitle",
+    "Value": "Доступны следующие темы:"
+  },
+  {
+    "id": "bnet_chat_joiningDefaultChannel",
+    "Key": "bnet_chat_joiningDefaultChannel",
+    "Value": "Подключение к каналу по умолчанию..."
+  },
+  {
+    "id": "bnet_chat_joiningChannel",
+    "Key": "bnet_chat_joiningChannel",
+    "Value": "Подключение к каналу %s..."
+  },
+  {
+    "id": "bnet_chat_creatingAndJoiningCustomChannel",
+    "Key": "bnet_chat_creatingAndJoiningCustomChannel",
+    "Value": "Подключение к каналу %s..."
+  },
+  {
+    "id": "bnet_chat_joinDefaultChannel_failure",
+    "Key": "bnet_chat_joinDefaultChannel_failure",
+    "Value": "Невозможно подключиться к каналу."
+  },
+  {
+    "id": "bnet_chat_joinChannel_failure",
+    "Key": "bnet_chat_joinChannel_failure",
+    "Value": "Невозможно подключиться к каналу."
+  },
+  {
+    "id": "bnet_chat_createJoinCustomChannel_failure",
+    "Key": "bnet_chat_createJoinCustomChannel_failure",
+    "Value": "Невозможно подключиться к каналу."
+  },
+  {
+    "id": "bnet_chat_leavingChannel",
+    "Key": "bnet_chat_leavingChannel",
+    "Value": "Выход из канала %s..."
+  },
+  {
+    "id": "bnet_chat_leftChannel",
+    "Key": "bnet_chat_leftChannel",
+    "Value": "Вы покинули канал %s."
+  },
+  {
+    "id": "bnet_chat_connectedToChatService",
+    "Key": "bnet_chat_connectedToChatService",
+    "Value": "Вы подключены к службе чата."
+  },
+  {
+    "id": "bnet_chat_joinChannel_error_misc",
+    "Key": "bnet_chat_joinChannel_error_misc",
+    "Value": "Ошибка подключения к каналу: %s."
+  },
+  {
+    "id": "bnet_chat_joinChannel_error_CE_LimitReached",
+    "Key": "bnet_chat_joinChannel_error_CE_LimitReached",
+    "Value": "Ошибка подключения к каналу: достигнут лимит каналов."
+  },
+  {
+    "id": "bnet_chat_joinChannel_error_CE_BadChannel",
+    "Key": "bnet_chat_joinChannel_error_CE_BadChannel",
+    "Value": "Ошибка подключения к каналу: неподходящий канал."
+  },
+  {
+    "id": "bnet_chat_joinChannel_success",
+    "Key": "bnet_chat_joinChannel_success",
+    "Value": "Вы подключились к каналу %s."
+  },
+  {
+    "id": "bnet_chat_createChannel_error_misc",
+    "Key": "bnet_chat_createChannel_error_misc",
+    "Value": "Ошибка при создании канала: %s."
+  },
+  {
+    "id": "bnet_chat_createChannel_error_CE_LimitReached",
+    "Key": "bnet_chat_createChannel_error_CE_LimitReached",
+    "Value": "Ошибка создания канала: достигнут лимит каналов."
+  },
+  {
+    "id": "bnet_chat_error_misc",
+    "Key": "bnet_chat_error_misc",
+    "Value": "Ошибка: %s."
+  },
+  {
+    "id": "bnet_chat_error_CE_BadCommand",
+    "Key": "bnet_chat_error_CE_BadCommand",
+    "Value": "Ошибка: некорректная команда."
+  },
+  {
+    "id": "bnet_chat_error_CE_BadChannel",
+    "Key": "bnet_chat_error_CE_BadChannel",
+    "Value": "Неподходящее название канала чата."
+  },
+  {
+    "id": "bnet_connectToonProgressPopup_title",
+    "Key": "bnet_connectToonProgressPopup_title",
+    "Value": "Подключение..."
+  },
+  {
+    "id": "bnet_createToonProgressPopup_title",
+    "Key": "bnet_createToonProgressPopup_title",
+    "Value": "Создание..."
+  },
+  {
+    "id": "bnet_upgradeRequired",
+    "Key": "bnet_upgradeRequired",
+    "Value": "Требуется обновление."
+  },
+  {
+    "id": "chatNOPLAYERS",
+    "Key": "chatNOPLAYERS",
+    "Value": "Для начала матча требуется наличие хотя бы одного игрока."
+  },
+  {
+    "id": "bnet118_createToon_error_emailAddressMismatch",
+    "Key": "bnet118_createToon_error_emailAddressMismatch",
+    "Value": "Электронный адрес должен совпадать в обоих полях."
+  },
+  {
+    "id": "bnet118_createToon_error_passwordRequired",
+    "Key": "bnet118_createToon_error_passwordRequired",
+    "Value": "Требуется пароль."
+  },
+  {
+    "id": "bnet118_createToon_error_passwordMismatch",
+    "Key": "bnet118_createToon_error_passwordMismatch",
+    "Value": "Пароль должен совпадать в обоих полях."
+  },
+  {
+    "id": "bnet118_createToon_success_title",
+    "Key": "bnet118_createToon_success_title",
+    "Value": "Учетная запись создана!"
+  },
+  {
+    "id": "bnet118_createToon_success_body",
+    "Key": "bnet118_createToon_success_body",
+    "Value": "Имейте в виду, что неактивные учетные записи регулярно удаляются. Если вы создаете новую учетную запись, вы должны будете провести в службах Battle.net (за один сеанс или за несколько сеансов в совокупности) в общей сложности не менее 2 часов в течение 48 часов с момента создания новой учетной записи. После этого ваша учетная запись получит статус постоянной, и для поддержания этого статуса вам нужно будет подключаться к ней не реже раза в 3 месяца."
+  },
+  {
+    "id": "bnet118_createToon_title",
+    "Key": "bnet118_createToon_title",
+    "Value": "Создать учетную запись"
+  },
+  {
+    "id": "bnet118_createToon_email",
+    "Key": "bnet118_createToon_email",
+    "Value": "Адрес электронной почты"
+  },
+  {
+    "id": "bnet118_changePassword_error_newPasswordRequired",
+    "Key": "bnet118_changePassword_error_newPasswordRequired",
+    "Value": "Требуется новый пароль. Он должен содержать от 3 до 512 символов."
+  },
+  {
+    "id": "bnet118_changePassword_error_passwordMismatch",
+    "Key": "bnet118_changePassword_error_passwordMismatch",
+    "Value": "Новый пароль должен совпадать в обоих полях."
+  },
+  {
+    "id": "bnet118_changePassword_title",
+    "Key": "bnet118_changePassword_title",
+    "Value": "Изменить пароль"
+  },
+  {
+    "id": "bnet118_changePassword_currentPassword",
+    "Key": "bnet118_changePassword_currentPassword",
+    "Value": "Текущий пароль"
+  },
+  {
+    "id": "bnet118_changePassword_repeatPassword",
+    "Key": "bnet118_changePassword_repeatPassword",
+    "Value": "Подтвердите пароль"
+  },
+  {
+    "id": "bnet118_changePassword_repeatNewPassword",
+    "Key": "bnet118_changePassword_repeatNewPassword",
+    "Value": "Подтвердите новый пароль"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_error_emailAddressMismatch",
+    "Key": "bnet118_changeEmailAddress_error_emailAddressMismatch",
+    "Value": "Новый электронный адрес должен совпадать в обоих полях."
+  },
+  {
+    "id": "bnet118_changeEmailAddress_title",
+    "Key": "bnet118_changeEmailAddress_title",
+    "Value": "Смена адреса электронной почты"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_body",
+    "Key": "bnet118_changeEmailAddress_body",
+    "Value": "Если вы привязали к этой учетной записи электронный адрес, здесь вы можете изменить его.\\nИмейте в виду, что для осуществления этого изменения вы должны иметь доступ к обоим электронным адресам."
+  },
+  {
+    "id": "bnet118_changeEmailAddress_oldEmailAddress",
+    "Key": "bnet118_changeEmailAddress_oldEmailAddress",
+    "Value": "Старый адрес электронной почты"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_newEmailAddress",
+    "Key": "bnet118_changeEmailAddress_newEmailAddress",
+    "Value": "Новый адрес электронной почты"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_repeatNewEmailAddress",
+    "Key": "bnet118_changeEmailAddress_repeatNewEmailAddress",
+    "Value": "Подтвердите новый адрес электронной почты"
+  },
+  {
+    "id": "bnet118_resetPassword_emailAddress",
+    "Key": "bnet118_resetPassword_emailAddress",
+    "Value": "Ваш адрес электронной почты"
+  },
+  {
+    "id": "bnet118_resetPassword_body",
+    "Key": "bnet118_resetPassword_body",
+    "Value": "Если вы забыли пароль, но указали для этой учетной записи адрес электронной почты, вы можете запросить новый пароль. Укажите адрес электронной почты, к которому вы привязывали эту учетную запись."
+  },
+  {
+    "id": "bnet118_eulaPopup_agree",
+    "Key": "bnet118_eulaPopup_agree",
+    "Value": "g\\u0004П\\u0001ринимаю"
+  },
+  {
+    "id": "bnet118_eulaPopup_title",
+    "Key": "bnet118_eulaPopup_title",
+    "Value": "Пользовательское соглашение Battle.net"
+  },
+  {
+    "id": "bnet118_eulaPopup_scrollToBottom",
+    "Key": "bnet118_eulaPopup_scrollToBottom",
+    "Value": "Для продолжения прокрутите текст вниз."
+  },
+  {
+    "id": "bnet118_legacyFlow_error_validEmailAddressRequired",
+    "Key": "bnet118_legacyFlow_error_validEmailAddressRequired",
+    "Value": "Требуется действующий адрес электронной почты."
+  },
+  {
+    "id": "bnet118_legacyFlow_error_accountNameRequired",
+    "Key": "bnet118_legacyFlow_error_accountNameRequired",
+    "Value": "Требуется название учетной записи."
+  },
+  {
+    "id": "bnet118_legacyFlow_accountName",
+    "Key": "bnet118_legacyFlow_accountName",
+    "Value": "Учетная запись"
+  },
+  {
+    "id": "bnet118_legacyFlow_newPassword",
+    "Key": "bnet118_legacyFlow_newPassword",
+    "Value": "Новый пароль"
+  },
+  {
+    "id": "bnet118_legacyFlow_password",
+    "Key": "bnet118_legacyFlow_password",
+    "Value": "Пароль"
+  },
+  {
+    "id": "bnet118_legacyFlow_recoverPassword",
+    "Key": "bnet118_legacyFlow_recoverPassword",
+    "Value": "Восстановить пароль"
+  },
+  {
+    "id": "bnet118_addFriendPopup_title",
+    "Key": "bnet118_addFriendPopup_title",
+    "Value": "Добавить друга"
+  },
+  {
+    "id": "bnet118_addFriendPopup_accountName",
+    "Key": "bnet118_addFriendPopup_accountName",
+    "Value": "Введите название учетной записи"
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_gatewayPane_title",
+    "Key": "bnet118_selectConnectionScreen_gatewayPane_title",
+    "Value": "Шлюз"
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_gatewayPane_note",
+    "Key": "bnet118_selectConnectionScreen_gatewayPane_note",
+    "Value": "Если выбранный шлюз не подходит вашему текущему региону, для улучшения качества соединения вы можете выбрать более подходящий."
+  },
+  {
+    "id": "bnet_chat_channelSelectPopup_title",
+    "Key": "bnet_chat_channelSelectPopup_title",
+    "Value": "Выберите канал"
+  },
+  {
+    "id": "bnet_chat_channelSelectPopup_body",
+    "Key": "bnet_chat_channelSelectPopup_body",
+    "Value": "Чтобы подключиться к приватному каналу или создать свой, введите имя в поле снизу."
+  },
+  {
+    "id": "bnet_channels",
+    "Key": "bnet_channels",
+    "Value": "Каналы"
+  },
+  {
+    "id": "bnet_participantsPanel_friends",
+    "Key": "bnet_participantsPanel_friends",
+    "Value": "Друзья"
+  },
+  {
+    "id": "bnet_participantsPanel_friendsOffline",
+    "Key": "bnet_participantsPanel_friendsOffline",
+    "Value": "Не в сети"
+  },
+  {
+    "id": "bnet_participantsPanel_friendsOnline",
+    "Key": "bnet_participantsPanel_friendsOnline",
+    "Value": "В сети"
+  },
+  {
+    "id": "infoPane_author",
+    "Key": "infoPane_author",
+    "Value": "Автор"
+  },
+  {
+    "id": "infoPane_gameCreator",
+    "Key": "infoPane_gameCreator",
+    "Value": "Создатель игры"
+  },
+  {
+    "id": "infoPane_gameName",
+    "Key": "infoPane_gameName",
+    "Value": "Название матча"
+  },
+  {
+    "id": "infoPane_gameType",
+    "Key": "infoPane_gameType",
+    "Value": "Тип игры"
+  },
+  {
+    "id": "infoPane_mapName",
+    "Key": "infoPane_mapName",
+    "Value": "Карта"
+  },
+  {
+    "id": "infoPane_players",
+    "Key": "infoPane_players",
+    "Value": "Игроки"
+  },
+  {
+    "id": "infoPane_size",
+    "Key": "infoPane_size",
+    "Value": "Размер"
+  },
+  {
+    "id": "infoPane_speed",
+    "Key": "infoPane_speed",
+    "Value": "Скорость"
+  },
+  {
+    "id": "infoPane_suggestedPlayers",
+    "Key": "infoPane_suggestedPlayers",
+    "Value": "Рекомендуемое количество игроков"
+  },
+  {
+    "id": "infoPane_tileset",
+    "Key": "infoPane_tileset",
+    "Value": "Набор текстур"
+  },
+  {
+    "id": "str_ok",
+    "Key": "str_ok",
+    "Value": "rO\\u0004К\\u0001"
+  },
+  {
+    "id": "createGameScreen_title",
+    "Key": "createGameScreen_title",
+    "Value": "Создать матч"
+  },
+  {
+    "id": "createGameScreen_gameName",
+    "Key": "createGameScreen_gameName",
+    "Value": "Название"
+  },
+  {
+    "id": "createGameScreen_map",
+    "Key": "createGameScreen_map",
+    "Value": "Карта"
+  },
+  {
+    "id": "createGameScreen_privacy",
+    "Key": "createGameScreen_privacy",
+    "Value": "Конфиденциальность"
+  },
+  {
+    "id": "createGameScreen_private",
+    "Key": "createGameScreen_private",
+    "Value": "Закрытый"
+  },
+  {
+    "id": "createGameScreen_public",
+    "Key": "createGameScreen_public",
+    "Value": "Открытый"
+  },
+  {
+    "id": "createGameScreen_fileBrowser_title",
+    "Key": "createGameScreen_fileBrowser_title",
+    "Value": "Выберите карту"
+  },
+  {
+    "id": "searchGameScreen_customGames",
+    "Key": "searchGameScreen_customGames",
+    "Value": "Своя игра"
+  },
+  {
+    "id": "lobbyScreen_observers",
+    "Key": "lobbyScreen_observers",
+    "Value": "Зрители"
+  },
+  {
+    "id": "lobbyScreen_teams",
+    "Key": "lobbyScreen_teams",
+    "Value": "Команды"
+  },
+  {
+    "id": "bnet_profileStats_error_requestAlreadyActive",
+    "Key": "bnet_profileStats_error_requestAlreadyActive",
+    "Value": "Запрос уже активен."
+  },
+  {
+    "id": "bnet_profileStats_winsLossesDisconnects",
+    "Key": "bnet_profileStats_winsLossesDisconnects",
+    "Value": "победы: %d, поражения: %d, отключения: %d."
+  },
+  {
+    "id": "str_cancel",
+    "Key": "str_cancel",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "bnet118_createGameScreen_error_passwordRequired",
+    "Key": "bnet118_createGameScreen_error_passwordRequired",
+    "Value": "Для создания закрытого матча требуется пароль."
+  },
+  {
+    "id": "bnet_joinGame_error_invalidPassword",
+    "Key": "bnet_joinGame_error_invalidPassword",
+    "Value": "Неверный пароль."
+  },
+  {
+    "id": "bnet_joinGame_privateGameSearchProgressPopup_title",
+    "Key": "bnet_joinGame_privateGameSearchProgressPopup_title",
+    "Value": "Проверка пароля..."
+  },
+  {
+    "id": "bnet_initialServerDataDownloadProgressPopup_title",
+    "Key": "bnet_initialServerDataDownloadProgressPopup_title",
+    "Value": "Загрузка настроек..."
+  },
+  {
+    "id": "bnet_cloud_downloadProgressPopup_title",
+    "Key": "bnet_cloud_downloadProgressPopup_title",
+    "Value": "Загрузка..."
+  },
+  {
+    "id": "bnet_cloud_downloadProgressPopup_body",
+    "Key": "bnet_cloud_downloadProgressPopup_body",
+    "Value": "Загрузка...\\n(%s)."
+  },
+  {
+    "id": "bnet_cloud_sizeRemaining",
+    "Key": "bnet_cloud_sizeRemaining",
+    "Value": "Осталось %s КБ"
+  },
+  {
+    "id": "bnet118_createToon_repeatEmail",
+    "Key": "bnet118_createToon_repeatEmail",
+    "Value": "Отправить снова"
+  },
+  {
+    "id": "bnet118_createToon_accountName_rules",
+    "Key": "bnet118_createToon_accountName_rules",
+    "Value": "Введите имя учетной записи. Оно должно содержать менее 16 символов и не иметь пробелов."
+  },
+  {
+    "id": "bnet118_createToon_password_rules",
+    "Key": "bnet118_createToon_password_rules",
+    "Value": "Введите пароль. Он должен содержать от 3 до 512 символов."
+  },
+  {
+    "id": "bnet118_changePassword_error_currentPasswordRequired",
+    "Key": "bnet118_changePassword_error_currentPasswordRequired",
+    "Value": "Введите ваш текущий пароль."
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_LANPane_title",
+    "Key": "bnet118_selectConnectionScreen_LANPane_title",
+    "Value": "Протокол"
+  },
+  {
+    "id": "hotkeyPane_save",
+    "Key": "hotkeyPane_save",
+    "Value": "c\\u0004С\\u0001охранить"
+  },
+  {
+    "id": "hotkeyPane_reset",
+    "Key": "hotkeyPane_reset",
+    "Value": "g\\u0004П\\u0001о умолчанию"
+  },
+  {
+    "id": "bnet118_eulaPopup_disagree",
+    "Key": "bnet118_eulaPopup_disagree",
+    "Value": "j\\u0004О\\u0001тказываюсь"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_description",
+    "Key": "bnet_chat_commandHelp_friends_description",
+    "Value": "Добавить или удалить игрока из списка друзей, либо написать личное сообщение."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_add_description",
+    "Key": "bnet_chat_commandHelp_friends_add_description",
+    "Value": "Добавить ИГРОКА в список друзей"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_remove_description",
+    "Key": "bnet_chat_commandHelp_friends_remove_description",
+    "Value": "Удалить ИГРОКА из списка друзей"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_whisper_description",
+    "Key": "bnet_chat_commandHelp_friends_whisper_description",
+    "Value": "Отправить личное СООБЩЕНИЕ всем друзьям по Brood War и друзьям по сети Blizzard, играющим в StarCraft."
+  },
+  {
+    "id": "bnet_fishWarning",
+    "Key": "bnet_fishWarning",
+    "Value": "Этот шлюз не поддерживается Blizzard официально. Вы хотите продолжить?"
+  },
+  {
+    "id": "spi_battlenet_title",
+    "Key": "spi_battlenet_title",
+    "Value": "Battle.net®"
+  },
+  {
+    "id": "spi_battlenet_description",
+    "Key": "spi_battlenet_description",
+    "Value": "Подключение через провайдера или прямое подключение к Интернету."
+  },
+  {
+    "id": "spi_lan_title",
+    "Key": "spi_lan_title",
+    "Value": "Локальная сеть"
+  },
+  {
+    "id": "spi_lan_description",
+    "Key": "spi_lan_description",
+    "Value": "Все компьютеры должны быть подключены к сети, совместимой с UDP/IP."
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_LANPane_error",
+    "Key": "bnet118_selectConnectionScreen_LANPane_error",
+    "Value": "Не удается получить список протоколов."
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_gatewayPane_error",
+    "Key": "bnet118_selectConnectionScreen_gatewayPane_error",
+    "Value": "Не удается получить список шлюзов."
+  },
+  {
+    "id": "bnet_chat_addFriendProgressPopup_title",
+    "Key": "bnet_chat_addFriendProgressPopup_title",
+    "Value": "Добавление друга..."
+  },
+  {
+    "id": "bnet_createGameProgressPopup_title",
+    "Key": "bnet_createGameProgressPopup_title",
+    "Value": "Создание матча..."
+  },
+  {
+    "id": "network_firewall_whitelist",
+    "Key": "network_firewall_whitelist",
+    "Value": "Добавить StarCraft в белый список вашего брандмауэра?"
+  },
+  {
+    "id": "hotkeyPane_title",
+    "Key": "hotkeyPane_title",
+    "Value": "Горячие клавиши"
+  },
+  {
+    "id": "hotkeyPane_selectedProfile",
+    "Key": "hotkeyPane_selectedProfile",
+    "Value": "Текущий профиль"
+  },
+  {
+    "id": "modemPHONEBOOK",
+    "Key": "modemPHONEBOOK",
+    "Value": "Phonebook"
+  },
+  {
+    "id": "modemENTRY",
+    "Key": "modemENTRY",
+    "Value": "entry"
+  },
+  {
+    "id": "modemNEWENTRY",
+    "Key": "modemNEWENTRY",
+    "Value": "Enter new phone number:"
+  },
+  {
+    "id": "modemCONFIRMDELETE",
+    "Key": "modemCONFIRMDELETE",
+    "Value": "Are you sure you want to delete this entry?"
+  },
+  {
+    "id": "modemREPLACEENTRY_s",
+    "Key": "modemREPLACEENTRY_s",
+    "Value": "Do you wish to replace the entry '%s'?"
+  },
+  {
+    "id": "modemTOOMANYENTRIES",
+    "Key": "modemTOOMANYENTRIES",
+    "Value": "Too many phone book entries. Please delete an entry before adding another."
+  },
+  {
+    "id": "modemINITERROR",
+    "Key": "modemINITERROR",
+    "Value": "An error occurred while trying to initialize the modem."
+  },
+  {
+    "id": "modemNOMODEMS",
+    "Key": "modemNOMODEMS",
+    "Value": "No modems were detected."
+  },
+  {
+    "id": "modemVERSIONERROR",
+    "Key": "modemVERSIONERROR",
+    "Value": "Unable to join the detected game. Your version of StarCraft is incompatible with the game creator's version."
+  },
+  {
+    "id": "modemNOANSWERERROR",
+    "Key": "modemNOANSWERERROR",
+    "Value": "Unable to connect. There was no answer at the number dialed."
+  },
+  {
+    "id": "modemNETWORKERROR",
+    "Key": "modemNETWORKERROR",
+    "Value": "Unable to dial. Either no dial tone was detected or there were problems configuring the modem."
+  },
+  {
+    "id": "modemBUSYERROR",
+    "Key": "modemBUSYERROR",
+    "Value": "Unable to connect. The number dialed was busy."
+  },
+  {
+    "id": "modemOFFERROR",
+    "Key": "modemOFFERROR",
+    "Value": "Unable to detect the modem. Please ensure that your modem is properly installed, turned on, and correctly connected."
+  },
+  {
+    "id": "modemJOINERROR",
+    "Key": "modemJOINERROR",
+    "Value": "Unable to establish a connection. A game of StarCraft was not detected at the specified phone number."
+  },
+  {
+    "id": "modemCONFIRMHANGUP",
+    "Key": "modemCONFIRMHANGUP",
+    "Value": "Are you sure you want to hang up on your current connection?"
+  },
+  {
+    "id": "modemDESCRIPTION",
+    "Key": "modemDESCRIPTION",
+    "Value": "Two players can play StarCraft via Modem. To create a modem game, click on the Create Game button below and your computer will be set to auto answer incoming calls. To join a game that has already been created, select the phone number from the list to the left or enter a new number."
+  },
+  {
+    "id": "modemGAMENAME_u",
+    "Key": "modemGAMENAME_u",
+    "Value": "Game %u"
+  },
+  {
+    "id": "conANSWER",
+    "Key": "conANSWER",
+    "Value": "Ответить"
+  },
+  {
+    "id": "conCALL",
+    "Key": "conCALL",
+    "Value": "Звонок"
+  },
+  {
+    "id": "conMODEM",
+    "Key": "conMODEM",
+    "Value": "Modem"
+  },
+  {
+    "id": "conMODEM_d",
+    "Key": "conMODEM_d",
+    "Value": "Requirements: Each computer will need a properly configured modem connected to a phone line. Modems can be configured by using the Control Panel item called \"Modems\". Each player needs a different phone number."
+  },
+  {
+    "id": "conDIRECT_d",
+    "Key": "conDIRECT_d",
+    "Value": "Требования: соединение через нуль-модемный кабель, подключенный к свободному последовательному порту."
+  },
+  {
+    "id": "conIPX_d",
+    "Key": "conIPX_d",
+    "Value": "Требования: установленный IPX-протокол и подключение к компьютерам других игроков через локальную сеть."
+  },
+  {
+    "id": "conBTLN_d",
+    "Key": "conBTLN_d",
+    "Value": "Требования: соединение с Интернет."
+  },
+  {
+    "id": "conSUPPORTED",
+    "Key": "conSUPPORTED",
+    "Value": "Поддерживает до %d игроков."
+  },
+  {
+    "id": "conIPX_ext",
+    "Key": "conIPX_ext",
+    "Value": "Локальные сети обычно используются для соединения офисных компьютеров, но также могут быть настроены в домашних условиях. Каждый пользователь локальной сети может играть с другими пользователями, подключенными к той же сети."
+  },
+  {
+    "id": "conBTLN_ext",
+    "Key": "conBTLN_ext",
+    "Value": "Battle.net – это бесплатная игровая служба компании Blizzard Entertainment, позволяющая игрокам объединяться и соревноваться в играх без каких-либо затрат, за исключением оплаты подключения к сети Интернет."
+  },
+  {
+    "id": "conMODEM_ext",
+    "Key": "conMODEM_ext",
+    "Value": "Two players can play together by over the telephone by using two modems. One computer is configured to answer its modem, and the other computer is configured to call the first computer."
+  },
+  {
+    "id": "conDIRECT_ext",
+    "Key": "conDIRECT_ext",
+    "Value": "Двое пользователей могут играть, соединив свои компьютеры через нуль-модемный кабель. Один компьютер при этом выступает создателем матча, а другой присоединяется к нему."
+  },
+  {
+    "id": "errRETAILCD",
+    "Key": "errRETAILCD",
+    "Value": "Вставьте диск StarCraft в CD-привод."
+  },
+  {
+    "id": "errBROODWARCD",
+    "Key": "errBROODWARCD",
+    "Value": "Вставьте диск Brood War в CD-привод."
+  },
+  {
+    "id": "errANYCD",
+    "Key": "errANYCD",
+    "Value": "Вставьте диск StarCraft или Brood War в CD-привод."
+  },
+  {
+    "id": "gluSELECTTYPE",
+    "Key": "gluSELECTTYPE",
+    "Value": "Выберите игру"
+  },
+  {
+    "id": "gameTYPEDISABLED",
+    "Key": "gameTYPEDISABLED",
+    "Value": "Не удалось создать матч. Выбранный тип игры в данный момент недоступен."
+  },
+  {
+    "id": "conGatewayInfo",
+    "Key": "conGatewayInfo",
+    "Value": "Если выбранный шлюз не подходит вашему текущему региону, для улучшения качества соединения вы можете выбрать более подходящий."
+  },
+  {
+    "id": "replayEndGameButton",
+    "Key": "replayEndGameButton",
+    "Value": "sВ\\u0004ы\\u0001йти из повтора"
+  },
+  {
+    "id": "conUDP",
+    "Key": "conUDP",
+    "Value": "Сеть UDP"
+  },
+  {
+    "id": "conUDP_d",
+    "Key": "conUDP_d",
+    "Value": "Все компьютеры должны быть подключены к сети, совместимой с TCP/IP."
+  },
+  {
+    "id": "conUDP_ext",
+    "Key": "conUDP_ext",
+    "Value": "Локальные сети обычно используются для соединения офисных компьютеров, но также могут быть настроены в домашних условиях. Каждый пользователь локальной сети может играть с другими пользователями, подключенными к той же сети."
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_keyboard",
+    "Key": "bnet119_optionsPanel_game_subtitle_keyboard",
+    "Value": "Ввод с клавиатуры"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_universalAccess_dialog_title",
+    "Key": "bnet119_optionsPanel_game_universalAccess_dialog_title",
+    "Value": "Требуется общий доступ"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_universalAccess_dialog_body",
+    "Key": "bnet119_optionsPanel_game_universalAccess_dialog_body",
+    "Value": "Для использования этой функции следует изменить настройки доступа для StarCraft на закладке «Конфиденциальность и безопасность» панели «Системные настройки». Открыть эту панель?"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_universalAccess_dialog_ok",
+    "Key": "bnet119_optionsPanel_game_universalAccess_dialog_ok",
+    "Value": "Открыть"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_universalAccess_dialog_cancel",
+    "Key": "bnet119_optionsPanel_game_universalAccess_dialog_cancel",
+    "Value": "Отмена"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_standardFunctionKeys",
+    "Key": "bnet119_optionsPanel_game_label_standardFunctionKeys",
+    "Value": "Стандартные назначения клавиш"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_description",
+    "Key": "bnet_chat_commandHelp_options_description",
+    "Value": "Изменить настройки сообщений"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_ignore_description",
+    "Key": "bnet_chat_commandHelp_options_ignore_description",
+    "Value": "Игнорировать личные сообщения от всех, кроме друзей"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_unignore_description",
+    "Key": "bnet_chat_commandHelp_options_unignore_description",
+    "Value": "Получать личные сообщения от всех игроков"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_ignorepublic_description",
+    "Key": "bnet_chat_commandHelp_options_ignorepublic_description",
+    "Value": "Игнорировать сообщения в открытых каналах чата от всех, кроме друзей"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_unignorepublic_description",
+    "Key": "bnet_chat_commandHelp_options_unignorepublic_description",
+    "Value": "Получать сообщения в открытых каналах чата от всех игроков"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_ignoreprivate_description",
+    "Key": "bnet_chat_commandHelp_options_ignoreprivate_description",
+    "Value": "Игнорировать сообщения в приватных каналах чата от всех, кроме друзей"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_unignoreprivate_description",
+    "Key": "bnet_chat_commandHelp_options_unignoreprivate_description",
+    "Value": "Получать сообщения в приватных каналах чата от всех игроков"
+  },
+  {
+    "id": "bnet_chat_options_MuteWhispersFromNonFriends",
+    "Key": "bnet_chat_options_MuteWhispersFromNonFriends",
+    "Value": "Вы игнорируете личные сообщения от всех, кроме друзей."
+  },
+  {
+    "id": "bnet_chat_options_UnmuteWhispersFromNonFriends",
+    "Key": "bnet_chat_options_UnmuteWhispersFromNonFriends",
+    "Value": "Вы получаете все личные сообщения."
+  },
+  {
+    "id": "bnet_chat_options_MutePublicChatFromNonFriends",
+    "Key": "bnet_chat_options_MutePublicChatFromNonFriends",
+    "Value": "Вы игнорируете сообщения открытого чата от всех, кроме друзей."
+  },
+  {
+    "id": "bnet_chat_options_UnmutePublicChatFromNonFriends",
+    "Key": "bnet_chat_options_UnmutePublicChatFromNonFriends",
+    "Value": "Вы получаете все сообщения открытого чата."
+  },
+  {
+    "id": "bnet_chat_options_MutePrivateChatFromNonFriends",
+    "Key": "bnet_chat_options_MutePrivateChatFromNonFriends",
+    "Value": "Вы игнорируете сообщения приватного чата от всех, кроме друзей."
+  },
+  {
+    "id": "bnet_chat_options_UnmutePrivateChatFromNonFriends",
+    "Key": "bnet_chat_options_UnmutePrivateChatFromNonFriends",
+    "Value": "Вы получаете все сообщения приватного чата."
+  },
+  {
+    "id": "bnet119_home_ad_purchaseNow",
+    "Key": "bnet119_home_ad_purchaseNow",
+    "Value": "ПРИОБРЕСТИ"
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_spam_description",
+    "Key": "bnet_chat_commandHelp_report_spam_description",
+    "Value": "Сообщить о спаме в текущем канале чата со стороны игрока ACCOUNTNAME."
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_harassment_description",
+    "Key": "bnet_chat_commandHelp_report_harassment_description",
+    "Value": "Сообщить об оскорблении со стороны игрока ACCOUNTNAME."
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_cheating_description",
+    "Key": "bnet_chat_commandHelp_report_cheating_description",
+    "Value": "Сообщить об использовании игроком ACCOUNTNAME читов в матче «GAMENAME»."
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_accountName_description",
+    "Key": "bnet_chat_commandHelp_report_accountName_description",
+    "Value": "Сообщить о некорректном имени учетной записи ACCOUNTNAME."
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_battleTag_description",
+    "Key": "bnet_chat_commandHelp_report_battleTag_description",
+    "Value": "Сообщить о некорректном BattleTag™ игрока ACCOUNTNAME."
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_gameName_description",
+    "Key": "bnet_chat_commandHelp_report_gameName_description",
+    "Value": "Сообщить о некорректном названии матча, созданного игроком ACCOUNTNAME."
+  },
+  {
+    "id": "bnet119_registry_empty",
+    "Key": "bnet119_registry_empty",
+    "Value": "Выберите «Новый» для создания нового персонажа."
+  },
+  {
+    "id": "optionsPanel_speed_hardwareCursor_label",
+    "Key": "optionsPanel_speed_hardwareCursor_label",
+    "Value": "Аппаратный указатель"
+  },
+  {
+    "id": "bnet119_matchmakingScreen_error_noGameModes",
+    "Key": "bnet119_matchmakingScreen_error_noGameModes",
+    "Value": "Не удалось загрузить игровые режимы."
+  },
+  {
+    "id": "bnet119_matchmakingScreen_error_noMapList",
+    "Key": "bnet119_matchmakingScreen_error_noMapList",
+    "Value": "Не удается загрузить список карт."
+  },
+  {
+    "id": "bnet_chat_options_status_whispers_muted",
+    "Key": "bnet_chat_options_status_whispers_muted",
+    "Value": "Личные сообщения от игроков не из списка друзей разрешены."
+  },
+  {
+    "id": "bnet_chat_options_status_whispers_unmuted",
+    "Key": "bnet_chat_options_status_whispers_unmuted",
+    "Value": "Личные сообщения от игроков не из списка друзей запрещены."
+  },
+  {
+    "id": "bnet_chat_options_status_publicChat_muted",
+    "Key": "bnet_chat_options_status_publicChat_muted",
+    "Value": "Сообщения от игроков не из списка друзей в публичных каналах разрешены."
+  },
+  {
+    "id": "bnet_chat_options_status_publicChat_unmuted",
+    "Key": "bnet_chat_options_status_publicChat_unmuted",
+    "Value": "Сообщения от игроков не из списка друзей в публичных каналах запрещены."
+  },
+  {
+    "id": "bnet_chat_options_status_privateChat_muted",
+    "Key": "bnet_chat_options_status_privateChat_muted",
+    "Value": "Сообщения от игроков не из списка друзей в приватных каналах разрешены."
+  },
+  {
+    "id": "bnet_chat_options_status_privateChat_unmuted",
+    "Key": "bnet_chat_options_status_privateChat_unmuted",
+    "Value": "Сообщения от игроков не из списка друзей в приватных каналах запрещены."
+  },
+  {
+    "id": "optionsPanel_speed_hardwareCursor_tooltip",
+    "Key": "optionsPanel_speed_hardwareCursor_tooltip",
+    "Value": "Недоступно при использовании масштабирования мыши."
+  },
+  {
+    "id": "bnet118_login_title",
+    "Key": "bnet118_login_title",
+    "Value": "Войти"
+  },
+  {
+    "id": "bnet118_login_newAccount",
+    "Key": "bnet118_login_newAccount",
+    "Value": "y\\u0004Н\\u0001овая запись"
+  },
+  {
+    "id": "bnet118_login_changePassword",
+    "Key": "bnet118_login_changePassword",
+    "Value": "gИзменить \\u0004п\\u0001ароль"
+  },
+  {
+    "id": "bnet118_login_recoverPassword",
+    "Key": "bnet118_login_recoverPassword",
+    "Value": "d\\u0004В\\u0001осстановить пароль"
+  },
+  {
+    "id": "bnet118_login_changeEmail",
+    "Key": "bnet118_login_changeEmail",
+    "Value": "fИзменить \\u0004а\\u0001дрес"
+  },
+  {
+    "id": "bnet_chat_legacyChatDisconnectNotification",
+    "Key": "bnet_chat_legacyChatDisconnectNotification",
+    "Value": "Вы были отключены от сервера чата."
+  },
+  {
+    "id": "bnet_passwordPanel_passwordRequired",
+    "Key": "bnet_passwordPanel_passwordRequired",
+    "Value": "Требуется пароль"
+  },
+  {
+    "id": "bnet_passwordPanel_enterPasswordInfo",
+    "Key": "bnet_passwordPanel_enterPasswordInfo",
+    "Value": "Введите пароль, чтобы присоединиться к этому матчу."
+  },
+  {
+    "id": "bnet_participantsPanel_channel",
+    "Key": "bnet_participantsPanel_channel",
+    "Value": "Канал"
+  },
+  {
+    "id": "infoPanel_recentGames",
+    "Key": "infoPanel_recentGames",
+    "Value": "Последние игры"
+  },
+  {
+    "id": "infoPane_startingIn",
+    "Key": "infoPane_startingIn",
+    "Value": "Матч начнется через"
+  },
+  {
+    "id": "searchGameScreen_openGames",
+    "Key": "searchGameScreen_openGames",
+    "Value": "j\\u0004О\\u0001ткрытые игры"
+  },
+  {
+    "id": "searchGameScreen_popularGames",
+    "Key": "searchGameScreen_popularGames",
+    "Value": "g\\u0004П\\u0001опулярные игры"
+  },
+  {
+    "id": "lobbyScreen_zerg",
+    "Key": "lobbyScreen_zerg",
+    "Value": "Зерги"
+  },
+  {
+    "id": "lobbyScreen_terran",
+    "Key": "lobbyScreen_terran",
+    "Value": "Терраны"
+  },
+  {
+    "id": "lobbyScreen_protoss",
+    "Key": "lobbyScreen_protoss",
+    "Value": "Протоссы"
+  },
+  {
+    "id": "lobbyScreen_random",
+    "Key": "lobbyScreen_random",
+    "Value": "Случайный выбор"
+  },
+  {
+    "id": "lobbyScreen_open",
+    "Key": "lobbyScreen_open",
+    "Value": "Открытый слот"
+  },
+  {
+    "id": "lobbyScreen_closed",
+    "Key": "lobbyScreen_closed",
+    "Value": "Закрытый слот"
+  },
+  {
+    "id": "lobbyScreen_computer",
+    "Key": "lobbyScreen_computer",
+    "Value": "ИИ"
+  },
+  {
+    "id": "lobbyScreen_makeGamePublic",
+    "Key": "lobbyScreen_makeGamePublic",
+    "Value": "Сделать матч открытым"
+  },
+  {
+    "id": "lobbyScreen_banPlayer",
+    "Key": "lobbyScreen_banPlayer",
+    "Value": "Заблокировать игрока"
+  },
+  {
+    "id": "lobbyScreen_moveTo",
+    "Key": "lobbyScreen_moveTo",
+    "Value": "Переместить:"
+  },
+  {
+    "id": "lobbyScreen_switchWith",
+    "Key": "lobbyScreen_switchWith",
+    "Value": "Поменять местами:"
+  },
+  {
+    "id": "ngdp_read_failure_title",
+    "Key": "ngdp_read_failure_title",
+    "Value": "Ошибка чтения"
+  },
+  {
+    "id": "ngdp_read_failure_message",
+    "Key": "ngdp_read_failure_message",
+    "Value": "Ошибка при чтении данных игры."
+  },
+  {
+    "id": "bnet_chat_legacyProtocolDisconnectNotification",
+    "Key": "bnet_chat_legacyProtocolDisconnectNotification",
+    "Value": "Вы были отключены от сервера."
+  },
+  {
+    "id": "bnet_errorPopup_body",
+    "Key": "bnet_errorPopup_body",
+    "Value": "Ошибка: %s"
+  },
+  {
+    "id": "hotkeyPane_command",
+    "Key": "hotkeyPane_command",
+    "Value": "Команда"
+  },
+  {
+    "id": "hotkey_profile_custom",
+    "Key": "hotkey_profile_custom",
+    "Value": "По выбору"
+  },
+  {
+    "id": "bnet118_login_error_LE_InUse",
+    "Key": "bnet118_login_error_LE_InUse",
+    "Value": "Указанный профиль уже используется. Попробуйте выбрать другой."
+  },
+  {
+    "id": "bnet_chat_joinChannel_timeout",
+    "Key": "bnet_chat_joinChannel_timeout",
+    "Value": "Время ожидания запроса превышено."
+  },
+  {
+    "id": "bnet_chat_addFriend_timeout",
+    "Key": "bnet_chat_addFriend_timeout",
+    "Value": "Время ожидания после отправки приглашения стать друзьями превышено."
+  },
+  {
+    "id": "upgrader_popup_mainMenuButton",
+    "Key": "upgrader_popup_mainMenuButton",
+    "Value": "d\\u0004В\\u0001 главное меню"
+  },
+  {
+    "id": "upgrader_confirmPopup_knownVersion_title",
+    "Key": "upgrader_confirmPopup_knownVersion_title",
+    "Value": "Доступно обновление %s! Оно необходимо для сетевой игры."
+  },
+  {
+    "id": "upgrader_confirmPopup_unknownVersion_title",
+    "Key": "upgrader_confirmPopup_unknownVersion_title",
+    "Value": "Доступно обновление! Оно необходимо для сетевой игры."
+  },
+  {
+    "id": "upgrader_confirmPopup_confirmButton",
+    "Key": "upgrader_confirmPopup_confirmButton",
+    "Value": "j\\u0004О\\u0001бновить"
+  },
+  {
+    "id": "bnet_aurora_error_prefix",
+    "Key": "bnet_aurora_error_prefix",
+    "Value": "Не удалось осуществить начальное подключение к серверу."
+  },
+  {
+    "id": "hotkey_keybindPopup_title",
+    "Key": "hotkey_keybindPopup_title",
+    "Value": "Горячая клавиша: %s"
+  },
+  {
+    "id": "selectConnectionScreen_upgradeNotice",
+    "Key": "selectConnectionScreen_upgradeNotice",
+    "Value": "Для игры по сети требуется установить обновление. Щелкните по кнопке «Обновить», чтобы начать установку."
+  },
+  {
+    "id": "bnet_chat_addFriend_addSelf",
+    "Key": "bnet_chat_addFriend_addSelf",
+    "Value": "Нельзя внести себя в список друзей."
+  },
+  {
+    "id": "bnet_chat_channel_disabled",
+    "Key": "bnet_chat_channel_disabled",
+    "Value": "Чат этого канала отключен."
+  },
+  {
+    "id": "bnet_chat_command_url",
+    "Key": "bnet_chat_command_url",
+    "Value": "Вы можете копировать и вставлять ссылки из сообщений чата."
+  },
+  {
+    "id": "bnet118_login_error_CE_FailedToConnect",
+    "Key": "bnet118_login_error_CE_FailedToConnect",
+    "Value": "Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут."
+  },
+  {
+    "id": "bnet_error_transport",
+    "Key": "bnet_error_transport",
+    "Value": "Проверьте соединение с сетью и попробуйте еще раз."
+  },
+  {
+    "id": "bnet_error_classicServer_CE_InternalError",
+    "Key": "bnet_error_classicServer_CE_InternalError",
+    "Value": "Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут."
+  },
+  {
+    "id": "bnet_advertisement_error_generalPrefix",
+    "Key": "bnet_advertisement_error_generalPrefix",
+    "Value": "Не удалось анонсировать матч."
+  },
+  {
+    "id": "bnet_advertisement_error_EC_TimedOut",
+    "Key": "bnet_advertisement_error_EC_TimedOut",
+    "Value": "Время ожидания анонса матча превышено."
+  },
+  {
+    "id": "bnet_advertisement_error_EC_InternalError",
+    "Key": "bnet_advertisement_error_EC_InternalError",
+    "Value": "При попытке анонса матча произошел разрыв соединения."
+  },
+  {
+    "id": "bnet_chat_addFriend_error_CE_DuplicateFriend",
+    "Key": "bnet_chat_addFriend_error_CE_DuplicateFriend",
+    "Value": "Этот игрок уже является вашим другом."
+  },
+  {
+    "id": "bnet_chat_commandHelpListMoreInfo_topic",
+    "Key": "bnet_chat_commandHelpListMoreInfo_topic",
+    "Value": "Введите в чате /help \"НАЗВАНИЕ ТЕМЫ\", чтобы узнать подробности о выбранной теме."
+  },
+  {
+    "id": "bnet_chat_commandHelpListMoreInfo_command",
+    "Key": "bnet_chat_commandHelpListMoreInfo_command",
+    "Value": "Введите в чате /help \"ТЕКСТ КОМАНДЫ\", чтобы узнать подробности о выбранной команде."
+  },
+  {
+    "id": "bnet_chat_commandHelp_basicCommands_title",
+    "Key": "bnet_chat_commandHelp_basicCommands_title",
+    "Value": "Базовые команды чата:"
+  },
+  {
+    "id": "bnet_chat_commandHelp_advancedCommands_title",
+    "Key": "bnet_chat_commandHelp_advancedCommands_title",
+    "Value": "Особые команды чата:"
+  },
+  {
+    "id": "bnet_chat_commandHelp_commandAliases_title",
+    "Key": "bnet_chat_commandHelp_commandAliases_title",
+    "Value": "Обозначения команд:"
+  },
+  {
+    "id": "bnet_chat_commandHelp_channel_description",
+    "Key": "bnet_chat_commandHelp_channel_description",
+    "Value": "Присоединиться к каналу: (НАЗВАНИЕ КАНАЛА)"
+  },
+  {
+    "id": "bnet_chat_commandHelp_ignore_description",
+    "Key": "bnet_chat_commandHelp_ignore_description",
+    "Value": "Заблокировать сообщения ИГРОКА"
+  },
+  {
+    "id": "bnet_chat_commandHelp_unignore_description",
+    "Key": "bnet_chat_commandHelp_unignore_description",
+    "Value": "Заблокировать сообщения ИГРОКА"
+  },
+  {
+    "id": "bnet_fish_terms_title",
+    "Key": "bnet_fish_terms_title",
+    "Value": "Пользовательское соглашение"
+  },
+  {
+    "id": "bnet_error_notConnected",
+    "Key": "bnet_error_notConnected",
+    "Value": "Нет подключения к серверу."
+  },
+  {
+    "id": "bnet_chat_removeFriend_error_notFriends",
+    "Key": "bnet_chat_removeFriend_error_notFriends",
+    "Value": "Этот игрок не является вашим другом."
+  },
+  {
+    "id": "bnet118_login_error_FE_SecurePhoneDisabled",
+    "Key": "bnet118_login_error_FE_SecurePhoneDisabled",
+    "Value": "Безопасное подключение с помощью телефона отключено."
+  },
+  {
+    "id": "bnet118_login_error_FE_PhoneFailure",
+    "Key": "bnet118_login_error_FE_PhoneFailure",
+    "Value": "Не удалось авторизоваться с помощью телефона."
+  },
+  {
+    "id": "bnet118_login_error_FE_IncorrectPhone",
+    "Key": "bnet118_login_error_FE_IncorrectPhone",
+    "Value": "Незарегистрированный телефон."
+  },
+  {
+    "id": "searchGameScreen_filterSettings",
+    "Key": "searchGameScreen_filterSettings",
+    "Value": "Настройки фильтра"
+  },
+  {
+    "id": "searchGameScreen_showPrivateGames",
+    "Key": "searchGameScreen_showPrivateGames",
+    "Value": "Показывать закрытые игры"
+  },
+  {
+    "id": "searchGameScreen_filter",
+    "Key": "searchGameScreen_filter",
+    "Value": "a\\u0004Ф\\u0001ильтр"
+  },
+  {
+    "id": "searchGameScreen_searchCustomGames",
+    "Key": "searchGameScreen_searchCustomGames",
+    "Value": "Поиск пользовательских игр"
+  },
+  {
+    "id": "searchGameScreen_create",
+    "Key": "searchGameScreen_create",
+    "Value": "pСо\\u0004з\\u0001дать"
+  },
+  {
+    "id": "searchGameScreen_created",
+    "Key": "searchGameScreen_created",
+    "Value": "Готово"
+  },
+  {
+    "id": "searchGameScreen_acceptablePing",
+    "Key": "searchGameScreen_acceptablePing",
+    "Value": "Минимальный пинг"
+  },
+  {
+    "id": "searchGameScreen_maxPlayerCount",
+    "Key": "searchGameScreen_maxPlayerCount",
+    "Value": "Мин. лимит игроков"
+  },
+  {
+    "id": "searchGameScreen_filterGamesError",
+    "Key": "searchGameScreen_filterGamesError",
+    "Value": "Не удалось найти игру, соответствующую критериям поиска."
+  },
+  {
+    "id": "searchGameScreen_showReplayGames",
+    "Key": "searchGameScreen_showReplayGames",
+    "Value": "Показывать повторы"
+  },
+  {
+    "id": "searchGameScreen_results",
+    "Key": "searchGameScreen_results",
+    "Value": "Результаты"
+  },
+  {
+    "id": "bnet_participantsPanel_statusAway",
+    "Key": "bnet_participantsPanel_statusAway",
+    "Value": "Отсутствует"
+  },
+  {
+    "id": "bnet_participantsPanel_statusBusy",
+    "Key": "bnet_participantsPanel_statusBusy",
+    "Value": "Занят"
+  },
+  {
+    "id": "bnet119_chat_auroraChat_error_AE_NotificationUndeliverable",
+    "Key": "bnet119_chat_auroraChat_error_AE_NotificationUndeliverable",
+    "Value": "Данного игрока нет в сети."
+  },
+  {
+    "id": "bnet119_chat_auroraChat_error_AE_FriendshipAlreadyExists",
+    "Key": "bnet119_chat_auroraChat_error_AE_FriendshipAlreadyExists",
+    "Value": "Этот игрок уже является вашим другом."
+  },
+  {
+    "id": "video_toggle_subtitles_hotkey",
+    "Key": "video_toggle_subtitles_hotkey",
+    "Value": "s"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_joinLobby",
+    "Key": "bnet119_chatPanel_contextMenu_joinLobby",
+    "Value": "В лобби"
+  },
+  {
+    "id": "bnet119_chat_auroraChat_error_AE_FriendInvitationExists",
+    "Key": "bnet119_chat_auroraChat_error_AE_FriendInvitationExists",
+    "Value": "Запрос на добавление этого игрока в друзья уже создан."
+  },
+  {
+    "id": "bnet119_matchmakingSearch_elapsedTime",
+    "Key": "bnet119_matchmakingSearch_elapsedTime",
+    "Value": "Прошло времени"
+  },
+  {
+    "id": "bnet_participantsPanel_addFriend",
+    "Key": "bnet_participantsPanel_addFriend",
+    "Value": "l\\u0004Д\\u0001обавить друга"
+  },
+  {
+    "id": "bnet_participantsPanel_joinChannel",
+    "Key": "bnet_participantsPanel_joinChannel",
+    "Value": "g\\u0004П\\u0001рисоединиться к каналу"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_mouseScaling",
+    "Key": "bnet119_optionsPanel_speed_label_mouseScaling",
+    "Value": "Масштабирование мыши"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_portraits",
+    "Key": "bnet119_optionsPanel_game_label_portraits",
+    "Value": "Портреты"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_display",
+    "Key": "bnet119_optionsPanel_game_label_display",
+    "Value": "Экран"
+  },
+  {
+    "id": "bnet119_chat_auroraChat_error_AE_FriendshipIsSelf",
+    "Key": "bnet119_chat_auroraChat_error_AE_FriendshipIsSelf",
+    "Value": "Нельзя отправить запрос на добавление в друзья себе."
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_gameSubtitles",
+    "Key": "bnet119_optionsPanel_sound_label_gameSubtitles",
+    "Value": "Субтитры в игре"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_cinematicSubtitles",
+    "Key": "bnet119_optionsPanel_sound_label_cinematicSubtitles",
+    "Value": "Субтитры в роликах"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_originalUnitVO",
+    "Key": "bnet119_optionsPanel_sound_label_originalUnitVO",
+    "Value": "Оригинальная озвучка войск"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_originalCampaignVO",
+    "Key": "bnet119_optionsPanel_sound_label_originalCampaignVO",
+    "Value": "Оригинальная озвучка 1998-го года"
+  },
+  {
+    "id": "createGameScreen_enabled",
+    "Key": "createGameScreen_enabled",
+    "Value": "Включены"
+  },
+  {
+    "id": "createGameScreen_disabled",
+    "Key": "createGameScreen_disabled",
+    "Value": "Отключены"
+  },
+  {
+    "id": "createGameScreen_customHotkeys",
+    "Key": "createGameScreen_customHotkeys",
+    "Value": "Свои горячие клавиши"
+  },
+  {
+    "id": "bnet_matchmaking_generalError",
+    "Key": "bnet_matchmaking_generalError",
+    "Value": "При попытке найти матч возникла ошибка."
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_description",
+    "Key": "bnet_chat_commandHelp_report_description",
+    "Value": "Пожаловаться на ИГРОКА (ПРИЧИНА: ...)"
+  },
+  {
+    "id": "bnet_reportUser_succeeded",
+    "Key": "bnet_reportUser_succeeded",
+    "Value": "Жалоба на пользователя успешно отправлена."
+  },
+  {
+    "id": "bnet_reportUser_failed",
+    "Key": "bnet_reportUser_failed",
+    "Value": "Не удалось пожаловаться на пользователя."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_smoothAnimations",
+    "Key": "bnet119_optionsPanel_video_label_smoothAnimations",
+    "Value": "Плавный поворот войск"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_aspect_ratio_widescreen",
+    "Key": "bnet119_optionsPanel_video_label_aspect_ratio_widescreen",
+    "Value": "Широкий экран"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_aspect_ratio_letterbox",
+    "Key": "bnet119_optionsPanel_video_label_aspect_ratio_letterbox",
+    "Value": "Пилларбоксинг"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_deDE",
+    "Key": "bnet119_optionsPanel_language_deDE",
+    "Value": "Deutsch"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_enUS",
+    "Key": "bnet119_optionsPanel_language_enUS",
+    "Value": "English"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_esES",
+    "Key": "bnet119_optionsPanel_language_esES",
+    "Value": "Español - España"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_frFR",
+    "Key": "bnet119_optionsPanel_language_frFR",
+    "Value": "Français"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_itIT",
+    "Key": "bnet119_optionsPanel_language_itIT",
+    "Value": "Italiano"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_jaJP",
+    "Key": "bnet119_optionsPanel_language_jaJP",
+    "Value": "日本語"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_koKR",
+    "Key": "bnet119_optionsPanel_language_koKR",
+    "Value": "한국어 (음역)"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_NOLA",
+    "Key": "bnet119_optionsPanel_language_NOLA",
+    "Value": "한국어 (완역)"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_plPL",
+    "Key": "bnet119_optionsPanel_language_plPL",
+    "Value": "Polski"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_ptBR",
+    "Key": "bnet119_optionsPanel_language_ptBR",
+    "Value": "Português"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_ruRU",
+    "Key": "bnet119_optionsPanel_language_ruRU",
+    "Value": "Русский"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_zhCN",
+    "Key": "bnet119_optionsPanel_language_zhCN",
+    "Value": "简体中文"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_zhTW",
+    "Key": "bnet119_optionsPanel_language_zhTW",
+    "Value": "繁體中文"
+  },
+  {
+    "id": "bnet_participantsPanel_reportUser",
+    "Key": "bnet_participantsPanel_reportUser",
+    "Value": "Пожаловаться на пользователя"
+  },
+  {
+    "id": "chatPlayerJoinedChannel_bnet",
+    "Key": "chatPlayerJoinedChannel_bnet",
+    "Value": "{toonName} присоединяется к каналу {channelName}."
+  },
+  {
+    "id": "chatPlayerLeftChannel_bnet",
+    "Key": "chatPlayerLeftChannel_bnet",
+    "Value": "{toonName} покидает канал {channelName}."
+  },
+  {
+    "id": "chatPlayerJoinedChannel_lan",
+    "Key": "chatPlayerJoinedChannel_lan",
+    "Value": "{toonName} присоединяется к локальной игре."
+  },
+  {
+    "id": "chatPlayerLeftChannel_lan",
+    "Key": "chatPlayerLeftChannel_lan",
+    "Value": "{toonName} покидает локальную игру."
+  },
+  {
+    "id": "bnet_featureError_HdRequired",
+    "Key": "bnet_featureError_HdRequired",
+    "Value": "Эта функция доступна только в StarCraft: Remastered. Чтобы ей воспользоваться, необходимо приобрести игру."
+  },
+  {
+    "id": "bnet_featureError_OfficialGatewayRequired",
+    "Key": "bnet_featureError_OfficialGatewayRequired",
+    "Value": "Эта функция доступна только при игре через официальный шлюз Blizzard."
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_mac",
+    "Key": "bnet119_optionsPanel_game_subtitle_mac",
+    "Value": "Mac"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_disableOsShortcuts",
+    "Key": "bnet119_optionsPanel_game_label_disableOsShortcuts",
+    "Value": "Отключить горячие клавиши ОС"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_UseCmdAsCtrl",
+    "Key": "bnet119_optionsPanel_game_label_UseCmdAsCtrl",
+    "Value": "Использовать клавишу Cmd, а не Ctrl."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_shadowStacking",
+    "Key": "bnet119_optionsPanel_video_label_shadowStacking",
+    "Value": "Наложение теней"
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_NotAvailable",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_NotAvailable",
+    "Value": "Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_NoGameAccount",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_NoGameAccount",
+    "Value": "Вы не отвечаете возрастным критериям и не можете играть в сетевом режиме."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_filtering",
+    "Key": "bnet119_optionsPanel_video_tooltip_filtering",
+    "Value": "Доступно только в режиме SD. Билинейная фильтрация смягчает границы спрайтов."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_NoUtilityServer",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_NoUtilityServer",
+    "Value": "Произошла ошибка при соединении с сервером. Пожалуйста, повторите попытку через несколько минут."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_TimeRestriction",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_TimeRestriction",
+    "Value": "Вы находитесь в игре слишком долго, либо для вас закрыт доступ к ней в данное время суток."
+  },
+  {
+    "id": "bnet_chat_whisper_invalidUser",
+    "Key": "bnet_chat_whisper_invalidUser",
+    "Value": "Некорректный пользователь."
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_tooltip_mouseScaling",
+    "Key": "bnet119_optionsPanel_speed_tooltip_mouseScaling",
+    "Value": "Масштабирование мыши воспроизводит диапазон входного сигнала оригинального разрешения экрана в StarCraft."
+  },
+  {
+    "id": "bnet119_optionsPanel_language_esMX",
+    "Key": "bnet119_optionsPanel_language_esMX",
+    "Value": "Español - Latino"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_tooltip_mouseSensitivity",
+    "Key": "bnet119_optionsPanel_speed_tooltip_mouseSensitivity",
+    "Value": "При отключении будут использоваться настройки скорости мыши вашей операционной системы."
+  },
+  {
+    "id": "observerScreen_tooltip_map",
+    "Key": "observerScreen_tooltip_map",
+    "Value": "Отображение мини-карты."
+  },
+  {
+    "id": "observerScreen_tooltip_map_hotkey",
+    "Key": "observerScreen_tooltip_map_hotkey",
+    "Value": "Alt + I|Q"
+  },
+  {
+    "id": "observerScreen_tooltip_factory",
+    "Key": "observerScreen_tooltip_factory",
+    "Value": "Отображение панели производства."
+  },
+  {
+    "id": "observerScreen_tooltip_factory_hotkey",
+    "Key": "observerScreen_tooltip_factory_hotkey",
+    "Value": "Alt + F"
+  },
+  {
+    "id": "observerScreen_tooltip_unit",
+    "Key": "observerScreen_tooltip_unit",
+    "Value": "Отображение панели войск."
+  },
+  {
+    "id": "observerScreen_tooltip_unit_hotkey",
+    "Key": "observerScreen_tooltip_unit_hotkey",
+    "Value": "Alt + U|W"
+  },
+  {
+    "id": "observerScreen_tooltip_stats",
+    "Key": "observerScreen_tooltip_stats",
+    "Value": "Отображение панели статистики."
+  },
+  {
+    "id": "observerScreen_tooltip_stats_hotkey",
+    "Key": "observerScreen_tooltip_stats_hotkey",
+    "Value": "Alt + E|E"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_language_description",
+    "Key": "bnet119_optionsPanel_game_language_description",
+    "Value": "Для смены языка требуется перезапуск игры."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_windowMode_windows",
+    "Key": "bnet119_optionsPanel_video_tooltip_windowMode_windows",
+    "Value": "Переключение между оконными режимами также осуществляется с помощью комбинации клавиш Alt+Enter."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_windowMode_mac",
+    "Key": "bnet119_optionsPanel_video_tooltip_windowMode_mac",
+    "Value": "Переключение между оконными режимами также осуществляется с помощью комбинации клавиш Cmd+M."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_gamma",
+    "Key": "bnet119_optionsPanel_video_tooltip_gamma",
+    "Value": "Для коррекции гаммы требуется полноэкранный режим. С ее помощью можно настроить интенсивность освещения."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_environmentEffects",
+    "Key": "bnet119_optionsPanel_video_tooltip_environmentEffects",
+    "Value": "Эффекты окружения – это небольшие графические элементы, призванные разнообразить отображение ландшафта."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_realTimeLighting_disabled",
+    "Key": "bnet119_optionsPanel_video_tooltip_realTimeLighting_disabled",
+    "Value": "Для освещения в реальном времени требуется устройство с 2 ГБ видеопамяти или более. Оно отключается при использовании набора обликов «Мультяшки»."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_realTimeLighting_enabled",
+    "Key": "bnet119_optionsPanel_video_tooltip_realTimeLighting_enabled",
+    "Value": "Динамическое освещение войск, строений и ландшафта в зависимости от расположения источников света."
+  },
+  {
+    "id": "bnet119_page_load_error",
+    "Key": "bnet119_page_load_error",
+    "Value": "Не удается загрузить страницу."
+  },
+  {
+    "id": "bnet119_optionsPanel_language_koUS",
+    "Key": "bnet119_optionsPanel_language_koUS",
+    "Value": "한국어 (완역)"
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_SessionNotFound",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_SessionNotFound",
+    "Value": "Вы находитесь в игре слишком долго, либо для вас закрыт доступ к ней в данное время суток."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_ParentalRestricted",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_ParentalRestricted",
+    "Value": "Вы находитесь в игре слишком долго, либо для вас закрыт доступ к ней в данное время суток."
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_speed_settings",
+    "Key": "bnet119_optionsPanel_reset_speed_settings",
+    "Value": "Сбросить настройки скорости?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_sound_settings",
+    "Key": "bnet119_optionsPanel_reset_sound_settings",
+    "Value": "Сбросить настройки звука?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_video_settings",
+    "Key": "bnet119_optionsPanel_reset_video_settings",
+    "Value": "Сбросить настройки графики?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_game_settings",
+    "Key": "bnet119_optionsPanel_reset_game_settings",
+    "Value": "Сбросить настройки игры?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_network_settings",
+    "Key": "bnet119_optionsPanel_reset_network_settings",
+    "Value": "Сбросить настройки сети?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_debug_settings",
+    "Key": "bnet119_optionsPanel_reset_debug_settings",
+    "Value": "Сбросить отладочные настройки?"
+  },
+  {
+    "id": "bnet119_home_ad_prePurchaseNow",
+    "Key": "bnet119_home_ad_prePurchaseNow",
+    "Value": "ПРЕДЗАКАЗ"
+  },
+  {
+    "id": "bnet119_home_ad_globalLaunch",
+    "Key": "bnet119_home_ad_globalLaunch",
+    "Value": "ВЫХОДИТ 14 АВГУСТА"
+  },
+  {
+    "id": "bnet119_home_ad_igrLaunch",
+    "Key": "bnet119_home_ad_igrLaunch",
+    "Value": "ВЫХОД В КОРЕЕ: 30 ИЮЛЯ"
+  },
+  {
+    "id": "bnet119_authentication_progressPopup_queuing_title",
+    "Key": "bnet119_authentication_progressPopup_queuing_title",
+    "Value": "Серверы Blizzard на данный момент переполнены! Ваше место в очереди: {position}. Примерное время ожидания: {seconds} сек."
+  },
+  {
+    "id": "bnet119_optionsPanel_language_dialog_title",
+    "Key": "bnet119_optionsPanel_language_dialog_title",
+    "Value": "Смена языка"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_dialog_body",
+    "Key": "bnet119_optionsPanel_language_dialog_body",
+    "Value": "Для установки нового языкового пакета необходимо выйти из StarCraft."
+  },
+  {
+    "id": "bnet119_optionsPanel_language_dialog_button",
+    "Key": "bnet119_optionsPanel_language_dialog_button",
+    "Value": "Выход"
+  },
+  {
+    "id": "bnet119_chatScreen_ad_globalLaunchText",
+    "Key": "bnet119_chatScreen_ad_globalLaunchText",
+    "Value": "ИГРА ВЫХОДИТ"
+  },
+  {
+    "id": "bnet119_chatScreen_ad_globalWorldwideText",
+    "Key": "bnet119_chatScreen_ad_globalWorldwideText",
+    "Value": "ВО ВСЕМ МИРЕ"
+  },
+  {
+    "id": "bnet119_chatScreen_ad_globalLaunchDate",
+    "Key": "bnet119_chatScreen_ad_globalLaunchDate",
+    "Value": "14 АВГУСТА"
+  },
+  {
+    "id": "observerScreen_tooltip_menu",
+    "Key": "observerScreen_tooltip_menu",
+    "Value": "Открыть меню игры."
+  },
+  {
+    "id": "observerScreen_tooltip_menu_hotkey",
+    "Key": "observerScreen_tooltip_menu_hotkey",
+    "Value": "Alt + M"
+  },
+  {
+    "id": "observerScreen_tooltip_help",
+    "Key": "observerScreen_tooltip_help",
+    "Value": "Щелкните по значку, чтобы отобразить или скрыть эту панель."
+  },
+  {
+    "id": "observerScreen_tooltip_help_hotkey",
+    "Key": "observerScreen_tooltip_help_hotkey",
+    "Value": "Alt + W|R"
+  },
+  {
+    "id": "bnet_downloadFailed",
+    "Key": "bnet_downloadFailed",
+    "Value": "Ошибка загрузки."
+  },
+  {
+    "id": "mainEDITORGONE",
+    "Key": "mainEDITORGONE",
+    "Value": "StarCraft не удается найти редактор. Для доступа к нему необходимо переустановить игру."
+  },
+  {
+    "id": "mainSPAWNEDLABEL_ss",
+    "Key": "mainSPAWNEDLABEL_ss",
+    "Value": "(призвал игрок %s, %s)"
+  },
+  {
+    "id": "mainFULLLABEL_s",
+    "Key": "mainFULLLABEL_s",
+    "Value": "%s"
+  },
+  {
+    "id": "scoreUNITS",
+    "Key": "scoreUNITS",
+    "Value": "Боевые единицы"
+  },
+  {
+    "id": "scoreINFRASTRUCTURE",
+    "Key": "scoreINFRASTRUCTURE",
+    "Value": "Строения"
+  },
+  {
+    "id": "scoreRESOURCES",
+    "Key": "scoreRESOURCES",
+    "Value": "Ресурсы"
+  },
+  {
+    "id": "scoreUBUILT",
+    "Key": "scoreUBUILT",
+    "Value": "Произведено"
+  },
+  {
+    "id": "scoreUKILLED",
+    "Key": "scoreUKILLED",
+    "Value": "Убито"
+  },
+  {
+    "id": "scoreULOST",
+    "Key": "scoreULOST",
+    "Value": "Потеряно"
+  },
+  {
+    "id": "scoreSBUILT",
+    "Key": "scoreSBUILT",
+    "Value": "Построено"
+  },
+  {
+    "id": "scoreSDESTROYED",
+    "Key": "scoreSDESTROYED",
+    "Value": "Разрушено"
+  },
+  {
+    "id": "scoreSLOST",
+    "Key": "scoreSLOST",
+    "Value": "Потеряно"
+  },
+  {
+    "id": "scoreRGASES",
+    "Key": "scoreRGASES",
+    "Value": "Газ"
+  },
+  {
+    "id": "scoreRMINERALS",
+    "Key": "scoreRMINERALS",
+    "Value": "Минералы"
+  },
+  {
+    "id": "scoreRSPENT",
+    "Key": "scoreRSPENT",
+    "Value": "Затраты"
+  },
+  {
+    "id": "scoreTIME_s",
+    "Key": "scoreTIME_s",
+    "Value": "Время: %s"
+  },
+  {
+    "id": "scoreLOST",
+    "Key": "scoreLOST",
+    "Value": "Поражение!"
+  },
+  {
+    "id": "scoreWON",
+    "Key": "scoreWON",
+    "Value": "Победа!"
+  },
+  {
+    "id": "scoreDRAW",
+    "Key": "scoreDRAW",
+    "Value": "Ничья!"
+  },
+  {
+    "id": "scoreDISCONNECT",
+    "Key": "scoreDISCONNECT",
+    "Value": "Отключиться"
+  },
+  {
+    "id": "scoreUNDECIDED",
+    "Key": "scoreUNDECIDED",
+    "Value": "Без результата"
+  },
+  {
+    "id": "loadCONFIRMDELETE",
+    "Key": "loadCONFIRMDELETE",
+    "Value": "Удалить сохранение?"
+  },
+  {
+    "id": "loginNEWCHAR",
+    "Key": "loginNEWCHAR",
+    "Value": "Введите имя профиля"
+  },
+  {
+    "id": "loginDELCHAR",
+    "Key": "loginDELCHAR",
+    "Value": "Удалить этот профиль? Все связанные с ним сохранения также будут удалены."
+  },
+  {
+    "id": "loginNAMEEXISTS",
+    "Key": "loginNAMEEXISTS",
+    "Value": "Это имя уже занято!"
+  },
+  {
+    "id": "loginTOOMANY",
+    "Key": "loginTOOMANY",
+    "Value": "Слишком много профилей. Удалите один из старых, чтобы добавить новый."
+  },
+  {
+    "id": "loginCREATEERROR",
+    "Key": "loginCREATEERROR",
+    "Value": "Ошибка создания профиля. Убедитесь, что на носителе, где установлен StarCraft, достаточно свободного места, а также что вы имеете право записи на него."
+  },
+  {
+    "id": "gameUpOneLevel",
+    "Key": "gameUpOneLevel",
+    "Value": "На уровень выше"
+  },
+  {
+    "id": "gameSaveGames",
+    "Key": "gameSaveGames",
+    "Value": "Сохранить"
+  },
+  {
+    "id": "gamePlayers",
+    "Key": "gamePlayers",
+    "Value": "%u"
+  },
+  {
+    "id": "gamePlayersText_cs",
+    "Key": "gamePlayersText_cs",
+    "Value": "Максимум игроков:%c%s"
+  },
+  {
+    "id": "gameMapSize",
+    "Key": "gameMapSize",
+    "Value": "%ux%u"
+  },
+  {
+    "id": "gameMapSizeText_cs",
+    "Key": "gameMapSizeText_cs",
+    "Value": "Размер карты:%c%s"
+  },
+  {
+    "id": "gameMapERAText_cs",
+    "Key": "gameMapERAText_cs",
+    "Value": "Ландшафт:%c%s"
+  },
+  {
+    "id": "gameOpponents",
+    "Key": "gameOpponents",
+    "Value": "%u"
+  },
+  {
+    "id": "gameOpponentsText_cs",
+    "Key": "gameOpponentsText_cs",
+    "Value": "Слотов для ИИ:%c%s"
+  },
+  {
+    "id": "gameHumans",
+    "Key": "gameHumans",
+    "Value": "%u"
+  },
+  {
+    "id": "gameHumansText_cs",
+    "Key": "gameHumansText_cs",
+    "Value": "Слотов для игроков:%c%s"
+  },
+  {
+    "id": "gameMapERA",
+    "Key": "gameMapERA",
+    "Value": "пустошь"
+  },
+  {
+    "id": "gameMapERA1",
+    "Key": "gameMapERA1",
+    "Value": "космос"
+  },
+  {
+    "id": "gameMapERA2",
+    "Key": "gameMapERA2",
+    "Value": "станция"
+  },
+  {
+    "id": "gameMapERA3",
+    "Key": "gameMapERA3",
+    "Value": "вулкан"
+  },
+  {
+    "id": "gameMapERA4",
+    "Key": "gameMapERA4",
+    "Value": "джунгли"
+  },
+  {
+    "id": "gameMapERA5",
+    "Key": "gameMapERA5",
+    "Value": "пустыня"
+  },
+  {
+    "id": "gameMapERA6",
+    "Key": "gameMapERA6",
+    "Value": "лед"
+  },
+  {
+    "id": "gameMapERA7",
+    "Key": "gameMapERA7",
+    "Value": "сумрак"
+  },
+  {
+    "id": "saveTITLE",
+    "Key": "saveTITLE",
+    "Value": "Сохранение"
+  },
+  {
+    "id": "saveMAPNAME_s",
+    "Key": "saveMAPNAME_s",
+    "Value": "Карта: %s"
+  },
+  {
+    "id": "gameMAPERROR",
+    "Key": "gameMAPERROR",
+    "Value": "Не удалось загрузить карту!"
+  },
+  {
+    "id": "gameAUTHREQUIRED",
+    "Key": "gameAUTHREQUIRED",
+    "Value": "Для рейтингового матча нужно выбрать официальную рейтинговую карту."
+  },
+  {
+    "id": "gameINVALIDMAP",
+    "Key": "gameINVALIDMAP",
+    "Value": "Выбранный сценарий недействителен."
+  },
+  {
+    "id": "gameCREATEERROR",
+    "Key": "gameCREATEERROR",
+    "Value": "При попытке создания матча возникла ошибка."
+  },
+  {
+    "id": "gameCREATEEXISTS",
+    "Key": "gameCREATEEXISTS",
+    "Value": "Сетевой матч уже существует!"
+  },
+  {
+    "id": "gameBADGAMETYPE",
+    "Key": "gameBADGAMETYPE",
+    "Value": "Эта карта не поддерживает выбранный тип игры и настройки."
+  },
+  {
+    "id": "gameTOOMANYGAMES",
+    "Key": "gameTOOMANYGAMES",
+    "Value": "Не удалось создать матч. В этой сети уже проходит слишком много матчей."
+  },
+  {
+    "id": "gameNETWORKERROR",
+    "Key": "gameNETWORKERROR",
+    "Value": "Не удалось создать матч. Ошибка проверки сети."
+  },
+  {
+    "id": "gameNEEDOPPONENT",
+    "Key": "gameNEEDOPPONENT",
+    "Value": "Вам нужен хотя бы один противник под управлением ИИ."
+  },
+  {
+    "id": "gameNEEDHUMAN",
+    "Key": "gameNEEDHUMAN",
+    "Value": "На этой карте нет слота для игрока."
+  },
+  {
+    "id": "gameMAPDEFAULTONLY",
+    "Key": "gameMAPDEFAULTONLY",
+    "Value": "Эту карту можно запустить только в режиме «Настройки карты»."
+  },
+  {
+    "id": "maperrorHIGHERVERSION",
+    "Key": "maperrorHIGHERVERSION",
+    "Value": "Сценарий предназначен для использования с дополнениями для StarCraft."
+  },
+  {
+    "id": "maperrorTITLE",
+    "Key": "maperrorTITLE",
+    "Value": "Некорректный сценарий"
+  },
+  {
+    "id": "maperrorLONGNAME",
+    "Key": "maperrorLONGNAME",
+    "Value": "Сценарий не может быть прочитан, так как у него слишком длинное название файла."
+  },
+  {
+    "id": "maperrorINVALID",
+    "Key": "maperrorINVALID",
+    "Value": "Сценарий не может быть прочитан, так как он поврежден или некорректен."
+  },
+  {
+    "id": "saveerrorTITLE",
+    "Key": "saveerrorTITLE",
+    "Value": "Некорректное сохранение"
+  },
+  {
+    "id": "saveerrorLONGNAME",
+    "Key": "saveerrorLONGNAME",
+    "Value": "Сохранение не может быть прочитано, так как у него слишком длинное название файла."
+  },
+  {
+    "id": "saveerrorINVALID",
+    "Key": "saveerrorINVALID",
+    "Value": "Сохранение не может быть прочитано, так как оно повреждено или некорректно."
+  },
+  {
+    "id": "saveerrorVERSION",
+    "Key": "saveerrorVERSION",
+    "Value": "Сохранение не может быть прочитано из-за несоответствия версий игры."
+  },
+  {
+    "id": "gameSLOWEST",
+    "Key": "gameSLOWEST",
+    "Value": "минимум"
+  },
+  {
+    "id": "gameSLOWER",
+    "Key": "gameSLOWER",
+    "Value": "оч. медл."
+  },
+  {
+    "id": "gameSLOW",
+    "Key": "gameSLOW",
+    "Value": "медленно"
+  },
+  {
+    "id": "gameNORMAL",
+    "Key": "gameNORMAL",
+    "Value": "нормально"
+  },
+  {
+    "id": "gameFAST",
+    "Key": "gameFAST",
+    "Value": "быстро"
+  },
+  {
+    "id": "gameFASTER",
+    "Key": "gameFASTER",
+    "Value": "оч.быстро"
+  },
+  {
+    "id": "gameFASTEST",
+    "Key": "gameFASTEST",
+    "Value": "максимум"
+  },
+  {
+    "id": "gameSHOWALL",
+    "Key": "gameSHOWALL",
+    "Value": "Показать все"
+  },
+  {
+    "id": "gameSPEED",
+    "Key": "gameSPEED",
+    "Value": "Скорость:"
+  },
+  {
+    "id": "conDIRECT",
+    "Key": "conDIRECT",
+    "Value": "Прямое соединение"
+  },
+  {
+    "id": "conIPX",
+    "Key": "conIPX",
+    "Value": "Сеть IPX"
+  },
+  {
+    "id": "conBTLN",
+    "Key": "conBTLN",
+    "Value": "Battle.net"
+  },
+  {
+    "id": "conPROVERROR",
+    "Key": "conPROVERROR",
+    "Value": "Данный поставщик сети не может быть инициализирован."
+  },
+  {
+    "id": "chatPLAYERJOINED_s",
+    "Key": "chatPLAYERJOINED_s",
+    "Value": "%s присоединяется к матчу."
+  },
+  {
+    "id": "chatPLAYERLEFT_s",
+    "Key": "chatPLAYERLEFT_s",
+    "Value": "%s покидает матч."
+  },
+  {
+    "id": "chatDISTERROR",
+    "Key": "chatDISTERROR",
+    "Value": "При загрузке карты возникла ошибка."
+  },
+  {
+    "id": "chatASSIGNTEAMS",
+    "Key": "chatASSIGNTEAMS",
+    "Value": "Все игроки должны быть распределены по командам."
+  },
+  {
+    "id": "chatONESIDE",
+    "Key": "chatONESIDE",
+    "Value": "Чтобы начать матч, вам нужен соперник."
+  },
+  {
+    "id": "chatFILETRANSFERRING",
+    "Key": "chatFILETRANSFERRING",
+    "Value": "Карта все еще загружается."
+  },
+  {
+    "id": "chatBOOTED",
+    "Key": "chatBOOTED",
+    "Value": "Вас исключили."
+  },
+  {
+    "id": "chatBANNED",
+    "Key": "chatBANNED",
+    "Value": "Вас заблокировали."
+  },
+  {
+    "id": "chatSLOTCLOSED",
+    "Key": "chatSLOTCLOSED",
+    "Value": "Создатель матча закрыл все свободные слоты!"
+  },
+  {
+    "id": "chatHOSTLEFT",
+    "Key": "chatHOSTLEFT",
+    "Value": "Создатель покинул матч."
+  },
+  {
+    "id": "chatUNJOINABLE",
+    "Key": "chatUNJOINABLE",
+    "Value": "Не удалось присоединиться к матчу."
+  },
+  {
+    "id": "chatVERSIONMISMATCH",
+    "Key": "chatVERSIONMISMATCH",
+    "Value": "Невозможно присоединиться к матчу, так как он создан в другой версии StarCraft."
+  },
+  {
+    "id": "chatINVALIDSAVE",
+    "Key": "chatINVALIDSAVE",
+    "Value": "Сохранение не найдено."
+  },
+  {
+    "id": "chatINVALIDSPAWN",
+    "Key": "chatINVALIDSPAWN",
+    "Value": "Невозможно присоединиться к матчу. Этот матч не был создан с тем же CD-ключом, что и ваша пробная версия StarCraft."
+  },
+  {
+    "id": "chatINVALIDMAP",
+    "Key": "chatINVALIDMAP",
+    "Value": "При проверке карты возникла ошибка."
+  },
+  {
+    "id": "chatFDERROR",
+    "Key": "chatFDERROR",
+    "Value": "Не удалось создать файл сценария."
+  },
+  {
+    "id": "chatCONFIRMBOOT_s",
+    "Key": "chatCONFIRMBOOT_s",
+    "Value": "Этот игрок будет исключен:\n%s\\nПродолжить?"
+  },
+  {
+    "id": "chatPLAYERS",
+    "Key": "chatPLAYERS",
+    "Value": "Игроки"
+  },
+  {
+    "id": "chatCOMPUTERSLOT",
+    "Key": "chatCOMPUTERSLOT",
+    "Value": "Компьютерный игрок"
+  },
+  {
+    "id": "chatNEUTRALSLOT",
+    "Key": "chatNEUTRALSLOT",
+    "Value": "Нейтральный"
+  },
+  {
+    "id": "chatSECONDS",
+    "Key": "chatSECONDS",
+    "Value": "сек."
+  },
+  {
+    "id": "chatSOON",
+    "Key": "chatSOON",
+    "Value": "скоро!"
+  },
+  {
+    "id": "slotCOMPUTER",
+    "Key": "slotCOMPUTER",
+    "Value": "ИИ"
+  },
+  {
+    "id": "slotOPEN",
+    "Key": "slotOPEN",
+    "Value": "Открытый слот"
+  },
+  {
+    "id": "slotCLOSED",
+    "Key": "slotCLOSED",
+    "Value": "Закрытый слот"
+  },
+  {
+    "id": "slotBAN",
+    "Key": "slotBAN",
+    "Value": "Заблокировать!"
+  },
+  {
+    "id": "bnMAP",
+    "Key": "bnMAP",
+    "Value": "Карта:"
+  },
+  {
+    "id": "bnCREATOR",
+    "Key": "bnCREATOR",
+    "Value": "Создатель:"
+  },
+  {
+    "id": "bnTYPE",
+    "Key": "bnTYPE",
+    "Value": "Тип:"
+  },
+  {
+    "id": "bnSPEED",
+    "Key": "bnSPEED",
+    "Value": "Скорость:"
+  },
+  {
+    "id": "bnTIME",
+    "Key": "bnTIME",
+    "Value": "Время:  %d:%02d%s"
+  },
+  {
+    "id": "bnAM",
+    "Key": "bnAM",
+    "Value": "AM"
+  },
+  {
+    "id": "bnPM",
+    "Key": "bnPM",
+    "Value": "PM"
+  },
+  {
+    "id": "bnCREATEEXISTS",
+    "Key": "bnCREATEEXISTS",
+    "Value": "Матч с таким названием уже существует!"
+  },
+  {
+    "id": "bnNAMENEEDED",
+    "Key": "bnNAMENEEDED",
+    "Value": "Введите название матча, чтобы продолжить."
+  },
+  {
+    "id": "bnMAPNEEDED",
+    "Key": "bnMAPNEEDED",
+    "Value": "Выберите карту, чтобы продолжить."
+  },
+  {
+    "id": "bnPASSWORDNEEDED",
+    "Key": "bnPASSWORDNEEDED",
+    "Value": "Для продолжения сохраненного мачта нужно ввести пароль."
+  },
+  {
+    "id": "bnNOLADDER",
+    "Key": "bnNOLADDER",
+    "Value": "Для участия в рейтинговых матчах нужно одержать как минимум 10 обычных побед."
+  },
+  {
+    "id": "bnSPAWNNOLADDER",
+    "Key": "bnSPAWNNOLADDER",
+    "Value": "Не удалось присоединиться к матчу. Вы используете пробную версию StarCraft без доступа к рейтинговым матчам."
+  },
+  {
+    "id": "bnCANTJOIN",
+    "Key": "bnCANTJOIN",
+    "Value": "Не удается присоединиться к выбранному матчу."
+  },
+  {
+    "id": "bnRESTRICTEDCHANNEL",
+    "Key": "bnRESTRICTEDCHANNEL",
+    "Value": "Доступ к выбранному каналу ограничен"
+  },
+  {
+    "id": "profLADDERGAMES",
+    "Key": "profLADDERGAMES",
+    "Value": "Рейтинговые матчи"
+  },
+  {
+    "id": "profNORMALGAMES",
+    "Key": "profNORMALGAMES",
+    "Value": "Обычные матчи"
+  },
+  {
+    "id": "profRATINGTITLE",
+    "Key": "profRATINGTITLE",
+    "Value": "Рейтинг:"
+  },
+  {
+    "id": "profRANKTITLE",
+    "Key": "profRANKTITLE",
+    "Value": "Ранг:"
+  },
+  {
+    "id": "profUNRATED",
+    "Key": "profUNRATED",
+    "Value": "Без оценки"
+  },
+  {
+    "id": "profLASTGAMETITLE",
+    "Key": "profLASTGAMETITLE",
+    "Value": "Последний матч:"
+  },
+  {
+    "id": "profRANK_s",
+    "Key": "profRANK_s",
+    "Value": "#%s"
+  },
+  {
+    "id": "profUNRANKED",
+    "Key": "profUNRANKED",
+    "Value": "Без рейтинга"
+  },
+  {
+    "id": "profRATINGHIGH_s",
+    "Key": "profRATINGHIGH_s",
+    "Value": "(Макс.: #%s)"
+  },
+  {
+    "id": "profRANKHIGH_s",
+    "Key": "profRANKHIGH_s",
+    "Value": "(Макс.: #%s)"
+  },
+  {
+    "id": "profRECORD_ss",
+    "Key": "profRECORD_ss",
+    "Value": "Рекорд: %s/%s"
+  },
+  {
+    "id": "profDISCONNECTS_s",
+    "Key": "profDISCONNECTS_s",
+    "Value": "Отключений: %s"
+  },
+  {
+    "id": "profNEVERPLAYED",
+    "Key": "profNEVERPLAYED",
+    "Value": "Не играет"
+  },
+  {
+    "id": "profNOINFORMATION",
+    "Key": "profNOINFORMATION",
+    "Value": "Нет информации"
+  },
+  {
+    "id": "ladNOPENALTY",
+    "Key": "ladNOPENALTY",
+    "Value": "Без штрафа"
+  },
+  {
+    "id": "ladASLOSS",
+    "Key": "ladASLOSS",
+    "Value": "Зачет поражения"
+  },
+  {
+    "id": "tvbSIDES",
+    "Key": "tvbSIDES",
+    "Value": "%d х %d"
+  },
+  {
+    "id": "tvbTEAMONE",
+    "Key": "tvbTEAMONE",
+    "Value": "Ваша команда"
+  },
+  {
+    "id": "tvbTEAMTWO",
+    "Key": "tvbTEAMTWO",
+    "Value": "Команда противника"
+  },
+  {
+    "id": "tvbSWITCHWITH",
+    "Key": "tvbSWITCHWITH",
+    "Value": "Переключение: %s"
+  },
+  {
+    "id": "tvbMOVETO",
+    "Key": "tvbMOVETO",
+    "Value": "Переместиться: %s"
+  },
+  {
+    "id": "scoreReplaySavedStr",
+    "Key": "scoreReplaySavedStr",
+    "Value": "cПовтор \\u0004с\\u0001охранен"
+  },
+  {
+    "id": "scoreReplayTitle",
+    "Key": "scoreReplayTitle",
+    "Value": "Информация о повторе"
+  },
+  {
+    "id": "saveReplayDialogTitle",
+    "Key": "saveReplayDialogTitle",
+    "Value": "Сохранить повтор"
+  },
+  {
+    "id": "replayChatTitle",
+    "Key": "replayChatTitle",
+    "Value": "Повтор:"
+  },
+  {
+    "id": "replayEndGame",
+    "Key": "replayEndGame",
+    "Value": "Повтор закончен."
+  },
+  {
+    "id": "visionDialogTitle",
+    "Key": "visionDialogTitle",
+    "Value": "Повтор игроков"
+  },
+  {
+    "id": "visionRevealAll",
+    "Key": "visionRevealAll",
+    "Value": "Открыть всю карту"
+  },
+  {
+    "id": "bnREPLAYPASSWORDNEEDED",
+    "Key": "bnREPLAYPASSWORDNEEDED",
+    "Value": "Для просмотра повтора нужно ввести пароль."
+  },
+  {
+    "id": "gameNOTENOUGHPLAYERS",
+    "Key": "gameNOTENOUGHPLAYERS",
+    "Value": "Недостаточно игроков для начала матча."
+  },
+  {
+    "id": "gameMAPTOOSMALL",
+    "Key": "gameMAPTOOSMALL",
+    "Value": "У этой карты недостаточно слотов игроков для выбранного типа игры."
+  },
+  {
+    "id": "bnNoTourn",
+    "Key": "bnNoTourn",
+    "Value": "Только участники лиги могут принимать участие в ее матчах."
+  },
+  {
+    "id": "gameTournAuthRequired",
+    "Key": "gameTournAuthRequired",
+    "Value": "Для матча лиги нужно выбрать официальную карту лиги."
+  },
+  {
+    "id": "bnSpawnNoTourn",
+    "Key": "bnSpawnNoTourn",
+    "Value": "Не удалось присоединиться к матчу. Вы используете пробную версию StarCraft без доступа к матчам лиги."
+  },
+  {
+    "id": "gameTournTwoPlayers",
+    "Key": "gameTournTwoPlayers",
+    "Value": "Для матча лиги требуются два не призванных игрока."
+  },
+  {
+    "id": "gameTournNoBroodWar",
+    "Key": "gameTournNoBroodWar",
+    "Value": "Чтобы участвовать в матчах без Brood War, подключитесь к Battle.net через оригинальную версию StarCraft."
+  },
+  {
+    "id": "gameTournRequireBroodWar",
+    "Key": "gameTournRequireBroodWar",
+    "Value": "Для матчей лиги требуется дополнение Brood War."
+  },
+  {
+    "id": "slotPublic",
+    "Key": "slotPublic",
+    "Value": "Сделать матч открытым"
+  },
+  {
+    "id": "slotPublic2",
+    "Key": "slotPublic2",
+    "Value": "Сделать открытым"
+  },
+  {
+    "id": "profWINS",
+    "Key": "profWINS",
+    "Value": "Побед:"
+  },
+  {
+    "id": "profLOSSES",
+    "Key": "profLOSSES",
+    "Value": "Поражений:"
+  },
+  {
+    "id": "chatSECOND",
+    "Key": "chatSECOND",
+    "Value": "сек."
+  },
+  {
+    "id": "graphics_eightBitColorError",
+    "Key": "graphics_eightBitColorError",
+    "Value": "Попытка запустить игру в 256-цветном режиме.\\nУбедитесь, что режим совместимости отключен."
+  },
+  {
+    "id": "bnet_joinGame_error_timeOut",
+    "Key": "bnet_joinGame_error_timeOut",
+    "Value": "Время ожидания после отправки приглашения присоединиться превышено."
+  },
+  {
+    "id": "bnet_joinGame_error_gameNotFound",
+    "Key": "bnet_joinGame_error_gameNotFound",
+    "Value": "Владелец сделал игру закрытой."
+  },
+  {
+    "id": "bnet_friends_inviteFriendship",
+    "Key": "bnet_friends_inviteFriendship",
+    "Value": "Запрос на добавление в друзья отправлен игроку {name}."
+  },
+  {
+    "id": "chatPlayerJoinedChannel_s",
+    "Key": "chatPlayerJoinedChannel_s",
+    "Value": "%s присоединяется к каналу."
+  },
+  {
+    "id": "chatPlayerLeftChannel_s",
+    "Key": "chatPlayerLeftChannel_s",
+    "Value": "%s покидает канал."
+  },
+  {
+    "id": "chatJoinLeaveVerboseOn",
+    "Key": "chatJoinLeaveVerboseOn",
+    "Value": "Уведомления о входе/выходе: ВКЛ."
+  },
+  {
+    "id": "chatJoinLeaveVerboseOff",
+    "Key": "chatJoinLeaveVerboseOff",
+    "Value": "Уведомления о входе/выходе: ВЫКЛ."
+  },
+  {
+    "id": "bnet119_optionsPanel_general_title",
+    "Key": "bnet119_optionsPanel_general_title",
+    "Value": "Настройки"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_restore",
+    "Key": "bnet119_optionsPanel_general_restore",
+    "Value": "g\\u0004П\\u0001о умолчанию"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_hotkeys",
+    "Key": "bnet119_optionsPanel_general_hotkeys",
+    "Value": "Горячие клавиши"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_label_slow",
+    "Key": "bnet119_optionsPanel_general_label_slow",
+    "Value": "низкая"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_label_fast",
+    "Key": "bnet119_optionsPanel_general_label_fast",
+    "Value": "высокая"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_label_min",
+    "Key": "bnet119_optionsPanel_general_label_min",
+    "Value": "минимальная"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_label_max",
+    "Key": "bnet119_optionsPanel_general_label_max",
+    "Value": "максимальная"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_speed",
+    "Key": "bnet119_optionsPanel_tabs_speed",
+    "Value": "c\\u0004С\\u0001корость"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_sound",
+    "Key": "bnet119_optionsPanel_tabs_sound",
+    "Value": "p\\u0004З\\u0001вук"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_video",
+    "Key": "bnet119_optionsPanel_tabs_video",
+    "Value": "u\\u0004Г\\u0001рафика"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_game",
+    "Key": "bnet119_optionsPanel_tabs_game",
+    "Value": "b\\u0004И\\u0001гра"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_network",
+    "Key": "bnet119_optionsPanel_tabs_network",
+    "Value": "tС\\u0004е\\u0001ть"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_debug",
+    "Key": "bnet119_optionsPanel_tabs_debug",
+    "Value": "j\\u0004О\\u0001тладка"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_title",
+    "Key": "bnet119_optionsPanel_speed_title",
+    "Value": "Настройки скорости"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_subtitle_gameplaySpeed",
+    "Key": "bnet119_optionsPanel_speed_subtitle_gameplaySpeed",
+    "Value": "Скорость игры"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_subtitle_cursorSpeed",
+    "Key": "bnet119_optionsPanel_speed_subtitle_cursorSpeed",
+    "Value": "Скорость указателя"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_subtitle_scrollSpeed",
+    "Key": "bnet119_optionsPanel_speed_subtitle_scrollSpeed",
+    "Value": "Скорость прокрутки"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_gameSpeed",
+    "Key": "bnet119_optionsPanel_speed_label_gameSpeed",
+    "Value": "Скорость игры"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_mouseSensitivity",
+    "Key": "bnet119_optionsPanel_speed_label_mouseSensitivity",
+    "Value": "Чувствительность мыши"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_keyScroll",
+    "Key": "bnet119_optionsPanel_speed_label_keyScroll",
+    "Value": "Скорость прокрутки клавишами"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_mouseScroll",
+    "Key": "bnet119_optionsPanel_speed_label_mouseScroll",
+    "Value": "Скорость прокрутки мышью"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_middleMouseScroll",
+    "Key": "bnet119_optionsPanel_speed_label_middleMouseScroll",
+    "Value": "Прокрутка средней кнопкой мыши"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_title",
+    "Key": "bnet119_optionsPanel_sound_title",
+    "Value": "Настройки звука"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_musicVolume",
+    "Key": "bnet119_optionsPanel_sound_label_musicVolume",
+    "Value": "Громкость музыки"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_digitalVolume",
+    "Key": "bnet119_optionsPanel_sound_label_digitalVolume",
+    "Value": "Громкость эффектов"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_unitSpeech",
+    "Key": "bnet119_optionsPanel_sound_label_unitSpeech",
+    "Value": "Реплики боевых единиц"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_unitAck",
+    "Key": "bnet119_optionsPanel_sound_label_unitAck",
+    "Value": "Ответы боевых единиц"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_buildingSounds",
+    "Key": "bnet119_optionsPanel_sound_label_buildingSounds",
+    "Value": "Звуки строительства"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_remasteredAudio",
+    "Key": "bnet119_optionsPanel_sound_label_remasteredAudio",
+    "Value": "Обновленный звук"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_subtitles",
+    "Key": "bnet119_optionsPanel_sound_label_subtitles",
+    "Value": "Субтитры вкл."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_title",
+    "Key": "bnet119_optionsPanel_video_title",
+    "Value": "Настройки графики"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_windowMode",
+    "Key": "bnet119_optionsPanel_video_label_windowMode",
+    "Value": "Режим экрана"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_screenResolution",
+    "Key": "bnet119_optionsPanel_video_label_screenResolution",
+    "Value": "Разрешение экрана"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_gamma",
+    "Key": "bnet119_optionsPanel_video_label_gamma",
+    "Value": "Коррекция гаммы"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_fpsCap",
+    "Key": "bnet119_optionsPanel_video_label_fpsCap",
+    "Value": "Включить ограничение FPS"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_filtering",
+    "Key": "bnet119_optionsPanel_video_label_filtering",
+    "Value": "Включить билинейную фильтрацию"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_vsync",
+    "Key": "bnet119_optionsPanel_video_label_vsync",
+    "Value": "Включить вертикальную синхронизацию"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_hd",
+    "Key": "bnet119_optionsPanel_video_label_hd",
+    "Value": "HD-графика"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_environmentEffects",
+    "Key": "bnet119_optionsPanel_video_label_environmentEffects",
+    "Value": "Эффекты окружения"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_realTimeLighting",
+    "Key": "bnet119_optionsPanel_video_label_realTimeLighting",
+    "Value": "Освещение в реальном времени"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_enhancedAnimAngles",
+    "Key": "bnet119_optionsPanel_video_label_enhancedAnimAngles",
+    "Value": "Улучшенная анимация вкл."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_colorblindMode",
+    "Key": "bnet119_optionsPanel_video_label_colorblindMode",
+    "Value": "Альтернативные цвета"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_title",
+    "Key": "bnet119_optionsPanel_game_title",
+    "Value": "Настройки игры"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_gameplay",
+    "Key": "bnet119_optionsPanel_game_subtitle_gameplay",
+    "Value": "Игра"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_language",
+    "Key": "bnet119_optionsPanel_game_subtitle_language",
+    "Value": "Язык"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_apmTracking",
+    "Key": "bnet119_optionsPanel_game_subtitle_apmTracking",
+    "Value": "Отслеживание APM"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_gameTimer",
+    "Key": "bnet119_optionsPanel_game_label_gameTimer",
+    "Value": "Таймер"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_colorCycling",
+    "Key": "bnet119_optionsPanel_game_label_colorCycling",
+    "Value": "Включить чередование цветов"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_languageFilter",
+    "Key": "bnet119_optionsPanel_game_label_languageFilter",
+    "Value": "Фильтр нецензурной лексики"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_redBlueTeamColors",
+    "Key": "bnet119_optionsPanel_game_label_redBlueTeamColors",
+    "Value": "Цвета команд «Синие против красных»"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_bonusSkins",
+    "Key": "bnet119_optionsPanel_game_label_bonusSkins",
+    "Value": "Показывать бонусные облики"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_unitPortraits",
+    "Key": "bnet119_optionsPanel_game_label_unitPortraits",
+    "Value": "Портреты боевых единиц"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_textLanguage",
+    "Key": "bnet119_optionsPanel_game_label_textLanguage",
+    "Value": "Язык текста"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_voLanguage",
+    "Key": "bnet119_optionsPanel_game_label_voLanguage",
+    "Value": "Язык аудио"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_apm",
+    "Key": "bnet119_optionsPanel_game_label_apm",
+    "Value": "Показывать значение APM"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_epm",
+    "Key": "bnet119_optionsPanel_game_label_epm",
+    "Value": "Оповещать при падении APM ниже"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_alert",
+    "Key": "bnet119_optionsPanel_game_label_alert",
+    "Value": "Сигнал при APM <"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_colorText",
+    "Key": "bnet119_optionsPanel_game_label_colorText",
+    "Value": "Цвет текста"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_playSound",
+    "Key": "bnet119_optionsPanel_game_label_playSound",
+    "Value": "Проигрывать звук"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_title",
+    "Key": "bnet119_optionsPanel_network_title",
+    "Value": "Настройки сети"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_description",
+    "Key": "bnet119_optionsPanel_network_description",
+    "Value": "Снижение задержки сокращает время между щелчком мыши и реакцией боевой единицы. Повышение задержки увеличивает этот промежуток времени, но выравнивает производительность сети при нестабильном или медленном подключении."
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_defaultLatency",
+    "Key": "bnet119_optionsPanel_network_subtitle_defaultLatency",
+    "Value": "Задержка"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_customGameLatency",
+    "Key": "bnet119_optionsPanel_network_subtitle_customGameLatency",
+    "Value": "Задержка в «Своей игре»"
+  },
+  {
+    "id": "bnet119_optionsPanel_debug_title",
+    "Key": "bnet119_optionsPanel_debug_title",
+    "Value": "Отладка"
+  },
+  {
+    "id": "str_confirm",
+    "Key": "str_confirm",
+    "Value": "jП\\u0004о\\u0001дтвердить"
+  },
+  {
+    "id": "bnet_chat_error_game_end",
+    "Key": "bnet_chat_error_game_end",
+    "Value": "Ошибка: не удалось отправить результат матча на сервер."
+  },
+  {
+    "id": "bnet_chat_whisperToPrefix",
+    "Key": "bnet_chat_whisperToPrefix",
+    "Value": "<Игроку: %s>"
+  },
+  {
+    "id": "bnet_chat_whisperFromPrefix",
+    "Key": "bnet_chat_whisperFromPrefix",
+    "Value": "<От: %s>"
+  },
+  {
+    "id": "bnet_chat_addFriend_error_LE_Failure",
+    "Key": "bnet_chat_addFriend_error_LE_Failure",
+    "Value": "Некорректный пользователь."
+  },
+  {
+    "id": "bnet_chat_addFriend_error_LE_RequestTimedOut",
+    "Key": "bnet_chat_addFriend_error_LE_RequestTimedOut",
+    "Value": "Не удалось добавить игрока в список друзей."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_offline",
+    "Key": "bnet_chat_command_whoIs_offline",
+    "Value": "{name}, не в сети."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_inGame",
+    "Key": "bnet_chat_command_whoIs_inGame",
+    "Value": "{name} (шлюз: {gateway}), {mutual} использует «{program}» в {private} игре «{game}»."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_inChat",
+    "Key": "bnet_chat_command_whoIs_inChat",
+    "Value": "{name} (шлюз: {gateway}), {mutual} использует «{program}» в канале «{channel}»."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_online",
+    "Key": "bnet_chat_command_whoIs_online",
+    "Value": "{name} (шлюз: {gateway}), {mutual} использует «{program}»."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_mutualFriendship",
+    "Key": "bnet_chat_command_whoIs_mutualFriendship",
+    "Value": "(mutual)"
+  },
+  {
+    "id": "bnet_chat_command_friends_list_title",
+    "Key": "bnet_chat_command_friends_list_title",
+    "Value": "Ваши друзья:"
+  },
+  {
+    "id": "bnet_advertisement_error_CE_BadGame",
+    "Key": "bnet_advertisement_error_CE_BadGame",
+    "Value": "Данное название матча уже существует."
+  },
+  {
+    "id": "bnet_advertisement_error_CE_BadGame_BadWords",
+    "Key": "bnet_advertisement_error_CE_BadGame_BadWords",
+    "Value": "Некорректное название матча."
+  },
+  {
+    "id": "str_quit",
+    "Key": "str_quit",
+    "Value": "j\\u0004О\\u0001тмена"
+  },
+  {
+    "id": "hotkeyPane_resetConfirmation",
+    "Key": "hotkeyPane_resetConfirmation",
+    "Value": "Подтверждение сброса"
+  },
+  {
+    "id": "hotkeyPane_resetConfirmationDescription",
+    "Key": "hotkeyPane_resetConfirmationDescription",
+    "Value": "Пользовательские назначения клавиш будут сброшены. Для вступления в силу этих настроек их нужно сохранить."
+  },
+  {
+    "id": "graphics_errorTitle",
+    "Key": "graphics_errorTitle",
+    "Value": "Ошибка"
+  },
+  {
+    "id": "graphics_initError",
+    "Key": "graphics_initError",
+    "Value": "Ошибка инициализации OpenGL.\\nУбедитесь, что драйверы вашей видеокарты обновлены до последней версии."
+  },
+  {
+    "id": "bnet_chat_create",
+    "Key": "bnet_chat_create",
+    "Value": "c\\u0004С\\u0001оздать"
+  },
+  {
+    "id": "bnet119_connection_title",
+    "Key": "bnet119_connection_title",
+    "Value": "Выбор подключения"
+  },
+  {
+    "id": "bnet119_connection_error",
+    "Key": "bnet119_connection_error",
+    "Value": "Не удается получить список подключений."
+  },
+  {
+    "id": "bnet119_registry_title",
+    "Key": "bnet119_registry_title",
+    "Value": "Профиль"
+  },
+  {
+    "id": "bnet119_registry_error",
+    "Key": "bnet119_registry_error",
+    "Value": "Не удается получить список профилей."
+  },
+  {
+    "id": "bnet119_matchmaking_title",
+    "Key": "bnet119_matchmaking_title",
+    "Value": "Рейтинговый матч"
+  },
+  {
+    "id": "bnet119_matchmaking_selectRace",
+    "Key": "bnet119_matchmaking_selectRace",
+    "Value": "Выбор расы"
+  },
+  {
+    "id": "bnet119_matchmaking_selectMode",
+    "Key": "bnet119_matchmaking_selectMode",
+    "Value": "Выбор типа игры"
+  },
+  {
+    "id": "bnet119_matchmakingMapPreferences_title",
+    "Key": "bnet119_matchmakingMapPreferences_title",
+    "Value": "d\\u0004В\\u0001ыбор карт"
+  },
+  {
+    "id": "bnet119_matchmakingMapPreferences_voteDescription",
+    "Key": "bnet119_matchmakingMapPreferences_voteDescription",
+    "Value": "Вы можете выбрать до 3 карт, матчи на которых будут проводиться реже, чем на остальных."
+  },
+  {
+    "id": "bnet119_matchmakingMapPreferences_voteRemaining",
+    "Key": "bnet119_matchmakingMapPreferences_voteRemaining",
+    "Value": "Осталось голосов"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_title",
+    "Key": "bnet119_matchmakingSearch_title",
+    "Value": "Поиск"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_estimatedTime",
+    "Key": "bnet119_matchmakingSearch_estimatedTime",
+    "Value": "Примерное время ожидания"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_cancel",
+    "Key": "bnet119_matchmakingSearch_cancel",
+    "Value": "tОтм\\u0004е\\u0001на"
+  },
+  {
+    "id": "bnet119_toonCreation_or",
+    "Key": "bnet119_toonCreation_or",
+    "Value": "или"
+  },
+  {
+    "id": "bnet119_toonCreation_creationInfo",
+    "Key": "bnet119_toonCreation_creationInfo",
+    "Value": "Если вы играли в StarCraft в течение последних 3 месяцев и хотите сохранить имя своего профиля и рекорды, вы можете привязать к своей учетной записи классическую учетную запись Battle.net."
+  },
+  {
+    "id": "bnet119_toonCreation_linkAccount",
+    "Key": "bnet119_toonCreation_linkAccount",
+    "Value": "g\\u0004П\\u0001ривязать запись"
+  },
+  {
+    "id": "bnet119_toonLink_title",
+    "Key": "bnet119_toonLink_title",
+    "Value": "Привязать классическую учетную запись Battle.net"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_whisper",
+    "Key": "bnet119_chatPanel_contextMenu_whisper",
+    "Value": "Шепнуть"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_playCustom",
+    "Key": "bnet119_chatPanel_contextMenu_playCustom",
+    "Value": "Своя игра"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_viewProfile",
+    "Key": "bnet119_chatPanel_contextMenu_viewProfile",
+    "Value": "Просмотр профиля"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_removeFriend",
+    "Key": "bnet119_chatPanel_contextMenu_removeFriend",
+    "Value": "Удалить из списка друзей"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_playersOnline",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_playersOnline",
+    "Value": "Игроков в сети"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_change",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_change",
+    "Value": "Изменить"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_seasonRecord1v1",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_seasonRecord1v1",
+    "Value": "Данные сезона (1х1)"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_careerWins",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_careerWins",
+    "Value": "Побед"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_topRace",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_topRace",
+    "Value": "Любимая раса"
+  },
+  {
+    "id": "bnet119_toonInfoPanel_seasonRank",
+    "Key": "bnet119_toonInfoPanel_seasonRank",
+    "Value": "Сезонный ранг 1х1"
+  },
+  {
+    "id": "bnet119_addFriendPopup_suggestFriend",
+    "Key": "bnet119_addFriendPopup_suggestFriend",
+    "Value": "Возможные друзья"
+  },
+  {
+    "id": "bnet119_addFriendPopup_enterInfo",
+    "Key": "bnet119_addFriendPopup_enterInfo",
+    "Value": "Введите имя профиля в StarCraft, BattleTag#0000 или адрес электронной почты"
+  },
+  {
+    "id": "bnet_chat_command_friends_whisper_name",
+    "Key": "bnet_chat_command_friends_whisper_name",
+    "Value": "ваши друзья"
+  },
+  {
+    "id": "bnet119_toonCreation_createNewCharacter",
+    "Key": "bnet119_toonCreation_createNewCharacter",
+    "Value": "Создать персонажа"
+  },
+  {
+    "id": "bnet119_toonCreation_characterName",
+    "Key": "bnet119_toonCreation_characterName",
+    "Value": "Имя профиля"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_matchFound",
+    "Key": "bnet119_matchmakingSearch_matchFound",
+    "Value": "Матч найден!"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_ready",
+    "Key": "bnet119_matchmakingSearch_ready",
+    "Value": "u\\u0004Г\\u0001отовность"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_header",
+    "Key": "bnet119_hotkeysPanel_header",
+    "Value": "Горячие клавиши"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_units_label",
+    "Key": "bnet119_hotkeysPanel_units_label",
+    "Value": "Единицы"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_buildings_label",
+    "Key": "bnet119_hotkeysPanel_buildings_label",
+    "Value": "Строения"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_groudUnits_label",
+    "Key": "bnet119_hotkeysPanel_groudUnits_label",
+    "Value": "Наземные"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_airUnits_label",
+    "Key": "bnet119_hotkeysPanel_airUnits_label",
+    "Value": "Воздушные"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_basicBuildings_label",
+    "Key": "bnet119_hotkeysPanel_basicBuildings_label",
+    "Value": "Основные"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_advancedBuildings_label",
+    "Key": "bnet119_hotkeysPanel_advancedBuildings_label",
+    "Value": "Дополнительные"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_unitSelection_instructions",
+    "Key": "bnet119_hotkeysPanel_unitSelection_instructions",
+    "Value": "Щелкните по единице, чтобы просмотреть доступные приказы."
+  },
+  {
+    "id": "bnet119_hotkeysPanel_commandSelection_instructions",
+    "Key": "bnet119_hotkeysPanel_commandSelection_instructions",
+    "Value": "Щелкните по приказу, чтобы изменить его горячую клавишу."
+  },
+  {
+    "id": "bnet119_hotkeysPanel_hotkey_instructions",
+    "Key": "bnet119_hotkeysPanel_hotkey_instructions",
+    "Value": "Нажмите нужную клавишу"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_selected_prefix",
+    "Key": "bnet119_hotkeysPanel_selected_prefix",
+    "Value": " "
+  },
+  {
+    "id": "bnet119_hotkeysPanel_general_actionCard",
+    "Key": "bnet119_hotkeysPanel_general_actionCard",
+    "Value": "Общее"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_basicStructure_actionCard",
+    "Key": "bnet119_hotkeysPanel_basicStructure_actionCard",
+    "Value": "Основные строения"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_advancedStructure_actionCard",
+    "Key": "bnet119_hotkeysPanel_advancedStructure_actionCard",
+    "Value": "Дополнительные строения"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_tankMode_actionCard",
+    "Key": "bnet119_hotkeysPanel_tankMode_actionCard",
+    "Value": "Режим танка"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_siegeMode_actionCard",
+    "Key": "bnet119_hotkeysPanel_siegeMode_actionCard",
+    "Value": "Осадный режим"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_uncloaked_actionCard",
+    "Key": "bnet119_hotkeysPanel_uncloaked_actionCard",
+    "Value": "Без маскировки"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_cloaked_actionCard",
+    "Key": "bnet119_hotkeysPanel_cloaked_actionCard",
+    "Value": "Под маскировкой"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_lifted_actionCard",
+    "Key": "bnet119_hotkeysPanel_lifted_actionCard",
+    "Value": "В воздухе"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_burrowed_actionCard",
+    "Key": "bnet119_hotkeysPanel_burrowed_actionCard",
+    "Value": "Под землей"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_binding_unitsShared",
+    "Key": "bnet119_hotkeysPanel_binding_unitsShared",
+    "Value": "Единиц, которые могут выполнить этот приказ: %d"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_binding_default",
+    "Key": "bnet119_hotkeysPanel_binding_default",
+    "Value": "Стандарт:"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_careerGames",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_careerGames",
+    "Value": "Всего игр"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_help",
+    "Key": "bnet119_optionsPanel_tabs_help",
+    "Value": "dСпра\\u0004в\\u0001ка"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_unitPortraits_animated",
+    "Key": "bnet119_optionsPanel_game_label_unitPortraits_animated",
+    "Value": "Динамичные"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_unitPortraits_still",
+    "Key": "bnet119_optionsPanel_game_label_unitPortraits_still",
+    "Value": "Статичные"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_unitPortraits_disable",
+    "Key": "bnet119_optionsPanel_game_label_unitPortraits_disable",
+    "Value": "Откл."
+  },
+  {
+    "id": "bnet119_optionsPanel_network_label_lowLat",
+    "Key": "bnet119_optionsPanel_network_label_lowLat",
+    "Value": "y\\u0004Н\\u0001изкая"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_label_highLat",
+    "Key": "bnet119_optionsPanel_network_label_highLat",
+    "Value": "d\\u0004В\\u0001ысокая"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_label_extraHighLat",
+    "Key": "bnet119_optionsPanel_network_label_extraHighLat",
+    "Value": "j\\u0004О\\u0001чень высокая"
+  },
+  {
+    "id": "bnet119_optionsPanel_help_title",
+    "Key": "bnet119_optionsPanel_help_title",
+    "Value": "Помощь"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_windowMode_windowed",
+    "Key": "bnet119_optionsPanel_video_label_windowMode_windowed",
+    "Value": "Оконный"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_windowMode_windowedFullscreen",
+    "Key": "bnet119_optionsPanel_video_label_windowMode_windowedFullscreen",
+    "Value": "Оконный (весь экран)"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_windowMode_fullscreen",
+    "Key": "bnet119_optionsPanel_video_label_windowMode_fullscreen",
+    "Value": "Полный экран"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_monitor",
+    "Key": "bnet119_optionsPanel_video_label_monitor",
+    "Value": "Монитор"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_vs",
+    "Key": "bnet119_matchmakingLoading_vs",
+    "Value": "Х"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_countdownLabel",
+    "Key": "bnet119_matchmakingLoading_countdownLabel",
+    "Value": "Матч начнется через"
+  },
+  {
+    "id": "infoPane_turnRate",
+    "Key": "infoPane_turnRate",
+    "Value": "Частота передачи"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_restoreToDefault_button",
+    "Key": "bnet119_hotkeysPanel_restoreToDefault_button",
+    "Value": "По умолчанию"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_save_button",
+    "Key": "bnet119_hotkeysPanel_save_button",
+    "Value": "Сохранить"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_cancel_button",
+    "Key": "bnet119_hotkeysPanel_cancel_button",
+    "Value": "Отменить"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_dontSave_button",
+    "Key": "bnet119_hotkeysPanel_dontSave_button",
+    "Value": "Не сохранять"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_continue_button",
+    "Key": "bnet119_hotkeysPanel_continue_button",
+    "Value": "Продолжить"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_saveChangesQuestion",
+    "Key": "bnet119_hotkeysPanel_saveChangesQuestion",
+    "Value": "Сохранить изменения?"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_saveChangesExplanation",
+    "Key": "bnet119_hotkeysPanel_saveChangesExplanation",
+    "Value": "Изменения будут потеряны, если их не сохранить."
+  },
+  {
+    "id": "bnet119_hotkeysPanel_restoreDefaultsQuestion",
+    "Key": "bnet119_hotkeysPanel_restoreDefaultsQuestion",
+    "Value": "Сбросить настройки?"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_restoreDefaultsExplanation",
+    "Key": "bnet119_hotkeysPanel_restoreDefaultsExplanation",
+    "Value": "Все изменения будут потеряны. Продолжить?"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_unboundedInstructions",
+    "Key": "bnet119_hotkeysPanel_unboundedInstructions",
+    "Value": "Есть не назначенные команды."
+  },
+  {
+    "id": "bnet119_matchmakingLoading_wins",
+    "Key": "bnet119_matchmakingLoading_wins",
+    "Value": "всего"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_losses",
+    "Key": "bnet119_matchmakingLoading_losses",
+    "Value": "Поражения"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_disconnects",
+    "Key": "bnet119_matchmakingLoading_disconnects",
+    "Value": "Отключения"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_loading",
+    "Key": "bnet119_matchmakingLoading_loading",
+    "Value": "Загрузка"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_button_apply",
+    "Key": "bnet119_optionsPanel_general_button_apply",
+    "Value": "Применить"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_button_reset",
+    "Key": "bnet119_optionsPanel_general_button_reset",
+    "Value": "Сбросить"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_consolePosition",
+    "Key": "bnet119_optionsPanel_game_label_consolePosition",
+    "Value": "Положение мини-карты"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_consolePosition_leftCorner",
+    "Key": "bnet119_optionsPanel_game_label_consolePosition_leftCorner",
+    "Value": "Левый угол"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_consolePosition_standard",
+    "Key": "bnet119_optionsPanel_game_label_consolePosition_standard",
+    "Value": "Стандартное"
+  },
+  {
+    "id": "application_title",
+    "Key": "application_title",
+    "Value": "StarCraft: Brood War"
+  },
+  {
+    "id": "browser_failed_to_start",
+    "Key": "browser_failed_to_start",
+    "Value": "Не удалось запустить службы StarCraft. Ваше антивирусное программное обеспечение может влиять на работу программы. Некоторые функции StarCraft могут быть недоступны."
+  },
+  {
+    "id": "bonjour_install_prompt",
+    "Key": "bonjour_install_prompt",
+    "Value": "Для полноценной игры по локальной сети требуется служба Bonjour. Запустить ее?"
+  },
+  {
+    "id": "bonjour_not_available",
+    "Key": "bonjour_not_available",
+    "Value": "Без использования службы Bonjour некоторые функции локальной сети будут недоступны."
+  },
+  {
+    "id": "bonjour_install_prompt_lanGameSearch",
+    "Key": "bonjour_install_prompt_lanGameSearch",
+    "Value": "Для поиска игр по локальной сети требуется служба Bonjour. Запустить ее?"
+  },
+  {
+    "id": "bonjour_not_available_lanGameSearch",
+    "Key": "bonjour_not_available_lanGameSearch",
+    "Value": "Для поиска игр по локальной сети требуется служба Bonjour."
+  },
+  {
+    "id": "bonjour_failed_to_start",
+    "Key": "bonjour_failed_to_start",
+    "Value": "Не удалось запустить службу Bonjour."
+  },
+  {
+    "id": "bnet_participantsPanel_pendingInvites",
+    "Key": "bnet_participantsPanel_pendingInvites",
+    "Value": "Ожидающие ответа запросы"
+  },
+  {
+    "id": "bnet119_addFriendPopup_onLAN",
+    "Key": "bnet119_addFriendPopup_onLAN",
+    "Value": "По локальной сети"
+  },
+  {
+    "id": "bnet119_addFriendPopup_classicBnetFriend",
+    "Key": "bnet119_addFriendPopup_classicBnetFriend",
+    "Value": "Друг по классической записи Battle.net"
+  },
+  {
+    "id": "scoreAPMTitle",
+    "Key": "scoreAPMTitle",
+    "Value": "APM"
+  },
+  {
+    "id": "scoreEPMTitle",
+    "Key": "scoreEPMTitle",
+    "Value": "Эфф. действ./мин."
+  },
+  {
+    "id": "gameCloudFolder",
+    "Key": "gameCloudFolder",
+    "Value": "Облако"
+  },
+  {
+    "id": "gameCloudPopularMaps",
+    "Key": "gameCloudPopularMaps",
+    "Value": "Популярные карты"
+  },
+  {
+    "id": "gameCloudSaveGames",
+    "Key": "gameCloudSaveGames",
+    "Value": "Сохранения"
+  },
+  {
+    "id": "gameCloudReplays",
+    "Key": "gameCloudReplays",
+    "Value": "Повторы игр"
+  },
+  {
+    "id": "gameCloudMaps",
+    "Key": "gameCloudMaps",
+    "Value": "Карты"
+  },
+  {
+    "id": "bnet_matchmaking_expansionOnlyError",
+    "Key": "bnet_matchmaking_expansionOnlyError",
+    "Value": "Подбор соперников доступен только в матчах Brood War."
+  },
+  {
+    "id": "bnet_matchmaking_unavailableError",
+    "Key": "bnet_matchmaking_unavailableError",
+    "Value": "Система подбора соперников в данный момент недоступна. Пожалуйста, повторите попытку позже."
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_soundPlaysInBackground",
+    "Key": "bnet119_optionsPanel_sound_label_soundPlaysInBackground",
+    "Value": "Фоновый режим аудио"
+  },
+  {
+    "id": "infoPane_noMapImage",
+    "Key": "infoPane_noMapImage",
+    "Value": "Предпросмотр карты недоступен"
+  },
+  {
+    "id": "ossystems_compatibility_mode",
+    "Key": "ossystems_compatibility_mode",
+    "Value": "StarCraft запущен в режиме совместимости с другой операционной системой. Это может нарушить работу некоторых служб игры. Рекомендуется отключить данный режим."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_aurora",
+    "Key": "bnet_chat_command_whoIs_aurora",
+    "Value": "{name} использует «{program}» ({presence})."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_auroraNoPresence",
+    "Key": "bnet_chat_command_whoIs_auroraNoPresence",
+    "Value": "{name} использует «{program}»."
+  },
+  {
+    "id": "error_unrecognizedUser",
+    "Key": "error_unrecognizedUser",
+    "Value": "Неизвестный пользователь: %s."
+  },
+  {
+    "id": "userProfile_error_unableToDisplay",
+    "Key": "userProfile_error_unableToDisplay",
+    "Value": "Пользователь не подключен к распознанному шлюзу."
+  },
+  {
+    "id": "scorePENDING",
+    "Key": "scorePENDING",
+    "Value": "Ожидание"
+  },
+  {
+    "id": "optionsPanel_speed_mouseConfine_label",
+    "Key": "optionsPanel_speed_mouseConfine_label",
+    "Value": "Ограничение указателя мыши"
+  },
+  {
+    "id": "optionsPanel_speed_mouseConfine_tooltip",
+    "Key": "optionsPanel_speed_mouseConfine_tooltip",
+    "Value": "Ограничить движение указателя мыши границами окна во время игры (активируется нажатием Alt+F1). Доступно только в оконном режиме."
+  },
+  {
+    "id": "observerScreen_tooltip_diplomacy",
+    "Key": "observerScreen_tooltip_diplomacy",
+    "Value": "Открыть меню дипломатии."
+  },
+  {
+    "id": "observerScreen_tooltip_diplomacy_hotkey",
+    "Key": "observerScreen_tooltip_diplomacy_hotkey",
+    "Value": "Alt + Z"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_designateUser",
+    "Key": "bnet119_chatPanel_contextMenu_designateUser",
+    "Value": "Назначить модератором"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_kickUser",
+    "Key": "bnet119_chatPanel_contextMenu_kickUser",
+    "Value": "Исключить"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_banUser",
+    "Key": "bnet119_chatPanel_contextMenu_banUser",
+    "Value": "Заблокировать"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_resign",
+    "Key": "bnet119_chatPanel_contextMenu_resign",
+    "Value": "Удалить модератора"
+  },
+  {
+    "id": "observerScreen_tooltip_replay",
+    "Key": "observerScreen_tooltip_replay",
+    "Value": "Отображение панели повторов"
+  },
+  {
+    "id": "observerScreen_tooltip_replay_hotkey",
+    "Key": "observerScreen_tooltip_replay_hotkey",
+    "Value": "Alt + Y"
+  },
+  {
+    "id": "bnet_chat_command_whoIs_privateGame",
+    "Key": "bnet_chat_command_whoIs_privateGame",
+    "Value": "закрытой"
+  },
+  {
+    "id": "bnet_chat_command_friends_listIntelligent_title",
+    "Key": "bnet_chat_command_friends_listIntelligent_title",
+    "Value": "Ваши друзья по сети Blizzard, играющие в StarCraft, и друзья по Brood War:"
+  },
+  {
+    "id": "bnet_chat_command_friends_listOnline_title",
+    "Key": "bnet_chat_command_friends_listOnline_title",
+    "Value": "Ваши друзья по сети Blizzard, играющие в StarCraft, и друзья по Brood War, находящиеся в игре:"
+  },
+  {
+    "id": "bnet_chat_command_friends_listAll_title",
+    "Key": "bnet_chat_command_friends_listAll_title",
+    "Value": "Ваши друзья:"
+  },
+  {
+    "id": "bnet_chat_command_friends_listBlizzard_title",
+    "Key": "bnet_chat_command_friends_listBlizzard_title",
+    "Value": "Ваши друзья по сети Blizzard:"
+  },
+  {
+    "id": "optionsPanel_video_Filtering_label",
+    "Key": "optionsPanel_video_Filtering_label",
+    "Value": "Фильтрация графики SD"
+  },
+  {
+    "id": "optionsPanel_video_Sharp_label",
+    "Key": "optionsPanel_video_Sharp_label",
+    "Value": "Четко"
+  },
+  {
+    "id": "optionsPanel_video_Filtered_label",
+    "Key": "optionsPanel_video_Filtered_label",
+    "Value": "С фильтром"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_listIntelligent_description",
+    "Key": "bnet_chat_commandHelp_friends_listIntelligent_description",
+    "Value": "Все ваши друзья по сети Blizzard, играющие в StarCraft, и друзья по Brood War."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_listAll_description",
+    "Key": "bnet_chat_commandHelp_friends_listAll_description",
+    "Value": "Список ваших друзей."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_listBlizzard_description",
+    "Key": "bnet_chat_commandHelp_friends_listBlizzard_description",
+    "Value": "Список ваших друзей по сети Blizzard."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_listOnline_description",
+    "Key": "bnet_chat_commandHelp_friends_listOnline_description",
+    "Value": "Все ваши друзья по сети Blizzard, играющие в StarCraft, и друзья по Brood War, находящиеся в игре."
+  },
+  {
+    "id": "bnet_chat_command_friends_whisper_noFriendsError",
+    "Key": "bnet_chat_command_friends_whisper_noFriendsError",
+    "Value": "У вас нет друзей, которым сейчас можно написать."
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_startDiagnostic",
+    "Key": "bnet119_optionsPanel_network_subtitle_startDiagnostic",
+    "Value": "Начать диагностику"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_networkDiagnostic",
+    "Key": "bnet119_optionsPanel_network_subtitle_networkDiagnostic",
+    "Value": "Диагностика сети"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_diagnosticLogin",
+    "Key": "bnet119_optionsPanel_network_subtitle_diagnosticLogin",
+    "Value": "Эта функция требует подключения к Battle.net."
+  },
+  {
+    "id": "cn_cais_warning1",
+    "Key": "cn_cais_warning1",
+    "Value": "您已在线进行了{totalHoursOnline}小时的游戏，您的健康游戏时间还剩余{totalHoursRemaining}小时。\\n届时您将无法在游戏中获得经验值及其它奖励，\\n必须下线累计满5小时才能恢复正常状态。"
+  },
+  {
+    "id": "cn_cais_warning2",
+    "Key": "cn_cais_warning2",
+    "Value": "您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入疲劳游戏时间。为了您的健康，请尽快下线休息，\\n做适当身体活动，合理安排学习生活。您已经无法在游戏中获得经验值及其它奖励，\\n直到您的累计下线时间满5小时后才能恢复正常。"
+  },
+  {
+    "id": "cn_cais_warning3",
+    "Key": "cn_cais_warning3",
+    "Value": "您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入不健康游戏时间。为了您的健康，\\n请立即下线休息。您已经无法在游戏中获得经验值及其它奖励，\\n直到您的累计下线时间满5小时后才能恢复正常。"
+  },
+  {
+    "id": "networkDiagnostic_AlreadyInProgress",
+    "Key": "networkDiagnostic_AlreadyInProgress",
+    "Value": "Диагностика сети уже проводится. Дождитесь ее завершения, прежде чем начинать новую."
+  },
+  {
+    "id": "networkDiagnostic_Commencing",
+    "Key": "networkDiagnostic_Commencing",
+    "Value": "Проведение диагностики сети..."
+  },
+  {
+    "id": "networkDiagnostic_Firewall.Commencing",
+    "Key": "networkDiagnostic_Firewall.Commencing",
+    "Value": "Проверка брандмауэра Windows..."
+  },
+  {
+    "id": "networkDiagnostic_Firewall.Whitelisted",
+    "Key": "networkDiagnostic_Firewall.Whitelisted",
+    "Value": "StarCraft: Remastered добавлена в список разрешенных программ брандмауэра Windows."
+  },
+  {
+    "id": "networkDiagnostic_Firewall.NotWhitelisted",
+    "Key": "networkDiagnostic_Firewall.NotWhitelisted",
+    "Value": "StarCraft: Remastered не добавлена в список разрешенных программ брандмауэра Windows."
+  },
+  {
+    "id": "networkDiagnostic_Proxy.NotRequired",
+    "Key": "networkDiagnostic_Proxy.NotRequired",
+    "Value": "Данный ПК способен напрямую подключаться к другим устройствам, и при создании матча его трафик не будет маршрутизироваться через прокси-сервер."
+  },
+  {
+    "id": "networkDiagnostic_Proxy.Required",
+    "Key": "networkDiagnostic_Proxy.Required",
+    "Value": "При создании матча трафик этого ПК будет маршрутизироваться через прокси-сервер, так как отсутствует прямое подключение к иным устройствам."
+  },
+  {
+    "id": "networkDiagnostic_Ping.Commencing",
+    "Key": "networkDiagnostic_Ping.Commencing",
+    "Value": "Проверка входящего трафика (порт {Port})..."
+  },
+  {
+    "id": "networkDiagnostic_Ping.ReceivedData",
+    "Key": "networkDiagnostic_Ping.ReceivedData",
+    "Value": "Ответный пакет получен ({Time} мс)."
+  },
+  {
+    "id": "networkDiagnostic_Ping.NoData",
+    "Key": "networkDiagnostic_Ping.NoData",
+    "Value": "Не удалось получить ответный пакет."
+  },
+  {
+    "id": "networkDiagnostic_Ping.PartialFailure",
+    "Key": "networkDiagnostic_Ping.PartialFailure",
+    "Value": "Не удалось получить некоторые ответные пакеты."
+  },
+  {
+    "id": "networkDiagnostic_Ping.Success",
+    "Key": "networkDiagnostic_Ping.Success",
+    "Value": "Проверка входящего трафика по UDP выполнена успешно."
+  },
+  {
+    "id": "networkDiagnostic_Udp.ExternalIp",
+    "Key": "networkDiagnostic_Udp.ExternalIp",
+    "Value": "Попытка отправки данных через внешний IP-адрес {address}..."
+  },
+  {
+    "id": "networkDiagnostic_Udp.Success",
+    "Key": "networkDiagnostic_Udp.Success",
+    "Value": "Данные переданы."
+  },
+  {
+    "id": "networkDiagnostic_Udp.Failure",
+    "Key": "networkDiagnostic_Udp.Failure",
+    "Value": "Ошибка передачи данных."
+  },
+  {
+    "id": "networkDiagnostic_Upnp.Commencing",
+    "Key": "networkDiagnostic_Upnp.Commencing",
+    "Value": "Проверка переадресации портов UPNP..."
+  },
+  {
+    "id": "networkDiagnostic_Upnp.Timeout",
+    "Key": "networkDiagnostic_Upnp.Timeout",
+    "Value": "Истекло время ожидания UPNP."
+  },
+  {
+    "id": "networkDiagnostic_Upnp.Success",
+    "Key": "networkDiagnostic_Upnp.Success",
+    "Value": "Переадресация портов UPNP установлена на порт {port}."
+  },
+  {
+    "id": "networkDiagnostic_Upnp.Failed",
+    "Key": "networkDiagnostic_Upnp.Failed",
+    "Value": "Ошибка UPNP."
+  },
+  {
+    "id": "networkDiagnostic_Bind.Commencing",
+    "Key": "networkDiagnostic_Bind.Commencing",
+    "Value": "Проверка привязки UDP к порту 6112..."
+  },
+  {
+    "id": "networkDiagnostic_Bind.Failure",
+    "Key": "networkDiagnostic_Bind.Failure",
+    "Value": "Не удалось выполнить привязку к порту 6112."
+  },
+  {
+    "id": "networkDiagnostic_Bind.Success",
+    "Key": "networkDiagnostic_Bind.Success",
+    "Value": "Привязка к порту {port} прошла успешно."
+  },
+  {
+    "id": "reportPlayerScreen_reportPlayer",
+    "Key": "reportPlayerScreen_reportPlayer",
+    "Value": "Пожаловаться на игрока"
+  },
+  {
+    "id": "reportPlayerScreen_reason",
+    "Key": "reportPlayerScreen_reason",
+    "Value": "Причина"
+  },
+  {
+    "id": "reportPlayerScreen_channelName",
+    "Key": "reportPlayerScreen_channelName",
+    "Value": "Название канала"
+  },
+  {
+    "id": "reportPlayerScreen_gameName",
+    "Key": "reportPlayerScreen_gameName",
+    "Value": "Название матча"
+  },
+  {
+    "id": "reportPlayerScreen_spam",
+    "Key": "reportPlayerScreen_spam",
+    "Value": "Спам"
+  },
+  {
+    "id": "reportPlayerScreen_harassment",
+    "Key": "reportPlayerScreen_harassment",
+    "Value": "Оскорбление"
+  },
+  {
+    "id": "reportPlayerScreen_cheating",
+    "Key": "reportPlayerScreen_cheating",
+    "Value": "Мошенничество"
+  },
+  {
+    "id": "reportPlayerScreen_badCharacterName",
+    "Key": "reportPlayerScreen_badCharacterName",
+    "Value": "Неприемлемое имя профиля"
+  },
+  {
+    "id": "reportPlayerScreen_badBattleTag",
+    "Key": "reportPlayerScreen_badBattleTag",
+    "Value": "Неприемлемый BattleTag"
+  },
+  {
+    "id": "reportPlayerScreen_badGameName",
+    "Key": "reportPlayerScreen_badGameName",
+    "Value": "Неприемлемое название матча"
+  },
+  {
+    "id": "chat_error_CE_AccountMuted",
+    "Key": "chat_error_CE_AccountMuted",
+    "Value": "Ваша учетная запись заблокирована в чате."
+  },
+  {
+    "id": "chat_error_joinSystemReservedChannelName",
+    "Key": "chat_error_joinSystemReservedChannelName",
+    "Value": "Не удалось присоединиться к каналу чата. Такое имя уже используется."
+  },
+  {
+    "id": "networkTurnRateAdjusted",
+    "Key": "networkTurnRateAdjusted",
+    "Value": "Новое значение частоты передачи для сети: %d"
+  },
+  {
+    "id": "createGameScreen_gameLimits",
+    "Key": "createGameScreen_gameLimits",
+    "Value": "Лимит боевых единиц"
+  },
+  {
+    "id": "createGameScreen_original",
+    "Key": "createGameScreen_original",
+    "Value": "Стандартный"
+  },
+  {
+    "id": "createGameScreen_extended",
+    "Key": "createGameScreen_extended",
+    "Value": "Повышенный"
+  },
+  {
+    "id": "optionsPanel_game_bc2017_console_label",
+    "Key": "optionsPanel_game_bc2017_console_label",
+    "Value": "Использовать консоль BlizzCon 2017"
+  },
+  {
+    "id": "bnet_friendFollow_offline",
+    "Key": "bnet_friendFollow_offline",
+    "Value": "Ваш друг {friend} выходит из сети."
+  },
+  {
+    "id": "bnet_friendFollow_online",
+    "Key": "bnet_friendFollow_online",
+    "Value": "Ваш друг {friend} входит в сеть."
+  },
+  {
+    "id": "bnet_friendFollow_enteredStarCraft",
+    "Key": "bnet_friendFollow_enteredStarCraft",
+    "Value": "Ваш друг {friend} входит в StarCraft."
+  },
+  {
+    "id": "bnet_friendFollow_exitedStarCraft",
+    "Key": "bnet_friendFollow_exitedStarCraft",
+    "Value": "Ваш друг {friend} выходит из StarCraft."
+  },
+  {
+    "id": "bnet_friendFollow_enteredBattlenet",
+    "Key": "bnet_friendFollow_enteredBattlenet",
+    "Value": "Ваш друг {friend} входит в Battle.net."
+  },
+  {
+    "id": "bnet_friendFollow_exitedBattlenet",
+    "Key": "bnet_friendFollow_exitedBattlenet",
+    "Value": "Ваш друг {friend} выходит из Battle.net."
+  },
+  {
+    "id": "bnet_friendFollow_enteredGameLobby",
+    "Key": "bnet_friendFollow_enteredGameLobby",
+    "Value": "Ваш друг {friend} присоединяется к матчу Brood War в StarCraft ({game})."
+  },
+  {
+    "id": "bnet_friendFollow_exitedGameLobby",
+    "Key": "bnet_friendFollow_exitedGameLobby",
+    "Value": "Ваш друг {friend} покидает матч."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_whisperAll_description",
+    "Key": "bnet_chat_commandHelp_friends_whisperAll_description",
+    "Value": "Отправить СООБЩЕНИЕ всем друзьям."
+  },
+  {
+    "id": "error_cant_watch_replays",
+    "Key": "error_cant_watch_replays",
+    "Value": "Нельзя просматривать повторы, находясь в очереди на матч."
+  },
+  {
+    "id": "bnet_friendFollow_enteredRankedGameLobby",
+    "Key": "bnet_friendFollow_enteredRankedGameLobby",
+    "Value": "Ваш друг {friend} присоединяется к рейтинговому матчу."
+  },
+  {
+    "id": "bnet_friendFollow_enteredSinglePlayerGameLobby",
+    "Key": "bnet_friendFollow_enteredSinglePlayerGameLobby",
+    "Value": "Ваш друг {friend} начинает однопользовательскую игру."
+  },
+  {
+    "id": "bnet_friendFollow_enteredCustomGameLobby",
+    "Key": "bnet_friendFollow_enteredCustomGameLobby",
+    "Value": "Ваш друг {friend} присоединяется к матчу «Своей игры» ({game})."
+  },
+  {
+    "id": "bnet_chat_commandHelp_dnd_description",
+    "Key": "bnet_chat_commandHelp_dnd_description",
+    "Value": "Включает/выключает режим игнорирования всех личных сообщений."
+  },
+  {
+    "id": "bnet_friendFollow_enteredReplayGameLobby",
+    "Key": "bnet_friendFollow_enteredReplayGameLobby",
+    "Value": "Ваш друг {friend} начинает просмотр повтора."
+  },
+  {
+    "id": "optionsPanel_social_label_friendsPresenceNotifications",
+    "Key": "optionsPanel_social_label_friendsPresenceNotifications",
+    "Value": "Уведомления о статусе друзей"
+  },
+  {
+    "id": "bnet_friends_inviteFriendship_unknownRegion",
+    "Key": "bnet_friends_inviteFriendship_unknownRegion",
+    "Value": "Запрос на добавление в друзья игроку {name} отправлен. Ваш регион: {myRegion}."
+  },
+  {
+    "id": "bnet_friends_inviteFriendship_foreignRegion",
+    "Key": "bnet_friends_inviteFriendship_foreignRegion",
+    "Value": "Запрос на добавление в друзья игроку {name} из региона {theirRegion} отправлен. Ваш регион: {myRegion}."
+  },
+  {
+    "id": "createGameScreen_proxied",
+    "Key": "createGameScreen_proxied",
+    "Value": "Соединение маршрутизируется через прокси-сервер"
+  },
+  {
+    "id": "bnet_createGame_proxyConnectionWarning",
+    "Key": "bnet_createGame_proxyConnectionWarning",
+    "Value": "Из-за текущей конфигурации сети ваше соединение с другими игроками должно маршрутизироваться через прокси-сервер. Это может вызвать дополнительную задержку сигнала."
+  },
+  {
+    "id": "bnet_findGame_proxyConnectionWarning",
+    "Key": "bnet_findGame_proxyConnectionWarning",
+    "Value": "Из-за текущей конфигурации сети у владельца матча ваше соединение будет маршрутизироваться через прокси-сервер. Это может вызвать дополнительную задержку сигнала."
+  },
+  {
+    "id": "bnet_chat_commandHelp_users_description",
+    "Key": "bnet_chat_commandHelp_users_description",
+    "Value": "Отображает текущее количество пользователей в сети Battle.net."
+  },
+  {
+    "id": "bnet_chat_commandHelp_users_statsSuccess",
+    "Key": "bnet_chat_commandHelp_users_statsSuccess",
+    "Value": "Текущих матчей: {games}.\\nИгроков в сети: {players}."
+  },
+  {
+    "id": "bnet_chat_commandHelp_users_statsError",
+    "Key": "bnet_chat_commandHelp_users_statsError",
+    "Value": "Не удается получить данные статистики шлюзов."
+  },
+  {
+    "id": "bnet_friendInvitation_regionWarning",
+    "Key": "bnet_friendInvitation_regionWarning",
+    "Value": "{name} играет в StarCraft в другом регионе Blizzard. Ваш запрос на добавление в друзья был отправлен игроку {name} в пределах региона «{myRegion}». Игрок получит его, если перейдет в регион «{myRegion}»."
+  },
+  {
+    "id": "bnet_chat_welcome_intro",
+    "Key": "bnet_chat_welcome_intro",
+    "Value": "Добро пожаловать в StarCraft: Remastered!"
+  },
+  {
+    "id": "bnet_chat_welcome_help",
+    "Key": "bnet_chat_welcome_help",
+    "Value": "Введите в чате /help, чтобы получить список команд."
+  },
+  {
+    "id": "bnet_cloud_size_s",
+    "Key": "bnet_cloud_size_s",
+    "Value": "%s KБ"
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Commencing",
+    "Key": "networkDiagnostic_NatPunch.Commencing",
+    "Value": "Проверка прохождения NAT (тип 1)..."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.NoStunServers",
+    "Key": "networkDiagnostic_NatPunch.NoStunServers",
+    "Value": "Нет доступных STUN-серверов."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Start",
+    "Key": "networkDiagnostic_NatPunch.Start",
+    "Value": "Отправка пакета STUN..."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.NoData",
+    "Key": "networkDiagnostic_NatPunch.NoData",
+    "Value": "Не удалось получить ответный пакет."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.BadData",
+    "Key": "networkDiagnostic_NatPunch.BadData",
+    "Value": "Некорректный ответный пакет."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Info",
+    "Key": "networkDiagnostic_NatPunch.Info",
+    "Value": "Ответ STUN получен через внешний IP: {address}"
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Success",
+    "Key": "networkDiagnostic_NatPunch.Success",
+    "Value": "Проверка прохождения NAT прошла успешно."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Failure",
+    "Key": "networkDiagnostic_NatPunch.Failure",
+    "Value": "Проверка прохождения NAT не удалась."
+  },
+  {
+    "id": "networkDiagnostic_UdpNat2.ExternalIp",
+    "Key": "networkDiagnostic_UdpNat2.ExternalIp",
+    "Value": "Внешний IP-адрес: {address}"
+  },
+  {
+    "id": "networkDiagnostic_UdpNat2.Success",
+    "Key": "networkDiagnostic_UdpNat2.Success",
+    "Value": "Попытка отправки данных через внешний IP-адрес {address}..."
+  },
+  {
+    "id": "networkDiagnostic_UdpNat2.Failure",
+    "Key": "networkDiagnostic_UdpNat2.Failure",
+    "Value": "Проверка прохождения NAT (тип 2) не удалась."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.Commencing",
+    "Key": "networkDiagnostic_PingNat2.Commencing",
+    "Value": "Проверка входящего трафика UDP на порт {Port} (прохождение NAT, тип 2)..."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.ReceivedData",
+    "Key": "networkDiagnostic_PingNat2.ReceivedData",
+    "Value": "Ответный пакет получен ({Time} мс)."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.NoData",
+    "Key": "networkDiagnostic_PingNat2.NoData",
+    "Value": "Не удалось получить ответный пакет."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.PartialFailure",
+    "Key": "networkDiagnostic_PingNat2.PartialFailure",
+    "Value": "Не удалось получить часть ответных пакетов."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.Success",
+    "Key": "networkDiagnostic_PingNat2.Success",
+    "Value": "Проверка входящего трафика UDP прошла успешно (прохождение NAT, тип 2)."
+  },
+  {
+    "id": "scr.common.race.terran",
+    "Key": "scr.common.race.terran",
+    "Value": "Терраны"
+  },
+  {
+    "id": "scr.common.race.zerg",
+    "Key": "scr.common.race.zerg",
+    "Value": "Зерги"
+  },
+  {
+    "id": "scr.common.race.protoss",
+    "Key": "scr.common.race.protoss",
+    "Value": "Протоссы"
+  },
+  {
+    "id": "scr.common.points.label",
+    "Key": "scr.common.points.label",
+    "Value": "MMR:"
+  },
+  {
+    "id": "scr.common.points.small.label",
+    "Key": "scr.common.points.small.label",
+    "Value": "MMR"
+  },
+  {
+    "id": "scr.common.points.noData",
+    "Key": "scr.common.points.noData",
+    "Value": "У вас пока нет MMR."
+  },
+  {
+    "id": "scr.common.table.noData",
+    "Key": "scr.common.table.noData",
+    "Value": "Таблицы результатов не найдены."
+  },
+  {
+    "id": "scr.common.location.label",
+    "Key": "scr.common.location.label",
+    "Value": "Расположение"
+  },
+  {
+    "id": "scr.common.stats.gauge.winRate.label",
+    "Key": "scr.common.stats.gauge.winRate.label",
+    "Value": "побед"
+  },
+  {
+    "id": "scr.common.stats.gauge.apm.title",
+    "Key": "scr.common.stats.gauge.apm.title",
+    "Value": "Средний APM"
+  },
+  {
+    "id": "scr.common.stats.gauge.apm.label",
+    "Key": "scr.common.stats.gauge.apm.label",
+    "Value": "Действий в минуту"
+  },
+  {
+    "id": "scr.common.stats.overall.title",
+    "Key": "scr.common.stats.overall.title",
+    "Value": "Общий результат"
+  },
+  {
+    "id": "scr.common.stats.overall.label",
+    "Key": "scr.common.stats.overall.label",
+    "Value": "Сводная информация"
+  },
+  {
+    "id": "scr.common.stats.seasonRecord.title",
+    "Key": "scr.common.stats.seasonRecord.title",
+    "Value": "Данные сезона (1х1)"
+  },
+  {
+    "id": "scr.common.stats.record.win.label",
+    "Key": "scr.common.stats.record.win.label",
+    "Value": "W"
+  },
+  {
+    "id": "scr.common.stats.record.loss.label",
+    "Key": "scr.common.stats.record.loss.label",
+    "Value": "L"
+  },
+  {
+    "id": "scr.common.stats.record.disconnects.label",
+    "Key": "scr.common.stats.record.disconnects.label",
+    "Value": "D"
+  },
+  {
+    "id": "scr.common.stats.record.percentage.label",
+    "Key": "scr.common.stats.record.percentage.label",
+    "Value": "%"
+  },
+  {
+    "id": "scr.common.stats.wins.label",
+    "Key": "scr.common.stats.wins.label",
+    "Value": "Побед"
+  },
+  {
+    "id": "scr.common.stats.losses.label",
+    "Key": "scr.common.stats.losses.label",
+    "Value": "Поражения"
+  },
+  {
+    "id": "scr.common.stats.disconnects.label",
+    "Key": "scr.common.stats.disconnects.label",
+    "Value": "Отключения"
+  },
+  {
+    "id": "scr.common.stats.totalGames.label",
+    "Key": "scr.common.stats.totalGames.label",
+    "Value": "Всего игр"
+  },
+  {
+    "id": "scr.common.stats.mostPlayedRace.label",
+    "Key": "scr.common.stats.mostPlayedRace.label",
+    "Value": "Любимая раса"
+  },
+  {
+    "id": "scr.common.stats.timePlayed.label",
+    "Key": "scr.common.stats.timePlayed.label",
+    "Value": "Время в игре"
+  },
+  {
+    "id": "scr.common.stats.accountCreated.label",
+    "Key": "scr.common.stats.accountCreated.label",
+    "Value": "Учетная запись создана"
+  },
+  {
+    "id": "scr.common.stats.mmr.label",
+    "Key": "scr.common.stats.mmr.label",
+    "Value": "MMR"
+  },
+  {
+    "id": "scr.common.stats.highestMMR.label",
+    "Key": "scr.common.stats.highestMMR.label",
+    "Value": "Макс. MMR"
+  },
+  {
+    "id": "scr.common.stats.units.produced.label",
+    "Key": "scr.common.stats.units.produced.label",
+    "Value": "Создано боевых единиц"
+  },
+  {
+    "id": "scr.common.stats.units.killed.label",
+    "Key": "scr.common.stats.units.killed.label",
+    "Value": "Уничтожено"
+  },
+  {
+    "id": "scr.common.stats.units.lost.label",
+    "Key": "scr.common.stats.units.lost.label",
+    "Value": "Потери"
+  },
+  {
+    "id": "scr.common.stats.units.score.label",
+    "Key": "scr.common.stats.units.score.label",
+    "Value": "Счет по войскам"
+  },
+  {
+    "id": "scr.common.stats.resources.spent.label",
+    "Key": "scr.common.stats.resources.spent.label",
+    "Value": "Потрачено ресурсов"
+  },
+  {
+    "id": "scr.common.stats.resources.score.label",
+    "Key": "scr.common.stats.resources.score.label",
+    "Value": "Счет по ресурсам"
+  },
+  {
+    "id": "scr.common.stats.resources.gasCollected.label",
+    "Key": "scr.common.stats.resources.gasCollected.label",
+    "Value": "Добыто газа"
+  },
+  {
+    "id": "scr.common.stats.resources.mineralsCollected.label",
+    "Key": "scr.common.stats.resources.mineralsCollected.label",
+    "Value": "Добыто минералов"
+  },
+  {
+    "id": "scr.common.stats.structures.constructed.label",
+    "Key": "scr.common.stats.structures.constructed.label",
+    "Value": "Возведено строений"
+  },
+  {
+    "id": "scr.common.stats.structures.lost.label",
+    "Key": "scr.common.stats.structures.lost.label",
+    "Value": "Потеряно строений"
+  },
+  {
+    "id": "scr.common.stats.structures.razed.label",
+    "Key": "scr.common.stats.structures.razed.label",
+    "Value": "Уничтожено строений"
+  },
+  {
+    "id": "scr.common.stats.structures.score.label",
+    "Key": "scr.common.stats.structures.score.label",
+    "Value": "Счет по строениям"
+  },
+  {
+    "id": "scr.common.stats.noData",
+    "Key": "scr.common.stats.noData",
+    "Value": "Статистика не найдена."
+  },
+  {
+    "id": "scr.common.rank.currentSeasonRank.label",
+    "Key": "scr.common.rank.currentSeasonRank.label",
+    "Value": "Ранг в текущем сезоне"
+  },
+  {
+    "id": "scr.profile.gateway.link.label",
+    "Key": "scr.profile.gateway.link.label",
+    "Value": "Подробнее"
+  },
+  {
+    "id": "scr.profile.gateway.playerCount.label",
+    "Key": "scr.profile.gateway.playerCount.label",
+    "Value": "Игроков в сети:"
+  },
+  {
+    "id": "scr.profile.gateway.noData",
+    "Key": "scr.profile.gateway.noData",
+    "Value": "Данные шлюза не найдены."
+  },
+  {
+    "id": "scr.profile.changeProfile",
+    "Key": "scr.profile.changeProfile",
+    "Value": "Сменить профиль"
+  },
+  {
+    "id": "scr.common.time.hr",
+    "Key": "scr.common.time.hr",
+    "Value": "ч."
+  },
+  {
+    "id": "scr.common.time.hrs",
+    "Key": "scr.common.time.hrs",
+    "Value": "ч."
+  },
+  {
+    "id": "scr.common.time.min",
+    "Key": "scr.common.time.min",
+    "Value": "мин."
+  },
+  {
+    "id": "scr.common.time.sec",
+    "Key": "scr.common.time.sec",
+    "Value": "сек."
+  },
+  {
+    "id": "scr.profile.league.frontier",
+    "Key": "scr.profile.league.frontier",
+    "Value": "Пограничная лига"
+  },
+  {
+    "id": "scr.profile.season.1.title",
+    "Key": "scr.profile.season.1.title",
+    "Value": "1-й сезон 2017 г."
+  },
+  {
+    "id": "scr.profile.season.0.title",
+    "Key": "scr.profile.season.0.title",
+    "Value": "Пограничная лига"
+  },
+  {
+    "id": "scr.profile.season.0.description1",
+    "Key": "scr.profile.season.0.description1",
+    "Value": "Приветствуем вас, первопроходцы! Вы станете свидетелями новой эры в StarCraft!"
+  },
+  {
+    "id": "scr.profile.season.0.description2",
+    "Key": "scr.profile.season.0.description2",
+    "Value": "Поиск соперников для матчей будет производиться с учетом общего рейтинга и расстояния между игроками. Вас ждет прекрасное время открытий. Благодарим вас за игру и помощь в оптимизации новой системы."
+  },
+  {
+    "id": "scr.common.autocomplete.matches",
+    "Key": "scr.common.autocomplete.matches",
+    "Value": "матчи"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.1",
+    "Key": "scr.leaderboard.table.heading.1",
+    "Value": "Ранг"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.2",
+    "Key": "scr.leaderboard.table.heading.2",
+    "Value": "Игрок"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.3",
+    "Key": "scr.leaderboard.table.heading.3",
+    "Value": "Любимая раса"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.4",
+    "Key": "scr.leaderboard.table.heading.4",
+    "Value": "MMR"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.5",
+    "Key": "scr.leaderboard.table.heading.5",
+    "Value": "Победы"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.6",
+    "Key": "scr.leaderboard.table.heading.6",
+    "Value": "Поражения"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.7",
+    "Key": "scr.leaderboard.table.heading.7",
+    "Value": "Отключения"
+  },
+  {
+    "id": "scr.leaderboard.title",
+    "Key": "scr.leaderboard.title",
+    "Value": "Рейтинговая таблица"
+  },
+  {
+    "id": "scr.leaderboard.updateInterval",
+    "Key": "scr.leaderboard.updateInterval",
+    "Value": "Обновляется раз в %%interval%% мин."
+  },
+  {
+    "id": "scr.leaderboard.updateLatest",
+    "Key": "scr.leaderboard.updateLatest",
+    "Value": "Последнее обновление – %%lastUpdate%% UTC."
+  },
+  {
+    "id": "scr.leaderboard.filter.gameType.opt.1",
+    "Key": "scr.leaderboard.filter.gameType.opt.1",
+    "Value": "1х1"
+  },
+  {
+    "id": "scr.leaderboard.btn.topPlayers.label",
+    "Key": "scr.leaderboard.btn.topPlayers.label",
+    "Value": "Лучшие игроки"
+  },
+  {
+    "id": "scr.leaderboard.btn.myself.label",
+    "Key": "scr.leaderboard.btn.myself.label",
+    "Value": "Мой рейтинг"
+  },
+  {
+    "id": "scr.leaderboard.search.placeholder",
+    "Key": "scr.leaderboard.search.placeholder",
+    "Value": "Введите имя профиля или BattleTag"
+  },
+  {
+    "id": "scr.leaderboard.profileModule.yourRank.part.1",
+    "Key": "scr.leaderboard.profileModule.yourRank.part.1",
+    "Value": "Ваш ранг:"
+  },
+  {
+    "id": "scr.leaderboard.profileModule.yourRank.part.2",
+    "Key": "scr.leaderboard.profileModule.yourRank.part.2",
+    "Value": "в категории"
+  },
+  {
+    "id": "scr.leaderboard.profileModule.yourRank.noData",
+    "Key": "scr.leaderboard.profileModule.yourRank.noData",
+    "Value": "Вы еще не сыграли достаточно матчей в"
+  },
+  {
+    "id": "scr.common.title.win",
+    "Key": "scr.common.title.win",
+    "Value": "Победа!"
+  },
+  {
+    "id": "scr.common.title.loss",
+    "Key": "scr.common.title.loss",
+    "Value": "Поражение!"
+  },
+  {
+    "id": "scr.toast.points.yours",
+    "Key": "scr.toast.points.yours",
+    "Value": "MMR"
+  },
+  {
+    "id": "scr.profile.zerg.points.desc",
+    "Key": "scr.profile.zerg.points.desc",
+    "Value": "очков за зергов"
+  },
+  {
+    "id": "scr.profile.protoss.points.desc",
+    "Key": "scr.profile.protoss.points.desc",
+    "Value": "очков за протоссов"
+  },
+  {
+    "id": "scr.profile.terran.points.desc",
+    "Key": "scr.profile.terran.points.desc",
+    "Value": "очков за терранов"
+  },
+  {
+    "id": "scr.toast.unlock.textSmall.portrait",
+    "Key": "scr.toast.unlock.textSmall.portrait",
+    "Value": "Новый портрет"
+  },
+  {
+    "id": "scr.toast.unlock.textLarge",
+    "Key": "scr.toast.unlock.textLarge",
+    "Value": "Открыт!"
+  },
+  {
+    "id": "bnet_turnRate_dynamic",
+    "Key": "bnet_turnRate_dynamic",
+    "Value": "Динамическая"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_label_preferPort6112",
+    "Key": "bnet119_optionsPanel_network_label_preferPort6112",
+    "Value": "Предпочитаемый порт: 6112"
+  },
+  {
+    "id": "scr.profile.gateway.dev79",
+    "Key": "scr.profile.gateway.dev79",
+    "Value": "Сервер для внутреннего тестирования."
+  },
+  {
+    "id": "scr.profile.gateway.usWestDesc",
+    "Key": "scr.profile.gateway.usWestDesc",
+    "Value": "Добро пожаловать на Дикий Запад! На этом сервере может быть не так много игроков, но ставки здесь выше, а противники еще опаснее!"
+  },
+  {
+    "id": "scr.profile.gateway.usEastDesc",
+    "Key": "scr.profile.gateway.usEastDesc",
+    "Value": "Этот сервер расположен в Чикаго и обрабатывает данные матчей для Северной и Южной Америки. Ввиду большого числа игроков здесь вы столкнетесь с разнообразием стилей игры и стратегических приемов."
+  },
+  {
+    "id": "scr.profile.gateway.europeDesc",
+    "Key": "scr.profile.gateway.europeDesc",
+    "Value": "В плане подготовки новых профессиональных киберспортсменов европейский сервер уступает только корейскому. Культурное разнообразие способствует развитию изобретательных стилей игры и позволяет игрокам находить друзей по всему континенту."
+  },
+  {
+    "id": "scr.profile.gateway.koreaDesc",
+    "Key": "scr.profile.gateway.koreaDesc",
+    "Value": "Корейские игроки в совершенстве освоили искусство войны и стали непревзойденными мастерами StarCraft. Готовьтесь встретить серьезное сопротивление."
+  },
+  {
+    "id": "scr.profile.gateway.taiwanDesc",
+    "Key": "scr.profile.gateway.taiwanDesc",
+    "Value": "Новый шлюз StarCraft, введенный для поддержки игроков, разговаривающих на японском и китайском (традиционное и упрощенное письмо) языках. Этому серверу еще предстоит прославиться. Рискнете возглавить авангард и устремиться в битву?"
+  },
+  {
+    "id": "scr.profile.gateway.fishDesc",
+    "Key": "scr.profile.gateway.fishDesc",
+    "Value": "«Fish Server» — сторонний сервер, славящийся высоким мастерством игроков, участвующих в пользовательских матчах."
+  },
+  {
+    "id": "scr.profile.noProfile",
+    "Key": "scr.profile.noProfile",
+    "Value": "У вас нет привязанных к этому шлюзу профилей."
+  },
+  {
+    "id": "scr.profile.noProfileBtn",
+    "Key": "scr.profile.noProfileBtn",
+    "Value": "Создать профиль"
+  },
+  {
+    "id": "bnet_profileStats_customGamesWinsLossesDisconnects",
+    "Key": "bnet_profileStats_customGamesWinsLossesDisconnects",
+    "Value": "[{gatewayName}] – матчи в режиме «Своя игра». Победы: {wins}. Поражения: {losses}. Отключения: {disconnects}."
+  },
+  {
+    "id": "bnet_profileStats_allSeasonsWinsLossesDisconnects",
+    "Key": "bnet_profileStats_allSeasonsWinsLossesDisconnects",
+    "Value": "[{gatewayName}] – рейтинговые матчи. Победы: {wins}. Поражения: {losses}. Отключения: {disconnects}."
+  },
+  {
+    "id": "bnet_profileStats_seasonWinsLossesDisconnects",
+    "Key": "bnet_profileStats_seasonWinsLossesDisconnects",
+    "Value": "[{gatewayName}] – рейтинговые матчи текущего сезона. Победы: {wins}. Поражения: {losses}. Отключения: {disconnects}."
+  },
+  {
+    "id": "bnet119_addFriendPopup_or",
+    "Key": "bnet119_addFriendPopup_or",
+    "Value": "или"
+  },
+  {
+    "id": "launcher_failed_to_start",
+    "Key": "launcher_failed_to_start",
+    "Value": "Не удалось запустить приложение Battle.net."
+  },
+  {
+    "id": "scr.leaderboard.filter.gameType.opt.2",
+    "Key": "scr.leaderboard.filter.gameType.opt.2",
+    "Value": "2х2"
+  },
+  {
+    "id": "profile_skins_carbot",
+    "Key": "profile_skins_carbot",
+    "Value": "Мультяшки"
+  },
+  {
+    "id": "profile_collection_announcers_HeyJini_title",
+    "Key": "profile_collection_announcers_HeyJini_title",
+    "Value": "Hey Jini"
+  },
+  {
+    "id": "squad_channel_title",
+    "Key": "squad_channel_title",
+    "Value": "Взвод"
+  },
+  {
+    "id": "squad_lobby_create_error",
+    "Key": "squad_lobby_create_error",
+    "Value": "Не удалось создать лобби взвода."
+  },
+  {
+    "id": "squad_invite",
+    "Key": "squad_invite",
+    "Value": "Пригласить"
+  },
+  {
+    "id": "squad_invite_timeout",
+    "Key": "squad_invite_timeout",
+    "Value": "Приглашение будет отменено через {cancelTimeInSec} сек."
+  },
+  {
+    "id": "squad_kick",
+    "Key": "squad_kick",
+    "Value": "Исключить из взвода"
+  },
+  {
+    "id": "squad_disband",
+    "Key": "squad_disband",
+    "Value": "Распустить взвод"
+  },
+  {
+    "id": "squad_leave",
+    "Key": "squad_leave",
+    "Value": "Покинуть взвод"
+  },
+  {
+    "id": "squad_invite_pending",
+    "Key": "squad_invite_pending",
+    "Value": "Ожидается ответ"
+  },
+  {
+    "id": "squad_invite_accepted",
+    "Key": "squad_invite_accepted",
+    "Value": "Приглашение принято"
+  },
+  {
+    "id": "squad_invite_message",
+    "Key": "squad_invite_message",
+    "Value": "приглашает вас в свой взвод."
+  },
+  {
+    "id": "squad_queuing_message_2v2",
+    "Key": "squad_queuing_message_2v2",
+    "Value": "Ваш взвод вступил в очередь на рейтинговый матч 2х2."
+  },
+  {
+    "id": "squad_chooseRace",
+    "Key": "squad_chooseRace",
+    "Value": "Выберите расу."
+  },
+  {
+    "id": "squad_selecting_race",
+    "Key": "squad_selecting_race",
+    "Value": "Выбор расы"
+  },
+  {
+    "id": "squad_ready",
+    "Key": "squad_ready",
+    "Value": "Готово!"
+  },
+  {
+    "id": "squad_invite_player",
+    "Key": "squad_invite_player",
+    "Value": "g\\u0004П\\u0001ригласить"
+  },
+  {
+    "id": "squad_invite_player_popup_enter_info",
+    "Key": "squad_invite_player_popup_enter_info",
+    "Value": "Введите BattleTag#0000"
+  },
+  {
+    "id": "squad_recent_players",
+    "Key": "squad_recent_players",
+    "Value": "Недавние игроки"
+  },
+  {
+    "id": "squad_automatch_warning",
+    "Key": "squad_automatch_warning",
+    "Value": "Мы укомплектуем ваш взвод игроками с подходящим уровнем навыка."
+  },
+  {
+    "id": "squad_invite_a_player",
+    "Key": "squad_invite_a_player",
+    "Value": "Пригласить"
+  },
+  {
+    "id": "squad_current",
+    "Key": "squad_current",
+    "Value": "ТЕКУЩИЙ ВЗВОД"
+  },
+  {
+    "id": "squad_team_view",
+    "Key": "squad_team_view",
+    "Value": "Просмотр всех команд"
+  },
+  {
+    "id": "squad_info_invite_player",
+    "Key": "squad_info_invite_player",
+    "Value": "Вы пригласили игрока {playerName} в свой взвод."
+  },
+  {
+    "id": "squad_info_kick_player",
+    "Key": "squad_info_kick_player",
+    "Value": "Вы исключили игрока {playerName} из взвода."
+  },
+  {
+    "id": "squad_info_kicked_from_squad",
+    "Key": "squad_info_kicked_from_squad",
+    "Value": "Вас исключили из взвода."
+  },
+  {
+    "id": "squad_info_leave_squad",
+    "Key": "squad_info_leave_squad",
+    "Value": "Вы покинули взвод."
+  },
+  {
+    "id": "squad_info_player_left_squad",
+    "Key": "squad_info_player_left_squad",
+    "Value": "{playerName} покидает взвод."
+  },
+  {
+    "id": "squad_info_squad_dismissed",
+    "Key": "squad_info_squad_dismissed",
+    "Value": "Ваш взвод был распущен."
+  },
+  {
+    "id": "squad_info_accept_invite",
+    "Key": "squad_info_accept_invite",
+    "Value": "Вы приняли приглашение во взвод от игрока {playerName}."
+  },
+  {
+    "id": "squad_info_decline_invite",
+    "Key": "squad_info_decline_invite",
+    "Value": "Вы отклонили приглашение во взвод от игрока {playerName}."
+  },
+  {
+    "id": "squad_info_invite_accepted",
+    "Key": "squad_info_invite_accepted",
+    "Value": "{playerName} принимает ваше приглашение во взвод."
+  },
+  {
+    "id": "squad_info_invite_declined",
+    "Key": "squad_info_invite_declined",
+    "Value": "{playerName} отклоняет ваше приглашение во взвод."
+  },
+  {
+    "id": "squad_info_invite_timeout",
+    "Key": "squad_info_invite_timeout",
+    "Value": "Срок действия приглашения во взвод от игрока {playerName} истек."
+  },
+  {
+    "id": "squad_info_invite_error",
+    "Key": "squad_info_invite_error",
+    "Value": "Не удалось пригласить во взвод."
+  },
+  {
+    "id": "squad_info_invite_reject_from_sd_user",
+    "Key": "squad_info_invite_reject_from_sd_user",
+    "Value": "{playerName} использует SD-версию игры и не может присоединиться ко взводу."
+  },
+  {
+    "id": "squad_info_cancel_race_select",
+    "Key": "squad_info_cancel_race_select",
+    "Value": "{playerName} отменяет выбор расы."
+  },
+  {
+    "id": "squad_tooltip_for_disabled_ranked_button",
+    "Key": "squad_tooltip_for_disabled_ranked_button",
+    "Value": "Вы уже состоите во взводе для рейтинговых матчей."
+  },
+  {
+    "id": "profile_collection_announcers_HeyJini_desc",
+    "Key": "profile_collection_announcers_HeyJini_desc",
+    "Value": "В Корее Hey Jini обожают дети всех возрастов. Теперь ее жизнерадостный голос порадует вас и во время напряженных матчей! Добавьте к этому облики из набора «Мультяшки», и станет ясно – StarCraft все возрасты покорны!"
+  },
+  {
+    "id": "loginDELCHARFAIL",
+    "Key": "loginDELCHARFAIL",
+    "Value": "Невозможно удалить профиль. Файл на диске может иметь атрибут «только для чтения»."
+  },
+  {
+    "id": "bnet_profileStats_overallWinsLossesDisconnects",
+    "Key": "bnet_profileStats_overallWinsLossesDisconnects",
+    "Value": "[{gatewayName}] – все матчи. Победы: {wins}. Поражения: {losses}. Отключения: {disconnects}."
+  },
+  {
+    "id": "optionsPanel_game_console_default_label",
+    "Key": "optionsPanel_game_console_default_label",
+    "Value": "Стандартная"
+  },
+  {
+    "id": "optionsPanel_game_console_BlizzCon2017_label",
+    "Key": "optionsPanel_game_console_BlizzCon2017_label",
+    "Value": "BlizzCon 2017"
+  },
+  {
+    "id": "optionsPanel_game_console_SCAnniversary_label",
+    "Key": "optionsPanel_game_console_SCAnniversary_label",
+    "Value": "20-я годовщина"
+  },
+  {
+    "id": "optionsPanel_game_console_label",
+    "Key": "optionsPanel_game_console_label",
+    "Value": "Консоль"
+  },
+  {
+    "id": "scr.DataError.desc",
+    "Key": "scr.DataError.desc",
+    "Value": "В данный момент результаты не могут быть отображены, но они были учтены и появятся в статистике позднее."
+  },
+  {
+    "id": "bnet_chat_commandHelpCommandsList",
+    "Key": "bnet_chat_commandHelpCommandsList",
+    "Value": "Доступные команды:"
+  },
+  {
+    "id": "bnet_matchmaking_errorInit",
+    "Key": "bnet_matchmaking_errorInit",
+    "Value": "Не удалось начать поиск матча"
+  },
+  {
+    "id": "scr.profile.matches.btn.replay",
+    "Key": "scr.profile.matches.btn.replay",
+    "Value": "Посмотреть повтор"
+  },
+  {
+    "id": "scr.profile.matches.outcome.win",
+    "Key": "scr.profile.matches.outcome.win",
+    "Value": "Победа"
+  },
+  {
+    "id": "scr.profile.matches.outcome.loss",
+    "Key": "scr.profile.matches.outcome.loss",
+    "Value": "Поражение"
+  },
+  {
+    "id": "scr.profile.matches.outcome.draw",
+    "Key": "scr.profile.matches.outcome.draw",
+    "Value": "Ничья"
+  },
+  {
+    "id": "scr.profile.matches.outcome.disconnect",
+    "Key": "scr.profile.matches.outcome.disconnect",
+    "Value": "Отключение"
+  },
+  {
+    "id": "scr.profile.matches.outcome.undecided",
+    "Key": "scr.profile.matches.outcome.undecided",
+    "Value": "Без результата"
+  },
+  {
+    "id": "scr.profile.matches.preview.information.label",
+    "Key": "scr.profile.matches.preview.information.label",
+    "Value": "Карта и параметры"
+  },
+  {
+    "id": "scr.profile.matches.table.heading.3",
+    "Key": "scr.profile.matches.table.heading.3",
+    "Value": "Результат"
+  },
+  {
+    "id": "scr.profile.matches.table.heading.4",
+    "Key": "scr.profile.matches.table.heading.4",
+    "Value": "Дата"
+  },
+  {
+    "id": "scr.profile.noHistory",
+    "Key": "scr.profile.noHistory",
+    "Value": "Данные истории матчей не найдены."
+  },
+  {
+    "id": "scr.common.terms.gameType.1",
+    "Key": "scr.common.terms.gameType.1",
+    "Value": "Стычка"
+  },
+  {
+    "id": "scr.common.terms.gameType.2",
+    "Key": "scr.common.terms.gameType.2",
+    "Value": "Каждый за себя"
+  },
+  {
+    "id": "scr.common.terms.gameType.3",
+    "Key": "scr.common.terms.gameType.3",
+    "Value": "Один на один"
+  },
+  {
+    "id": "scr.common.terms.gameType.4",
+    "Key": "scr.common.terms.gameType.4",
+    "Value": "Захват флага"
+  },
+  {
+    "id": "scr.common.terms.gameType.5",
+    "Key": "scr.common.terms.gameType.5",
+    "Value": "Алчность"
+  },
+  {
+    "id": "scr.common.terms.gameType.6",
+    "Key": "scr.common.terms.gameType.6",
+    "Value": "Бойня"
+  },
+  {
+    "id": "scr.common.terms.gameType.7",
+    "Key": "scr.common.terms.gameType.7",
+    "Value": "Внезапная смерть"
+  },
+  {
+    "id": "scr.common.terms.gameType.8",
+    "Key": "scr.common.terms.gameType.8",
+    "Value": "Рейтинг"
+  },
+  {
+    "id": "scr.common.terms.gameType.9",
+    "Key": "scr.common.terms.gameType.9",
+    "Value": "Настройки карты"
+  },
+  {
+    "id": "scr.common.terms.gameType.10",
+    "Key": "scr.common.terms.gameType.10",
+    "Value": "Совм. стычка"
+  },
+  {
+    "id": "scr.common.terms.gameType.11",
+    "Key": "scr.common.terms.gameType.11",
+    "Value": "Совм. кажд. за себя"
+  },
+  {
+    "id": "scr.common.terms.gameType.12",
+    "Key": "scr.common.terms.gameType.12",
+    "Value": "Совм. захв. флага"
+  },
+  {
+    "id": "scr.common.terms.gameType.13",
+    "Key": "scr.common.terms.gameType.13",
+    "Value": "Верх на низ"
+  },
+  {
+    "id": "scr.profile.maps.information.label",
+    "Key": "scr.profile.maps.information.label",
+    "Value": "Сведения о карте"
+  },
+  {
+    "id": "blizzcon.esports.brackets.draws",
+    "Key": "blizzcon.esports.brackets.draws",
+    "Value": "Ничьи"
+  },
+  {
+    "id": "scr.profile.tab.heading.1",
+    "Key": "scr.profile.tab.heading.1",
+    "Value": "Сводка"
+  },
+  {
+    "id": "scr.profile.tab.heading.2",
+    "Key": "scr.profile.tab.heading.2",
+    "Value": "Показатели"
+  },
+  {
+    "id": "scr.profile.tab.heading.3",
+    "Key": "scr.profile.tab.heading.3",
+    "Value": "История"
+  },
+  {
+    "id": "scr.profile.tab.heading.4",
+    "Key": "scr.profile.tab.heading.4",
+    "Value": "Сезоны"
+  },
+  {
+    "id": "scr.profile.tab.heading.5",
+    "Key": "scr.profile.tab.heading.5",
+    "Value": "Коллекция"
+  },
+  {
+    "id": "scr.profile.tab.heading.6",
+    "Key": "scr.profile.tab.heading.6",
+    "Value": "Настройки профиля"
+  },
+  {
+    "id": "scr.profile.editableField.title.placeholder",
+    "Key": "scr.profile.editableField.title.placeholder",
+    "Value": "Введите заголовок"
+  },
+  {
+    "id": "scr.profile.editableField.desc.placeholder",
+    "Key": "scr.profile.editableField.desc.placeholder",
+    "Value": "Расскажите о себе"
+  },
+  {
+    "id": "scr.profile.season.currentSeason.label",
+    "Key": "scr.profile.season.currentSeason.label",
+    "Value": "Текущий сезон"
+  },
+  {
+    "id": "scr.profile.maps.recentlyPlayed.label",
+    "Key": "scr.profile.maps.recentlyPlayed.label",
+    "Value": "Последняя карта"
+  },
+  {
+    "id": "scr.profile.stats.header.title",
+    "Key": "scr.profile.stats.header.title",
+    "Value": "Вся статистика"
+  },
+  {
+    "id": "scr.profile.replays.header.title",
+    "Key": "scr.profile.replays.header.title",
+    "Value": "История матчей"
+  },
+  {
+    "id": "scr.profile.replays.filter.opt.1",
+    "Key": "scr.profile.replays.filter.opt.1",
+    "Value": "Все типы"
+  },
+  {
+    "id": "scr.profile.btn.equip",
+    "Key": "scr.profile.btn.equip",
+    "Value": "ВЫБРАТЬ"
+  },
+  {
+    "id": "scr.profile.collections.unlock.label",
+    "Key": "scr.profile.collections.unlock.label",
+    "Value": "Прогресс"
+  },
+  {
+    "id": "scr.profile.collections.unlocked",
+    "Key": "scr.profile.collections.unlocked",
+    "Value": "в коллекции"
+  },
+  {
+    "id": "scr.profile.collections.avatar.noData",
+    "Key": "scr.profile.collections.avatar.noData",
+    "Value": "Вы еще не выбрали портрет профиля."
+  },
+  {
+    "id": "scr.profile.collections.avatar.desc.1",
+    "Key": "scr.profile.collections.avatar.desc.1",
+    "Value": "Накопите"
+  },
+  {
+    "id": "scr.profile.collections.avatar.desc.2",
+    "Key": "scr.profile.collections.avatar.desc.2",
+    "Value": "в рейтинговых матчах, чтобы получить этот портрет."
+  },
+  {
+    "id": "scr.profile.maps.noData",
+    "Key": "scr.profile.maps.noData",
+    "Value": "Данные о карте не найдены."
+  },
+  {
+    "id": "league_ranked_unrankedNotice",
+    "Key": "league_ranked_unrankedNotice",
+    "Value": "В данный момент вам не присвоен рейтинг."
+  },
+  {
+    "id": "league_ranked_completionRequirement",
+    "Key": "league_ranked_completionRequirement",
+    "Value": "Вам необходимо сыграть следующее количество матчей для квалификации: %s"
+  },
+  {
+    "id": "news_banner_welcome",
+    "Key": "news_banner_welcome",
+    "Value": "Добро пожаловать, командир."
+  },
+  {
+    "id": "news_banner_join",
+    "Key": "news_banner_join",
+    "Value": "Присоединяйтесь к сообществу:"
+  },
+  {
+    "id": "news_banner_forums",
+    "Key": "news_banner_forums",
+    "Value": "Официальные форумы"
+  },
+  {
+    "id": "bnet_latency_low",
+    "Key": "bnet_latency_low",
+    "Value": "Низкая"
+  },
+  {
+    "id": "bnet_latency_high",
+    "Key": "bnet_latency_high",
+    "Value": "Высокая"
+  },
+  {
+    "id": "bnet_latency_extraHigh",
+    "Key": "bnet_latency_extraHigh",
+    "Value": "Очень высокая"
+  },
+  {
+    "id": "bnet_dtr_scanInProgress",
+    "Key": "bnet_dtr_scanInProgress",
+    "Value": "Расчет частоты передачи..."
+  },
+  {
+    "id": "bnet119_optionsPanel_soundBoard",
+    "Key": "bnet119_optionsPanel_soundBoard",
+    "Value": "Звуковая плата"
+  },
+  {
+    "id": "league_ranked_matchCompletetion_grats",
+    "Key": "league_ranked_matchCompletetion_grats",
+    "Value": "Отличная работа, командир!"
+  },
+  {
+    "id": "league_ranked_matchCompletetion_sorry",
+    "Key": "league_ranked_matchCompletetion_sorry",
+    "Value": "Впереди ждут новые битвы!"
+  },
+  {
+    "id": "league_ranked_unrankedNotice_toast",
+    "Key": "league_ranked_unrankedNotice_toast",
+    "Value": "Осталось квалификационных матчей: %s"
+  },
+  {
+    "id": "league_ranked_rankUp",
+    "Key": "league_ranked_rankUp",
+    "Value": "Ваш рейтинг повышен!"
+  },
+  {
+    "id": "league_ranked_welcome",
+    "Key": "league_ranked_welcome",
+    "Value": "ВАША НОВАЯ ЛИГА – %s!"
+  },
+  {
+    "id": "league_toast_league",
+    "Key": "league_toast_league",
+    "Value": "Лига"
+  },
+  {
+    "id": "stats_career",
+    "Key": "stats_career",
+    "Value": "ОБЩАЯ СТАТИСТИКА"
+  },
+  {
+    "id": "stats_season",
+    "Key": "stats_season",
+    "Value": "СЕЗОННАЯ СТАТИСТИКА"
+  },
+  {
+    "id": "career_stats_title",
+    "Key": "career_stats_title",
+    "Value": "Что такое общая статистика?"
+  },
+  {
+    "id": "career_stats_description",
+    "Key": "career_stats_description",
+    "Value": "На эти показатели влияют все рейтинговые и нерейтинговые матчи, сыгранные на данной учетной записи. Они не архивируются и не обнуляются."
+  },
+  {
+    "id": "season_stats_title",
+    "Key": "season_stats_title",
+    "Value": "Что такое сезонная статистика?"
+  },
+  {
+    "id": "season_stats_description",
+    "Key": "season_stats_description",
+    "Value": "Здесь отображаются данные о сыгранных в текущем сезоне матчах. В начале каждого нового сезона эти данные сбрасываются и заносятся в архив."
+  },
+  {
+    "id": "season_mmr_title",
+    "Key": "season_mmr_title",
+    "Value": "Что такое MMR?"
+  },
+  {
+    "id": "season_mmr_description",
+    "Key": "season_mmr_description",
+    "Value": "Рейтинг подбора соперников (MMR) помогает найти игроков со схожим уровнем навыков. Ваш MMR увеличивается или уменьшается после каждого матча в зависимости от его исхода."
+  },
+  {
+    "id": "season_srank_title",
+    "Key": "season_srank_title",
+    "Value": "Игроки ранга S"
+  },
+  {
+    "id": "season_srank_description",
+    "Key": "season_srank_description",
+    "Value": "отмечаются как «пассивные», если не завершают хотя бы 5 матчей в неделю. Каждый понедельник в 20:00 МСК у игроков с данным статусом снижается MMR."
+  },
+  {
+    "id": "season_end_title",
+    "Key": "season_end_title",
+    "Value": "Окончание 1-го сезона 2018 г:"
+  },
+  {
+    "id": "season_end_date",
+    "Key": "season_end_date",
+    "Value": "30.09.2018"
+  },
+  {
+    "id": "season_title_2018_1",
+    "Key": "season_title_2018_1",
+    "Value": "1-й сезон 2018 г."
+  },
+  {
+    "id": "season_info_introducing",
+    "Key": "season_info_introducing",
+    "Value": "ПРЕДСТАВЛЯЕМ"
+  },
+  {
+    "id": "season_info_newSeason",
+    "Key": "season_info_newSeason",
+    "Value": "НОВАЯ СИСТЕМА ЛИГ И СЕЗОНОВ"
+  },
+  {
+    "id": "season_info_prideAndAccomplishment",
+    "Key": "season_info_prideAndAccomplishment",
+    "Value": "ДОБЕЙТЕСЬ ВЕЛИЧИЯ И ЗАСЛУЖИТЕ НАГРАДЫ"
+  },
+  {
+    "id": "season_info_exclusive",
+    "Key": "season_info_exclusive",
+    "Value": "ЭКСКЛЮЗИВНЫЕ ПОРТРЕТЫ"
+  },
+  {
+    "id": "season_info_rankPortraits",
+    "Key": "season_info_rankPortraits",
+    "Value": "РАМКИ ДЛЯ ПОРТРЕТА С СИМВОЛИКОЙ РАНГА"
+  },
+  {
+    "id": "season_info_howDoesItWork",
+    "Key": "season_info_howDoesItWork",
+    "Value": "КАК ВСЕ УСТРОЕНО?"
+  },
+  {
+    "id": "season_info_placementMatches",
+    "Key": "season_info_placementMatches",
+    "Value": "Квалификационные матчи"
+  },
+  {
+    "id": "season_info_startTheSeason",
+    "Key": "season_info_startTheSeason",
+    "Value": "Все игроки начинают сезон без рейтинга и распределяются по лигам по результатам 5 квалификационных матчей."
+  },
+  {
+    "id": "season_info_frontierLeague",
+    "Key": "season_info_frontierLeague",
+    "Value": "MMR пограничной лиги"
+  },
+  {
+    "id": "season_info_carryOver",
+    "Key": "season_info_carryOver",
+    "Value": "MMR пограничной лиги используется для определения подходящих соперников в квалификационных матчах первого сезона."
+  },
+  {
+    "id": "season_info_mmr_decay",
+    "Key": "season_info_mmr_decay",
+    "Value": "Падение MMR"
+  },
+  {
+    "id": "season_info_mmr_decay_description",
+    "Key": "season_info_mmr_decay_description",
+    "Value": "Игроки ранга S отмечаются как «пассивные», если не завершают хотя бы 5 матчей в неделю. Каждый понедельник в 20:00 МСК у игроков с данным статусом снижается MMR."
+  },
+  {
+    "id": "season_info_top_players",
+    "Key": "season_info_top_players",
+    "Value": "Лучшие игроки"
+  },
+  {
+    "id": "season_info_achieve_through_placement",
+    "Key": "season_info_achieve_through_placement",
+    "Value": "Доступно после завершения квалификационных матчей"
+  },
+  {
+    "id": "season_info_at_season_start",
+    "Key": "season_info_at_season_start",
+    "Value": "Все игроки на старте сезона"
+  },
+  {
+    "id": "profile_console_skins",
+    "Key": "profile_console_skins",
+    "Value": "Облики консоли"
+  },
+  {
+    "id": "profile_unit_skins",
+    "Key": "profile_unit_skins",
+    "Value": "Облики войск и строений"
+  },
+  {
+    "id": "profile_collections_available",
+    "Key": "profile_collections_available",
+    "Value": "Доступно: {numAvailable}"
+  },
+  {
+    "id": "profile_all_collections",
+    "Key": "profile_all_collections",
+    "Value": "Все предметы"
+  },
+  {
+    "id": "profile_skins_default",
+    "Key": "profile_skins_default",
+    "Value": "Стандартные облики"
+  },
+  {
+    "id": "profile_skins_preorder",
+    "Key": "profile_skins_preorder",
+    "Value": "Облики за предзаказ"
+  },
+  {
+    "id": "profile_season_history",
+    "Key": "profile_season_history",
+    "Value": "История сезона"
+  },
+  {
+    "id": "league_ranked_current_status",
+    "Key": "league_ranked_current_status",
+    "Value": "Поздравляем! Теперь ваша лига – %s!"
+  },
+  {
+    "id": "chat_error_joinAlreadyInProgress",
+    "Key": "chat_error_joinAlreadyInProgress",
+    "Value": "Вы уже отправляли запрос на присоединение к этому каналу."
+  },
+  {
+    "id": "profile_season_your_wins",
+    "Key": "profile_season_your_wins",
+    "Value": "Ваши победы"
+  },
+  {
+    "id": "profile_season_opponent",
+    "Key": "profile_season_opponent",
+    "Value": "Противник"
+  },
+  {
+    "id": "profile_season_gamesplayed",
+    "Key": "profile_season_gamesplayed",
+    "Value": "Матчей за эту неделю:"
+  },
+  {
+    "id": "profile_collections_rankedFrame",
+    "Key": "profile_collections_rankedFrame",
+    "Value": "Рейтинговая рамка для портрета"
+  },
+  {
+    "id": "profile_season_1v1global",
+    "Key": "profile_season_1v1global",
+    "Value": "Глобальный ранг 1х1"
+  },
+  {
+    "id": "profile_season_matchPreview",
+    "Key": "profile_season_matchPreview",
+    "Value": "Информация о матче"
+  },
+  {
+    "id": "profile_season_mapStat",
+    "Key": "profile_season_mapStat",
+    "Value": "В текущем сезоне %s победили в %i% матчей на этой карте."
+  },
+  {
+    "id": "profile_season_dateformatting",
+    "Key": "profile_season_dateformatting",
+    "Value": "%d.%m.%y"
+  },
+  {
+    "id": "profile_season",
+    "Key": "profile_season",
+    "Value": "Сезон"
+  },
+  {
+    "id": "scr.waiting.title",
+    "Key": "scr.waiting.title",
+    "Value": "Ожидание результатов"
+  },
+  {
+    "id": "play_again",
+    "Key": "play_again",
+    "Value": "c\\u0004С\\u0001ыграть еще?"
+  },
+  {
+    "id": "news_str",
+    "Key": "news_str",
+    "Value": "y\\u0004Н\\u0001овости"
+  },
+  {
+    "id": "bnet_error_classicServer_TE_DroppedDueToRateLimit",
+    "Key": "bnet_error_classicServer_TE_DroppedDueToRateLimit",
+    "Value": "Запрос отклонен из-за большого количества выполняемых операций."
+  },
+  {
+    "id": "bnet_matchmaking_mapListsDownloadProgressPopup_title",
+    "Key": "bnet_matchmaking_mapListsDownloadProgressPopup_title",
+    "Value": "Загрузка списка рейтинговых карт..."
+  },
+  {
+    "id": "profile_data_error",
+    "Key": "profile_data_error",
+    "Value": "Не удается загрузить данные профиля. Пожалуйста, повторите попытку."
+  },
+  {
+    "id": "scr.leaderboard.filter.region.opt.1",
+    "Key": "scr.leaderboard.filter.region.opt.1",
+    "Value": "Все"
+  },
+  {
+    "id": "optionsPanel_game_console_BlizzCon2018_label",
+    "Key": "optionsPanel_game_console_BlizzCon2018_label",
+    "Value": "BlizzCon 2018"
+  },
+  {
+    "id": "season_info_newSeasonAndMapPool",
+    "Key": "season_info_newSeasonAndMapPool",
+    "Value": "НОВЫЙ СЕЗОН И ПУЛ КАРТ"
+  },
+  {
+    "id": "season_info_newRewards",
+    "Key": "season_info_newRewards",
+    "Value": "НОВЫЕ НАГРАДЫ"
+  },
+  {
+    "id": "season_info_season2_mapPool",
+    "Key": "season_info_season2_mapPool",
+    "Value": "ПУЛ КАРТ 2-ГО СЕЗОНА"
+  },
+  {
+    "id": "bnet_profileStats_noStatsFound",
+    "Key": "bnet_profileStats_noStatsFound",
+    "Value": "Статистика не найдена."
+  },
+  {
+    "id": "scr.leaderboard.filter.igr",
+    "Key": "scr.leaderboard.filter.igr",
+    "Value": "IGR"
+  },
+  {
+    "id": "chat_error_AE_WhisperQuotaExceeded",
+    "Key": "chat_error_AE_WhisperQuotaExceeded",
+    "Value": "Личное сообщение не отправлено, поскольку вы отправили слишком много личных сообщений за короткий промежуток времени."
+  },
+  {
+    "id": "chat_error_AE_FriendInviteeAtMaxFriends",
+    "Key": "chat_error_AE_FriendInviteeAtMaxFriends",
+    "Value": "Количество друзей по сети Blizzard этого игрока уже достигло максимума."
+  },
+  {
+    "id": "bnet_chat_command_friends_presenceNotifications_enabled",
+    "Key": "bnet_chat_command_friends_presenceNotifications_enabled",
+    "Value": "Уведомления о статусе друзей будут отображаться."
+  },
+  {
+    "id": "bnet_chat_command_friends_presenceNotifications_disabled",
+    "Key": "bnet_chat_command_friends_presenceNotifications_disabled",
+    "Value": "Уведомления о статусе друзей будут скрыты."
+  },
+  {
+    "id": "bnet_availabilityChange_online",
+    "Key": "bnet_availabilityChange_online",
+    "Value": "Вы сменили статус на «В сети»."
+  },
+  {
+    "id": "bnet_availabilityChange_away",
+    "Key": "bnet_availabilityChange_away",
+    "Value": "Вы сменили статус на «Отсутствует»."
+  },
+  {
+    "id": "bnet_availabilityChange_dnd",
+    "Key": "bnet_availabilityChange_dnd",
+    "Value": "Вы сменили статус на «Занят» и не будете получать личные сообщения или уведомления о статусе друзей."
+  },
+  {
+    "id": "scr.profile.btn.purchase",
+    "Key": "scr.profile.btn.purchase",
+    "Value": "КУПИТЬ"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_on_description",
+    "Key": "bnet_chat_commandHelp_friends_on_description",
+    "Value": "Включить уведомления о статусе друзей."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_off_description",
+    "Key": "bnet_chat_commandHelp_friends_off_description",
+    "Value": "Отключить уведомления о статусе друзей."
+  },
+  {
+    "id": "season_info_season3_mapPool",
+    "Key": "season_info_season3_mapPool",
+    "Value": "ПУЛ КАРТ 3-ГО СЕЗОНА"
+  },
+  {
+    "id": "profile_collection_announcers_title",
+    "Key": "profile_collection_announcers_title",
+    "Value": "Комментаторы"
+  },
+  {
+    "id": "profile_collection_announcers_default_title",
+    "Key": "profile_collection_announcers_default_title",
+    "Value": "Стандартный"
+  },
+  {
+    "id": "replay_date",
+    "Key": "replay_date",
+    "Value": "Дата:"
+  },
+  {
+    "id": "replay_length",
+    "Key": "replay_length",
+    "Value": "Длительность:"
+  },
+  {
+    "id": "replay_file_name",
+    "Key": "replay_file_name",
+    "Value": "Имя файла:"
+  },
+  {
+    "id": "season_info_season_mapPool",
+    "Key": "season_info_season_mapPool",
+    "Value": "ПУЛ КАРТ {seasonNumber}-ГО СЕЗОНА"
+  },
+  {
+    "id": "scr.profile.btn.preview",
+    "Key": "scr.profile.btn.preview",
+    "Value": "Демо"
+  },
+  {
+    "id": "bnet_availabilityChange_offline",
+    "Key": "bnet_availabilityChange_offline",
+    "Value": "Вы сменили статус на «Не в сети»."
+  },
+  {
+    "id": "profile_collection_announcers_Jaekyung_title",
+    "Key": "profile_collection_announcers_Jaekyung_title",
+    "Value": "Ом"
+  },
+  {
+    "id": "profile_collection_announcers_Yongjun_title",
+    "Key": "profile_collection_announcers_Yongjun_title",
+    "Value": "Чон"
+  },
+  {
+    "id": "profile_collection_announcers_Jungmin_title",
+    "Key": "profile_collection_announcers_Jungmin_title",
+    "Value": "Ким"
+  },
+  {
+    "id": "profile_collection_announcers_UmJeonKim_title",
+    "Key": "profile_collection_announcers_UmJeonKim_title",
+    "Value": "Трио «Ом, Чон, Ким»"
+  },
+  {
+    "id": "recent_players",
+    "Key": "recent_players",
+    "Value": "Недавние игроки"
+  },
+  {
+    "id": "profile_collection_announcers_Jaekyung_desc",
+    "Key": "profile_collection_announcers_Jaekyung_desc",
+    "Value": "Чэкён – настоящая легенда киберспорта в Корее. Он комментирует матчи с первого дня существования Star League. Теперь его талант и остроумие скрасят каждый ваш поединок в StarCraft!"
+  },
+  {
+    "id": "profile_collection_announcers_Yongjun_desc",
+    "Key": "profile_collection_announcers_Yongjun_desc",
+    "Value": "Йончун – яркий и запоминающийся комментатор. Он всегда подает материал так, будто участвует в рэп-батле. Его напор и неуемная энергия будут задавать тон каждому вашему матчу в StarCraft!"
+  },
+  {
+    "id": "profile_collection_announcers_Jungmin_desc",
+    "Key": "profile_collection_announcers_Jungmin_desc",
+    "Value": "В разгар киберспортивной карьеры Чонмина по его матчам за терранов можно было писать учебники. Его аналитика, подкрепленная многолетним игровым опытом, определенно не будет лишней во время игры в StarCraft."
+  },
+  {
+    "id": "profile_collection_announcers_UmJeonKim_desc",
+    "Key": "profile_collection_announcers_UmJeonKim_desc",
+    "Value": "В комплект «Три легенды» входят индивидуальные наборы комментаторов Ома, Чона и Кима, а также их совместный набор «Трио \"Ом, Чон, Ким\"», который подарит вам идеальное сочетание глубокого анализа, талантливого повествования и любви к своему делу!"
+  },
+  {
+    "id": "error_cant_load_last_replay",
+    "Key": "error_cant_load_last_replay",
+    "Value": "Не удалось загрузить последний повтор."
+  },
+  {
+    "id": "profile_collections_leaveMmQueueForSimpleCheckout",
+    "Key": "profile_collections_leaveMmQueueForSimpleCheckout",
+    "Value": "Чтобы завершить покупку, нужно покинуть очередь на матч. Вы согласны?"
+  },
+  {
+    "id": "tag_zerg",
+    "Key": "tag_zerg",
+    "Value": "Z"
+  },
+  {
+    "id": "tag_terran",
+    "Key": "tag_terran",
+    "Value": "T"
+  },
+  {
+    "id": "tag_protoss",
+    "Key": "tag_protoss",
+    "Value": "P"
+  },
+  {
+    "id": "tag_random",
+    "Key": "tag_random",
+    "Value": "?"
+  },
+  {
+    "id": "profile_collection_announcers_note",
+    "Key": "profile_collection_announcers_note",
+    "Value": "Корейский (без субтитров)"
+  },
+  {
+    "id": "bnet_renameToonProgressPopup_title",
+    "Key": "bnet_renameToonProgressPopup_title",
+    "Value": "Смена имени..."
+  },
+  {
+    "id": "bnet_renameToonRequiredWarning",
+    "Key": "bnet_renameToonRequiredWarning",
+    "Value": "Профиль \"{toonName}\" необходимо переименовать."
+  },
+  {
+    "id": "bnet_toonRename_characterName",
+    "Key": "bnet_toonRename_characterName",
+    "Value": "Имя профиля"
+  },
+  {
+    "id": "bnet_toonRename_renameCharacter",
+    "Key": "bnet_toonRename_renameCharacter",
+    "Value": "Переименовать"
+  },
+  {
+    "id": "profile_skins_carbot_desc",
+    "Key": "profile_skins_carbot_desc",
+    "Value": "Добавьте в StarCraft легкости и очарования мультиков от Carbot! С этим вам поможет набор обликов «Мультяшки»! Каждая боевая единица, каждое строение, меню или элемент карты – все станет мультяшным как в сетевых матчах, так и в одиночных кампаниях!"
+  },
+  {
+    "id": "season_info_season4_mapPool",
+    "Key": "season_info_season4_mapPool",
+    "Value": "ПУЛ КАРТ 4-ГО СЕЗОНА"
+  },
+  {
+    "id": "lobbyScreen_selectRace",
+    "Key": "lobbyScreen_selectRace",
+    "Value": "Выбор расы"
+  },
+  {
+    "id": "lobbyScreen_Pink",
+    "Key": "lobbyScreen_Pink",
+    "Value": "Розовый"
+  },
+  {
+    "id": "lobbyScreen_Red",
+    "Key": "lobbyScreen_Red",
+    "Value": "Красный"
+  },
+  {
+    "id": "lobbyScreen_Tan",
+    "Key": "lobbyScreen_Tan",
+    "Value": "Бежевый"
+  },
+  {
+    "id": "lobbyScreen_Orange",
+    "Key": "lobbyScreen_Orange",
+    "Value": "Оранжевый"
+  },
+  {
+    "id": "lobbyScreen_Brown",
+    "Key": "lobbyScreen_Brown",
+    "Value": "Коричневый"
+  },
+  {
+    "id": "lobbyScreen_PaleYellow",
+    "Key": "lobbyScreen_PaleYellow",
+    "Value": "Светло-желтый"
+  },
+  {
+    "id": "lobbyScreen_Yellow",
+    "Key": "lobbyScreen_Yellow",
+    "Value": "Желтый"
+  },
+  {
+    "id": "lobbyScreen_Olive",
+    "Key": "lobbyScreen_Olive",
+    "Value": "Оливковый"
+  },
+  {
+    "id": "lobbyScreen_Lime",
+    "Key": "lobbyScreen_Lime",
+    "Value": "Лаймовый"
+  },
+  {
+    "id": "lobbyScreen_PaleGreen",
+    "Key": "lobbyScreen_PaleGreen",
+    "Value": "Бледно-зеленый"
+  },
+  {
+    "id": "lobbyScreen_Green",
+    "Key": "lobbyScreen_Green",
+    "Value": "Зеленый"
+  },
+  {
+    "id": "lobbyScreen_Cyan",
+    "Key": "lobbyScreen_Cyan",
+    "Value": "Голубой"
+  },
+  {
+    "id": "lobbyScreen_Teal",
+    "Key": "lobbyScreen_Teal",
+    "Value": "Бирюзовый"
+  },
+  {
+    "id": "lobbyScreen_Blue",
+    "Key": "lobbyScreen_Blue",
+    "Value": "Синий"
+  },
+  {
+    "id": "lobbyScreen_Navy",
+    "Key": "lobbyScreen_Navy",
+    "Value": "Морской"
+  },
+  {
+    "id": "lobbyScreen_DarkAqua",
+    "Key": "lobbyScreen_DarkAqua",
+    "Value": "Темно-бирюзовый"
+  },
+  {
+    "id": "lobbyScreen_BluishGrey",
+    "Key": "lobbyScreen_BluishGrey",
+    "Value": "Серо-голубой"
+  },
+  {
+    "id": "lobbyScreen_Purple",
+    "Key": "lobbyScreen_Purple",
+    "Value": "Фиолетовый"
+  },
+  {
+    "id": "lobbyScreen_Magenta",
+    "Key": "lobbyScreen_Magenta",
+    "Value": "Пурпурный"
+  },
+  {
+    "id": "lobbyScreen_White",
+    "Key": "lobbyScreen_White",
+    "Value": "Белый"
+  },
+  {
+    "id": "lobbyScreen_Grey",
+    "Key": "lobbyScreen_Grey",
+    "Value": "Серый"
+  },
+  {
+    "id": "lobbyScreen_Black",
+    "Key": "lobbyScreen_Black",
+    "Value": "Черный"
+  },
+  {
+    "id": "bnet_chat_defaultChannelName",
+    "Key": "bnet_chat_defaultChannelName",
+    "Value": "<Канал по умолчанию>"
+  },
+  {
+    "id": "squad_popup_disband_squad_confirm",
+    "Key": "squad_popup_disband_squad_confirm",
+    "Value": "Вы уверены, что хотите\\n\\u0004распустить\\u0002 взвод?"
+  },
+  {
+    "id": "squad_popup_leave_squad_confirm",
+    "Key": "squad_popup_leave_squad_confirm",
+    "Value": "Вы уверены, что хотите\\n\\u0004покинуть\\u0002 взвод?"
+  },
+  {
+    "id": "squad_popup_stay_with_squad",
+    "Key": "squad_popup_stay_with_squad",
+    "Value": "j\\u0004О\\u0001статься во взводе"
+  },
+  {
+    "id": "squad_popup_disband_squad",
+    "Key": "squad_popup_disband_squad",
+    "Value": "dРаспустить \\u0004M\\в0001звод"
+  },
+  {
+    "id": "squad_popup_leave_squad",
+    "Key": "squad_popup_leave_squad",
+    "Value": "lПокинуть взво\\u0004д\\u0001"
+  },
+  {
+    "id": "lobbyScreen_Random",
+    "Key": "lobbyScreen_Random",
+    "Value": "Случайный выбор"
+  },
+  {
+    "id": "squad_waiting_for_player",
+    "Key": "squad_waiting_for_player",
+    "Value": "Ожидание игрока"
+  },
+  {
+    "id": "squad_popup_squad_is_full",
+    "Key": "squad_popup_squad_is_full",
+    "Value": "Взвод укомплектован. В него нельзя пригласить больше игроков."
+  },
+  {
+    "id": "squad_popup_squad_is_pending",
+    "Key": "squad_popup_squad_is_pending",
+    "Value": "Ожидание ответа на приглашение. Дождитесь результата, прежде чем повторить попытку."
+  },
+  {
+    "id": "squad_popup_wait_for_invite_result",
+    "Key": "squad_popup_wait_for_invite_result",
+    "Value": "Дождитесь, когда игрок ответит на ваше приглашение."
+  },
+  {
+    "id": "squad_chooseRace_timeout",
+    "Key": "squad_chooseRace_timeout",
+    "Value": "Выбор расы будет отменен через {cancelTimeInSec} сек."
+  },
+  {
+    "id": "squad_popup_squad_guest_can_not_invite",
+    "Key": "squad_popup_squad_guest_can_not_invite",
+    "Value": "Вы уже приглашены во взвод и не можете приглашать других игроков."
+  },
+  {
+    "id": "squad_popup_squad_invite_waiting",
+    "Key": "squad_popup_squad_invite_waiting",
+    "Value": "У вас есть неотвеченное приглашение во взвод. Отклоните его, прежде чем приглашать других игроков."
+  },
+  {
+    "id": "optionsPanel_game_console_KRC_Silver_label",
+    "Key": "optionsPanel_game_console_KRC_Silver_label",
+    "Value": "Оркестр 2019: серебро"
+  },
+  {
+    "id": "optionsPanel_game_console_KRC_Gold_label",
+    "Key": "optionsPanel_game_console_KRC_Gold_label",
+    "Value": "Оркестр 2019: золото"
+  },
+  {
+    "id": "squad_info_invite_reject_from_user_in_matchmaking",
+    "Key": "squad_info_invite_reject_from_user_in_matchmaking",
+    "Value": "{playerName} уже ищет матч и не может принять приглашение."
+  },
+  {
+    "id": "squad_popup_disallow_invite_when_in_matchmaking",
+    "Key": "squad_popup_disallow_invite_when_in_matchmaking",
+    "Value": "Вы не можете пригласить игрока во взвод, так как находитесь в очереди на матч."
+  },
+  {
+    "id": "squad_popup_disallow_1v1_if_invited",
+    "Key": "squad_popup_disallow_1v1_if_invited",
+    "Value": "Вы не можете попасть в очередь на матч 1х1, так как состоите во взводе."
+  },
+  {
+    "id": "squad_popup_disallow_1v1_for_squad_leader",
+    "Key": "squad_popup_disallow_1v1_for_squad_leader",
+    "Value": "Вы не можете попасть в очередь на матч 1х1, так как являетесь лидером взвода."
+  },
+  {
+    "id": "squad_popup_not_invite_player_in_custom_game",
+    "Key": "squad_popup_not_invite_player_in_custom_game",
+    "Value": "Вы не можете пригласить игрока, уже участвующего в матче «Своей игры»."
+  },
+  {
+    "id": "squad_info_leader_cancel_matchmaking",
+    "Key": "squad_info_leader_cancel_matchmaking",
+    "Value": "Лидер взвода прекратил поиск матча."
+  },
+  {
+    "id": "social_panel_message_button",
+    "Key": "social_panel_message_button",
+    "Value": "Отправить сообщение"
+  },
+  {
+    "id": "social_panel_friend_button",
+    "Key": "social_panel_friend_button",
+    "Value": "Добавить в друзья"
+  },
+  {
+    "id": "social_panel_ignore_button",
+    "Key": "social_panel_ignore_button",
+    "Value": "Игнорировать"
+  },
+  {
+    "id": "social_panel_unignore_button",
+    "Key": "social_panel_unignore_button",
+    "Value": "Перестать игнорировать"
+  },
+  {
+    "id": "social_panel_report_button",
+    "Key": "social_panel_report_button",
+    "Value": "Пожаловаться"
+  },
+  {
+    "id": "social_panel_header",
+    "Key": "social_panel_header",
+    "Value": "Общение"
+  },
+  {
+    "id": "social_panel_report_reason",
+    "Key": "social_panel_report_reason",
+    "Value": "Выберите причину:"
+  },
+  {
+    "id": "social_panel_report_spam",
+    "Key": "social_panel_report_spam",
+    "Value": "Спам"
+  },
+  {
+    "id": "social_panel_report_harassment",
+    "Key": "social_panel_report_harassment",
+    "Value": "Оскорбление"
+  },
+  {
+    "id": "social_panel_report_cheating",
+    "Key": "social_panel_report_cheating",
+    "Value": "Мошенничество"
+  },
+  {
+    "id": "social_panel_report_account_name",
+    "Key": "social_panel_report_account_name",
+    "Value": "Учетная запись"
+  },
+  {
+    "id": "social_panel_report_battle_tag",
+    "Key": "social_panel_report_battle_tag",
+    "Value": "BattleTag"
+  },
+  {
+    "id": "social_panel_report_game_name",
+    "Key": "social_panel_report_game_name",
+    "Value": "Название матча"
+  },
+  {
+    "id": "profile_season_2v2global",
+    "Key": "profile_season_2v2global",
+    "Value": "Глобальный ранг 2х2"
+  },
+  {
+    "id": "str_referee",
+    "Key": "str_referee",
+    "Value": "Судья"
+  },
+  {
+    "id": "strPAUSED_observer",
+    "Key": "strPAUSED_observer",
+    "Value": "{name} приостанавливает матч."
+  },
+  {
+    "id": "createGameScreen_refereeOption",
+    "Key": "createGameScreen_refereeOption",
+    "Value": "Судьи"
+  },
+  {
+    "id": "lobbyScreen_referees",
+    "Key": "lobbyScreen_referees",
+    "Value": "Судьи"
+  },
+  {
+    "id": "optionsPanel_game_console_War3Spoils_label",
+    "Key": "optionsPanel_game_console_War3Spoils_label",
+    "Value": "Reforged"
+  },
+  {
+    "id": "squad_tooltip_for_disabled_requeue_button",
+    "Key": "squad_tooltip_for_disabled_requeue_button",
+    "Value": ""
+  },
+  {
+    "id": "squad_info_invite_reject_from_user_on_toast_screen",
+    "Key": "squad_info_invite_reject_from_user_on_toast_screen",
+    "Value": ""
+  },
+  {
+    "id": "squad_info_invite_reject_from_user_on_score_screen",
+    "Key": "squad_info_invite_reject_from_user_on_score_screen",
+    "Value": ""
+  },
+  {
+    "id": "squad_popup_kick_player_confirm",
+    "Key": "squad_popup_kick_player_confirm",
+    "Value": ""
+  },
+  {
+    "id": "season_info_season5_mapPool",
+    "Key": "season_info_season5_mapPool",
+    "Value": "ПУЛ КАРТ 5-ГО СЕЗОНА"
+  },
+  {
+    "id": "lobbyScreen_MapSpecified",
+    "Key": "lobbyScreen_MapSpecified",
+    "Value": "Настройки карты"
+  },
+  {
+    "id": "observerScreen_tooltip_hotkey_or",
+    "Key": "observerScreen_tooltip_hotkey_or",
+    "Value": "или"
+  },
+  {
+    "id": "graphics_error_driverVersionOutOfDate_title",
+    "Key": "graphics_error_driverVersionOutOfDate_title",
+    "Value": "Графический драйвер устарел"
+  },
+  {
+    "id": "graphics_error_driverVersionOutOfDate_content",
+    "Key": "graphics_error_driverVersionOutOfDate_content",
+    "Value": "Версия установленного графического драйвера устарела и не позволяет запустить Starcraft: Remastered надлежащим образом.\\n\\nПодробнее о том, как обновить драйвер: {url}"
+  },
+  {
+    "id": "bnet_joinGame_publicGameSearchProgressPopup_title",
+    "Key": "bnet_joinGame_publicGameSearchProgressPopup_title",
+    "Value": "Поиск игры..."
+  },
+  {
+    "id": "bnet_joinGame_GameSearch_GameNameNotFound",
+    "Key": "bnet_joinGame_GameSearch_GameNameNotFound",
+    "Value": "Невозможно присоединиться. Создатель игры либо уже начал, либо завершил ее."
+  },
+  {
+    "id": "bnet_joinGame_GameSearch_Failure_GameNoLongerBeingAdvertised",
+    "Key": "bnet_joinGame_GameSearch_Failure_GameNoLongerBeingAdvertised",
+    "Value": "Невозможно присоединиться. Создатель игры либо уже начал, либо завершил ее."
+  },
+  {
+    "id": "profile_collection_soundtracks_title",
+    "Key": "profile_collection_soundtracks_title",
+    "Value": ""
+  },
+  {
+    "id": "profile_collection_soundtrack_default_title",
+    "Key": "profile_collection_soundtrack_default_title",
+    "Value": "Стандартный"
+  },
+  {
+    "id": "profile_collection_soundtrack_concert_title",
+    "Key": "profile_collection_soundtrack_concert_title",
+    "Value": "Музыкальный набор StarCraft Remastered Live"
+  },
+  {
+    "id": "profile_collection_soundtrack_default_description",
+    "Key": "profile_collection_soundtrack_default_description",
+    "Value": ""
+  },
+  {
+    "id": "profile_collection_soundtrack_concert_description",
+    "Key": "profile_collection_soundtrack_concert_description",
+    "Value": ""
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_CaisPlaytimeExceeded",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_CaisPlaytimeExceeded",
+    "Value": ""
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_CaisCurfew",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_CaisCurfew",
+    "Value": ""
+  }
+]
