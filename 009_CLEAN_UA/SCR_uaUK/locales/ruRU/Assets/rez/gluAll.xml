@@ -597,11 +597,11 @@
     </string>
     <string>
         <id>bnet_cloud_downloadProgressPopup_title</id>
-        <value>Загрузка...</value>
+        <value>Завантаження...</value>
     </string>
     <string>
         <id>bnet_cloud_downloadProgressPopup_body</id>
-        <value>Загрузка...\\n(%s).</value>
+        <value>Завантаження..\\n(%s).</value>
     </string>
     <string>
         <id>bnet_cloud_sizeRemaining</id>
@@ -833,7 +833,7 @@
     </string>
     <string>
         <id>gluSELECTTYPE</id>
-        <value>Выберите игру</value>
+        <value>Оберіть гру</value>
     </string>
     <string>
         <id>gameTYPEDISABLED</id>
@@ -1461,7 +1461,7 @@
     </string>
     <string>
         <id>bnet119_optionsPanel_language_ruRU</id>
-        <value>Русский</value>
+        <value>Українська</value>
     </string>
     <string>
         <id>bnet119_optionsPanel_language_zhCN</id>
@@ -2709,7 +2709,7 @@
     </string>
     <string>
         <id>str_quit</id>
-        <value>j\\4О\\1тмена</value>
+        <value>j\\4В\\1відмінити</value>
     </string>
     <string>
         <id>hotkeyPane_resetConfirmation</id>
@@ -3073,7 +3073,7 @@
     </string>
     <string>
         <id>bnet119_matchmakingLoading_loading</id>
-        <value>Загрузка</value>
+        <value>Завантаження</value>
     </string>
     <string>
         <id>bnet119_optionsPanel_general_button_apply</id>

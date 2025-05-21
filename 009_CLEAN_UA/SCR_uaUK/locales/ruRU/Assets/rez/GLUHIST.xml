@@ -5,23 +5,23 @@
     </string>
     <string>
         <id>histTERRAN_1</id>
-        <value>1. Пустошь</value>
+        <value>1. Пустище</value>
     </string>
     <string>
         <id>histTERRAN_2</id>
-        <value>2. Станция «Дальняя»</value>
+        <value>2. «Заточна станція»</value>
     </string>
     <string>
         <id>histTERRAN_3</id>
-        <value>3. Отчаянный союз</value>
+        <value>3. Відчайдушний альянс</value>
     </string>
     <string>
         <id>histTERRAN_4</id>
-        <value>4. База «Джейкобс»</value>
+        <value>4. Станція «Джейкобс»</value>
     </string>
     <string>
         <id>histTERRAN_5</id>
-        <value>5. Революция</value>
+        <value>5. Революція</value>
     </string>
     <string>
         <id>histTERRAN_6</id>
@@ -29,19 +29,19 @@
     </string>
     <string>
         <id>histTERRAN_7</id>
-        <value>7. Туз в рукаве</value>
+        <value>7. Козир у рукаві</value>
     </string>
     <string>
         <id>histTERRAN_8</id>
-        <value>8. Большой толчок</value>
+        <value>8. Великий поштовх</value>
     </string>
     <string>
         <id>histTERRAN_9</id>
-        <value>9. Новый Геттисберг</value>
+        <value>9. Новый Геттісберг</value>
     </string>
     <string>
         <id>histTERRAN_10</id>
-        <value>10. Удар молота</value>
+        <value>10. Падіння молоту</value>
     </string>
     <string>
         <id>histTFLIC_1</id>

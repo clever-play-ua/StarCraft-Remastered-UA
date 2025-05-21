@@ -1,7 +1,7 @@
 <strings>
     <string>
         <id>gluGameLobby-2</id>
-        <value>j\\4О\\1тмена</value>
+        <value>j\\4В\\1ідмінити</value>
     </string>
     <string>
         <id>gluGameLobby-1</id>
@@ -45,7 +45,7 @@
     </string>
     <string>
         <id>gluMain-16</id>
-        <value>c\\4С\\1етевая игра</value>
+        <value>c\\4М\\1ережева гра</value>
     </string>
     <string>
         <id>msnstat2-15</id>
@@ -145,7 +145,7 @@
     </string>
     <string>
         <id>abrtmenu-10</id>
-        <value>j\\4О\\1тмена</value>
+        <value>j\\4В\\1ідмінити</value>
     </string>
     <string>
         <id>allyfltr-12</id>
@@ -169,11 +169,11 @@
     </string>
     <string>
         <id>gamemenu-8</id>
-        <value>w\\4Ц\\1ели задания</value>
+        <value>w\\4Ц\\1ілі завдання</value>
     </string>
     <string>
         <id>gamemenu-9</id>
-        <value>tЗав\\4е\\1ршить задание</value>
+        <value>tЗав\\4е\\1ршити завдання</value>
     </string>
     <string>
         <id>gamemenu-10</id>
@@ -213,7 +213,7 @@
     </string>
     <string>
         <id>gluMain-18</id>
-        <value>j\\4О\\1диночная игра</value>
+        <value>j\\4О\\1дин гравець</value>
     </string>
     <string>
         <id>msnstat2-7</id>
@@ -497,11 +497,11 @@
     </string>
     <string>
         <id>gamemenu-6</id>
-        <value>y\\4Н\\1астройки</value>
+        <value>y\\4Н\\1алаштування</value>
     </string>
     <string>
         <id>gamemenu-7</id>
-        <value>dСпра\\4в\\1ка</value>
+        <value>dДо\\4в\\1ідка</value>
     </string>
     <string>
         <id>gluCmpgn-6</id>
@@ -525,11 +525,11 @@
     </string>
     <string>
         <id>gluMain-7</id>
-        <value>d\\4В\\1ступительный ролик</value>
+        <value>d\\4В\\1ступний ролик</value>
     </string>
     <string>
         <id>gluMain-14</id>
-        <value>d\\4В\\1ступительный ролик</value>
+        <value>d\\4В\\1ступний ролик</value>
     </string>
     <string>
         <id>gluModemEntry-4</id>
@@ -765,7 +765,7 @@
     </string>
     <string>
         <id>allyfltr-2</id>
-        <value>Отмена</value>
+        <value>Відмінити</value>
     </string>
     <string>
         <id>allyfltr-3</id>
@@ -793,35 +793,35 @@
     </string>
     <string>
         <id>gamemenu-1</id>
-        <value>\\027Вернуться в игру (\\4Esc\\1)</value>
+        <value>\\027Продовжити гру (\\4Esc\\1)</value>
     </string>
     <string>
         <id>gamemenu-2</id>
-        <value>c\\4С\\1охранить игру</value>
+        <value>c\\4З\\1зберегти гру</value>
     </string>
     <string>
         <id>gamemenu-3</id>
-        <value>fЗ\\4а\\1грузить игру</value>
+        <value>fЗ\\4а\\1вантажити гру</value>
     </string>
     <string>
         <id>gluCmpgn-1</id>
-        <value>fЗ\\4а\\1грузить игру</value>
+        <value>fЗ\\4а\\1вантажити гру</value>
     </string>
     <string>
         <id>gluCmpgn-2</id>
-        <value>eЗагр\\4у\\1зить повтор</value>
+        <value>eЗаван\\4а\\1жити повтор</value>
     </string>
     <string>
         <id>gluCmpgn-3</id>
-        <value>g\\4П\\1ротоссы\\n\\2Эпизод III\\1</value>
+        <value>g\\4П\\1ротоси\\n\\2Епізод III\\1</value>
     </string>
     <string>
         <id>gluCmpgn-4</id>
-        <value>n\\4Т\\1ерраны\\n\\2Эпизод I\\1</value>
+        <value>n\\4Т\\1еррани\\n\\2Епізод I\\1</value>
     </string>
     <string>
         <id>gluCmpgn-5</id>
-        <value>p\\4З\\1ерги\\n\\2Эпизод II\\1</value>
+        <value>p\\4З\\1ерги\\n\\2Епізод II\\1</value>
     </string>
     <string>
         <id>gluCmpgn-7</id>
@@ -829,11 +829,11 @@
     </string>
     <string>
         <id>gluCmpgn-8</id>
-        <value>Кампания терранов\\nне завершена.</value>
+        <value>Кампанія терранів\\nне завершена.</value>
     </string>
     <string>
         <id>gluCmpgn-10</id>
-        <value>Кампания зергов\\nне завершена.</value>
+        <value>Кампанія зергів\\nне завершена.</value>
     </string>
     <string>
         <id>gluConn-1</id>
@@ -853,7 +853,7 @@
     </string>
     <string>
         <id>gluCreat-1</id>
-        <value>Создать</value>
+        <value>Створити</value>
     </string>
     <string>
         <id>gluCreat-2</id>
@@ -881,7 +881,7 @@
     </string>
     <string>
         <id>gluCustm-1</id>
-        <value>Создать</value>
+        <value>Створити</value>
     </string>
     <string>
         <id>gluCustm-2</id>
@@ -941,7 +941,7 @@
     </string>
     <string>
         <id>gluExpCmpgn-7</id>
-        <value>c\\4С\\1воя игра</value>
+        <value>c\\4С\\1воя гра</value>
     </string>
     <string>
         <id>gluExpCmpgn-8</id>
@@ -953,7 +953,7 @@
     </string>
     <string>
         <id>gluGameMode-1</id>
-        <value>j\\4О\\1ригинальная игра</value>
+        <value>j\\4О\\1ригінальна гра</value>
     </string>
     <string>
         <id>gluGameMode-2</id>
@@ -961,7 +961,7 @@
     </string>
     <string>
         <id>gluGameMode-3</id>
-        <value>l\\4Д\\1ополнение</value>
+        <value>l\\4Д\\1оповнення</value>
     </string>
     <string>
         <id>gluJoin-1</id>
@@ -1017,11 +1017,11 @@
     </string>
     <string>
         <id>gluLogin-3</id>
-        <value>c\\4С\\1оздать</value>
+        <value>c\\4С\\1творити</value>
     </string>
     <string>
         <id>gluLogin-4</id>
-        <value>e\\4У\\1далить</value>
+        <value>d\\4В\\1идалити</value>
     </string>
     <string>
         <id>gluLogin-1</id>
@@ -1029,19 +1029,19 @@
     </string>
     <string>
         <id>gluLogin-5</id>
-        <value>Профиль</value>
+        <value>Профіль</value>
     </string>
     <string>
         <id>gluMain-1</id>
-        <value>sВ\\4ы\\1ход</value>
+        <value>sВ\\4и\\1йти з гри</value>
     </string>
     <string>
         <id>gluMain-3</id>
-        <value>j\\4О\\1диночная игра</value>
+        <value>j\\4О\\1один гравень</value>
     </string>
     <string>
         <id>gluMain-4</id>
-        <value>c\\4С\\1етевая игра</value>
+        <value>c\\4М\\1ережева гра</value>
     </string>
     <string>
         <id>gluMain-2</id>
@@ -1049,7 +1049,7 @@
     </string>
     <string>
         <id>gluMain-5</id>
-        <value>y\\4Н\\1астройки</value>
+        <value>y\\4Н\\1алаштування</value>
     </string>
     <string>
         <id>gluModem-1</id>
@@ -1285,7 +1285,7 @@
     </string>
     <string>
         <id>MsgFltr-2</id>
-        <value>Отмена</value>
+        <value>Відмінити</value>
     </string>
     <string>
         <id>MsgFltr-3</id>
@@ -1405,7 +1405,7 @@
     </string>
     <string>
         <id>netwait-1</id>
-        <value>Отмена</value>
+        <value>Відмінити</value>
     </string>
     <string>
         <id>netwait-2</id>
@@ -1449,7 +1449,7 @@
     </string>
     <string>
         <id>quit-2</id>
-        <value>\\027Отмена (\\4Esc\\1)</value>
+        <value>\\027Відмінити (\\4Esc\\1)</value>
     </string>
     <string>
         <id>quit-3</id>
@@ -1465,7 +1465,7 @@
     </string>
     <string>
         <id>quit2mnu-3</id>
-        <value>\\027Отмена (\\4Esc\\1)</value>
+        <value>\\027Відмінити (\\4Esc\\1)</value>
     </string>
     <string>
         <id>quitrepl-1</id>
@@ -1473,7 +1473,7 @@
     </string>
     <string>
         <id>quitrepl-2</id>
-        <value>\\027Отмена (\\4Esc\\1)</value>
+        <value>\\027Відмінити (\\4Esc\\1)</value>
     </string>
     <string>
         <id>quitrepl-3</id>
@@ -1485,7 +1485,7 @@
     </string>
     <string>
         <id>restart-2</id>
-        <value>\\027Отмена (\\4Esc\\1)</value>
+        <value>\\027Відмінити (\\4Esc\\1)</value>
     </string>
     <string>
         <id>restart-3</id>
@@ -1497,7 +1497,7 @@
     </string>
     <string>
         <id>savegame-2</id>
-        <value>e\\4У\\1далить</value>
+        <value>e\\4В\\1идалити</value>
     </string>
     <string>
         <id>savegame-3</id>
@@ -1541,7 +1541,7 @@
     </string>
     <string>
         <id>spd_dlg-3</id>
-        <value>Скорость игры</value>
+        <value>Швидкість гри</value>
     </string>
     <string>
         <id>spd_dlg-4</id>
@@ -1577,7 +1577,7 @@
     </string>
     <string>
         <id>stat_f10-1</id>
-        <value>\\121МЕНЮ</value>
+        <value>\\1МЕНЮ</value>
     </string>
     <string>
         <id>teamfltr-1</id>
@@ -1585,7 +1585,7 @@
     </string>
     <string>
         <id>teamfltr-2</id>
-        <value>Отмена</value>
+        <value>Відмінити</value>
     </string>
     <string>
         <id>teamfltr-3</id>
@@ -1621,7 +1621,7 @@
     </string>
     <string>
         <id>titledlg-1</id>
-        <value>\\169 Blizzard Entertainment, 1998-2019 гг. Все права защищены.</value>
+        <value>\\1Переклад українською від TSF Ukraine, адаптація під remastered Clever Play UA</value>
     </string>
     <string>
         <id>titledlg-2</id>
@@ -1701,7 +1701,7 @@
     </string>
     <string>
         <id>gluBattlenetChat-1</id>
-        <value>c\\4С\\1оздать</value>
+        <value>c\\4С\\1створити</value>
     </string>
     <string>
         <id>gluBattlenetChat-2</id>
@@ -1709,7 +1709,7 @@
     </string>
     <string>
         <id>gluBattlenetChat-11</id>
-        <value>j\\4О\\1тмена</value>
+        <value>j\\4В\\1ідмінити</value>
     </string>
     <string>
         <id>gluBattlenetChat-8</id>
@@ -1717,7 +1717,7 @@
     </string>
     <string>
         <id>gluBattlenetChat-9</id>
-        <value>j\\4О\\1тмена</value>
+        <value>j\\4В\\1ідмінити</value>
     </string>
     <string>
         <id>gluBattlenetChat-7</id>
@@ -1769,7 +1769,7 @@
     </string>
     <string>
         <id>gluBattlenetToonRegistry-4</id>
-        <value>e\\4У\\1далить</value>
+        <value>e\\4В\\1идалити</value>
     </string>
     <string>
         <id>gluBattlenetToonRegistry-9</id>
@@ -1797,7 +1797,7 @@
     </string>
     <string>
         <id>gluMain-8</id>
-        <value>u\\4Г\\1орячие клавиши</value>
+        <value>u\\4Г\\1арячі клавіші</value>
     </string>
     <string>
         <id>gluMain-12</id>
@@ -1829,7 +1829,7 @@
     </string>
     <string>
         <id>gluMain-9</id>
-        <value>c\\4С\\1оздатели</value>
+        <value>c\\4А\\1втори</value>
     </string>
     <string>
         <id>msnstat2-17</id>
@@ -2401,7 +2401,7 @@
     </string>
     <string>
         <id>GLUHIST-1</id>
-        <value>Выберите начальное задание</value>
+        <value>Оберіть завдання з якого бажаєте почати</value>
     </string>
     <string>
         <id>GLUHIST-2</id>
@@ -2425,7 +2425,7 @@
     </string>
     <string>
         <id>gluRdyP-13</id>
-        <value>Задачи</value>
+        <value>Цілі</value>
     </string>
     <string>
         <id>gluRdyT-12</id>
@@ -2433,7 +2433,7 @@
     </string>
     <string>
         <id>gluRdyT-13</id>
-        <value>Задачи</value>
+        <value>Цілі</value>
     </string>
     <string>
         <id>GluRdyZ-12</id>
@@ -2441,7 +2441,7 @@
     </string>
     <string>
         <id>GluRdyZ-13</id>
-        <value>Задачи</value>
+        <value>Цілі</value>
     </string>
     <string>
         <id>gluScene-2</id>
@@ -3465,7 +3465,7 @@
     </string>
     <string>
         <id>gluBattlenetChat-5</id>
-        <value>j\\4О\\1тмена</value>
+        <value>j\\4В\\1ідмінити</value>
     </string>
     <string>
         <id>gluBattlenetLeaderboardScreen-2</id>
@@ -3485,7 +3485,7 @@
     </string>
     <string>
         <id>gluBattlenetChat-10</id>
-        <value>j\\4О\\1тмена</value>
+        <value>j\\4В\\1ідмінити</value>
     </string>
     <string>
         <id>apm_dlg-4</id>
@@ -3521,7 +3521,7 @@
     </string>
     <string>
         <id>apm_dlg-12</id>
-        <value>c\\4С\\1воя игра</value>
+        <value>c\\4С\\1воя гра</value>
     </string>
     <string>
         <id>gameopt_dlg-8</id>
@@ -3585,7 +3585,7 @@
     </string>
     <string>
         <id>gluMatchmaking-2</id>
-        <value>j\\4О\\1тмена</value>
+        <value>j\\4В\\1ідмінити</value>
     </string>
     <string>
         <id>video-14</id>
@@ -3657,7 +3657,7 @@
     </string>
     <string>
         <id>gluMain-6</id>
-        <value>r\\4К\\1оллекция</value>
+        <value>r\\4К\\1оллекція</value>
     </string>
     <string>
         <id>apm_dlg-1</id>
@@ -3677,7 +3677,7 @@
     </string>
     <string>
         <id>quitUploadWarning-2</id>
-        <value>\\027Отмена (\\4Esc\\1)</value>
+        <value>\\027Відмінити (\\4Esc\\1)</value>
     </string>
     <string>
         <id>quitUploadWarning-3</id>

@@ -792,7 +792,7 @@
   {
     "id": "hotkeyPane_reset",
     "Key": "hotkeyPane_reset",
-    "Value": "g\\u0004П\\u0001о умолчанию"
+    "Value": "g\\u0004З\\u0001а замовчуванням"
   },
   {
     "id": "bnet118_eulaPopup_disagree",
@@ -1042,7 +1042,7 @@
   {
     "id": "gluSELECTTYPE",
     "Key": "gluSELECTTYPE",
-    "Value": "Выберите игру"
+    "Value": "Оберіть гру"
   },
   {
     "id": "gameTYPEDISABLED",
@@ -1827,7 +1827,7 @@
   {
     "id": "bnet119_optionsPanel_language_ruRU",
     "Key": "bnet119_optionsPanel_language_ruRU",
-    "Value": "Русский"
+    "Value": "Українська"
   },
   {
     "id": "bnet119_optionsPanel_language_zhCN",
@@ -1982,7 +1982,7 @@
   {
     "id": "bnet119_optionsPanel_game_language_description",
     "Key": "bnet119_optionsPanel_game_language_description",
-    "Value": "Для смены языка требуется перезапуск игры."
+    "Value": "Для зміни мови треба перезапустити гру."
   },
   {
     "id": "bnet119_optionsPanel_video_tooltip_windowMode_windows",
@@ -2687,7 +2687,7 @@
   {
     "id": "bnSPEED",
     "Key": "bnSPEED",
-    "Value": "Скорость:"
+    "Value": "Швидкість:"
   },
   {
     "id": "bnTIME",
@@ -3002,7 +3002,7 @@
   {
     "id": "bnet119_optionsPanel_general_restore",
     "Key": "bnet119_optionsPanel_general_restore",
-    "Value": "g\\u0004П\\u0001о умолчанию"
+    "Value": "g\\u0004З\\u0001а замовчуванням"
   },
   {
     "id": "bnet119_optionsPanel_general_hotkeys",
@@ -3067,7 +3067,7 @@
   {
     "id": "bnet119_optionsPanel_speed_subtitle_gameplaySpeed",
     "Key": "bnet119_optionsPanel_speed_subtitle_gameplaySpeed",
-    "Value": "Скорость игры"
+    "Value": "Швидкість гри"
   },
   {
     "id": "bnet119_optionsPanel_speed_subtitle_cursorSpeed",
@@ -3082,7 +3082,7 @@
   {
     "id": "bnet119_optionsPanel_speed_label_gameSpeed",
     "Key": "bnet119_optionsPanel_speed_label_gameSpeed",
-    "Value": "Скорость игры"
+    "Value": "Швидкість гри"
   },
   {
     "id": "bnet119_optionsPanel_speed_label_mouseSensitivity",
@@ -3212,17 +3212,17 @@
   {
     "id": "bnet119_optionsPanel_game_subtitle_gameplay",
     "Key": "bnet119_optionsPanel_game_subtitle_gameplay",
-    "Value": "Игра"
+    "Value": "Гра"
   },
   {
     "id": "bnet119_optionsPanel_game_subtitle_language",
     "Key": "bnet119_optionsPanel_game_subtitle_language",
-    "Value": "Язык"
+    "Value": "Мова"
   },
   {
     "id": "bnet119_optionsPanel_game_subtitle_apmTracking",
     "Key": "bnet119_optionsPanel_game_subtitle_apmTracking",
-    "Value": "Отслеживание APM"
+    "Value": "Відслідковувати APM"
   },
   {
     "id": "bnet119_optionsPanel_game_label_gameTimer",
@@ -3427,7 +3427,7 @@
   {
     "id": "bnet119_registry_title",
     "Key": "bnet119_registry_title",
-    "Value": "Профиль"
+    "Value": "Профіль"
   },
   {
     "id": "bnet119_registry_error",
@@ -3777,7 +3777,7 @@
   {
     "id": "bnet119_hotkeysPanel_restoreToDefault_button",
     "Key": "bnet119_hotkeysPanel_restoreToDefault_button",
-    "Value": "По умолчанию"
+    "Value": "За замовчуванням"
   },
   {
     "id": "bnet119_hotkeysPanel_save_button",
