@@ -1,0 +1,6 @@
+# domain name | delta from GMT | gateway name
+#
+uswest.battle.net			8		Çàõ³ä ÑØÀ
+useast.battle.net			6		Ñõ³ä ÑØÀ
+asia.battle.net				-9		Àç³ÿ
+europe.battle.net			-1		ªâğîïà

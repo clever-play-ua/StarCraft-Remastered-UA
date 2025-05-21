@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Protoss Level 2>
+
+</FADESPEED 100>
+</DISPLAYTIME 5000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\ProtossA.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"У ВИР ПОЛУМ'Я"
+
+Цитадель виконавця
+Наступної ночі
+</PAGE>

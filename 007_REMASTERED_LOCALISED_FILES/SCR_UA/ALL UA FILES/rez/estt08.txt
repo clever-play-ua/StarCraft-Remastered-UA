@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Terran Level 8>
+
+</FADESPEED 100>
+</DISPLAYTIME 5000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltb\TerranB.pcx>
+</FONTCOLOR glue\paltb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"КОЗИР У РУКАВІ"
+
+Таємна кімната для планувань
+Колонія "Антиґа Прайм"
+</PAGE>

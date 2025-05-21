@@ -1,0 +1,805 @@
+</COMMENT credits for Brood War: Starcraft Expansion>
+</FADESPEED 100>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palmm\backgnd.pcx>
+</FONTCOLOR glue\palmm\tfont.pcx>
+</SCREENCENTER>
+Brood War
+Spielentwicklung
+
+Blizzard Entertainment
+</PAGE>
+
+
+</SCREENCENTER>
+Ausführender Produzent
+
+Mike Morhaime
+Bill Roper
+</PAGE>
+
+
+</SCREENCENTER>
+Produktion
+
+Shane Dabiri
+</PAGE>
+
+
+</SCREENCENTER>
+Leitung Design
+
+Rob Pardo
+</PAGE>
+
+
+</SCREENCENTER>
+Design & Geschichte
+
+Chris Metzen
+</PAGE>
+
+
+</SCREENCENTER>
+Design Kampagnen-Levels
+
+Mike Heiberg
+Rob Pardo
+Dean Shipley
+Peter Underwood
+</PAGE>
+
+
+</SCREENCENTER>
+Design Multiplayer-Levels
+
+Eric Dodds
+Dave 'Deltree' Hale
+Scott Mercer
+</PAGE>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpd\backgnd.pcx>
+</FONTCOLOR glue\palpd\tfont.pcx>
+</SCREENLEFT>
+Programmierung
+
+Bob Fitch
+Jeff Strain
+Frank Pearce
+Mike Morhaime
+Mike Heiberg
+Pat Wyatt
+Collin Murray
+</PAGE>
+
+
+</SCREENLEFT>
+Programmierung Battle.net
+
+Mike O'Brien
+Scott Coleman
+</PAGE>
+
+</SCREENLEFT>
+Eigene KI-Programmierung
+
+Bob Fitch
+</PAGE>
+
+
+</SCREENLEFT>
+Programmierung StarEdit
+
+Jeff Strain
+</PAGE>
+
+
+</SCREENLEFT>
+Zusätzliche Programmierung
+
+Jay Baxter
+JC Park
+Jeff Mears
+</PAGE>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltd\backgnd.pcx>
+</FONTCOLOR glue\paltd\tfont.pcx>
+</SCREENRIGHT>
+Künstlerische Leitung
+
+Samwise Didier
+Duane Stinnett
+</PAGE>
+
+
+</SCREENRIGHT>
+Grafik
+
+Nick Carpenter
+Samwise Didier
+Duane Stinnett
+Rob McNaughton
+Dave Berggren
+Bill Petras
+Eric Flannum
+Roman KenneyMaxx Marshall
+Dave Pursely
+Justin Thavirat
+</PAGE>
+
+
+</SCREENRIGHT>
+Technische Grafik
+
+Peter Underwood
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzv\backgnd.pcx>
+</FONTCOLOR glue\palzv\tfont.pcx>
+</SCREENLEFT>
+Leitung Blizzard Film
+
+Matt Samia
+</PAGE>
+
+
+</SCREENLEFT>
+Videografik Blizzard Film
+
+Scott Abeyta
+John Burnett
+Nick Carpenter
+Harley D. Huggins II
+Trevor Jacobs
+Paul Limon
+</PAGE>
+
+</SCREENLEFT>
+Videografik Blizzard Film
+
+Stu Rose
+Matt Samia
+Sharon Shellman
+Mark Skelton
+Brian Sousa
+Patrick Thomas
+</PAGE>
+
+
+</SCREENLEFT>
+Bearbeitung digitales Video
+
+Joeyray Hall
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palrp\backgnd.pcx>
+</FONTCOLOR glue\palrp\tfont.pcx>
+</SCREENRIGHT>
+Audioproduktion
+
+Glenn Stafford
+</PAGE>
+
+
+</SCREENRIGHT>
+Musik
+
+Glenn Stafford
+Jason Hayes
+Tracy W. Bush
+</PAGE>
+
+
+</SCREENRIGHT>
+Gesang Filmmusik
+
+Patrick Bell
+Heather Greene
+Tiffany Hayes
+Diana Lu
+Glenn Stafford
+Jordan Varela
+Kari Wibben
+</PAGE>
+
+
+</SCREENRIGHT>
+Sound-Design und Sprach-Bearbeitung
+
+Glenn Stafford
+Jason Hayes
+Tracy W. Bush
+Tami Donner
+</PAGE>
+
+
+</SCREENRIGHT>
+Dialogregie & Casting
+
+Glenn Stafford
+Jason Hayes
+Chris Metzen
+Tami Donner
+</PAGE>
+
+
+
+</SCREENRIGHT>
+Sprecher (Englische Version)
+
+Glynnis Talken
+Jack Ritschel
+Paul Ainsley
+Castulo Guerra
+Debra De Liso
+Paul Eiding
+Tiffany Hayes
+</PAGE>
+
+
+</SCREENRIGHT>
+Sprecher (Englische Version)
+
+James W. Harper
+Robert Clotworthy
+Jason Hayes
+Chris Metzen
+Bill Roper
+Allen Adham
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palrz\backgnd.pcx>
+</FONTCOLOR glue\palrz\tfont.pcx>
+</SCREENLEFT>
+Handbuchentwurf & Layout
+
+Peter Underwood
+Chris Metzen
+Bill Roper
+</PAGE>
+
+
+</SCREENLEFT>
+Handbuchgrafik
+
+Samwise Didier
+Ru Weerasuriya
+</PAGE>
+
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palrt\backgnd.pcx>
+</FONTCOLOR glue\palrt\tfont.pcx>
+</SCREENRIGHT>
+Qualitätssicherung - Leitung 
+
+Chris Sigaty
+</PAGE>
+
+
+</SCREENRIGHT>
+Qualitätssicherung - Projektleitung
+
+Frank Gilson
+Mike Murphy
+Ian Welke
+</PAGE>
+
+
+</SCREENRIGHT>
+Qualitätssicherung - Teamleitung
+
+Christian Arretche
+Tim Campbell
+Roger Eberhart
+John Lagrave
+Brian Love
+Derek Simmons
+</PAGE>
+
+
+
+</SCREENRIGHT>
+Zusätzlicher Test
+
+Joseph Frayne
+David Fried
+Carlos Guerrero
+Mike Hale
+Jason Hutchins
+Ray Laubach
+</PAGE>
+
+
+</SCREENRIGHT>
+Zusätzlicher Test
+
+Robert Martinsen
+Judah Mehler
+Mark Moser
+Justin Parker
+Aaron Sakamoto
+Toshiaki Yamazaki
+</PAGE>
+
+
+</SCREENRIGHT>
+Qualitätssicherung - Kompatibilität
+
+Vic Larson
+Kirk Mahony
+</PAGE>
+
+
+</SCREENRIGHT>
+Kampagnen
+
+Mark E. Kern, Esq.
+Bill Roper
+Ru Weerasuriya
+Kevin Beardslee
+Dave Berggren
+Scott Mercer
+Eric Dodds
+Dave Hale
+Geoff Fraizer
+Ted Park
+Chris Millar
+Paul Sams
+</PAGE>
+
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palnl\backgnd.pcx>
+</FONTCOLOR glue\palnl\tfont.pcx>
+</SCREENLEFT>
+Produktentwicklung - Leitung 
+
+Mark Kern
+</PAGE>
+
+</SCREENLEFT>
+Dunsel Development - Leitung 
+
+Alan Dabiri
+</PAGE>
+
+</SCREENLEFT>
+Lokalisierung - Produktion
+
+Flavie Gufflet-Dowling
+Denise Dunne
+Chris Millar
+Shane Dabiri
+</PAGE>
+
+
+</SCREENLEFT>
+Globalisierung - Leitung
+
+Louis Mutter
+</PAGE>
+
+
+</SCREENLEFT>
+Lokalisierung - Technik
+
+John Griffin
+jim mac lunch
+Maire Nic Dhiarmada
+Eleanor Dorran
+
+Shane Moran
+Jan Creighton
+Conor Harlow
+Ben Mantle
+</PAGE>
+
+
+</SCREENLEFT>
+Informationssysteme
+
+Adrian Luff
+Hung Nguyen
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpv\backgnd.pcx>
+</FONTCOLOR glue\palpv\tfont.pcx>
+</SCREENRIGHT>
+Öffentlichkeitsarbeit
+
+Susan Wooley
+Tony Gervase
+</PAGE>
+
+
+</SCREENRIGHT>
+Business-Development
+
+Paul W. Sams
+Melissa Edwards
+</PAGE>
+
+
+</SCREENRIGHT>
+Marketing
+
+Neal Hubbard
+David LaPerle
+Steve Huot
+Kathy Carter
+Steve Parker
+Jessica Monson
+Mike Bannon
+</PAGE>
+
+
+</SCREENRIGHT>
+U.S. Sales
+
+Todd 'Little Buddy' Coyle
+Danny Kearns
+</PAGE>
+
+
+</SCREENRIGHT>
+Internationale Sales
+
+Jack Allewaert
+Ralph Becker
+Christophe Ramboz
+Jean-Daniel Pages
+</PAGE>
+
+
+</SCREENRIGHT>
+Direktverkauf
+
+Rob Beatie
+Kim Farrington
+</PAGE>
+
+
+</SCREENRIGHT>
+Herstellung
+
+Tom Bryan
+Jaime Chavez
+</PAGE>
+
+</SCREENRIGHT>
+Webmaster
+
+Geoff Fraizer
+Ted Park
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palrz\backgnd.pcx>
+</FONTCOLOR glue\palrz\tfont.pcx>
+</SCREENLEFT>
+Organisationsleitung
+
+Isaac Matarasso
+</PAGE>
+
+</SCREENLEFT>
+Leitung Support-Dienste
+
+Robert Bridenbecker
+</PAGE>
+
+
+</SCREENLEFT>
+Support für Testleitung
+
+Twain Martin
+John Schwartz
+</PAGE>
+
+
+</SCREENLEFT>
+Technischer Support
+
+Brandon Riseling
+Michael Barken
+Thor Biafore
+Mark Downie
+Martha Sapeta
+Mick Yanko
+Jason Schmit
+</PAGE>
+
+</SCREENLEFT>
+Online-Support
+
+Pat Nagle
+Alen Lapidis
+David Nguyen
+Collin Smith
+</PAGE>
+
+</SCREENLEFT>
+Administration
+
+Christina Cade
+Jamie Neveaux
+Danna Martin
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palmm\backgnd.pcx>
+</FONTCOLOR glue\palmm\tfont.pcx>
+</SCREENCENTER>
+Brood War wurde in Zusammenarbeit mit der
+
+Saffire Corporation
+
+entwickelt.
+</PAGE>
+
+
+</SCREENCENTER>
+Saffire - Operative Leitung 
+
+Kathy Parke
+</PAGE>
+
+
+</SCREENCENTER>
+Saffire - Projektleitung / Grafikleitung
+
+Mike Tidwell
+</PAGE>
+
+
+</SCREENCENTER>
+Saffire - Hauptprogrammierung
+
+Dallan Christensen
+</PAGE>
+
+
+</SCREENCENTER>
+Saffire - Programmierung
+
+Kier Knowlton
+</PAGE>
+
+
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpd\backgnd.pcx>
+</FONTCOLOR glue\palpd\tfont.pcx>
+</SCREENCENTER>
+Saffire - Grafik
+
+Mike Tidwell
+Paul Grimshaw
+Alan Tew
+Dave McClellan
+Jason Price
+Ryan Wood
+</PAGE>
+
+
+
+</SCREENCENTER>
+Saffire - Grafik
+
+Brent Fox
+Don Seegmiller
+Kathleen Lowe
+Jeremy Throckmorton
+Kier Knowlton
+Walter Park
+</PAGE>
+
+</SCREENCENTER>
+Saffire - Grafik
+
+Lauriann Wakefield
+Jay Ward
+Gavan Knowlton
+Mike May
+</PAGE>
+
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltd\backgnd.pcx>
+</FONTCOLOR glue\paltd\tfont.pcx>
+</SCREENRIGHT>
+Saffire - Audioregie
+
+Eric Nunamaker
+</PAGE>
+
+
+</SCREENRIGHT>
+Saffire - Musik
+
+Daron Bradford
+Mike Dowdle
+Sean Hally
+Jim Hardy
+Gwen Thorton
+</PAGE>
+
+
+</SCREENRIGHT>
+Saffire - Zusätzliches Design
+
+Paul Grimshaw
+Alan Tew
+Kier Knowlton
+</PAGE>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzv\backgnd.pcx>
+</FONTCOLOR glue\palzv\tfont.pcx>
+</SCREENLEFT>
+Saffire - Karten
+
+Jeremy Throckmorton
+Gavan Knowlton
+Kier Knowlton
+Dallan Christensen
+Alan Tew
+</PAGE>
+
+
+</SCREENLEFT>
+Saffire - Testleitung / Qualitätssicherungsleitung
+
+Cindi Adamson
+</PAGE>
+
+</SCREENLEFT>
+Saffire - Qualitätssicherung
+
+Jeremy Throckmorton
+Gavan Knowlton
+Brian Rushton
+Alex Rushton
+Scott Heppler
+</PAGE>
+
+</SCREENLEFT>
+Saffire - Qualitätssicherung
+
+Hal Rushton
+Arlen Runolfson
+Chris Casewell
+Bob Casewell
+Rendal Tippets
+</PAGE>
+
+
+</SCREENLEFT>
+Saffire - Qualitätssicherung
+
+Douglas Crosby
+Tim Coskey
+Eric Stewart
+Brett Pedersen
+</PAGE>
+
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palmm\backgnd.pcx>
+</FONTCOLOR glue\palmm\tfont.pcx>
+</SCREENLEFT>
+Besonderer Dank geht an
+
+Chris McCleod
+Henry Silverman
+Jan & Bob Davidson
+Blizzard North
+</PAGE>
+
+
+</SCREENLEFT>
+Dank geht an:
+
+Brian Fitzgerald
+James Phinney
+Jeff Vaughn
+Robert Djordjevich
+Dan Liebgold
+Pamina Elgueta
+Gary and Barbara Donner
+Craig Donner
+Phuong Young
+</PAGE>
+
+
+</SCREENLEFT>
+Dank geht an:
+
+Sathington Willoughby
+The French
+Comics, Toons & Toys
+Stephanie Keefer
+little green men
+Austen Paul Hale
+Alexander Lawson Hale
+Evil_Catbert
+The Potato
+</PAGE>
+
+</SCREENLEFT>
+Dank geht an:
+
+Steve Sigaty and Nuclear Rabbit
+Steve & Vicky Oglesby
+Dan Platt
+Michelle Yeh
+Richard & Alice Heiberg
+David Heiberg
+Michelle & Sal Rivas
+Kelsey Denham
+Neal Prentiss
+</PAGE>
+
+</SCREENLEFT>
+Dank geht an:
+
+Arsement & Hayes Computers
+Ben Hayes
+PM Music Studio
+Sophia
+Baby Connan
+Victoria Fitch
+Garrett Fitch
+Mason & Bunky
+Jenifer Underwood-Riggio
+</PAGE>
+
+</SCREENLEFT>
+Dank geht an:
+
+Suzanne Di Piazza
+Patty at Avalon Tattoo 
+Shannon Welch
+NOC guys from Exodus Irvine
+Lisa Pearce
+</PAGE>
+
+</SCREENLEFT>
+Dank geht an:
+
+Sandra Schneible
+Alysia Batchelder
+The Poxy Boggards
+'Kippy' the Kakaru
+Ray the soda guy
+</PAGE>
+
+</SCREENCENTER>
+Ganz besonderer Dank geht an
+
+Allen Adham
+</PAGE>
+
+</SCREENCENTER>
+Die Mitwirkenden am Original-Starcraft
+</PAGE>

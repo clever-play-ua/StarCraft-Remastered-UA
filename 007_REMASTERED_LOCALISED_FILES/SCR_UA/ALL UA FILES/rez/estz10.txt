@@ -1,0 +1,16 @@
+</COMMENT Establishing Shot for Zerg Level 10>
+
+</FADESPEED 100>
+</DISPLAYTIME 5000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palzc\ZergC.pcx>
+</FONTCOLOR glue\palzc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ЗАКЛЮЧНИЙ АКТ"
+
+Рій зерґів
+Орбіта планети Аїур
+Рідний світ протоссів
+</PAGE>
