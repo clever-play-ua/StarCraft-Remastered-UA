@@ -1,0 +1,28 @@
+</COMMENT Establishing Shot for Terran Level 2 Electronic Distribution>
+
+</FADESPEED 100>
+</DISPLAYTIME 25000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palta\blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLEFT>
+With the destruction of their base camp, and the subsequent arrival of the mysterious Cerberus unit, the Sons of Korhal withdrew their remaining forces from Chau Sara. 
+
+Unfortunately, a darker presence had taken root upon the planet: The alien xenomorphs had infested one of the Colony's most secure research facilities, the Flannum Installation. Now, spurred by the dire Cerberus Commander, you must enter into the installation and rescue any survivors.
+</PAGE>
+
+</DISPLAYTIME 5000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palta\TerranA.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"DEN OF THE BEAST"
+
+Confederate Base Camp
+Chau Sara
+23:45 SCT, 11.08.2499
+</PAGE>

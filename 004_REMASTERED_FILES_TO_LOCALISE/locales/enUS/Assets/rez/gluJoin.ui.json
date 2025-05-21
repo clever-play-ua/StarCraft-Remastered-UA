@@ -1,0 +1,184 @@
+﻿{
+  "type": "DIALOG",
+  "name": "GameSel",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\gamesel\\pListLrg.dds",
+      "id": 1,
+      "rect": [0,0,362,356],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\gamesel\\pJoin.dds",
+      "id": 2,
+      "rect": [400,0,240,333],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pCancel.dds",
+      "id": 3,
+      "rect": [472,356,168,91],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pOk.dds",
+      "id": 4,
+      "rect": [436,336,204,71],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluJoin-1",
+      "id": -1,
+      "rect": [58,60,100,22],
+      "flags": ["WS_VISIBLE","RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "LISTBOX",
+      "content": "",
+      "id": 6,
+      "rect": [64,92,286,218],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluJoin-2",
+      "id": -1,
+      "rect": [404,57,206,16],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluJoin-3",
+      "id": -1,
+      "rect": [404,137,206,16],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluJoin-4",
+      "id": 7,
+      "rect": [404,170,206,16],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluJoin-5",
+      "id": -1,
+      "rect": [404,202,206,16],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluJoin-6",
+      "id": -1,
+      "rect": [428,260,110,18],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluJoin-7",
+      "id": -1,
+      "rect": [428,278,110,18],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluJoin-8",
+      "id": 8,
+      "rect": [404,72,206,20],
+      "flags": ["WS_VISIBLE","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluJoin-9",
+      "id": 9,
+      "rect": [404,150,206,20],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluJoin-10",
+      "id": 10,
+      "rect": [404,183,206,20],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluJoin-11",
+      "id": 11,
+      "rect": [404,217,206,40],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluJoin-12",
+      "id": 12,
+      "rect": [536,260,100,18],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluJoin-13",
+      "id": 13,
+      "rect": [536,278,90,18],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluJoin-14",
+      "id": 14,
+      "rect": [441,383,152,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluJoin-15",
+      "id": 15,
+      "rect": [477,419,132,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ESCAPE"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluJoin-16",
+      "id": 16,
+      "rect": [44,331,312,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTTOP"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluJoin-17",
+      "id": 17,
+      "rect": [2,460,300,20],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    }
+  ]
+}

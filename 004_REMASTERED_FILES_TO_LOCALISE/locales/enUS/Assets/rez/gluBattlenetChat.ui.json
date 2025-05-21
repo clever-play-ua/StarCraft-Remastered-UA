@@ -1,0 +1,160 @@
+﻿{
+  "type": "DIALOG",
+  "name": "ID_BATTLENET_CHAT",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\Chat_Menu.dds",
+      "id": 2,
+      "rect": [0,60,372,412],
+      "flags": ["WS_VISIBLE","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\Friends_Menu.dds",
+      "id": 5,
+      "rect": [384,0,256,430],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\Play_Menu.dds",
+      "id": 6,
+      "rect": [0,0,372,64],
+      "flags": ["WS_VISIBLE","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\Play_Menu2.dds",
+      "id": 7,
+      "rect": [0,0,372,128],
+      "flags": ["WS_VISIBLE","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\Matchmaking_Menu.dds",
+      "id": 9,
+      "rect": [0,0,372,128],
+      "flags": ["WS_VISIBLE","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\Matchmaking_Menu2.dds",
+      "id": 8,
+      "rect": [0,0,308,64],
+      "flags": ["WS_VISIBLE","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\create\\twoBtnHolder.dds",
+      "id": 3,
+      "rect": [384,380,204,100],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\Chat_Menu2.dds",
+      "id": 19,
+      "rect": [0,124,372,348],
+      "flags": ["RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetChat-1",
+      "id": 12,
+      "rect": [28,18,80,32],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetChat-2",
+      "id": 13,
+      "rect": [114,18,80,32],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetChat-3",
+      "id": 11,
+      "rect": [199,18,80,32],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetChat-4",
+      "id": 10,
+      "rect": [285,18,80,32],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetChat-5",
+      "id": 14,
+      "rect": [512,443,112,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","CTRL_ENTER","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetChat-6",
+      "id": 18,
+      "rect": [388,443,112,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/ChatPanel/ChatPanel.html",
+      "id": 15,
+      "rect": [27,90,333,372],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/ParticipantsPanel/ParticipantsPanel.html",
+      "id": 16,
+      "rect": [386,8,230,420],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/MatchmakingSearchPanel/MatchmakingSearchPanel.html",
+      "id": 17,
+      "rect": [0,0,308,64],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/ChatPanelHDAd/ChatPanelHDAd.html",
+      "id": 22,
+      "rect": [22,71,346,50],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetChat-7",
+      "id": 21,
+      "rect": [22,75,346,50],
+      "flags": ["WS_TABSTOP","CTRL_TRANSLUCENT","RC_BIGTEXT","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    }
+  ]
+}

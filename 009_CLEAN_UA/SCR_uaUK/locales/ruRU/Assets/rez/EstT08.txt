@@ -1,0 +1,15 @@
+</COMMENT Establishing Shot for Terran Level 8>
+
+</FADESPEED 100>
+</DISPLAYTIME 5000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltb\TerranB.pcx>
+</FONTCOLOR glue\paltb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ТУЗ В РУКАВЕ
+
+Секретная база
+Колония на Антиге Прайм
+</PAGE>

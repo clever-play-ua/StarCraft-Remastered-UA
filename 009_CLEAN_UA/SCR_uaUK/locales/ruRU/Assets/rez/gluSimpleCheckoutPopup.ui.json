@@ -1,0 +1,48 @@
+﻿{
+  "type": "DIALOG",
+  "name": "WebSimpleCheckoutPopup",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "",
+      "id": -1,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE","RC_POPUP_BACKGROUND"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\SimpleCheckout\\Bg.DDS",
+      "id": 1,
+      "rect": [119,84,402,312],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "",
+      "id": 3,
+      "rect": [120,85,400,310],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluSimpleCheckoutPopup-1",
+      "id": 2,
+      "rect": [485,84,33,33],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","RC_BIGGERTEXT","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\SimpleCheckout\\BorderOverlay.DDS",
+      "id": 4,
+      "rect": [119,84,402,312],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

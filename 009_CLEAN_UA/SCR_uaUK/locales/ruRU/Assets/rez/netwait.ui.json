@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "NetWait",
+  "rect": [0,0,320,240],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "PUSHBUTTON",
+      "content": "netwait-1",
+      "id": -3,
+      "rect": [99,210,112,14],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netwait-2",
+      "id": -1,
+      "rect": [26,166,266,11],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    }
+  ]
+}

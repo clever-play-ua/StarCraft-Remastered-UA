@@ -1,0 +1,280 @@
+﻿{
+  "type": "DIALOG",
+  "name": "AllyFltr",
+  "rect": [170,21,296,336],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "allyfltr-1",
+      "id": -2,
+      "rect": [11,299,120,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "allyfltr-2",
+      "id": -3,
+      "rect": [165,299,120,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-3",
+      "id": 1,
+      "rect": [227,48,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-4",
+      "id": 2,
+      "rect": [227,74,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-5",
+      "id": 3,
+      "rect": [227,100,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-6",
+      "id": 4,
+      "rect": [227,126,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-7",
+      "id": 5,
+      "rect": [227,152,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-8",
+      "id": 6,
+      "rect": [227,178,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-9",
+      "id": 7,
+      "rect": [227,204,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-10",
+      "id": 8,
+      "rect": [227,230,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-11",
+      "id": 9,
+      "rect": [227,256,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-12",
+      "id": 13,
+      "rect": [269,48,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-13",
+      "id": 14,
+      "rect": [269,74,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-14",
+      "id": 15,
+      "rect": [269,100,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-15",
+      "id": 16,
+      "rect": [269,126,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-16",
+      "id": 17,
+      "rect": [269,152,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-17",
+      "id": 18,
+      "rect": [269,178,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-18",
+      "id": 19,
+      "rect": [269,204,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-19",
+      "id": 20,
+      "rect": [269,230,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-20",
+      "id": 21,
+      "rect": [269,256,16,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "allyfltr-21",
+      "id": 25,
+      "rect": [11,260,250,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-22",
+      "id": 26,
+      "rect": [11,15,165,20],
+      "flags": ["WS_VISIBLE","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "allyfltr-23",
+      "id": 27,
+      "rect": [179,23,64,16],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "allyfltr-24",
+      "id": 28,
+      "rect": [216,7,78,16],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "allyfltr-25",
+      "id": 29,
+      "rect": [216,23,78,16],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-26",
+      "id": -10,
+      "rect": [11,46,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-27",
+      "id": -11,
+      "rect": [11,72,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-28",
+      "id": -12,
+      "rect": [11,98,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-29",
+      "id": -13,
+      "rect": [11,124,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-30",
+      "id": -14,
+      "rect": [11,150,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-31",
+      "id": -15,
+      "rect": [11,176,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-32",
+      "id": -16,
+      "rect": [11,202,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-33",
+      "id": -17,
+      "rect": [11,228,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "allyfltr-34",
+      "id": -18,
+      "rect": [11,254,186,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

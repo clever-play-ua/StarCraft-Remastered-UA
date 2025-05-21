@@ -1,0 +1,112 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Apm_Dlg",
+  "rect": [184,32,264,288],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "apm_dlg-1",
+      "id": -2,
+      "rect": [20,252,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "apm_dlg-2",
+      "id": -3,
+      "rect": [140,252,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "apm_dlg-3",
+      "id": -1,
+      "rect": [0,8,264,24],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "apm_dlg-4",
+      "id": 1,
+      "rect": [10,44,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "apm_dlg-5",
+      "id": 2,
+      "rect": [10,64,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "apm_dlg-6",
+      "id": 3,
+      "rect": [10,84,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "apm_dlg-7",
+      "id": -1,
+      "rect": [10,106,100,14],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    },
+    {
+      "type": "EDITTEXT",
+      "content": "",
+      "id": 4,
+      "rect": [110,106,40,16],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "apm_dlg-8",
+      "id": 5,
+      "rect": [30,126,100,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "apm_dlg-9",
+      "id": 6,
+      "rect": [130,126,120,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "apm_dlg-10",
+      "id": -1,
+      "rect": [0,156,264,24],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "RADIOBUTTON",
+      "content": "apm_dlg-11",
+      "id": 7,
+      "rect": [12,174,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "RADIOBUTTON",
+      "content": "apm_dlg-12",
+      "id": 8,
+      "rect": [12,200,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    }
+  ]
+}

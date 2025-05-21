@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "gluEOk",
+  "rect": [0,0,360,200],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "gluEOk-1",
+      "id": -2,
+      "rect": [103,159,158,29],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluEOk-2",
+      "id": 2,
+      "rect": [10,10,340,140],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    }
+  ]
+}

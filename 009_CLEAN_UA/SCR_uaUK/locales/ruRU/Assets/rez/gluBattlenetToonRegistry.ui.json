@@ -1,0 +1,88 @@
+﻿{
+  "type": "DIALOG",
+  "name": "BattlenetToonRegistry",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\ToonRegistry\\ToonListBg.dds",
+      "id": 1,
+      "rect": [0,0,364,360],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\create\\pInfo.dds",
+      "id": 2,
+      "rect": [400,0,240,333],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pCancel.dds",
+      "id": 3,
+      "rect": [472,356,168,91],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pOk.dds",
+      "id": 4,
+      "rect": [436,336,204,71],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetToonRegistry-1",
+      "id": 5,
+      "rect": [441,383,152,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","CTRL_ENTER","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetToonRegistry-2",
+      "id": 6,
+      "rect": [477,419,132,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetToonRegistry-3",
+      "id": 7,
+      "rect": [46,336,144,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetToonRegistry-4",
+      "id": 9,
+      "rect": [211,336,144,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/RegistrySelectionPanel/RegistrySelectionPanel.html",
+      "id": 12,
+      "rect": [48,62,308,258],
+      "flags": ["WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/RegistryToonInfoPanel/RegistryToonInfoPanel.html",
+      "id": 11,
+      "rect": [404,53,209,276],
+      "flags": ["WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    }
+  ]
+}

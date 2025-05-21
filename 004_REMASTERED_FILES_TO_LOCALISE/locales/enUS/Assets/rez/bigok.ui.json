@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "BigOK",
+  "rect": [64,16,192,144],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "bigok-1",
+      "id": -2,
+      "rect": [70,126,52,14],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "bigok-2",
+      "id": 1,
+      "rect": [6,4,180,114],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿{
+  "type": "DIALOG",
+  "name": "WebAuthenticationPopup",
+  "rect": [0,0,250,240],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\WebAuthenticationPopup\\Bg1280.dds",
+      "id": 1,
+      "rect": [0,0,250,240],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "",
+      "id": 4,
+      "rect": [5,5,240,230],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gluWebAuthenticationPopup1280-1",
+      "id": 2,
+      "rect": [0,0,250,40],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluWebAuthenticationPopup1280-2",
+      "id": 3,
+      "rect": [200,0,43,33],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","RC_BIGGERTEXT","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    }
+  ]
+}

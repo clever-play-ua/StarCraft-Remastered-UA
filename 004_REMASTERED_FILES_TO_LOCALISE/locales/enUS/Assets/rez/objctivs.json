@@ -1,0 +1,12 @@
+﻿[
+  {
+    "id": "STR_GENERIC_OBJECTIVE",
+    "Key": "STR_GENERIC_OBJECTIVE",
+    "Value": "-Destroy your enemies"
+  },
+  {
+    "id": "STR_CATUREFLAG",
+    "Key": "STR_CATUREFLAG",
+    "Value": "-Capture your opponent's flag"
+  }
+]

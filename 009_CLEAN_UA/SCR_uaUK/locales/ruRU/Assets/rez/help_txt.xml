@@ -1,0 +1,210 @@
+<strings>
+    <string>
+        <id>STR_HELP_1</id>
+        <value>\\4F10\\2 – меню игры\\1</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-1</id>
+        <value>\\4Alt-M\\2 – меню игры</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-3</id>
+        <value>\\4Alt-S\\2 – сохранить игру</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-4</id>
+        <value>\\4Alt-L\\2 – загрузить игру</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-6</id>
+        <value>\\4Alt-H\\2 – меню справки</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-7</id>
+        <value>\\4F11\\2 – меню справки</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-9</id>
+        <value>\\4Alt-O\\2 – меню настроек</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-11</id>
+        <value>\\4+\\2 – повысить скорость игры</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-12</id>
+        <value>\\4-\\2 – снизить скорость игры</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-14</id>
+        <value>\\4Ctrl-X\\2 – выйти из StarCraft</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-15</id>
+        <value>\\4Alt-X\\2 – выйти из StarCraft</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-16</id>
+        <value>\\4Ctrl-Q\\2 – завершить задание</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-17</id>
+        <value>\\4Alt-Q\\2 – завершить задание</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-19</id>
+        <value>\\4Ctrl-M\\2 – включить/отключить музыку</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-20</id>
+        <value>\\4Ctrl-S\\2 – включить/отключить звуки</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-22</id>
+        <value>\\4Пробел\\2 – последнее оповещение</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-24</id>
+        <value>\\4Ctrl-\\3№\\2 – сохранить группу \\3№</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-25</id>
+        <value>\\3№\\2 – отозвать группу \\3№</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-26</id>
+        <value>\\4Alt-\\3выбор\\2 – отозвать группу</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-27</id>
+        <value>\\4Ctrl-\\3выбор\\2 – выбрать единицы одного типа</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-28</id>
+        <value>\\3Двойной щелчок\\2 – выбрать единицы одного типа</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-30</id>
+        <value>\\4Shift-\\3F2\\2 – сохранить позицию №1 на карте</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-31</id>
+        <value>\\3F2\\2 – вернуться к позиции №1 на карте</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-32</id>
+        <value>\\4Shift-\\3F3\\2 – сохранить позицию №2 на карте</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-33</id>
+        <value>\\3F3\\2 – вернуться к позиции №2 на карте</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-34</id>
+        <value>\\4Shift-\\3F4\\2 – сохранить позицию №3 на карте</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-35</id>
+        <value>\\3F4\\2 – вернуться к позиции №3 на карте</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-37</id>
+        <value>\\4Shift-\\3приказ\\2 – задать точку маршрута</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-39</id>
+        <value>\\4Ctrl-C\\2 – центрировать вид по текущей единице</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-40</id>
+        <value>\\4Alt-C\\2 – центрировать вид по текущей единице</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-42</id>
+        <value>\\4Tab\\2 – перевести мини-карту в режим ландшафта</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-43</id>
+        <value>\\4Shift-Tab\\2 – перевести мини-карту в режим единиц</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-45</id>
+        <value>Сетевая игра</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-46</id>
+        <value>\\4Enter\\2 – ввести сообщение</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-47</id>
+        <value>\\4Shift-Enter\\2 – ввести сообщение для всех</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-48</id>
+        <value>\\4Ctrl-Enter\\2 – ввести сообщение для союзников</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-50</id>
+        <value>\\4Ctrl-R\\2 – вкл./откл. рейтинговый режим</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-2</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-5</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-8</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-10</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-13</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-18</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-21</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-23</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-29</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-36</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-38</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-41</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-44</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_1-49</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>STR_HELP_LAST</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+</strings>

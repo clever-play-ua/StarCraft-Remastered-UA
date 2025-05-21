@@ -1,0 +1,34 @@
+</COMMENT epilogue for StarcraftSW>
+</FADESPEED 100>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 25000>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLEFT>
+EPILOGUE
+
+Over the following weeks the Confederacy instituted a planet-wide lock down which restricted all travel and communication to and from Chau Sara. By imposing these harsh constraints, the Confederates hoped to contain the knowledge of the xenomorphs' existence.
+
+Meanwhile, a barrage of Confederate propaganda ensured that the operation would only be remembered as a triumphant police action against the Sons of Korhal. The general populace would never suspect that the events on Chau Sara were an omen of darker days to come.
+
+TO BE CONTINUED...
+</PAGE>
+</DISPLAYTIME 30000>
+The saga continues in the retail version of Starcraft.
+
+Key Starcraft features:
+- Three intergalactic species boasting unique units, technologies, attributes and abilities.
+- Evolving storyline that unfolds as players experience the game from each of the three species' perspective.
+- 30 different missions in space, on planetary surfaces and within installations.
+- Real-time light sourcing, true line of sight and advanced translucency engine combine for visual and tactical realism.
+</PAGE>
+- Multiplayer option that supports as many as eight players via modem, network, direct link and the Internet.
+- Seamless one-click free access on-line gaming via Battle.net. Blizzard charges no hourly or monthly fees for game play. Internet access is required to play over Battle.net.
+- Full-featured campaign editor that allows players to create their own scenarios and maps complete with trigger points, custom speech, sound, text and hero characters. 
+
+Starcraft is available now in Windows 95/98/NT4.0 and MacOS 7.6/8.x CD-ROM format at most computer and software retail chains worldwide.
+</PAGE>
+
+

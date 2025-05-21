@@ -1,0 +1,42 @@
+﻿[
+	{
+		"id": "bnet119_home_ad_prePurchaseNow",
+		"Key": "bnet119_home_ad_prePurchaseNow",
+		"Value": "PRE-PURCHASE NOW"
+	},
+	{
+		"id": "bnet119_home_ad_purchaseNow",
+		"Key": "bnet119_home_ad_purchaseNow",
+		"Value": "PURCHASE NOW"
+	},
+	{
+		"id": "bnet119_home_ad_igrLaunch",
+		"Key": "bnet119_home_ad_igrLaunch",
+		"Value": "AVAILABLE IN KOREA JULY 30"
+	},
+	{
+		"id": "bnet119_chatScreen_ad_globalLaunchText",
+		"Key": "bnet119_chatScreen_ad_globalLaunchText",
+		"Value": "LAUNCHES"
+	},
+	{
+		"id": "bnet119_chatScreen_ad_globalWorldwideText",
+		"Key": "bnet119_chatScreen_ad_globalWorldwideText",
+		"Value": "WORLDWIDE"
+	},
+	{
+		"id": "bnet119_chatScreen_ad_globalLaunchDate",
+		"Key": "bnet119_chatScreen_ad_globalLaunchDate",
+		"Value": "AUGUST 14"
+	},
+	{
+		"id": "bnet_featureError_HdRequired",
+		"Key": "bnet_featureError_HdRequired",
+		"Value": "This feature is only available for StarCraft: Remastered. Buy it now to unlock this feature!"
+	},
+	{
+		"id": "kr_legal_warning_chat",
+		"Key": "kr_legal_warning_chat",
+		"Value": "게임을 플레이한 지 {hours}시간이 지났습니다. 과도한 게임이용은 정상적인 일상생활에 지장을 줄 수 있습니다."
+	}
+]

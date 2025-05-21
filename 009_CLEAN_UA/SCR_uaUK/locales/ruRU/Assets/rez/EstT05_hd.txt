@@ -1,0 +1,41 @@
+</COMMENT Establishing Shot for Terran Level 5>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR2010.webm>
+</SOUND interstitials\sounds\scHD_Interstitial_Terran_Swipe.wav>
+</TEXTBOX>
+В хаосе, последовавшем за вторжением зергов, «Сынам Корхала» удалось скрыться с украденными данными.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR2020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR2020.wav>
+</TEXTBOX>
+Арктур, укрывшийся вместе с союзниками в отдаленной колонии на Антиге Прайм, планирует следующие шаги в борьбе против Конфедерации.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR2030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR2030.wav>
+</TEXTBOX>
+Спустя тринадцать часов после эвакуации Мар-Сары корабли протоссов вошли в орбитальное пространство колонии и устроили массированную планетарную бомбардировку.
+
+В результате было уничтожено все живое на поверхности планеты.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\TR2035.webm>
+</SOUND interstitials\sounds\scHD_Interstitial_Terran_Out.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\paltb\TerranB.pcx>
+</FONTCOLOR glue\paltb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+РЕВОЛЮЦИЯ
+
+Секретная база
+Вторая луна Антиги Прайм
+</PAGE>

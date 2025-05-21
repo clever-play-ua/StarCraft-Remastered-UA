@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Ok",
+  "rect": [176,144,288,128],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "ok-1",
+      "id": -2,
+      "rect": [92,92,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "ok-2",
+      "id": 1,
+      "rect": [12,8,264,80],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

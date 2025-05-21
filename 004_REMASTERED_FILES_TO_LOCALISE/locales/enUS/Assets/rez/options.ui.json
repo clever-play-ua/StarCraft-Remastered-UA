@@ -1,0 +1,72 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Options",
+  "rect": [184,32,264,288],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "options-1",
+      "id": -3,
+      "rect": [20,252,224,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "options-2",
+      "id": 1,
+      "rect": [20,36,224,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "options-3",
+      "id": 2,
+      "rect": [20,70,224,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "options-4",
+      "id": 3,
+      "rect": [20,104,224,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "options-5",
+      "id": 6,
+      "rect": [20,138,224,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "options-6",
+      "id": 5,
+      "rect": [20,172,224,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "options-7",
+      "id": 4,
+      "rect": [20,206,224,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "options-8",
+      "id": -1,
+      "rect": [0,8,264,24],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

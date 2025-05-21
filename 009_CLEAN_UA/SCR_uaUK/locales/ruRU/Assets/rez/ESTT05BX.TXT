@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 5bx>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltax\XTerranA.pcx>
+</FONTCOLOR glue\paltax\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ПАДЕНИЕ ИМПЕРАТОРА. ПТИЦЫ ВОЙНЫ
+
+Командный центр ОЗД на окраинах Августграда, столицы Корхала
+</PAGE>

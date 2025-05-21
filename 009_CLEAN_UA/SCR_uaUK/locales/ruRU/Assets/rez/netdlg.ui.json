@@ -1,0 +1,120 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Net",
+  "rect": [184,32,264,300],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "netdlg-1",
+      "id": -2,
+      "rect": [12,272,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "netdlg-2",
+      "id": -3,
+      "rect": [140,272,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "RADIOBUTTON",
+      "content": "netdlg-3",
+      "id": 1,
+      "rect": [12,184,240,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "RADIOBUTTON",
+      "content": "netdlg-4",
+      "id": 2,
+      "rect": [12,210,240,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "RADIOBUTTON",
+      "content": "netdlg-5",
+      "id": 3,
+      "rect": [12,236,240,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "netdlg-6",
+      "id": -1,
+      "rect": [0,6,264,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netdlg-7",
+      "id": -1,
+      "rect": [10,38,246,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netdlg-8",
+      "id": -1,
+      "rect": [10,54,246,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netdlg-9",
+      "id": -1,
+      "rect": [10,70,246,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netdlg-10",
+      "id": -1,
+      "rect": [10,86,246,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netdlg-11",
+      "id": -1,
+      "rect": [10,110,246,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netdlg-12",
+      "id": -1,
+      "rect": [10,126,246,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netdlg-13",
+      "id": -1,
+      "rect": [10,142,246,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "netdlg-14",
+      "id": -1,
+      "rect": [10,158,246,16],
+      "flags": [],
+      "children": null
+    }
+  ]
+}

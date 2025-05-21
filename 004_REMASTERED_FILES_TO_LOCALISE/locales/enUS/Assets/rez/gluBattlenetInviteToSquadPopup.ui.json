@@ -1,0 +1,32 @@
+﻿{
+  "type": "DIALOG",
+  "name": "IDD_BATTLENET_ADD_FRIEND_POPUP",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "",
+      "id": -1,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE","RC_POPUP_BACKGROUND"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\ChannelsListPopup\\Bg.dds",
+      "id": 10,
+      "rect": [140,48,360,384],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/InviteToSquadPanel/InviteToSquadPanel.html",
+      "id": 11,
+      "rect": [140,48,360,384],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

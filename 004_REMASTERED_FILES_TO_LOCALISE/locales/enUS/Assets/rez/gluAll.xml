@@ -1,0 +1,5002 @@
+<strings>
+    <string>
+        <id>mainEDITORGONE</id>
+        <value>StarCraft cannot locate the Campaign Editor. You will need to reinstall StarCraft to access the Editor.</value>
+    </string>
+    <string>
+        <id>mainSPAWNEDLABEL_ss</id>
+        <value>spawned by %s, %s</value>
+    </string>
+    <string>
+        <id>mainFULLLABEL_s</id>
+        <value>%s</value>
+    </string>
+    <string>
+        <id>scoreUNITS</id>
+        <value>Units</value>
+    </string>
+    <string>
+        <id>scoreINFRASTRUCTURE</id>
+        <value>Structures</value>
+    </string>
+    <string>
+        <id>scoreRESOURCES</id>
+        <value>Resources</value>
+    </string>
+    <string>
+        <id>scoreUBUILT</id>
+        <value>Produced</value>
+    </string>
+    <string>
+        <id>scoreUKILLED</id>
+        <value>Killed</value>
+    </string>
+    <string>
+        <id>scoreULOST</id>
+        <value>Lost</value>
+    </string>
+    <string>
+        <id>scoreSBUILT</id>
+        <value>Constructed</value>
+    </string>
+    <string>
+        <id>scoreSDESTROYED</id>
+        <value>Razed</value>
+    </string>
+    <string>
+        <id>scoreSLOST</id>
+        <value>Lost</value>
+    </string>
+    <string>
+        <id>scoreRGASES</id>
+        <value>Gas Mined</value>
+    </string>
+    <string>
+        <id>scoreRMINERALS</id>
+        <value>Minerals Mined</value>
+    </string>
+    <string>
+        <id>scoreRSPENT</id>
+        <value>Total Spent</value>
+    </string>
+    <string>
+        <id>scoreTIME_s</id>
+        <value>Elapsed Time: %s</value>
+    </string>
+    <string>
+        <id>scoreLOST</id>
+        <value>Defeat!</value>
+    </string>
+    <string>
+        <id>scoreWON</id>
+        <value>Victory!</value>
+    </string>
+    <string>
+        <id>scoreDRAW</id>
+        <value>Draw!</value>
+    </string>
+    <string>
+        <id>scoreDISCONNECT</id>
+        <value>Disconnect</value>
+    </string>
+    <string>
+        <id>scoreUNDECIDED</id>
+        <value>Undecided</value>
+    </string>
+    <string>
+        <id>scorePENDING</id>
+        <value>Pending</value>
+    </string>
+    <string>
+        <id>loadCONFIRMDELETE</id>
+        <value>Delete this saved game?</value>
+    </string>
+    <string>
+        <id>loginNEWCHAR</id>
+        <value>Enter new character name:</value>
+    </string>
+    <string>
+        <id>loginDELCHAR</id>
+        <value>Delete this character? Associated saved games will be deleted too.</value>
+    </string>
+    <string>
+        <id>loginDELCHARFAIL</id>
+        <value>Unable to delete this character - the file may be read-only on disk.</value>
+    </string>
+    <string>
+        <id>loginNAMEEXISTS</id>
+        <value>That name already exists!</value>
+    </string>
+    <string>
+        <id>loginTOOMANY</id>
+        <value>Please delete a character before adding a new one.</value>
+    </string>
+    <string>
+        <id>loginCREATEERROR</id>
+        <value>File error creating new character. Make sure there is enough disk space on the disk StarCraft is installed to, and that you have permission to write to that disk.</value>
+    </string>
+    <string>
+        <id>gameUpOneLevel</id>
+        <value>Up One Level</value>
+    </string>
+    <string>
+        <id>gameSaveGames</id>
+        <value>Save</value>
+    </string>
+    <string>
+        <id>gamePlayers</id>
+        <value>%u</value>
+    </string>
+    <string>
+        <id>gamePlayersText_cs</id>
+        <value>Number of Players:%c%s</value>
+    </string>
+    <string>
+        <id>gameMapSize</id>
+        <value>%ux%u</value>
+    </string>
+    <string>
+        <id>gameMapSizeText_cs</id>
+        <value>Map Size:%c%s</value>
+    </string>
+    <string>
+        <id>gameMapERAText_cs</id>
+        <value>Tileset:%c%s</value>
+    </string>
+    <string>
+        <id>gameOpponents</id>
+        <value>%u</value>
+    </string>
+    <string>
+        <id>gameOpponentsText_cs</id>
+        <value>Computer Slots:%c%s</value>
+    </string>
+    <string>
+        <id>gameHumans</id>
+        <value>%u</value>
+    </string>
+    <string>
+        <id>gameHumansText_cs</id>
+        <value>Human Slots:%c%s</value>
+    </string>
+    <string>
+        <id>gameMapERA</id>
+        <value>Badlands</value>
+    </string>
+    <string>
+        <id>gameMapERA1</id>
+        <value>Space</value>
+    </string>
+    <string>
+        <id>gameMapERA2</id>
+        <value>Installation</value>
+    </string>
+    <string>
+        <id>gameMapERA3</id>
+        <value>Ashworld</value>
+    </string>
+    <string>
+        <id>gameMapERA4</id>
+        <value>Jungle</value>
+    </string>
+    <string>
+        <id>gameMapERA5</id>
+        <value>Desert</value>
+    </string>
+    <string>
+        <id>gameMapERA6</id>
+        <value>Ice</value>
+    </string>
+    <string>
+        <id>gameMapERA7</id>
+        <value>Twilight</value>
+    </string>
+    <string>
+        <id>saveTITLE</id>
+        <value>Saved Game</value>
+    </string>
+    <string>
+        <id>saveMAPNAME_s</id>
+        <value>Map Name: %s</value>
+    </string>
+    <string>
+        <id>gameMAPERROR</id>
+        <value>Unable to Load Map!</value>
+    </string>
+    <string>
+        <id>gameAUTHREQUIRED</id>
+        <value>You must select an authenticated ladder map to start a ladder game.</value>
+    </string>
+    <string>
+        <id>gameINVALIDMAP</id>
+        <value>The selected scenario is not valid.</value>
+    </string>
+    <string>
+        <id>gameCREATEERROR</id>
+        <value>An error occurred while trying to create the game.</value>
+    </string>
+    <string>
+        <id>gameCREATEEXISTS</id>
+        <value>Network game already exists!</value>
+    </string>
+    <string>
+        <id>gameBADGAMETYPE</id>
+        <value>The selected map does not support the selected game type and options.</value>
+    </string>
+    <string>
+        <id>gameTOOMANYGAMES</id>
+        <value>Unable to create game because there are too many games already running on this network.</value>
+    </string>
+    <string>
+        <id>gameNETWORKERROR</id>
+        <value>Unable to create game because there was an error initializing the network.</value>
+    </string>
+    <string>
+        <id>gameNEEDOPPONENT</id>
+        <value>You must have at least one computer opponent.</value>
+    </string>
+    <string>
+        <id>gameNEEDHUMAN</id>
+        <value>This map does not have a slot for a human participant.</value>
+    </string>
+    <string>
+        <id>gameMAPDEFAULTONLY</id>
+        <value>This map can only be played with the "Use Map Settings" game type.</value>
+    </string>
+    <string>
+        <id>maperrorHIGHERVERSION</id>
+        <value>This scenario is intended for use with a StarCraft Expansion Set.</value>
+    </string>
+    <string>
+        <id>maperrorTITLE</id>
+        <value>Invalid Scenario</value>
+    </string>
+    <string>
+        <id>maperrorLONGNAME</id>
+        <value>This scenario is unreadable because its filename is too long.</value>
+    </string>
+    <string>
+        <id>maperrorINVALID</id>
+        <value>This scenario is unreadable because it is invalid or corrupted.</value>
+    </string>
+    <string>
+        <id>saveerrorTITLE</id>
+        <value>Invalid Saved Game</value>
+    </string>
+    <string>
+        <id>saveerrorLONGNAME</id>
+        <value>This saved game is unreadable because its filename is too long.</value>
+    </string>
+    <string>
+        <id>saveerrorINVALID</id>
+        <value>This saved game is unreadable because it is invalid or corrupted.</value>
+    </string>
+    <string>
+        <id>saveerrorVERSION</id>
+        <value>This saved game is unreadable because of a version mismatch.</value>
+    </string>
+    <string>
+        <id>modemPHONEBOOK</id>
+        <value>Phonebook</value>
+    </string>
+    <string>
+        <id>modemENTRY</id>
+        <value>entry</value>
+    </string>
+    <string>
+        <id>modemNEWENTRY</id>
+        <value>Enter new phone number:</value>
+    </string>
+    <string>
+        <id>modemCONFIRMDELETE</id>
+        <value>Are you sure you want to delete this entry?</value>
+    </string>
+    <string>
+        <id>modemREPLACEENTRY_s</id>
+        <value>Do you wish to replace the entry '%s'?</value>
+    </string>
+    <string>
+        <id>modemTOOMANYENTRIES</id>
+        <value>Too many phone book entries. Please delete an entry before adding another.</value>
+    </string>
+    <string>
+        <id>modemINITERROR</id>
+        <value>An error occurred while trying to initialize the modem.</value>
+    </string>
+    <string>
+        <id>modemNOMODEMS</id>
+        <value>No modems were detected.</value>
+    </string>
+    <string>
+        <id>modemVERSIONERROR</id>
+        <value>Unable to join the detected game. Your version of StarCraft is incompatible with the game creator's version.</value>
+    </string>
+    <string>
+        <id>modemNOANSWERERROR</id>
+        <value>Unable to connect. There was no answer at the number dialed.</value>
+    </string>
+    <string>
+        <id>modemNETWORKERROR</id>
+        <value>Unable to dial. Either no dial tone was detected or there were problems configuring the modem.</value>
+    </string>
+    <string>
+        <id>modemBUSYERROR</id>
+        <value>Unable to connect. The number dialed was busy.</value>
+    </string>
+    <string>
+        <id>modemOFFERROR</id>
+        <value>Unable to detect the modem. Please ensure that your modem is properly installed, turned on, and correctly connected.</value>
+    </string>
+    <string>
+        <id>modemJOINERROR</id>
+        <value>Unable to establish a connection. A game of StarCraft was not detected at the specified phone number.</value>
+    </string>
+    <string>
+        <id>modemCONFIRMHANGUP</id>
+        <value>Are you sure you want to hang up on your current connection?</value>
+    </string>
+    <string>
+        <id>modemDESCRIPTION</id>
+        <value>Two players can play StarCraft via Modem. To create a modem game, click on the Create Game button below and your computer will be set to auto answer incoming calls. To join a game that has already been created, select the phone number from the list to the left or enter a new number.</value>
+    </string>
+    <string>
+        <id>modemGAMENAME_u</id>
+        <value>Game %u</value>
+    </string>
+    <string>
+        <id>gameSLOWEST</id>
+        <value>Slowest</value>
+    </string>
+    <string>
+        <id>gameSLOWER</id>
+        <value>Slower</value>
+    </string>
+    <string>
+        <id>gameSLOW</id>
+        <value>Slow</value>
+    </string>
+    <string>
+        <id>gameNORMAL</id>
+        <value>Normal</value>
+    </string>
+    <string>
+        <id>gameFAST</id>
+        <value>Fast</value>
+    </string>
+    <string>
+        <id>gameFASTER</id>
+        <value>Faster</value>
+    </string>
+    <string>
+        <id>gameFASTEST</id>
+        <value>Fastest</value>
+    </string>
+    <string>
+        <id>gameSHOWALL</id>
+        <value>Show All</value>
+    </string>
+    <string>
+        <id>gameSPEED</id>
+        <value>Speed:</value>
+    </string>
+    <string>
+        <id>conANSWER</id>
+        <value>Answer</value>
+    </string>
+    <string>
+        <id>conCALL</id>
+        <value>Call</value>
+    </string>
+    <string>
+        <id>conMODEM</id>
+        <value>Modem</value>
+    </string>
+    <string>
+        <id>conDIRECT</id>
+        <value>Direct Connect</value>
+    </string>
+    <string>
+        <id>conIPX</id>
+        <value>IPX network</value>
+    </string>
+    <string>
+        <id>conBTLN</id>
+        <value>Battle.net</value>
+    </string>
+    <string>
+        <id>conMODEM_d</id>
+        <value>Requirements: Each computer will need a properly configured modem connected to a phone line. Modems can be configured by using the Control Panel item called "Modems". Each player needs a different phone number.</value>
+    </string>
+    <string>
+        <id>conDIRECT_d</id>
+        <value>Requirements: The computers must be linked together using a null-modem cable that is connected to a free serial port on each computer.</value>
+    </string>
+    <string>
+        <id>conIPX_d</id>
+        <value>Requirements: Your computer will need the IPX protocol installed, and it must be connected to your opponents' computers via local-area network cables.</value>
+    </string>
+    <string>
+        <id>conBTLN_d</id>
+        <value>Requirements: Your computer will need access to the Internet.</value>
+    </string>
+    <string>
+        <id>conSUPPORTED</id>
+        <value>Supports up to %d players</value>
+    </string>
+    <string>
+        <id>conIPX_ext</id>
+        <value>Local-area networks are commonly used to connect office computers together, but home networks can also be constructed relatively inexpensively. Players connected to a local-area network can play against any other players connected to the same network.</value>
+    </string>
+    <string>
+        <id>conBTLN_ext</id>
+        <value>Battle.net is a free Internet gaming service provided by Blizzard Entertainment which allows players to meet up, challenge other players, and join games, all without paying any charges apart from normal Internet connection charges.</value>
+    </string>
+    <string>
+        <id>conMODEM_ext</id>
+        <value>Two players can play together by over the telephone by using two modems. One computer is configured to answer its modem, and the other computer is configured to call the first computer.</value>
+    </string>
+    <string>
+        <id>conDIRECT_ext</id>
+        <value>Two players can play by connecting their computers together with a "null-modem" cable. One computer is configured to host the game, and the other computer can then join the game.</value>
+    </string>
+    <string>
+        <id>conPROVERROR</id>
+        <value>The selected network provider could not be initialized.</value>
+    </string>
+    <string>
+        <id>chatPLAYERJOINED_s</id>
+        <value>Player %s has joined the game.</value>
+    </string>
+    <string>
+        <id>chatPLAYERLEFT_s</id>
+        <value>Player %s has left the game.</value>
+    </string>
+    <string>
+        <id>chatDISTERROR</id>
+        <value>An error occurred while distributing the map.</value>
+    </string>
+    <string>
+        <id>chatASSIGNTEAMS</id>
+        <value>Each players must be assigned to a team.</value>
+    </string>
+    <string>
+        <id>chatONESIDE</id>
+        <value>You must have an opponent in order to start a game.</value>
+    </string>
+    <string>
+        <id>chatFILETRANSFERRING</id>
+        <value>The scenario map file is still being distributed.</value>
+    </string>
+    <string>
+        <id>chatBOOTED</id>
+        <value>You have been booted!</value>
+    </string>
+    <string>
+        <id>chatBANNED</id>
+        <value>You have been banned!</value>
+    </string>
+    <string>
+        <id>chatSLOTCLOSED</id>
+        <value>The game creator closed all available slots!</value>
+    </string>
+    <string>
+        <id>chatHOSTLEFT</id>
+        <value>The game host has left.</value>
+    </string>
+    <string>
+        <id>chatUNJOINABLE</id>
+        <value>Unable to join game.</value>
+    </string>
+    <string>
+        <id>chatVERSIONMISMATCH</id>
+        <value>You cannot join this game because it is a different version of StarCraft.</value>
+    </string>
+    <string>
+        <id>chatINVALIDSAVE</id>
+        <value>Save game file not found.</value>
+    </string>
+    <string>
+        <id>chatINVALIDSPAWN</id>
+        <value>You are not able to join this game.  It was not created with the same CD that spawned your copy of StarCraft.</value>
+    </string>
+    <string>
+        <id>chatINVALIDMAP</id>
+        <value>Unable to authenticate map.</value>
+    </string>
+    <string>
+        <id>chatFDERROR</id>
+        <value>Unable to write scenario file.</value>
+    </string>
+    <string>
+        <id>chatCONFIRMBOOT_s</id>
+        <value>Performing this action will boot:
+%s
+Continue?</value>
+    </string>
+    <string>
+        <id>chatPLAYERS</id>
+        <value>Players</value>
+    </string>
+    <string>
+        <id>chatCOMPUTERSLOT</id>
+        <value>Computer Player</value>
+    </string>
+    <string>
+        <id>chatNEUTRALSLOT</id>
+        <value>Neutral Slot</value>
+    </string>
+    <string>
+        <id>chatSECONDS</id>
+        <value>seconds</value>
+    </string>
+    <string>
+        <id>chatSOON</id>
+        <value>soon!</value>
+    </string>
+    <string>
+        <id>slotCOMPUTER</id>
+        <value>Computer</value>
+    </string>
+    <string>
+        <id>slotOPEN</id>
+        <value>Open</value>
+    </string>
+    <string>
+        <id>slotCLOSED</id>
+        <value>Closed</value>
+    </string>
+    <string>
+        <id>slotBAN</id>
+        <value>Ban Player!</value>
+    </string>
+    <string>
+        <id>bnMAP</id>
+        <value>Map:</value>
+    </string>
+    <string>
+        <id>bnCREATOR</id>
+        <value>Creator:</value>
+    </string>
+    <string>
+        <id>bnTYPE</id>
+        <value>Type:</value>
+    </string>
+    <string>
+        <id>bnSPEED</id>
+        <value>Speed:</value>
+    </string>
+    <string>
+        <id>bnTIME</id>
+        <value>Time:  %d:%02d%s</value>
+    </string>
+    <string>
+        <id>bnAM</id>
+        <value>AM</value>
+    </string>
+    <string>
+        <id>bnPM</id>
+        <value>PM</value>
+    </string>
+    <string>
+        <id>bnCREATEEXISTS</id>
+        <value>A game by that name already exists!</value>
+    </string>
+    <string>
+        <id>bnNAMENEEDED</id>
+        <value>Please enter a game name to continue.</value>
+    </string>
+    <string>
+        <id>bnMAPNEEDED</id>
+        <value>Please select a map to continue.</value>
+    </string>
+    <string>
+        <id>bnPASSWORDNEEDED</id>
+        <value>You must enter a password to start a saved game.</value>
+    </string>
+    <string>
+        <id>bnNOLADDER</id>
+        <value>You cannot play ladder games until you have at least 10 non-ladder wins.</value>
+    </string>
+    <string>
+        <id>bnSPAWNNOLADDER</id>
+        <value>Unable to join selected game. Ladder games are unavailable because this is a spawned copy of StarCraft.</value>
+    </string>
+    <string>
+        <id>bnCANTJOIN</id>
+        <value>Unable to join selected game.</value>
+    </string>
+    <string>
+        <id>bnRESTRICTEDCHANNEL</id>
+        <value>The selected channel is restricted.</value>
+    </string>
+    <string>
+        <id>profLADDERGAMES</id>
+        <value>Ladder Games</value>
+    </string>
+    <string>
+        <id>profNORMALGAMES</id>
+        <value>Normal Games</value>
+    </string>
+    <string>
+        <id>profRATINGTITLE</id>
+        <value>Rating:</value>
+    </string>
+    <string>
+        <id>profRANKTITLE</id>
+        <value>Rank:</value>
+    </string>
+    <string>
+        <id>profUNRATED</id>
+        <value>Unrated</value>
+    </string>
+    <string>
+        <id>profLASTGAMETITLE</id>
+        <value>Last Game:</value>
+    </string>
+    <string>
+        <id>profRANK_s</id>
+        <value>#%s</value>
+    </string>
+    <string>
+        <id>profUNRANKED</id>
+        <value>Unranked</value>
+    </string>
+    <string>
+        <id>profRATINGHIGH_s</id>
+        <value>(High: %s)</value>
+    </string>
+    <string>
+        <id>profRANKHIGH_s</id>
+        <value>(High: #%s)</value>
+    </string>
+    <string>
+        <id>profRECORD_ss</id>
+        <value>Record: %s/%s</value>
+    </string>
+    <string>
+        <id>profDISCONNECTS_s</id>
+        <value>Disconnects: %s</value>
+    </string>
+    <string>
+        <id>profNEVERPLAYED</id>
+        <value>Never Played</value>
+    </string>
+    <string>
+        <id>profNOINFORMATION</id>
+        <value>No information available</value>
+    </string>
+    <string>
+        <id>ladNOPENALTY</id>
+        <value>No penalty</value>
+    </string>
+    <string>
+        <id>ladASLOSS</id>
+        <value>Count as loss</value>
+    </string>
+    <string>
+        <id>errRETAILCD</id>
+        <value>Please insert your StarCraft CD into the CD-ROM drive.</value>
+    </string>
+    <string>
+        <id>errBROODWARCD</id>
+        <value>Please insert your Brood War CD into the CD-ROM drive.</value>
+    </string>
+    <string>
+        <id>errANYCD</id>
+        <value>Please insert either the StarCraft or Brood War CD into the CD-ROM drive.</value>
+    </string>
+    <string>
+        <id>gluSELECTTYPE</id>
+        <value>Select Game Type</value>
+    </string>
+    <string>
+        <id>gameTYPEDISABLED</id>
+        <value>Unable to create game because the selected game type is currently unavailable.</value>
+    </string>
+    <string>
+        <id>tvbSIDES</id>
+        <value>%d vs %d</value>
+    </string>
+    <string>
+        <id>tvbTEAMONE</id>
+        <value>Home Team</value>
+    </string>
+    <string>
+        <id>tvbTEAMTWO</id>
+        <value>Away Team</value>
+    </string>
+    <string>
+        <id>tvbSWITCHWITH</id>
+        <value>Switch with %s</value>
+    </string>
+    <string>
+        <id>tvbMOVETO</id>
+        <value>Move to %s</value>
+    </string>
+    <string>
+        <id>scoreReplaySavedStr</id>
+        <value>sReplay Saved</value>
+    </string>
+    <string>
+        <id>scoreReplayTitle</id>
+        <value>Replay Information</value>
+    </string>
+    <string>
+        <id>saveReplayDialogTitle</id>
+        <value>Save Replay</value>
+    </string>
+    <string>
+        <id>replayChatTitle</id>
+        <value>Replay of:</value>
+    </string>
+    <string>
+        <id>replayEndGame</id>
+        <value>The replay has finished.</value>
+    </string>
+    <string>
+        <id>visionDialogTitle</id>
+        <value>Replay Players</value>
+    </string>
+    <string>
+        <id>visionRevealAll</id>
+        <value>Reveal Entire Map</value>
+    </string>
+    <string>
+        <id>bnREPLAYPASSWORDNEEDED</id>
+        <value>You must enter a password to start a replay.</value>
+    </string>
+    <string>
+        <id>conGatewayInfo</id>
+        <value>If the selected Gateway does not best represent your current location, select the correct Gateway for the best possible connection.</value>
+    </string>
+    <string>
+        <id>gameNOTENOUGHPLAYERS</id>
+        <value>There are not enough players to start the game.</value>
+    </string>
+    <string>
+        <id>gameMAPTOOSMALL</id>
+        <value>The selected map does not have enough player slots for the selected game type.</value>
+    </string>
+    <string>
+        <id>replayEndGameButton</id>
+        <value>xExit Replay</value>
+    </string>
+    <string>
+        <id>conUDP</id>
+        <value>UDP network</value>
+    </string>
+    <string>
+        <id>conUDP_d</id>
+        <value>Requirements: All computers must be connected to a TCP/IP compatible network.</value>
+    </string>
+    <string>
+        <id>conUDP_ext</id>
+        <value>Local-area networks are commonly used to connect office computers together, but home networks can also be constructed relatively inexpensively. Players connected to a local-area network can play against any other players connected to the same network.</value>
+    </string>
+    <string>
+        <id>bnNoTourn</id>
+        <value>Only league members are allowed to participate in league games.</value>
+    </string>
+    <string>
+        <id>gameTournAuthRequired</id>
+        <value>You must select an official league map to start a league game.</value>
+    </string>
+    <string>
+        <id>bnSpawnNoTourn</id>
+        <value>Unable to join selected game. League games are unavailable because this is a spawned copy of StarCraft.</value>
+    </string>
+    <string>
+        <id>gameTournTwoPlayers</id>
+        <value>A league game must have two and only two non-referee players in it.</value>
+    </string>
+    <string>
+        <id>gameTournNoBroodWar</id>
+        <value>Please reconnect to Battle.net with StarCraft Original to play No Brood War game types.</value>
+    </string>
+    <string>
+        <id>gameTournRequireBroodWar</id>
+        <value>Brood War is required to play league games.</value>
+    </string>
+    <string>
+        <id>slotPublic</id>
+        <value>Make Game Public</value>
+    </string>
+    <string>
+        <id>slotPublic2</id>
+        <value>Make Public</value>
+    </string>
+    <string>
+        <id>profWINS</id>
+        <value>Wins:</value>
+    </string>
+    <string>
+        <id>profLOSSES</id>
+        <value>Losses:</value>
+    </string>
+    <string>
+        <id>chatSECOND</id>
+        <value>second</value>
+    </string>
+    <string>
+        <id>scoreAPMTitle</id>
+        <value>APM</value>
+    </string>
+    <string>
+        <id>scoreEPMTitle</id>
+        <value>EPM</value>
+    </string>
+    <string>
+        <id>gameCloudFolder</id>
+        <value>Cloud</value>
+    </string>
+    <string>
+        <id>gameCloudPopularMaps</id>
+        <value>Popular Maps</value>
+    </string>
+    <string>
+        <id>gameCloudSaveGames</id>
+        <value>Save Games</value>
+    </string>
+    <string>
+        <id>gameCloudReplays</id>
+        <value>Replays</value>
+    </string>
+    <string>
+        <id>gameCloudMaps</id>
+        <value>Maps</value>
+    </string>
+    <string>
+        <id>bnet119_connection_title</id>
+        <value>Select Connection</value>
+    </string>
+    <string>
+        <id>bnet119_connection_error</id>
+        <value>Unable to retrieve connection list.</value>
+    </string>
+    <string>
+        <id>bnet119_page_load_error</id>
+        <value>Unable to load page.</value>
+    </string>
+    <string>
+        <id>bnet119_registry_title</id>
+        <value>Registry</value>
+    </string>
+    <string>
+        <id>bnet119_registry_empty</id>
+        <value>Select 'New' to create a character.</value>
+    </string>
+    <string>
+        <id>bnet119_authentication_progressPopup_title</id>
+        <value>Authenticating...</value>
+    </string>
+    <string>
+        <id>bnet119_authentication_progressPopup_queuing_title</id>
+        <value>The Blizzard servers are busy right now! You're position {position} in the queue (estimated time: {seconds}s).</value>
+    </string>
+    <string>
+        <id>bnet119_authentication_error_prefix</id>
+        <value>Login failure:</value>
+    </string>
+    <string>
+        <id>bnet119_loggedOut</id>
+        <value>You have been logged out.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_LimitReached</id>
+        <value>You have reached your limit of profiles. Delete one.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_ToonInUse</id>
+        <value>That profile already exists. Try a different name or gateway.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon</id>
+        <value>Invalid profile name.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon_BadWords</id>
+        <value>Invalid profile name (bad word).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon_InvalidChar</id>
+        <value>Invalid profile name (invalid char/s).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon_TooLong</id>
+        <value>Invalid profile name (too long).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadToon_TooShort</id>
+        <value>Invalid profile name (too short).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_create_error_CE_BadAuthToken</id>
+        <value>Incorrect password.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_LimitReached</id>
+        <value>You have reached your limit of profiles. Delete one.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_ToonInUse</id>
+        <value>That profile already exists. Try a different name or gateway.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon</id>
+        <value>Invalid profile name.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon_BadWords</id>
+        <value>Invalid profile name (bad word).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon_InvalidChar</id>
+        <value>Invalid profile name (invalid char/s).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon_TooLong</id>
+        <value>Invalid profile name (too long).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadToon_TooShort</id>
+        <value>Invalid profile name (too short).</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_link_error_CE_BadAuthToken</id>
+        <value>Incorrect password.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_linkProgressPopup_title</id>
+        <value>Linking...</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_delete_confirmation</id>
+        <value>WARNING: Deleting a profile is a permanent operation. You will not be able to retrieve your profile once it is deleted.
+
+Are you sure you want to delete this profile?</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_deleteProgressPopup_title</id>
+        <value>Deleting...</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_error_CE_DuplicateConnection</id>
+        <value>You're connected on this toon elsewhere. Only one connection is allowed.</value>
+    </string>
+    <string>
+        <id>bnet119_toonRegistry_error_CE_FailedToConnect</id>
+        <value>Failed to connect to Classic Server.</value>
+    </string>
+    <string>
+        <id>bnet119_cloud_uploadQuitConfirmation</id>
+        <value>Upload in progress. Really quit?
+(%s).</value>
+    </string>
+    <string>
+        <id>bnet119_cloud_deleteProgressPopup_title</id>
+        <value>Deleting...</value>
+    </string>
+    <string>
+        <id>bnet119_matchmaking_title</id>
+        <value>Ranked Play</value>
+    </string>
+    <string>
+        <id>bnet119_matchmaking_selectRace</id>
+        <value>Select Race</value>
+    </string>
+    <string>
+        <id>bnet119_matchmaking_selectMode</id>
+        <value>Select Game Type</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_errorInit</id>
+        <value>Unable to start matchmaking</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_mapListsDownloadProgressPopup_title</id>
+        <value>Downloading ranked map lists...</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingMapPreferences_title</id>
+        <value>mMap Preferences</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingMapPreferences_voteDescription</id>
+        <value>Vote for up to 3 maps. These maps will be selected less frequently when searching.</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingMapPreferences_voteRemaining</id>
+        <value>Votes Remaining</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_title</id>
+        <value>Searching</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_matchFound</id>
+        <value>Match Found!</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_estimatedTime</id>
+        <value>Estimated Time</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_elapsedTime</id>
+        <value>Elapsed Time</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_cancel</id>
+        <value>eCancel</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingSearch_ready</id>
+        <value>eReady</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_vs</id>
+        <value>VS</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_countdownLabel</id>
+        <value>Match will start in</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_wins</id>
+        <value>Wins</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_losses</id>
+        <value>Losses</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_disconnects</id>
+        <value>Disconnects</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingLoading_loading</id>
+        <value>Loading</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingScreen_error_noGameModes</id>
+        <value>Could not get game modes.</value>
+    </string>
+    <string>
+        <id>bnet119_matchmakingScreen_error_noMapList</id>
+        <value>Unable to download map list.</value>
+    </string>
+    <string>
+        <id>bnet119_toonCreation_createNewCharacter</id>
+        <value>Create New Character</value>
+    </string>
+    <string>
+        <id>bnet119_toonCreation_characterName</id>
+        <value>Character Name</value>
+    </string>
+    <string>
+        <id>bnet119_toonCreation_or</id>
+        <value>or</value>
+    </string>
+    <string>
+        <id>bnet_toonRename_renameCharacter</id>
+        <value>Rename Character</value>
+    </string>
+    <string>
+        <id>bnet_toonRename_characterName</id>
+        <value>Character Name</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_whisper</id>
+        <value>Whisper</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_playCustom</id>
+        <value>Play Custom</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_joinLobby</id>
+        <value>Join Lobby</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_viewProfile</id>
+        <value>View Profile</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_removeFriend</id>
+        <value>Remove Friend</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_designateUser</id>
+        <value>Designate as Moderator</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_kickUser</id>
+        <value>Kick User</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_banUser</id>
+        <value>Ban User</value>
+    </string>
+    <string>
+        <id>bnet119_chatPanel_contextMenu_resign</id>
+        <value>Resign as Moderator</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_playersOnline</id>
+        <value>Players Online</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_change</id>
+        <value>Change</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_seasonRecord1v1</id>
+        <value>1v1 Season Record</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_careerWins</id>
+        <value>Career Wins</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_careerGames</id>
+        <value>Career Games</value>
+    </string>
+    <string>
+        <id>bnet119_selectConnectionScreen_gatewayInfoPane_topRace</id>
+        <value>Top Race</value>
+    </string>
+    <string>
+        <id>bnet119_toonInfoPanel_seasonRank</id>
+        <value>1v1 Season Rank</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_title</id>
+        <value>Options</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_restore</id>
+        <value>rRestore to Default</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_hotkeys</id>
+        <value>Hotkeys</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_label_slow</id>
+        <value>slow</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_label_fast</id>
+        <value>fast</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_label_min</id>
+        <value>min</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_label_max</id>
+        <value>max</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_button_apply</id>
+        <value>Apply</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_general_button_reset</id>
+        <value>Reset</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_speed</id>
+        <value>pSpeed</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_sound</id>
+        <value>sSound</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_video</id>
+        <value>vVideo</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_game</id>
+        <value>gGame</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_network</id>
+        <value>nNetwork</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_help</id>
+        <value>hHelp</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_tabs_debug</id>
+        <value>dDebug</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_speed_settings</id>
+        <value>Reset speed settings?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_sound_settings</id>
+        <value>Reset sound settings?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_video_settings</id>
+        <value>Reset video settings?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_game_settings</id>
+        <value>Reset game settings?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_network_settings</id>
+        <value>Reset network settings?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_reset_debug_settings</id>
+        <value>Reset debug settings?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_title</id>
+        <value>Speed Options</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_subtitle_gameplaySpeed</id>
+        <value>Gameplay Speed</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_subtitle_cursorSpeed</id>
+        <value>Cursor Speed</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_subtitle_scrollSpeed</id>
+        <value>Scroll Speed</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_gameSpeed</id>
+        <value>Game Speed</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_mouseSensitivity</id>
+        <value>Mouse Sensitivity</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_tooltip_mouseSensitivity</id>
+        <value>Turn off to use your operating system's mouse speed setting.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_keyScroll</id>
+        <value>Key Scroll Speed</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_mouseScroll</id>
+        <value>Mouse Scroll Speed</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_middleMouseScroll</id>
+        <value>Middle Mouse Scroll</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_label_mouseScaling</id>
+        <value>Use Mouse Scaling</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_speed_tooltip_mouseScaling</id>
+        <value>Mouse scaling replicates StarCraft's original screen resolution input distance.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_title</id>
+        <value>Sound Options</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_musicVolume</id>
+        <value>Music Volume</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_digitalVolume</id>
+        <value>Digital Volume</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_soundPlaysInBackground</id>
+        <value>Sound Plays While In Background</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_unitSpeech</id>
+        <value>Unit Speech</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_unitAck</id>
+        <value>Unit Acknowledgments</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_buildingSounds</id>
+        <value>Building Sounds</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_remasteredAudio</id>
+        <value>Remastered Audio</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_gameSubtitles</id>
+        <value>Game Subtitles</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_cinematicSubtitles</id>
+        <value>Cinematic Subtitles</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_originalUnitVO</id>
+        <value>Original Unit Voice Overs</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_sound_label_originalCampaignVO</id>
+        <value>Original 1998 Campaign</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_title</id>
+        <value>Video Options</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_windowMode</id>
+        <value>Display Mode</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_windowMode_windowed</id>
+        <value>Windowed</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_windowMode_windowedFullscreen</id>
+        <value>Windowed (Fullscreen)</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_windowMode_fullscreen</id>
+        <value>Fullscreen</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_windowMode_windows</id>
+        <value>Pressing Alt+Enter also toggles Windowed mode.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_windowMode_mac</id>
+        <value>Pressing Cmd+M also toggles Windowed mode.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_monitor</id>
+        <value>Monitor</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_screenResolution</id>
+        <value>Screen Resolution</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_gamma</id>
+        <value>Gamma Correction</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_gamma</id>
+        <value>Fullscreen must be active to adjust gamma. Gamma can be adjusted to change the light intensity.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_fpsCap</id>
+        <value>Enable FPS Cap</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_filtering</id>
+        <value>Enable Bilinear Filtering</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_filtering</id>
+        <value>Only applicable in SD mode. Bilinear filtering will smooth sprites to reduce hard or jagged edges.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_vsync</id>
+        <value>Enable Vertical Sync</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_hd</id>
+        <value>HD Graphics</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_environmentEffects</id>
+        <value>Environment Effects</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_environmentEffects</id>
+        <value>Environment Effects are small objects added to better randomize the appearance of the terrain in game.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_realTimeLighting</id>
+        <value>Real-Time Lighting</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_realTimeLighting_disabled</id>
+        <value>Real-time lighting requires hardware with greater than 2 GB of VRAM, and is disabled when using the Cartooned skin.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_tooltip_realTimeLighting_enabled</id>
+        <value>Casts dynamic light across units, buildings, and terrain based on light sources.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_smoothAnimations</id>
+        <value>Smooth Unit Turning</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_colorblindMode</id>
+        <value>Colorblind Mode</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_aspect_ratio_widescreen</id>
+        <value>Widescreen</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_aspect_ratio_letterbox</id>
+        <value>Pillarbox</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_video_label_shadowStacking</id>
+        <value>Shadow Stacking</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_title</id>
+        <value>Game Options</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_gameplay</id>
+        <value>Gameplay</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_language</id>
+        <value>Language</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_apmTracking</id>
+        <value>Actions Per Minute Tracking</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_mac</id>
+        <value>Mac</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_subtitle_keyboard</id>
+        <value>Keyboard Input</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_gameTimer</id>
+        <value>Game Timer</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_colorCycling</id>
+        <value>Enable Color Cycling</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_languageFilter</id>
+        <value>Mature Language Filter</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_redBlueTeamColors</id>
+        <value>Red vs. Blue Team Colors</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_bonusSkins</id>
+        <value>Show Bonus Skins</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_unitPortraits</id>
+        <value>Unit Portraits</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_unitPortraits_animated</id>
+        <value>Animated</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_unitPortraits_still</id>
+        <value>Still</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_unitPortraits_disable</id>
+        <value>Disabled</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_consolePosition</id>
+        <value>Mini-Map Position</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_consolePosition_leftCorner</id>
+        <value>Left Corner</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_consolePosition_standard</id>
+        <value>Standard</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_textLanguage</id>
+        <value>Text Language</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_voLanguage</id>
+        <value>Voiceover Language</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_language_description</id>
+        <value>Changing language will require a game restart to take effect</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_apm</id>
+        <value>Display APM In Game</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_epm</id>
+        <value>Alert when APM falls below</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_alert</id>
+        <value>Alert when below</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_colorText</id>
+        <value>Color Text</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_playSound</id>
+        <value>Play Sound</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_portraits</id>
+        <value>Portraits</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_display</id>
+        <value>Display</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_disableOsShortcuts</id>
+        <value>Disable OS Keyboard Shortcuts</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_UseCmdAsCtrl</id>
+        <value>Use Command instead of Control for hotkeys</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_universalAccess_dialog_title</id>
+        <value>Universal Access Required</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_universalAccess_dialog_body</id>
+        <value>In order to use this option, you must grant access to StarCraft in Security &amp; Privacy preferences, located in System Preferences. Would you like to open System Preferences now?</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_universalAccess_dialog_ok</id>
+        <value>Open</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_universalAccess_dialog_cancel</id>
+        <value>Cancel</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_game_label_standardFunctionKeys</id>
+        <value>Use standard function keys</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_deDE</id>
+        <value>Deutsch</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_enUS</id>
+        <value>English</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_esES</id>
+        <value>Español - España</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_esMX</id>
+        <value>Español - Latino</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_frFR</id>
+        <value>Français</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_itIT</id>
+        <value>Italiano</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_jaJP</id>
+        <value>日本語</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_koUS</id>
+        <value>한국어 (음역)</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_koKR</id>
+        <value>한국어 (완역)</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_NOLA</id>
+        <value>[PH] NOLA</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_plPL</id>
+        <value>Polski</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_ptBR</id>
+        <value>Português</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_ruRU</id>
+        <value>Русский</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_zhCN</id>
+        <value>简体中文</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_zhTW</id>
+        <value>繁體中文</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_dialog_title</id>
+        <value>Changing Language</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_dialog_body</id>
+        <value>StarCraft needs to exit to install a new language</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_language_dialog_button</id>
+        <value>Exit</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_title</id>
+        <value>Network Options</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_description</id>
+        <value>Setting lower latency reduces the time between when you click the mouse and when a unit responds to the click. Higher latency increases that time, but smooths network performance for systems with slow or 'lossy' network connections.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_defaultLatency</id>
+        <value>Latency</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_customGameLatency</id>
+        <value>Custom Game Latency</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_startDiagnostic</id>
+        <value>Start Diagnostic</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_networkDiagnostic</id>
+        <value>Network Diagnostic</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_subtitle_diagnosticLogin</id>
+        <value>Login to Battle.net to enable this option.</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_label_lowLat</id>
+        <value>lLow</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_label_highLat</id>
+        <value>hHigh</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_label_extraHighLat</id>
+        <value>eExtra High</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_network_label_preferPort6112</id>
+        <value>Prefer port 6112</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_help_title</id>
+        <value>Help</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_debug_title</id>
+        <value>Debug Options</value>
+    </string>
+    <string>
+        <id>bnet119_optionsPanel_soundBoard</id>
+        <value>Sound Board</value>
+    </string>
+    <string>
+        <id>optionsPanel_social_label_friendsPresenceNotifications</id>
+        <value>Friends presence text notifications</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_header</id>
+        <value>Hotkeys</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_units_label</id>
+        <value>Units</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_buildings_label</id>
+        <value>Buildings</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_groudUnits_label</id>
+        <value>Ground Units</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_airUnits_label</id>
+        <value>Air Units</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_basicBuildings_label</id>
+        <value>Basic</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_advancedBuildings_label</id>
+        <value>Advanced</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_unitSelection_instructions</id>
+        <value>Click on a unit to view its commands</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_commandSelection_instructions</id>
+        <value>Click on a command to change its hotkey</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_hotkey_instructions</id>
+        <value>Press the desired key</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_selected_prefix</id>
+        <value>Selected:</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_general_actionCard</id>
+        <value>General</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_basicStructure_actionCard</id>
+        <value>Basic Structure</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_advancedStructure_actionCard</id>
+        <value>Advanced Structure</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_tankMode_actionCard</id>
+        <value>General - Tank Mode</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_siegeMode_actionCard</id>
+        <value>General - Siege Mode</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_uncloaked_actionCard</id>
+        <value>General - Uncloaked</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_cloaked_actionCard</id>
+        <value>General - Cloaked</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_lifted_actionCard</id>
+        <value>General - Lifted</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_burrowed_actionCard</id>
+        <value>General - Burrowed</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_binding_unitsShared</id>
+        <value>%d units share this command</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_binding_default</id>
+        <value>Default:</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_restoreToDefault_button</id>
+        <value>Restore to Default</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_save_button</id>
+        <value>Save</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_cancel_button</id>
+        <value>Cancel</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_dontSave_button</id>
+        <value>Don't Save</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_continue_button</id>
+        <value>Continue</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_saveChangesQuestion</id>
+        <value>Save Changes?</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_saveChangesExplanation</id>
+        <value>Your changes will be lost if you don't save them.</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_restoreDefaultsQuestion</id>
+        <value>Restore defaults?</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_restoreDefaultsExplanation</id>
+        <value>You will lose your changes, do you wish to continue?</value>
+    </string>
+    <string>
+        <id>bnet119_hotkeysPanel_unboundedInstructions</id>
+        <value>There are commands that have become unbound</value>
+    </string>
+    <string>
+        <id>bnet119_chat_auroraChat_error_AE_NotificationUndeliverable</id>
+        <value>That user is offline.</value>
+    </string>
+    <string>
+        <id>bnet119_chat_auroraChat_error_AE_FriendshipAlreadyExists</id>
+        <value>You are already friends with that user.</value>
+    </string>
+    <string>
+        <id>bnet119_chat_auroraChat_error_AE_FriendshipIsSelf</id>
+        <value>You can't send a friend request to yourself.</value>
+    </string>
+    <string>
+        <id>bnet119_chat_auroraChat_error_AE_FriendInvitationExists</id>
+        <value>A friendship invitation with that user already exists.</value>
+    </string>
+    <string>
+        <id>chat_error_AE_WhisperQuotaExceeded</id>
+        <value>Whisper not sent because you have sent too many whispers too quickly.</value>
+    </string>
+    <string>
+        <id>bnet119_home_ad_prePurchaseNow</id>
+        <value>PRE-PURCHASE NOW</value>
+    </string>
+    <string>
+        <id>bnet119_home_ad_purchaseNow</id>
+        <value>PURCHASE NOW</value>
+    </string>
+    <string>
+        <id>bnet119_home_ad_igrLaunch</id>
+        <value>AVAILABLE IN KOREA JULY 30</value>
+    </string>
+    <string>
+        <id>bnet119_chatScreen_ad_globalLaunchText</id>
+        <value>LAUNCHES</value>
+    </string>
+    <string>
+        <id>bnet119_chatScreen_ad_globalWorldwideText</id>
+        <value>WORLDWIDE</value>
+    </string>
+    <string>
+        <id>bnet119_chatScreen_ad_globalLaunchDate</id>
+        <value>AUGUST 14</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_progressPopup_title</id>
+        <value>Connecting...</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAurora_loggedOut</id>
+        <value>The server connection has been lost.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_TE_UnknownEndpoint</id>
+        <value>There's a problem connecting to the server right now. Please wait a few minutes and try again.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_NoUtilityServer</id>
+        <value>There's a problem connecting to the server right now. Please wait a few minutes and try again.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_NoGameAccount</id>
+        <value>You are not old enough to play online.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_SessionNotFound</id>
+        <value>You have either been playing too long or you are not permitted to play at this time of day.</value>
+    </string>
+    <string>
+        <id>bnet118_fakeAuroraAuthentication_error_AE_ParentalRestricted</id>
+        <value>You have either been playing too long or you are not permitted to play at this time of day.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_LimitReached</id>
+        <value>You have reached your limit of profiles. Delete one.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_FailedToConnect</id>
+        <value>There's a problem connecting to the server right now. Please wait a few minutes and try again.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_ToonInUse</id>
+        <value>That profile is already in use.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon</id>
+        <value>Your login information was incorrect. Please try again.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon_BadWords</id>
+        <value>Your login information was incorrect. Please try again.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon_InvalidChar</id>
+        <value>Your login information was incorrect. Please try again.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon_TooLong</id>
+        <value>Your login information was incorrect. Please try again.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadToon_TooShort</id>
+        <value>Your login information was incorrect. Please try again.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_CE_BadAuthToken</id>
+        <value>Incorrect password.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_LE_InUse</id>
+        <value>The specified profile is already in use. Please select another.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_FE_SecurePhoneDisabled</id>
+        <value>Secure by phone disabled.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_FE_PhoneFailure</id>
+        <value>Phone login failed.</value>
+    </string>
+    <string>
+        <id>bnet118_login_error_FE_IncorrectPhone</id>
+        <value>Unregistered phone.</value>
+    </string>
+    <string>
+        <id>bnet118_loginProgressPopup_title</id>
+        <value>Logging in...</value>
+    </string>
+    <string>
+        <id>bnet118_login_title</id>
+        <value>Login</value>
+    </string>
+    <string>
+        <id>bnet118_login_newAccount</id>
+        <value>nNew Account</value>
+    </string>
+    <string>
+        <id>bnet118_login_changePassword</id>
+        <value>pChange Password</value>
+    </string>
+    <string>
+        <id>bnet118_login_recoverPassword</id>
+        <value>rRecover Password</value>
+    </string>
+    <string>
+        <id>bnet118_login_changeEmail</id>
+        <value>eChange Email</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon</id>
+        <value>Invalid profile name.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon_BadWords</id>
+        <value>The specified profile name contains invalid words.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon_InvalidChar</id>
+        <value>The specified profile name contains invalid characters.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon_TooLong</id>
+        <value>The specified profile name is too long.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_BadToon_TooShort</id>
+        <value>The specified profile name is too short.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_CE_ToonInUse</id>
+        <value>The specified profile name already exists. Try a different name or gateway.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_emailAddressMismatch</id>
+        <value>The email addresses must match.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_passwordRequired</id>
+        <value>A password is required.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_error_passwordMismatch</id>
+        <value>The passwords must match.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_success_title</id>
+        <value>Account created!</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_success_body</id>
+        <value>Please note that inactive accounts are deleted at regular times. If you create a new account, you must be logged into Battle.net long enough (either in one session, or spread over several) to have accumulated 2 hours of time within the first 48 hours. After that, your account becomes permanent so long as you continue to login to this account every 3 months.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_title</id>
+        <value>Create Account</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_email</id>
+        <value>Email</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_repeatEmail</id>
+        <value>Repeat Email</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_accountName_rules</id>
+        <value>An account name is required. It must be under 16 characters in length and not contain any spaces.</value>
+    </string>
+    <string>
+        <id>bnet118_createToon_password_rules</id>
+        <value>A password is required. It must be between 3-512 characters in length.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_error_CE_BadAuthToken</id>
+        <value>Bad credentials.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_success</id>
+        <value>Password changed!</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_error_newPasswordRequired</id>
+        <value>A new password is required. It must be between 3-512 characters in length.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_error_currentPasswordRequired</id>
+        <value>The current password is required.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_error_passwordMismatch</id>
+        <value>The new passwords must match.</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_title</id>
+        <value>Change Password</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_currentPassword</id>
+        <value>Current Password</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_repeatPassword</id>
+        <value>Repeat Password</value>
+    </string>
+    <string>
+        <id>bnet118_changePassword_repeatNewPassword</id>
+        <value>Repeat New Password</value>
+    </string>
+    <string>
+        <id>bnet118_changePasswordProgressPopup_title</id>
+        <value>Changing password...</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_error_CE_BadAuthToken</id>
+        <value>Bad credentials</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_error_emailAddressMismatch</id>
+        <value>The new email addresses must match.</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_success</id>
+        <value>Your request to change your email address has been submitted. If the old email address you entered matches the one that is currently bound to this account, an email will be sent to that address with further instructions.</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_title</id>
+        <value>Change Email Address</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_body</id>
+        <value>If you have registered an email address for this account, then you can change it here.
+Note that both email addresses must be active for you to make this change.</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_oldEmailAddress</id>
+        <value>Old Email Address</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_newEmailAddress</id>
+        <value>New Email Address</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddress_repeatNewEmailAddress</id>
+        <value>Repeat New Email Address</value>
+    </string>
+    <string>
+        <id>bnet118_changeEmailAddressProgressPopup_title</id>
+        <value>Changing email address...</value>
+    </string>
+    <string>
+        <id>bnet118_resetPassword_error_CE_BadAuthToken</id>
+        <value>Bad credentials.</value>
+    </string>
+    <string>
+        <id>bnet118_resetPassword_success</id>
+        <value>Your request for a new password has been received. If you registered an email address for this account you will receive an email with instructions on how to complete your password change.</value>
+    </string>
+    <string>
+        <id>bnet118_resetPassword_emailAddress</id>
+        <value>Email Address</value>
+    </string>
+    <string>
+        <id>bnet118_resetPassword_body</id>
+        <value>If you have forgotten your password and you registered your email address with us for this account, you can request that a new password be sent. Make sure to enter the email address that you registered for the account.</value>
+    </string>
+    <string>
+        <id>bnet118_resetPasswordProgressPopup_title</id>
+        <value>Resetting password...</value>
+    </string>
+    <string>
+        <id>bnet118_eulaPopup_agree</id>
+        <value>aAgree</value>
+    </string>
+    <string>
+        <id>bnet118_eulaPopup_disagree</id>
+        <value>dDisagree</value>
+    </string>
+    <string>
+        <id>bnet118_eulaPopup_title</id>
+        <value>Battle.net Terms of Use</value>
+    </string>
+    <string>
+        <id>bnet118_eulaPopup_scrollToBottom</id>
+        <value>Scroll to the bottom to continue.</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_error_validEmailAddressRequired</id>
+        <value>A valid email address is required.</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_error_accountNameRequired</id>
+        <value>An account name is required.</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_accountName</id>
+        <value>Account Name</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_newPassword</id>
+        <value>New Password</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_password</id>
+        <value>Password</value>
+    </string>
+    <string>
+        <id>bnet118_legacyFlow_recoverPassword</id>
+        <value>Recover Password</value>
+    </string>
+    <string>
+        <id>bnet118_addFriendPopup_title</id>
+        <value>Add Friend</value>
+    </string>
+    <string>
+        <id>bnet118_addFriendPopup_accountName</id>
+        <value>Enter Account Name</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_suggestFriend</id>
+        <value>Suggested Friends</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_enterInfo</id>
+        <value>Enter a StarCraft Character, BattleTag#0000, or email address</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_onLAN</id>
+        <value>On LAN</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_classicBnetFriend</id>
+        <value>Your Classic Battle.net Friend</value>
+    </string>
+    <string>
+        <id>bnet119_addFriendPopup_or</id>
+        <value>or</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_LANPane_title</id>
+        <value>Protocol</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_LANPane_error</id>
+        <value>Unable to retrieve protocol list.</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_gatewayPane_title</id>
+        <value>Gateway</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_gatewayPane_error</id>
+        <value>Unable to retrieve gateway list.</value>
+    </string>
+    <string>
+        <id>bnet118_selectConnectionScreen_gatewayPane_note</id>
+        <value>If the selected Gateway does not best represent your current location, select the correct Gateway for the best possible connection.</value>
+    </string>
+    <string>
+        <id>bnet118_createGameScreen_error_passwordRequired</id>
+        <value>A password is required to create a private game.</value>
+    </string>
+    <string>
+        <id>bnet_aurora_error_prefix</id>
+        <value>Failed to make initial server connection</value>
+    </string>
+    <string>
+        <id>bnet_error_notConnected</id>
+        <value>Not connected to the server.</value>
+    </string>
+    <string>
+        <id>bnet_chat_notConnectedToAnyChannel</id>
+        <value>Not connected to any channel.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandUsage</id>
+        <value>Usage</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandAliases</id>
+        <value>Aliases</value>
+    </string>
+    <string>
+        <id>bnet_chat_unrecognizedCommand</id>
+        <value>Unrecognized command</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelpListTitle</id>
+        <value>Battle.net help topics:</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelpCommandsList</id>
+        <value>Available commands:</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelpListMoreInfo_topic</id>
+        <value>Type /help TOPIC for information about a specific topic.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelpListMoreInfo_command</id>
+        <value>Type /help COMMAND for information about a specific command.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_basicCommands_title</id>
+        <value>Basic chat commands:</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_advancedCommands_title</id>
+        <value>Advanced chat commands:</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_commandAliases_title</id>
+        <value>Command aliases:</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_description</id>
+        <value>Add, remove, or whisper a friend</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_add_description</id>
+        <value>Add ACCOUNTNAME to your friends list</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_remove_description</id>
+        <value>Remove ACCOUNTNAME from your friends list</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_whisper_description</id>
+        <value>Whisper MESSAGE to all Brood War friends and all Blizzard friends who are currently using StarCraft</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_whisperAll_description</id>
+        <value>Whisper MESSAGE to all friends</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_listIntelligent_description</id>
+        <value>List your Blizzard friends who are currently using StarCraft and your Brood War friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_listAll_description</id>
+        <value>List your friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_listBlizzard_description</id>
+        <value>List your Blizzard friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_listOnline_description</id>
+        <value>List your Blizzard friends who are currently using StarCraft and your Brood War friends who are online.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_on_description</id>
+        <value>Enable friends presence notifications.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_friends_off_description</id>
+        <value>Disable friends presence notifications.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_channel_description</id>
+        <value>Join channel CHANNELNAME</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_dnd_description</id>
+        <value>Starts/stops ignoring all whispers</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_ignore_description</id>
+        <value>Stop receiving messages from ACCOUNTNAME</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_unignore_description</id>
+        <value>Start receiving messages from ACCOUNTNAME</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_description</id>
+        <value>Report ACCOUNTNAME for REASON</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_spam_description</id>
+        <value>Report ACCOUNTNAME for spamming the channel you are currently in</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_harassment_description</id>
+        <value>Report ACCOUNTNAME for harassment</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_cheating_description</id>
+        <value>Report ACCOUNTNAME for cheating in GAMENAME</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_accountName_description</id>
+        <value>Report ACCOUNTNAME for an offensive account name</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_battleTag_description</id>
+        <value>Report ACCOUNTNAME for an offensive BattleTag™</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_report_gameName_description</id>
+        <value>Report ACCOUNTNAME for an offensive game name</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_users_description</id>
+        <value>Displays the current number of users connected to Battle.net.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_users_statsSuccess</id>
+        <value>There are {games} games being played.
+There are {players} players online.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_users_statsError</id>
+        <value>Failed to retrieve gateway statistics.</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_description</id>
+        <value>Change messaging options</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_ignore_description</id>
+        <value>Ignore whispers from anyone who isn't in your friends list</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_unignore_description</id>
+        <value>Allow whispers from anyone who isn't in your friends list</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_ignorepublic_description</id>
+        <value>Ignore messages in public chat channels from anyone who isn't in your friends list</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_unignorepublic_description</id>
+        <value>Allow messages in public chat channels from anyone who isn't in your friends list</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_ignoreprivate_description</id>
+        <value>Ignore messages in private chat channels from anyone who isn't in your friends list</value>
+    </string>
+    <string>
+        <id>bnet_chat_commandHelp_options_unignoreprivate_description</id>
+        <value>Allow messages in private chat channels from anyone who isn't in your friends list</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_MuteWhispersFromNonFriends</id>
+        <value>Ignoring whispers from non-friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_UnmuteWhispersFromNonFriends</id>
+        <value>Allowing whispers from non-friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_MutePublicChatFromNonFriends</id>
+        <value>Ignoring public chat from non-friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_UnmutePublicChatFromNonFriends</id>
+        <value>Allowing public chat from non-friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_MutePrivateChatFromNonFriends</id>
+        <value>Ignoring private chat from non-friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_UnmutePrivateChatFromNonFriends</id>
+        <value>Allowing private chat from non-friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_whispers_muted</id>
+        <value>Allowing private messages from non-friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_whispers_unmuted</id>
+        <value>Not allowing private messages from non-friends.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_publicChat_muted</id>
+        <value>Allowing messages from non-friends in public channels.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_publicChat_unmuted</id>
+        <value>Not allowing messages from non-friends in public channels.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_privateChat_muted</id>
+        <value>Allowing messages from non-friends in private channels.</value>
+    </string>
+    <string>
+        <id>bnet_chat_options_status_privateChat_unmuted</id>
+        <value>Not allowing messages from non-friends in private channels.</value>
+    </string>
+    <string>
+        <id>bnet_chat_whisperToPrefix</id>
+        <value>&lt;To: %s&gt;</value>
+    </string>
+    <string>
+        <id>bnet_chat_whisperFromPrefix</id>
+        <value>&lt;From: %s&gt;</value>
+    </string>
+    <string>
+        <id>bnet_chat_whisper_invalidUser</id>
+        <value>Invalid user.</value>
+    </string>
+    <string>
+        <id>bnet_chat_defaultChannelName</id>
+        <value>&lt;Default channel&gt;</value>
+    </string>
+    <string>
+        <id>bnet_chat_joiningDefaultChannel</id>
+        <value>Joining default channel...</value>
+    </string>
+    <string>
+        <id>bnet_chat_joiningChannel</id>
+        <value>Joining channel %s...</value>
+    </string>
+    <string>
+        <id>bnet_chat_creatingAndJoiningCustomChannel</id>
+        <value>Joining channel %s...</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinDefaultChannel_failure</id>
+        <value>Cannot join channel.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_failure</id>
+        <value>Cannot join channel.</value>
+    </string>
+    <string>
+        <id>bnet_chat_createJoinCustomChannel_failure</id>
+        <value>Cannot join channel.</value>
+    </string>
+    <string>
+        <id>bnet_chat_leavingChannel</id>
+        <value>Leaving channel %s...</value>
+    </string>
+    <string>
+        <id>bnet_chat_leftChannel</id>
+        <value>Left channel %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_connectedToChatService</id>
+        <value>Connected to chat service.</value>
+    </string>
+    <string>
+        <id>bnet_chat_legacyChatDisconnectNotification</id>
+        <value>Disconnected from chat server.</value>
+    </string>
+    <string>
+        <id>bnet_chat_legacyProtocolDisconnectNotification</id>
+        <value>Disconnected from server.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_error_misc</id>
+        <value>Failed to join channel: %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_error_CE_LimitReached</id>
+        <value>Failed to join channel: Limit reached.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_error_CE_BadChannel</id>
+        <value>Failed to join channel: bad channel.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_success</id>
+        <value>Joined channel %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_joinChannel_timeout</id>
+        <value>Request Timeout.</value>
+    </string>
+    <string>
+        <id>bnet_chat_createChannel_error_misc</id>
+        <value>Failed to create channel: %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_createChannel_error_CE_LimitReached</id>
+        <value>Failed to create channel: Limit has been reached.</value>
+    </string>
+    <string>
+        <id>bnet_chat_error_misc</id>
+        <value>Error: %s.</value>
+    </string>
+    <string>
+        <id>bnet_chat_error_CE_BadCommand</id>
+        <value>Error: bad command.</value>
+    </string>
+    <string>
+        <id>bnet_chat_error_CE_BadChannel</id>
+        <value>The channel name is invalid.</value>
+    </string>
+    <string>
+        <id>bnet_chat_channelSelectPopup_title</id>
+        <value>Select a Channel</value>
+    </string>
+    <string>
+        <id>bnet_chat_channelSelectPopup_body</id>
+        <value>To join or create a private channel, enter a name below</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriendProgressPopup_title</id>
+        <value>Adding friend...</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_timeout</id>
+        <value>The friend request timed out.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_addSelf</id>
+        <value>You can't add yourself to your friends list.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_error_LE_Failure</id>
+        <value>Invalid user.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_error_LE_RequestTimedOut</id>
+        <value>Failed to add friend.</value>
+    </string>
+    <string>
+        <id>bnet_chat_addFriend_error_CE_DuplicateFriend</id>
+        <value>You're already friends with that user.</value>
+    </string>
+    <string>
+        <id>bnet_chat_removeFriend_error_notFriends</id>
+        <value>You are not friends with that user.</value>
+    </string>
+    <string>
+        <id>bnet_chat_channel_disabled</id>
+        <value>Chat is disabled for this channel.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_url</id>
+        <value>You can copy and paste URLs from the channel messages.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_offline</id>
+        <value>{name}, offline.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_inGame</id>
+        <value>{name} ({gateway}), {mutual} using {program} in the {private} game {game}.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_inChat</id>
+        <value>{name} ({gateway}), {mutual} using {program} in the channel {channel}.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_online</id>
+        <value>{name} ({gateway}), {mutual} using {program}.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_aurora</id>
+        <value>{name}, using {program} - {presence}.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_auroraNoPresence</id>
+        <value>{name}, using {program}.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_mutualFriendship</id>
+        <value>(mutual)</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_whoIs_privateGame</id>
+        <value>private</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_listIntelligent_title</id>
+        <value>Your Blizzard friends who are currently using StarCraft and your Brood War friends are:</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_listOnline_title</id>
+        <value>Your Blizzard friends who are currently using StarCraft and your Brood War friends who are online are:</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_listAll_title</id>
+        <value>Your friends are:</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_listBlizzard_title</id>
+        <value>Your Blizzard friends are:</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_whisper_name</id>
+        <value>your friends</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_whisper_noFriendsError</id>
+        <value>You don't have any friends available to message.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_presenceNotifications_enabled</id>
+        <value>Notifications related to friend presence will be displayed.</value>
+    </string>
+    <string>
+        <id>bnet_chat_command_friends_presenceNotifications_disabled</id>
+        <value>Notifications related to friend presence will be hidden.</value>
+    </string>
+    <string>
+        <id>bnet_chat_create</id>
+        <value>cCreate</value>
+    </string>
+    <string>
+        <id>bnet_connectToonProgressPopup_title</id>
+        <value>Connecting...</value>
+    </string>
+    <string>
+        <id>bnet_createToonProgressPopup_title</id>
+        <value>Creating...</value>
+    </string>
+    <string>
+        <id>bnet_renameToonProgressPopup_title</id>
+        <value>Renaming...</value>
+    </string>
+    <string>
+        <id>bnet_renameToonRequiredWarning</id>
+        <value>The character named "{toonName}" needs to be renamed.</value>
+    </string>
+    <string>
+        <id>bnet_upgradeRequired</id>
+        <value>Upgrade required.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_generalPrefix</id>
+        <value>Failed to advertise the game.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_EC_TimedOut</id>
+        <value>Timed out while trying to advertise the game.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_EC_InternalError</id>
+        <value>Connection lost while trying to advertise the game.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_CE_BadGame</id>
+        <value>The specified game name already exists.</value>
+    </string>
+    <string>
+        <id>bnet_advertisement_error_CE_BadGame_BadWords</id>
+        <value>The game name is invalid.</value>
+    </string>
+    <string>
+        <id>bonjour_install_prompt</id>
+        <value>Bonjour is required for full LAN functionality. Would you like to activate Bonjour?</value>
+    </string>
+    <string>
+        <id>bonjour_not_available</id>
+        <value>Some LAN functionality will be disabled without the Bonjour service running.</value>
+    </string>
+    <string>
+        <id>bonjour_install_prompt_lanGameSearch</id>
+        <value>Bonjour is required to search for available LAN games. Would you like to activate Bonjour?</value>
+    </string>
+    <string>
+        <id>bonjour_not_available_lanGameSearch</id>
+        <value>It's not possible to search for LAN games without the Bonjour service running.</value>
+    </string>
+    <string>
+        <id>bonjour_failed_to_start</id>
+        <value>Failed to activate the Bonjour service.</value>
+    </string>
+    <string>
+        <id>bnet_channels</id>
+        <value>Channels</value>
+    </string>
+    <string>
+        <id>bnet_passwordPanel_passwordRequired</id>
+        <value>Password Required</value>
+    </string>
+    <string>
+        <id>bnet_passwordPanel_enterPasswordInfo</id>
+        <value>Enter the password to join this game</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_friends</id>
+        <value>Friends</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_friendsOffline</id>
+        <value>Offline</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_friendsOnline</id>
+        <value>Online</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_channel</id>
+        <value>Channel</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_pendingInvites</id>
+        <value>Pending Invites</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_statusAway</id>
+        <value>Away</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_statusBusy</id>
+        <value>Busy</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_addFriend</id>
+        <value>aAdd Friend</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_joinChannel</id>
+        <value>hJoin Channel</value>
+    </string>
+    <string>
+        <id>bnet_participantsPanel_reportUser</id>
+        <value>Report User</value>
+    </string>
+    <string>
+        <id>bnet_friends_inviteFriendship</id>
+        <value>Friend request sent to {name}</value>
+    </string>
+    <string>
+        <id>bnet_friends_inviteFriendship_unknownRegion</id>
+        <value>Friend request sent to {name} in Blizzard region {myRegion}</value>
+    </string>
+    <string>
+        <id>bnet_friends_inviteFriendship_foreignRegion</id>
+        <value>Friend request sent to {name} in Blizzard region {myRegion} (they're currently in region {theirRegion})</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_customGamesWinsLossesDisconnects</id>
+        <value>[{gatewayName}] Custom Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}.</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_allSeasonsWinsLossesDisconnects</id>
+        <value>[{gatewayName}] Ranked Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}.</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_seasonWinsLossesDisconnects</id>
+        <value>[{gatewayName}] Current Season Ranked Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}.</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_overallWinsLossesDisconnects</id>
+        <value>[{gatewayName}] Overall - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}.</value>
+    </string>
+    <string>
+        <id>bnet_profileStats_noStatsFound</id>
+        <value>No stats found.</value>
+    </string>
+    <string>
+        <id>bnet_joinGame_error_invalidPassword</id>
+        <value>Invalid password.</value>
+    </string>
+    <string>
+        <id>bnet_joinGame_error_timeOut</id>
+        <value>The join request timed out.</value>
+    </string>
+    <string>
+        <id>bnet_joinGame_privateGameSearchProgressPopup_title</id>
+        <value>Validating...</value>
+    </string>
+    <string>
+        <id>bnet_cloud_downloadProgressPopup_title</id>
+        <value>Downloading...</value>
+    </string>
+    <string>
+        <id>bnet_cloud_downloadProgressPopup_body</id>
+        <value>Downloading...
+(%s).</value>
+    </string>
+    <string>
+        <id>bnet_cloud_sizeRemaining</id>
+        <value>%s KB remaining</value>
+    </string>
+    <string>
+        <id>bnet_cloud_size_s</id>
+        <value>%s KB</value>
+    </string>
+    <string>
+        <id>bnet_initialServerDataDownloadProgressPopup_title</id>
+        <value>Downloading Settings...</value>
+    </string>
+    <string>
+        <id>bnet_fishWarning</id>
+        <value>This Gateway is not an official Blizzard Gateway. Would you like to continue?</value>
+    </string>
+    <string>
+        <id>bnet_fish_terms_title</id>
+        <value>Fish Terms of Use</value>
+    </string>
+    <string>
+        <id>bnet_createGameProgressPopup_title</id>
+        <value>Creating game...</value>
+    </string>
+    <string>
+        <id>bnet_error_transport</id>
+        <value>Please check your network connection and try again.</value>
+    </string>
+    <string>
+        <id>bnet_error_classicServer_CE_InternalError</id>
+        <value>There's a problem connecting to the server right now. Please wait a few minutes and try again.</value>
+    </string>
+    <string>
+        <id>bnet_error_classicServer_TE_DroppedDueToRateLimit</id>
+        <value>Request rejected because too many operations are already in progress.</value>
+    </string>
+    <string>
+        <id>bnet_downloadFailed</id>
+        <value>Download failed.</value>
+    </string>
+    <string>
+        <id>bnet_availabilityChange_online</id>
+        <value>Your availability is now set to online.</value>
+    </string>
+    <string>
+        <id>bnet_availabilityChange_away</id>
+        <value>Your availability is now set to away.</value>
+    </string>
+    <string>
+        <id>bnet_availabilityChange_dnd</id>
+        <value>Your availability is now set to busy (DND). You will not receive whispers or friends presence notifications.</value>
+    </string>
+    <string>
+        <id>bnet_availabilityChange_offline</id>
+        <value>Your availability is now set to offline.</value>
+    </string>
+    <string>
+        <id>infoPane_author</id>
+        <value>Author</value>
+    </string>
+    <string>
+        <id>infoPane_gameCreator</id>
+        <value>Game Creator</value>
+    </string>
+    <string>
+        <id>infoPanel_recentGames</id>
+        <value>Recent Games</value>
+    </string>
+    <string>
+        <id>infoPane_gameName</id>
+        <value>Game Name</value>
+    </string>
+    <string>
+        <id>infoPane_gameType</id>
+        <value>Game Type</value>
+    </string>
+    <string>
+        <id>infoPane_mapName</id>
+        <value>Map Name</value>
+    </string>
+    <string>
+        <id>infoPane_players</id>
+        <value>Players</value>
+    </string>
+    <string>
+        <id>infoPane_size</id>
+        <value>Size</value>
+    </string>
+    <string>
+        <id>infoPane_speed</id>
+        <value>Speed</value>
+    </string>
+    <string>
+        <id>infoPane_turnRate</id>
+        <value>Turn Rate</value>
+    </string>
+    <string>
+        <id>infoPane_suggestedPlayers</id>
+        <value>Suggested Players</value>
+    </string>
+    <string>
+        <id>infoPane_tileset</id>
+        <value>Tileset</value>
+    </string>
+    <string>
+        <id>infoPane_startingIn</id>
+        <value>Starting in</value>
+    </string>
+    <string>
+        <id>infoPane_noMapImage</id>
+        <value>Map Preview Unavailable</value>
+    </string>
+    <string>
+        <id>str_ok</id>
+        <value>oOk</value>
+    </string>
+    <string>
+        <id>str_confirm</id>
+        <value>oConfirm</value>
+    </string>
+    <string>
+        <id>str_cancel</id>
+        <value>cCancel</value>
+    </string>
+    <string>
+        <id>str_quit</id>
+        <value>qQuit</value>
+    </string>
+    <string>
+        <id>str_referee</id>
+        <value>Referee</value>
+    </string>
+    <string>
+        <id>strPAUSED_observer</id>
+        <value>{name} paused the game.</value>
+    </string>
+    <string>
+        <id>createGameScreen_title</id>
+        <value>Create Game</value>
+    </string>
+    <string>
+        <id>createGameScreen_gameName</id>
+        <value>Create Name</value>
+    </string>
+    <string>
+        <id>createGameScreen_map</id>
+        <value>Map</value>
+    </string>
+    <string>
+        <id>createGameScreen_privacy</id>
+        <value>Privacy</value>
+    </string>
+    <string>
+        <id>createGameScreen_private</id>
+        <value>Private</value>
+    </string>
+    <string>
+        <id>createGameScreen_public</id>
+        <value>Public</value>
+    </string>
+    <string>
+        <id>createGameScreen_enabled</id>
+        <value>Enabled</value>
+    </string>
+    <string>
+        <id>createGameScreen_disabled</id>
+        <value>Disabled</value>
+    </string>
+    <string>
+        <id>createGameScreen_fileBrowser_title</id>
+        <value>Select Map</value>
+    </string>
+    <string>
+        <id>createGameScreen_customHotkeys</id>
+        <value>Custom Hotkeys</value>
+    </string>
+    <string>
+        <id>createGameScreen_gameLimits</id>
+        <value>Unit Limits</value>
+    </string>
+    <string>
+        <id>createGameScreen_original</id>
+        <value>Original</value>
+    </string>
+    <string>
+        <id>createGameScreen_extended</id>
+        <value>Extended</value>
+    </string>
+    <string>
+        <id>createGameScreen_proxied</id>
+        <value>Connection is routing via proxy server</value>
+    </string>
+    <string>
+        <id>createGameScreen_refereeOption</id>
+        <value>Enable Referees</value>
+    </string>
+    <string>
+        <id>searchGameScreen_customGames</id>
+        <value>Custom Games</value>
+    </string>
+    <string>
+        <id>searchGameScreen_openGames</id>
+        <value>mOpen Games</value>
+    </string>
+    <string>
+        <id>searchGameScreen_popularGames</id>
+        <value>pPopular Games</value>
+    </string>
+    <string>
+        <id>searchGameScreen_filterSettings</id>
+        <value>Filter Settings</value>
+    </string>
+    <string>
+        <id>searchGameScreen_showPrivateGames</id>
+        <value>Show Private Games</value>
+    </string>
+    <string>
+        <id>searchGameScreen_showReplayGames</id>
+        <value>Show Replay Games</value>
+    </string>
+    <string>
+        <id>searchGameScreen_filter</id>
+        <value>fFilter</value>
+    </string>
+    <string>
+        <id>searchGameScreen_searchCustomGames</id>
+        <value>Search custom games</value>
+    </string>
+    <string>
+        <id>searchGameScreen_create</id>
+        <value>rCreate</value>
+    </string>
+    <string>
+        <id>searchGameScreen_created</id>
+        <value>Created</value>
+    </string>
+    <string>
+        <id>searchGameScreen_acceptablePing</id>
+        <value>Lowest Acceptable Ping</value>
+    </string>
+    <string>
+        <id>searchGameScreen_maxPlayerCount</id>
+        <value>Lowest Max Player Count</value>
+    </string>
+    <string>
+        <id>searchGameScreen_filterGamesError</id>
+        <value>Unable to find games that match your search settings.</value>
+    </string>
+    <string>
+        <id>searchGameScreen_results</id>
+        <value>Results</value>
+    </string>
+    <string>
+        <id>lobbyScreen_observers</id>
+        <value>Observers</value>
+    </string>
+    <string>
+        <id>lobbyScreen_referees</id>
+        <value>Referees</value>
+    </string>
+    <string>
+        <id>lobbyScreen_teams</id>
+        <value>Teams</value>
+    </string>
+    <string>
+        <id>lobbyScreen_zerg</id>
+        <value>Zerg</value>
+    </string>
+    <string>
+        <id>lobbyScreen_terran</id>
+        <value>Terran</value>
+    </string>
+    <string>
+        <id>lobbyScreen_protoss</id>
+        <value>Protoss</value>
+    </string>
+    <string>
+        <id>lobbyScreen_random</id>
+        <value>Random</value>
+    </string>
+    <string>
+        <id>lobbyScreen_selectRace</id>
+        <value>Select Race</value>
+    </string>
+    <string>
+        <id>lobbyScreen_open</id>
+        <value>Open</value>
+    </string>
+    <string>
+        <id>lobbyScreen_closed</id>
+        <value>Closed</value>
+    </string>
+    <string>
+        <id>lobbyScreen_computer</id>
+        <value>Computer</value>
+    </string>
+    <string>
+        <id>lobbyScreen_makeGamePublic</id>
+        <value>Make Game Public</value>
+    </string>
+    <string>
+        <id>lobbyScreen_banPlayer</id>
+        <value>Ban Player</value>
+    </string>
+    <string>
+        <id>lobbyScreen_moveTo</id>
+        <value>Move to</value>
+    </string>
+    <string>
+        <id>lobbyScreen_switchWith</id>
+        <value>Switch with</value>
+    </string>
+    <string>
+        <id>lobbyScreen_MapSpecified</id>
+        <value>Map specified</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Random</id>
+        <value>Random</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Pink</id>
+        <value>Pink</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Red</id>
+        <value>Red</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Tan</id>
+        <value>Tan</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Orange</id>
+        <value>Orange</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Brown</id>
+        <value>Brown</value>
+    </string>
+    <string>
+        <id>lobbyScreen_PaleYellow</id>
+        <value>Pale Yellow</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Yellow</id>
+        <value>Yellow</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Olive</id>
+        <value>Olive</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Lime</id>
+        <value>Lime</value>
+    </string>
+    <string>
+        <id>lobbyScreen_PaleGreen</id>
+        <value>Pale Green</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Green</id>
+        <value>Green</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Cyan</id>
+        <value>Cyan</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Teal</id>
+        <value>Teal</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Blue</id>
+        <value>Blue</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Navy</id>
+        <value>Navy</value>
+    </string>
+    <string>
+        <id>lobbyScreen_DarkAqua</id>
+        <value>Dark Aqua</value>
+    </string>
+    <string>
+        <id>lobbyScreen_BluishGrey</id>
+        <value>Bluish Grey</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Purple</id>
+        <value>Purple</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Magenta</id>
+        <value>Magenta</value>
+    </string>
+    <string>
+        <id>lobbyScreen_White</id>
+        <value>White</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Grey</id>
+        <value>Grey</value>
+    </string>
+    <string>
+        <id>lobbyScreen_Black</id>
+        <value>Black</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_map</id>
+        <value>Toggle Display of the Minimap.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_map_hotkey</id>
+        <value>Alt + I</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_factory</id>
+        <value>Toggle Display of the Production Panel.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_factory_hotkey</id>
+        <value>Alt + F</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_replay</id>
+        <value>Toggle Display of the Replay Panel.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_replay_hotkey</id>
+        <value>Alt + Y</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_unit</id>
+        <value>Toggle Display of the Unit Panel.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_unit_hotkey</id>
+        <value>Alt + U</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_stats</id>
+        <value>Toggle Display of the Statistics Panel.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_stats_hotkey</id>
+        <value>Alt + E</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_menu</id>
+        <value>Open the Game Menu.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_menu_hotkey</id>
+        <value>Alt + M</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_help</id>
+        <value>Click an icon to show or hide a side panel.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_help_hotkey</id>
+        <value>Alt + W</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_diplomacy</id>
+        <value>Open the Diplomacy Menu.</value>
+    </string>
+    <string>
+        <id>observerScreen_tooltip_diplomacy_hotkey</id>
+        <value>Alt + Z</value>
+    </string>
+    <string>
+        <id>hotkeyPane_title</id>
+        <value>Hotkeys</value>
+    </string>
+    <string>
+        <id>hotkeyPane_selectedProfile</id>
+        <value>Selected Profile</value>
+    </string>
+    <string>
+        <id>hotkeyPane_save</id>
+        <value>sSave</value>
+    </string>
+    <string>
+        <id>hotkeyPane_reset</id>
+        <value>rReset To Default</value>
+    </string>
+    <string>
+        <id>hotkeyPane_command</id>
+        <value>Command</value>
+    </string>
+    <string>
+        <id>hotkeyPane_resetConfirmation</id>
+        <value>Reset Confirmation</value>
+    </string>
+    <string>
+        <id>hotkeyPane_resetConfirmationDescription</id>
+        <value>Custom keybinds will be reset to the default settings. These will need to be saved before taking effect.</value>
+    </string>
+    <string>
+        <id>hotkey_profile_custom</id>
+        <value>Custom</value>
+    </string>
+    <string>
+        <id>hotkey_keybindPopup_title</id>
+        <value>Keybind: %s</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_reportPlayer</id>
+        <value>Report Player</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_reason</id>
+        <value>Reason</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_channelName</id>
+        <value>Channel Name</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_gameName</id>
+        <value>Game Name</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_spam</id>
+        <value>Spam</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_harassment</id>
+        <value>Harassment</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_cheating</id>
+        <value>Cheating</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_badCharacterName</id>
+        <value>Bad Character Name</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_badBattleTag</id>
+        <value>Bad BattleTag</value>
+    </string>
+    <string>
+        <id>reportPlayerScreen_badGameName</id>
+        <value>Bad Game Name</value>
+    </string>
+    <string>
+        <id>chatNOPLAYERS</id>
+        <value>There must be at least one human player to start a game.</value>
+    </string>
+    <string>
+        <id>spi_battlenet_title</id>
+        <value>Battle.net®</value>
+    </string>
+    <string>
+        <id>spi_battlenet_description</id>
+        <value>An active connection to an Internet provider, or a direct connection to the Internet.</value>
+    </string>
+    <string>
+        <id>spi_lan_title</id>
+        <value>Local Area Network</value>
+    </string>
+    <string>
+        <id>spi_lan_description</id>
+        <value>All computers must be connected to an UDP/IP-compatible network.</value>
+    </string>
+    <string>
+        <id>network_firewall_whitelist</id>
+        <value>Do you want to add StarCraft to the firewall whitelist?</value>
+    </string>
+    <string>
+        <id>ngdp_read_failure_title</id>
+        <value>Read Error</value>
+    </string>
+    <string>
+        <id>ngdp_read_failure_message</id>
+        <value>Error reading game data</value>
+    </string>
+    <string>
+        <id>bnet_errorPopup_body</id>
+        <value>Error %s</value>
+    </string>
+    <string>
+        <id>upgrader_popup_mainMenuButton</id>
+        <value>mMain menu</value>
+    </string>
+    <string>
+        <id>upgrader_confirmPopup_knownVersion_title</id>
+        <value>An upgrade to version %s is available! It is required for online play.</value>
+    </string>
+    <string>
+        <id>upgrader_confirmPopup_unknownVersion_title</id>
+        <value>An update is available! It is required for online play.</value>
+    </string>
+    <string>
+        <id>upgrader_confirmPopup_confirmButton</id>
+        <value>uUpgrade</value>
+    </string>
+    <string>
+        <id>selectConnectionScreen_upgradeNotice</id>
+        <value>An upgrade is required before you can play online. Click Upgrade to begin the installation.</value>
+    </string>
+    <string>
+        <id>graphics_errorTitle</id>
+        <value>Graphics initialization failure</value>
+    </string>
+    <string>
+        <id>graphics_initError</id>
+        <value>Unable to initialize a suitable rendering API (DirectX9 or OpenGL).
+Please verify that your display adapter drivers are up to date.</value>
+    </string>
+    <string>
+        <id>graphics_eightBitColorError</id>
+        <value>Attempted to run in 256 color mode. Please verify that
+compatibility settings are disabled.</value>
+    </string>
+    <string>
+        <id>chatPlayerJoinedChannel_bnet</id>
+        <value>{toonName} has joined {channelName}.</value>
+    </string>
+    <string>
+        <id>chatPlayerLeftChannel_bnet</id>
+        <value>{toonName} has left {channelName}.</value>
+    </string>
+    <string>
+        <id>chatPlayerJoinedChannel_lan</id>
+        <value>{toonName} has joined the LAN.</value>
+    </string>
+    <string>
+        <id>chatPlayerLeftChannel_lan</id>
+        <value>{toonName} has left the LAN.</value>
+    </string>
+    <string>
+        <id>chatJoinLeaveVerboseOn</id>
+        <value>Enter/Leave notifications: ON</value>
+    </string>
+    <string>
+        <id>chatJoinLeaveVerboseOff</id>
+        <value>Enter/Leave notifications: OFF</value>
+    </string>
+    <string>
+        <id>bnet_chat_error_game_end</id>
+        <value>Error: Failed to send end game result to server.</value>
+    </string>
+    <string>
+        <id>application_title</id>
+        <value>StarCraft Brood War</value>
+    </string>
+    <string>
+        <id>browser_failed_to_start</id>
+        <value>A StarCraft service has failed to launch. Your antivirus software may be interfering with a required service. Some functionality of StarCraft may be disabled.</value>
+    </string>
+    <string>
+        <id>launcher_failed_to_start</id>
+        <value>The Battle.net launcher failed to launch.</value>
+    </string>
+    <string>
+        <id>video_toggle_subtitles_hotkey</id>
+        <value>s</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_generalError</id>
+        <value>An error occurred while trying to find a match.</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_expansionOnlyError</id>
+        <value>Matchmaking is only available when playing Brood War.</value>
+    </string>
+    <string>
+        <id>bnet_matchmaking_unavailableError</id>
+        <value>Matchmaking queues are currently unavailable, please try again later.</value>
+    </string>
+    <string>
+        <id>bnet_reportUser_succeeded</id>
+        <value>User has been reported.</value>
+    </string>
+    <string>
+        <id>bnet_reportUser_failed</id>
+        <value>Failed to report user.</value>
+    </string>
+    <string>
+        <id>bnet_featureError_OfficialGatewayRequired</id>
+        <value>This feature is only available on an official Blizzard gateway.</value>
+    </string>
+    <string>
+        <id>optionsPanel_speed_hardwareCursor_label</id>
+        <value>Hardware Cursor</value>
+    </string>
+    <string>
+        <id>optionsPanel_speed_hardwareCursor_tooltip</id>
+        <value>Not available when using mouse scaling</value>
+    </string>
+    <string>
+        <id>optionsPanel_speed_mouseConfine_label</id>
+        <value>Use Mouse Confine</value>
+    </string>
+    <string>
+        <id>optionsPanel_speed_mouseConfine_tooltip</id>
+        <value>Constrain the cursor to the window when playing. (Alt+F1 to toggle). Note: Only available when in windowed mode.</value>
+    </string>
+    <string>
+        <id>ossystems_compatibility_mode</id>
+        <value>StarCraft detected Operating System Compatibility Mode settings. These can impair StarCraft services and it is recommended to disable them.</value>
+    </string>
+    <string>
+        <id>error_cant_watch_replays</id>
+        <value>Can't watch replays while waiting in the match making queue.</value>
+    </string>
+    <string>
+        <id>error_cant_load_last_replay</id>
+        <value>Failed to load last replay.</value>
+    </string>
+    <string>
+        <id>error_unrecognizedUser</id>
+        <value>Unrecognized user - %s.</value>
+    </string>
+    <string>
+        <id>userProfile_error_unableToDisplay</id>
+        <value>User is not connected to a recognized gateway.</value>
+    </string>
+    <string>
+        <id>optionsPanel_video_Filtering_label</id>
+        <value>SD Graphics Filter</value>
+    </string>
+    <string>
+        <id>optionsPanel_video_Sharp_label</id>
+        <value>Sharp</value>
+    </string>
+    <string>
+        <id>optionsPanel_video_Filtered_label</id>
+        <value>Filtered</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_default_label</id>
+        <value>Default</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_BlizzCon2017_label</id>
+        <value>BlizzCon 2017</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_BlizzCon2018_label</id>
+        <value>BlizzCon 2018</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_SCAnniversary_label</id>
+        <value>20th anniversary</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_KRC_Silver_label</id>
+        <value>Silver - Orchestra 2019</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_KRC_Gold_label</id>
+        <value>Gold - Orchestra 2019</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_War3Spoils_label</id>
+        <value>Warcraft 3 Spoils of War</value>
+    </string>
+    <string>
+        <id>optionsPanel_game_console_label</id>
+        <value>Console</value>
+    </string>
+    <string>
+        <id>cn_cais_warning1</id>
+        <value>您已在线进行了{totalHoursOnline}小时的游戏，您的健康游戏时间还剩余{totalHoursRemaining}小时。
+届时您将无法在游戏中获得经验值及其它奖励，
+必须下线累计满5小时才能恢复正常状态。</value>
+    </string>
+    <string>
+        <id>cn_cais_warning2</id>
+        <value>您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入疲劳游戏时间。为了您的健康，请尽快下线休息，
+做适当身体活动，合理安排学习生活。您已经无法在游戏中获得经验值及其它奖励，
+直到您的累计下线时间满5小时后才能恢复正常。</value>
+    </string>
+    <string>
+        <id>cn_cais_warning3</id>
+        <value>您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入不健康游戏时间。为了您的健康，
+请立即下线休息。您已经无法在游戏中获得经验值及其它奖励，
+直到您的累计下线时间满5小时后才能恢复正常。</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_AlreadyInProgress</id>
+        <value>Network diagnostic already running. Please wait for completion before starting a new one.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Commencing</id>
+        <value>Running network diagnostic...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Firewall.Commencing</id>
+        <value>Checking the Windows firewall...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Firewall.Whitelisted</id>
+        <value>StarCraft: Remastered is whitelisted in the Windows firewall.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Firewall.NotWhitelisted</id>
+        <value>StarCraft: Remastered is not whitelisted in the Windows firewall.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Proxy.NotRequired</id>
+        <value>When hosting games, network traffic does not need to be routed via a proxy server. This PC is capable of connecting directly to other devices.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Proxy.Required</id>
+        <value>When hosting games, network traffic from this PC will route via a proxy server, because it cannot connect to other devices directly.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.Commencing</id>
+        <value>Checking inbound UDP traffic on port {Port}...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.ReceivedData</id>
+        <value>Received response ({Time}ms).</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.NoData</id>
+        <value>No response was received.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.PartialFailure</id>
+        <value>Some responses were not received.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Ping.Success</id>
+        <value>Inbound UDP traffic check was successful.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Udp.ExternalIp</id>
+        <value>Attempting to send data via external IP address {address}...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Udp.Success</id>
+        <value>Send succcessful.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Udp.Failure</id>
+        <value>Send failed.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Upnp.Commencing</id>
+        <value>Checking UPNP port forwarding...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Upnp.Timeout</id>
+        <value>UPNP timed out.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Upnp.Success</id>
+        <value>UPNP port forwarding is configured on port {port}.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Upnp.Failed</id>
+        <value>UPNP failed.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Bind.Commencing</id>
+        <value>Checking binding UDP to port 6112...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Bind.Failure</id>
+        <value>Failed to bind port 6112.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_Bind.Success</id>
+        <value>Successfully bound port {port}.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Commencing</id>
+        <value>Checking NAT punch-through (type 1)...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.NoStunServers</id>
+        <value>No STUN servers available.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Start</id>
+        <value>Sending STUN packet...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.NoData</id>
+        <value>No response was received.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.BadData</id>
+        <value>Response was corrupt.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Info</id>
+        <value>STUN response received via external IP {address}.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Success</id>
+        <value>NAT punch-through successful.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_NatPunch.Failure</id>
+        <value>NAT punch-through failed.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_UdpNat2.ExternalIp</id>
+        <value>External IP address is {address}.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_UdpNat2.Success</id>
+        <value>Attempting to send data via external IP address {address}...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_UdpNat2.Failure</id>
+        <value>NAT punch-through type 2 failed.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.Commencing</id>
+        <value>Checking inbound UDP traffic on port {Port} (NAT punch-through type 2)...</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.ReceivedData</id>
+        <value>Received response ({Time}ms).</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.NoData</id>
+        <value>No response was received.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.PartialFailure</id>
+        <value>Some responses were not received.</value>
+    </string>
+    <string>
+        <id>networkDiagnostic_PingNat2.Success</id>
+        <value>Inbound UDP traffic check was successful (NAT punch-through type 2).</value>
+    </string>
+    <string>
+        <id>chat_error_CE_AccountMuted</id>
+        <value>Your account has been silenced.</value>
+    </string>
+    <string>
+        <id>chat_error_joinSystemReservedChannelName</id>
+        <value>Unable to join channel with reserved name.</value>
+    </string>
+    <string>
+        <id>chat_error_joinAlreadyInProgress</id>
+        <value>A join channel request is already in progress.</value>
+    </string>
+    <string>
+        <id>chat_error_AE_FriendInviteeAtMaxFriends</id>
+        <value>That person already has the maximum number of Blizzard friends allowed.</value>
+    </string>
+    <string>
+        <id>networkTurnRateAdjusted</id>
+        <value>Setting network turn rate to: %d</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_offline</id>
+        <value>Your friend {friend} has gone offline.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_online</id>
+        <value>Your friend {friend} has come online.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredStarCraft</id>
+        <value>Your friend {friend} has entered StarCraft.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_exitedStarCraft</id>
+        <value>Your friend {friend} has exited StarCraft.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredBattlenet</id>
+        <value>Your friend {friend} has entered Battle.net.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_exitedBattlenet</id>
+        <value>Your friend {friend} has exited Battle.net.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredRankedGameLobby</id>
+        <value>Your friend {friend} entered a ranked game.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredSinglePlayerGameLobby</id>
+        <value>Your friend {friend} entered a single player game.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredReplayGameLobby</id>
+        <value>Your friend {friend} started watching a replay.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_enteredCustomGameLobby</id>
+        <value>Your friend {friend} entered a custom game called {game}.</value>
+    </string>
+    <string>
+        <id>bnet_friendFollow_exitedGameLobby</id>
+        <value>Your friend {friend} left a game.</value>
+    </string>
+    <string>
+        <id>bnet_createGame_proxyConnectionWarning</id>
+        <value>Due to your network configuration, your connection to other players must be routed via a proxy server, which may add latency.</value>
+    </string>
+    <string>
+        <id>bnet_findGame_proxyConnectionWarning</id>
+        <value>Due to the host's network configuration, your connection to this game will route via a proxy server, which may increase latency.</value>
+    </string>
+    <string>
+        <id>bnet_friendInvitation_regionWarning</id>
+        <value>{name} is playing StarCraft in a different Blizzard region than you. Your friend request to {name} has been sent in the region you are playing in ({myRegion}), and they will receive the friend request when they switch to {myRegion}.</value>
+    </string>
+    <string>
+        <id>bnet_chat_welcome_intro</id>
+        <value>Welcome to StarCraft: Remastered!</value>
+    </string>
+    <string>
+        <id>bnet_chat_welcome_help</id>
+        <value>Type /help for a list of commands.</value>
+    </string>
+    <string>
+        <id>bnet_turnRate_dynamic</id>
+        <value>Dynamic</value>
+    </string>
+    <string>
+        <id>bnet_latency_low</id>
+        <value>Low</value>
+    </string>
+    <string>
+        <id>bnet_latency_high</id>
+        <value>High</value>
+    </string>
+    <string>
+        <id>bnet_latency_extraHigh</id>
+        <value>Extra high</value>
+    </string>
+    <string>
+        <id>bnet_dtr_scanInProgress</id>
+        <value>Calculating TR...</value>
+    </string>
+    <string>
+        <id>scr.common.race.terran</id>
+        <value>Terran</value>
+    </string>
+    <string>
+        <id>scr.common.race.zerg</id>
+        <value>Zerg</value>
+    </string>
+    <string>
+        <id>scr.common.race.protoss</id>
+        <value>Protoss</value>
+    </string>
+    <string>
+        <id>scr.common.points.label</id>
+        <value>MMR:</value>
+    </string>
+    <string>
+        <id>scr.common.points.small.label</id>
+        <value>MMR</value>
+    </string>
+    <string>
+        <id>scr.common.points.noData</id>
+        <value>You have not earned any MMR yet.</value>
+    </string>
+    <string>
+        <id>scr.common.table.noData</id>
+        <value>No table results found.</value>
+    </string>
+    <string>
+        <id>scr.common.location.label</id>
+        <value>Location</value>
+    </string>
+    <string>
+        <id>scr.common.stats.gauge.winRate.label</id>
+        <value>Win Rate</value>
+    </string>
+    <string>
+        <id>scr.common.stats.gauge.apm.title</id>
+        <value>Average APM</value>
+    </string>
+    <string>
+        <id>scr.common.stats.gauge.apm.label</id>
+        <value>Actions Per Minute</value>
+    </string>
+    <string>
+        <id>scr.common.stats.overall.title</id>
+        <value>Overall Record</value>
+    </string>
+    <string>
+        <id>scr.common.stats.overall.label</id>
+        <value>Overall</value>
+    </string>
+    <string>
+        <id>scr.common.stats.seasonRecord.title</id>
+        <value>1v1 Season Record</value>
+    </string>
+    <string>
+        <id>scr.common.stats.record.win.label</id>
+        <value>W</value>
+    </string>
+    <string>
+        <id>scr.common.stats.record.loss.label</id>
+        <value>L</value>
+    </string>
+    <string>
+        <id>scr.common.stats.record.disconnects.label</id>
+        <value>D</value>
+    </string>
+    <string>
+        <id>scr.common.stats.record.percentage.label</id>
+        <value>%</value>
+    </string>
+    <string>
+        <id>scr.common.stats.wins.label</id>
+        <value>Wins</value>
+    </string>
+    <string>
+        <id>scr.common.stats.losses.label</id>
+        <value>Losses</value>
+    </string>
+    <string>
+        <id>scr.common.stats.disconnects.label</id>
+        <value>Disconnects</value>
+    </string>
+    <string>
+        <id>scr.common.stats.totalGames.label</id>
+        <value>Total Games</value>
+    </string>
+    <string>
+        <id>scr.common.stats.mostPlayedRace.label</id>
+        <value>Most Played</value>
+    </string>
+    <string>
+        <id>scr.common.stats.timePlayed.label</id>
+        <value>Time Played</value>
+    </string>
+    <string>
+        <id>scr.common.stats.accountCreated.label</id>
+        <value>Account Created</value>
+    </string>
+    <string>
+        <id>scr.common.stats.mmr.label</id>
+        <value>MMR</value>
+    </string>
+    <string>
+        <id>scr.common.stats.highestMMR.label</id>
+        <value>Highest MMR</value>
+    </string>
+    <string>
+        <id>scr.common.stats.units.produced.label</id>
+        <value>Units Produced</value>
+    </string>
+    <string>
+        <id>scr.common.stats.units.killed.label</id>
+        <value>Units Killed</value>
+    </string>
+    <string>
+        <id>scr.common.stats.units.lost.label</id>
+        <value>Units Lost</value>
+    </string>
+    <string>
+        <id>scr.common.stats.units.score.label</id>
+        <value>Units Score</value>
+    </string>
+    <string>
+        <id>scr.common.stats.resources.spent.label</id>
+        <value>Resources Spent</value>
+    </string>
+    <string>
+        <id>scr.common.stats.resources.score.label</id>
+        <value>Resources Score</value>
+    </string>
+    <string>
+        <id>scr.common.stats.resources.gasCollected.label</id>
+        <value>Gas Collected</value>
+    </string>
+    <string>
+        <id>scr.common.stats.resources.mineralsCollected.label</id>
+        <value>Minerals Collected</value>
+    </string>
+    <string>
+        <id>scr.common.stats.structures.constructed.label</id>
+        <value>Structures Constructed</value>
+    </string>
+    <string>
+        <id>scr.common.stats.structures.lost.label</id>
+        <value>Structures Lost</value>
+    </string>
+    <string>
+        <id>scr.common.stats.structures.razed.label</id>
+        <value>Structures Razed</value>
+    </string>
+    <string>
+        <id>scr.common.stats.structures.score.label</id>
+        <value>Structures Score</value>
+    </string>
+    <string>
+        <id>scr.common.stats.noData</id>
+        <value>No stats data found.</value>
+    </string>
+    <string>
+        <id>scr.common.rank.currentSeasonRank.label</id>
+        <value>Current Season Rank</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.link.label</id>
+        <value>Learn More</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.playerCount.label</id>
+        <value>Players Online:</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.noData</id>
+        <value>No gateway data found.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.dev79</id>
+        <value>A development server for internal testing.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.usWestDesc</id>
+        <value>Welcome to the Wild West. The population of this server may not be massive, but the stakes are high and the competition is deadly.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.usEastDesc</id>
+        <value>Based in the City of Broad Shoulders, this server plays host to players from across the Americas. With a larger population, comes more styles and strategy in gameplay.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.europeDesc</id>
+        <value>The European server is second only to Korea in fostering professional players. Diversity in culture has led to innovative gameplay, and friendships that span the continent.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.koreaDesc</id>
+        <value>The Land of the Calm Dawn has mastered the art of war, and emerged as home to the most renowned StarCraft players on Earth. Do not arrive idle to this melee.</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.taiwanDesc</id>
+        <value>The newest Gateway to StarCraft. Created to support communication in Japanese, Simplified Chinese and Traditional Chinese. This server has yet to make a name for itself. Will you be one to join in battle to help write its story?</value>
+    </string>
+    <string>
+        <id>scr.profile.gateway.fishDesc</id>
+        <value>Fish Server is a third-party server revered for the quality of players on their custom ladder.</value>
+    </string>
+    <string>
+        <id>scr.profile.changeProfile</id>
+        <value>Change Profile</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.btn.replay</id>
+        <value>Watch Replay</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.win</id>
+        <value>Win</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.loss</id>
+        <value>Loss</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.draw</id>
+        <value>Draw</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.disconnect</id>
+        <value>Disconnect</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.outcome.undecided</id>
+        <value>Undecided</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.preview.information.label</id>
+        <value>Map &amp; Settings</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.table.heading.3</id>
+        <value>Result</value>
+    </string>
+    <string>
+        <id>scr.profile.matches.table.heading.4</id>
+        <value>Match Date</value>
+    </string>
+    <string>
+        <id>scr.profile.noProfile</id>
+        <value>You do not have any profiles on this gateway.</value>
+    </string>
+    <string>
+        <id>scr.profile.noProfileBtn</id>
+        <value>Create Profile</value>
+    </string>
+    <string>
+        <id>scr.profile.noHistory</id>
+        <value>No match history data found.</value>
+    </string>
+    <string>
+        <id>scr.common.time.hr</id>
+        <value>hr</value>
+    </string>
+    <string>
+        <id>scr.common.time.hrs</id>
+        <value>hrs</value>
+    </string>
+    <string>
+        <id>scr.common.time.min</id>
+        <value>min</value>
+    </string>
+    <string>
+        <id>scr.common.time.sec</id>
+        <value>sec</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.1</id>
+        <value>Melee</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.2</id>
+        <value>Free For All</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.3</id>
+        <value>One on One</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.4</id>
+        <value>Capture The Flag</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.5</id>
+        <value>Greed</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.6</id>
+        <value>Slaughter</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.7</id>
+        <value>Sudden Death</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.8</id>
+        <value>Ladder</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.9</id>
+        <value>Use Map Settings</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.10</id>
+        <value>Team Melee</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.11</id>
+        <value>Team Free For All</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.12</id>
+        <value>Team Capture The Flag</value>
+    </string>
+    <string>
+        <id>scr.common.terms.gameType.13</id>
+        <value>Top vs Bottom</value>
+    </string>
+    <string>
+        <id>scr.profile.league.frontier</id>
+        <value>Frontier League</value>
+    </string>
+    <string>
+        <id>scr.profile.season.1.title</id>
+        <value>2017 Season 1</value>
+    </string>
+    <string>
+        <id>scr.profile.season.0.title</id>
+        <value>The Frontier League</value>
+    </string>
+    <string>
+        <id>scr.profile.season.0.description1</id>
+        <value>Welcome, pioneers. You are joining in the exploration of a new era of StarCraft.</value>
+    </string>
+    <string>
+        <id>scr.profile.season.0.description2</id>
+        <value>Matches will be made by comparing your global rating and geographical distance against that of your opponent. This is a grand moment of discovery; thank you for playing and helping to refine this new system.</value>
+    </string>
+    <string>
+        <id>scr.profile.maps.information.label</id>
+        <value>Map Information</value>
+    </string>
+    <string>
+        <id>scr.common.autocomplete.matches</id>
+        <value>matches</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.filter.region.opt.1</id>
+        <value>Global</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.filter.igr</id>
+        <value>IGR</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.1</id>
+        <value>Rank</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.2</id>
+        <value>Player</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.3</id>
+        <value>Most Played</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.4</id>
+        <value>MMR</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.5</id>
+        <value>Wins</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.6</id>
+        <value>Losses</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.table.heading.7</id>
+        <value>Disconnects</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.title</id>
+        <value>Leaderboard</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.updateInterval</id>
+        <value>Updates every %%interval%% minutes</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.updateLatest</id>
+        <value>Last updated @ %%lastUpdate%% UTC</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.filter.gameType.opt.1</id>
+        <value>1v1</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.filter.gameType.opt.2</id>
+        <value>2v2</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.btn.topPlayers.label</id>
+        <value>Top Players</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.btn.myself.label</id>
+        <value>Myself</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.search.placeholder</id>
+        <value>Enter a Profile Name or BattleTag</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.profileModule.yourRank.part.1</id>
+        <value>You're ranked</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.profileModule.yourRank.part.2</id>
+        <value>on</value>
+    </string>
+    <string>
+        <id>scr.leaderboard.profileModule.yourRank.noData</id>
+        <value>You haven't played enough matches on</value>
+    </string>
+    <string>
+        <id>scr.common.title.win</id>
+        <value>Victory!</value>
+    </string>
+    <string>
+        <id>scr.common.title.loss</id>
+        <value>Defeat!</value>
+    </string>
+    <string>
+        <id>blizzcon.esports.brackets.draws</id>
+        <value>Draws</value>
+    </string>
+    <string>
+        <id>scr.toast.points.yours</id>
+        <value>Matchmaker Rating</value>
+    </string>
+    <string>
+        <id>scr.profile.zerg.points.desc</id>
+        <value>Zerg Points</value>
+    </string>
+    <string>
+        <id>scr.profile.protoss.points.desc</id>
+        <value>Protoss Points</value>
+    </string>
+    <string>
+        <id>scr.profile.terran.points.desc</id>
+        <value>Terran Points</value>
+    </string>
+    <string>
+        <id>scr.toast.unlock.textSmall.portrait</id>
+        <value>New Portrait</value>
+    </string>
+    <string>
+        <id>scr.toast.unlock.textLarge</id>
+        <value>Unlocked!</value>
+    </string>
+    <string>
+        <id>scr.waiting.title</id>
+        <value>Waiting For Results...</value>
+    </string>
+    <string>
+        <id>scr.DataError.desc</id>
+        <value>Cannot display results at this time. Your stats have been recorded and will be updated shortly.</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.1</id>
+        <value>Summary</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.2</id>
+        <value>Stats</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.3</id>
+        <value>History</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.4</id>
+        <value>Seasons</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.5</id>
+        <value>Collections</value>
+    </string>
+    <string>
+        <id>scr.profile.tab.heading.6</id>
+        <value>Profile Settings</value>
+    </string>
+    <string>
+        <id>scr.profile.editableField.title.placeholder</id>
+        <value>Enter a title...</value>
+    </string>
+    <string>
+        <id>scr.profile.editableField.desc.placeholder</id>
+        <value>Let them know who you are...</value>
+    </string>
+    <string>
+        <id>scr.profile.season.currentSeason.label</id>
+        <value>Current Season</value>
+    </string>
+    <string>
+        <id>scr.profile.maps.recentlyPlayed.label</id>
+        <value>Recently Played</value>
+    </string>
+    <string>
+        <id>scr.profile.maps.noData</id>
+        <value>No map data found.</value>
+    </string>
+    <string>
+        <id>scr.profile.stats.header.title</id>
+        <value>All Statistics</value>
+    </string>
+    <string>
+        <id>scr.profile.replays.header.title</id>
+        <value>Match History</value>
+    </string>
+    <string>
+        <id>scr.profile.replays.filter.opt.1</id>
+        <value>All Game Types</value>
+    </string>
+    <string>
+        <id>scr.profile.btn.equip</id>
+        <value>EQUIP</value>
+    </string>
+    <string>
+        <id>scr.profile.btn.purchase</id>
+        <value>BUY NOW</value>
+    </string>
+    <string>
+        <id>scr.profile.btn.preview</id>
+        <value>Preview</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.unlock.label</id>
+        <value>Unlock Progress</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.unlocked</id>
+        <value>unlocked</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.avatar.noData</id>
+        <value>You have not selected a profile avatar yet.</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.avatar.desc.1</id>
+        <value>Get</value>
+    </string>
+    <string>
+        <id>scr.profile.collections.avatar.desc.2</id>
+        <value>points in Ranked Play to unlock this portrait.</value>
+    </string>
+    <string>
+        <id>league_ranked_unrankedNotice</id>
+        <value>You are currently unranked.</value>
+    </string>
+    <string>
+        <id>league_ranked_completionRequirement</id>
+        <value>You must complete %s more placement matches to qualify for a league.</value>
+    </string>
+    <string>
+        <id>league_ranked_matchCompletetion_grats</id>
+        <value>Excellent work, commander!</value>
+    </string>
+    <string>
+        <id>league_ranked_matchCompletetion_sorry</id>
+        <value>The next battle awaits!</value>
+    </string>
+    <string>
+        <id>league_ranked_unrankedNotice_toast</id>
+        <value>%s placement matches remain.</value>
+    </string>
+    <string>
+        <id>league_ranked_current_status</id>
+        <value>Congratulations! You are in %s League.</value>
+    </string>
+    <string>
+        <id>league_ranked_rankUp</id>
+        <value>You've Ranked Up!</value>
+    </string>
+    <string>
+        <id>league_ranked_welcome</id>
+        <value>WELCOME TO %s LEAGUE</value>
+    </string>
+    <string>
+        <id>league_toast_league</id>
+        <value>League</value>
+    </string>
+    <string>
+        <id>news_banner_welcome</id>
+        <value>Welcome Commander</value>
+    </string>
+    <string>
+        <id>news_banner_join</id>
+        <value>Join the Community:</value>
+    </string>
+    <string>
+        <id>news_banner_forums</id>
+        <value>Official Forums</value>
+    </string>
+    <string>
+        <id>news_str</id>
+        <value>nNews</value>
+    </string>
+    <string>
+        <id>stats_career</id>
+        <value>CAREER STATS</value>
+    </string>
+    <string>
+        <id>stats_season</id>
+        <value>SEASON STATS</value>
+    </string>
+    <string>
+        <id>career_stats_title</id>
+        <value>What are career stats?</value>
+    </string>
+    <string>
+        <id>career_stats_description</id>
+        <value>All ranked and unranked games played on this account contribute to these stats. Career stats will never be archived or reset.</value>
+    </string>
+    <string>
+        <id>season_stats_title</id>
+        <value>What are season stats?</value>
+    </string>
+    <string>
+        <id>season_stats_description</id>
+        <value>Statistics on ranked games played during the current season are displayed here. Statistics reset at the beginning of each new season, when the previous season's statistics are archived.</value>
+    </string>
+    <string>
+        <id>season_mmr_title</id>
+        <value>What is MMR?</value>
+    </string>
+    <string>
+        <id>season_mmr_description</id>
+        <value>Matchmaking Rating (MMR) helps us find appropriate opponents for your skill level. MMR is gained or lost at the end of each match, depending on the outcome.</value>
+    </string>
+    <string>
+        <id>season_srank_title</id>
+        <value>S Rank players</value>
+    </string>
+    <string>
+        <id>season_srank_description</id>
+        <value>will be marked as "inactive" if they do not play at least 5 games each week. “Inactive” status will trigger weekly MMR decay.</value>
+    </string>
+    <string>
+        <id>season_end_title</id>
+        <value>2018 Season 1 End Date:</value>
+    </string>
+    <string>
+        <id>season_end_date</id>
+        <value>09/30/2018</value>
+    </string>
+    <string>
+        <id>season_title_2018_1</id>
+        <value>2018 Season 1</value>
+    </string>
+    <string>
+        <id>season_info_introducing</id>
+        <value>INTRODUCING</value>
+    </string>
+    <string>
+        <id>season_info_newSeason</id>
+        <value>A NEW SEASON &amp; LEAGUE SYSTEM</value>
+    </string>
+    <string>
+        <id>season_info_prideAndAccomplishment</id>
+        <value>ACHIEVE GREATNESS &amp; EARN REWARDS</value>
+    </string>
+    <string>
+        <id>season_info_exclusive</id>
+        <value>EXCLUSIVE PORTRAITS</value>
+    </string>
+    <string>
+        <id>season_info_rankPortraits</id>
+        <value>RANK THEMED PORTRAIT FRAMES</value>
+    </string>
+    <string>
+        <id>season_info_howDoesItWork</id>
+        <value>HOW DOES IT WORK?</value>
+    </string>
+    <string>
+        <id>season_info_placementMatches</id>
+        <value>Placement Matches</value>
+    </string>
+    <string>
+        <id>season_info_startTheSeason</id>
+        <value>All players begin the season unranked and are placed in the appropriate league after completing 5 placement matches.</value>
+    </string>
+    <string>
+        <id>season_info_frontierLeague</id>
+        <value>Frontier League MMR</value>
+    </string>
+    <string>
+        <id>season_info_carryOver</id>
+        <value>Frontier League MMR will be used to determine suitable opponents for Season 1 placement matches.</value>
+    </string>
+    <string>
+        <id>season_info_mmr_decay</id>
+        <value>MMR Decay</value>
+    </string>
+    <string>
+        <id>season_info_mmr_decay_description</id>
+        <value>S Rank players will be marked "inactive" if they do not play at least 5 games each week. "Inactive" status will trigger weekly MMR decay every Monday at 6:00 PM (GMT).</value>
+    </string>
+    <string>
+        <id>season_info_top_players</id>
+        <value>Top Players</value>
+    </string>
+    <string>
+        <id>season_info_achieve_through_placement</id>
+        <value>Achievable through placement matches</value>
+    </string>
+    <string>
+        <id>season_info_at_season_start</id>
+        <value>All players at season start</value>
+    </string>
+    <string>
+        <id>profile_console_skins</id>
+        <value>Console Skins</value>
+    </string>
+    <string>
+        <id>profile_unit_skins</id>
+        <value>Unit &amp; Structure Skins</value>
+    </string>
+    <string>
+        <id>profile_collections_available</id>
+        <value>{numAvailable} Available</value>
+    </string>
+    <string>
+        <id>profile_all_collections</id>
+        <value>All Collections</value>
+    </string>
+    <string>
+        <id>profile_skins_default</id>
+        <value>Standard Skins</value>
+    </string>
+    <string>
+        <id>profile_skins_preorder</id>
+        <value>Pre-Order Skins</value>
+    </string>
+    <string>
+        <id>profile_skins_carbot</id>
+        <value>Cartooned Skins</value>
+    </string>
+    <string>
+        <id>profile_skins_carbot_desc</id>
+        <value>Infuse your StarCraft experience with the lighthearted charm of Carbot Animations with StarCraft: Cartooned! Every unit, structure, map, menu, and mission takes on a whole new cartoon aesthetic in multiplayer matches and the entire single-player campaign!</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_title</id>
+        <value>Announcers</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_default_title</id>
+        <value>Default</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Jaekyung_title</id>
+        <value>Um</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Yongjun_title</id>
+        <value>Jeon</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Jungmin_title</id>
+        <value>Kim</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_UmJeonKim_title</id>
+        <value>Um, Jeon, Kim Trio</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_HeyJini_title</id>
+        <value>Hey Jini</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Jaekyung_desc</id>
+        <value>Jae Kyung is an esports legend in Korea, having been at the mic since the very first day of Star League. Welcome his legendary commentating-and witty storytelling-into your own StarCraft games!</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Yongjun_desc</id>
+        <value>Yong Jun is a passionate announcer whose provocative approach to commentating reminds fans of rowdy battle rap. Allow his boisterous presence to charge up the atmosphere in your StarCraft matches.</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_Jungmin_desc</id>
+        <value>In his heyday as a formidable pro player, Jungmin was known as "By-The-Book Terran." Let his analytic commentary, based on years of competitive experience, add color to your StarCraft games.</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_UmJeonKim_desc</id>
+        <value>The Voices of Legend bundle includes the Um, Jeon, and Kim individual announcer packs, as well as the exclusive Um-Jeon-Kim Trio announcer, featuring the perfect combination of analysis, storytelling, and passion!</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_HeyJini_desc</id>
+        <value>Hey Jini is beloved by kids of all ages in Korea, and now you can have her bubbly voice cheering you on during your matches. When paired with the Cartooned skin, it's the perfect way to share the joy of StarCraft across generations!</value>
+    </string>
+    <string>
+        <id>profile_collection_announcers_note</id>
+        <value>Korean only (No Subtitles)</value>
+    </string>
+    <string>
+        <id>profile_collections_leaveMmQueueForSimpleCheckout</id>
+        <value>You need to leave the matchmaking queue to complete the purchase. Is this OK?</value>
+    </string>
+    <string>
+        <id>profile_season_history</id>
+        <value>Season History</value>
+    </string>
+    <string>
+        <id>profile_season_your_wins</id>
+        <value>Your Wins</value>
+    </string>
+    <string>
+        <id>profile_season_opponent</id>
+        <value>Opponent</value>
+    </string>
+    <string>
+        <id>profile_season_gamesplayed</id>
+        <value>Games played this week:</value>
+    </string>
+    <string>
+        <id>profile_collections_rankedFrame</id>
+        <value>Show Ranked Portrait Frame</value>
+    </string>
+    <string>
+        <id>profile_season_1v1global</id>
+        <value>1v1 Global Rank</value>
+    </string>
+    <string>
+        <id>profile_season_matchPreview</id>
+        <value>Match Preview</value>
+    </string>
+    <string>
+        <id>profile_season_mapStat</id>
+        <value>During this season %s has won %i% of games played on this map.</value>
+    </string>
+    <string>
+        <id>profile_season_dateformatting</id>
+        <value>%m/%d/%y</value>
+    </string>
+    <string>
+        <id>profile_season</id>
+        <value>Season</value>
+    </string>
+    <string>
+        <id>replay_date</id>
+        <value>Date:</value>
+    </string>
+    <string>
+        <id>replay_length</id>
+        <value>Length:</value>
+    </string>
+    <string>
+        <id>replay_file_name</id>
+        <value>File Name:</value>
+    </string>
+    <string>
+        <id>play_again</id>
+        <value>pPlay Again?</value>
+    </string>
+    <string>
+        <id>profile_data_error</id>
+        <value>Unable to load profile data. Please try again.</value>
+    </string>
+    <string>
+        <id>season_info_newSeasonAndMapPool</id>
+        <value>A NEW SEASON &amp; NEW MAP POOL</value>
+    </string>
+    <string>
+        <id>season_info_newRewards</id>
+        <value>EARN NEW REWARDS</value>
+    </string>
+    <string>
+        <id>season_info_season2_mapPool</id>
+        <value>SEASON 2 MAP POOL</value>
+    </string>
+    <string>
+        <id>season_info_season3_mapPool</id>
+        <value>SEASON 3 MAP POOL</value>
+    </string>
+    <string>
+        <id>season_info_season4_mapPool</id>
+        <value>SEASON 4 MAP POOL</value>
+    </string>
+    <string>
+        <id>season_info_season_mapPool</id>
+        <value>SEASON {seasonNumber} MAP POOL</value>
+    </string>
+    <string>
+        <id>recent_players</id>
+        <value>Recent Players</value>
+    </string>
+    <string>
+        <id>squad_channel_title</id>
+        <value>Squad</value>
+    </string>
+    <string>
+        <id>squad_lobby_create_error</id>
+        <value>Failed to create lobby for squad.</value>
+    </string>
+    <string>
+        <id>squad_invite</id>
+        <value>Invite to Squad</value>
+    </string>
+    <string>
+        <id>squad_invite_timeout</id>
+        <value>The invite will be cancelled in {cancelTimeInSec} seconds.</value>
+    </string>
+    <string>
+        <id>squad_kick</id>
+        <value>Kick from Squad</value>
+    </string>
+    <string>
+        <id>squad_disband</id>
+        <value>Disband Squad</value>
+    </string>
+    <string>
+        <id>squad_leave</id>
+        <value>Leave Squad</value>
+    </string>
+    <string>
+        <id>squad_invite_pending</id>
+        <value>Invite Pending</value>
+    </string>
+    <string>
+        <id>squad_invite_accepted</id>
+        <value>Invite Accepted</value>
+    </string>
+    <string>
+        <id>squad_invite_message</id>
+        <value>has invited you to a squad.</value>
+    </string>
+    <string>
+        <id>squad_queuing_message_2v2</id>
+        <value>Your squad is queuing for ranked 2v2.</value>
+    </string>
+    <string>
+        <id>squad_chooseRace</id>
+        <value>Please choose a race.                                                   </value>
+    </string>
+    <string>
+        <id>squad_selecting_race</id>
+        <value>Selecting Race</value>
+    </string>
+    <string>
+        <id>squad_ready</id>
+        <value>Ready!</value>
+    </string>
+    <string>
+        <id>squad_invite_player</id>
+        <value>iInvite Player</value>
+    </string>
+    <string>
+        <id>squad_invite_player_popup_enter_info</id>
+        <value>Enter a BattleTag#0000</value>
+    </string>
+    <string>
+        <id>squad_recent_players</id>
+        <value>Recent Players</value>
+    </string>
+    <string>
+        <id>squad_automatch_warning</id>
+        <value>We will auto match you with similarly skilled players to fill the empty slot in your squad.</value>
+    </string>
+    <string>
+        <id>squad_invite_a_player</id>
+        <value>Invite a Player</value>
+    </string>
+    <string>
+        <id>squad_current</id>
+        <value>CURRENT SQUAD</value>
+    </string>
+    <string>
+        <id>squad_team_view</id>
+        <value>Team View</value>
+    </string>
+    <string>
+        <id>squad_info_invite_player</id>
+        <value>You have invited {playerName} to join your squad.</value>
+    </string>
+    <string>
+        <id>squad_info_kick_player</id>
+        <value>You have kicked {playerName} from your squad.</value>
+    </string>
+    <string>
+        <id>squad_info_kicked_from_squad</id>
+        <value>You have been dismissed from squad.</value>
+    </string>
+    <string>
+        <id>squad_info_leave_squad</id>
+        <value>You have left squad.</value>
+    </string>
+    <string>
+        <id>squad_info_player_left_squad</id>
+        <value>{playerName} has left squad.</value>
+    </string>
+    <string>
+        <id>squad_info_squad_dismissed</id>
+        <value>Your squad has been dismissed.</value>
+    </string>
+    <string>
+        <id>squad_info_accept_invite</id>
+        <value>You have accepted squad invite from {playerName}.</value>
+    </string>
+    <string>
+        <id>squad_info_decline_invite</id>
+        <value>You have declined squad invite from {playerName}.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_accepted</id>
+        <value>Your squad invite to {playerName} has been accepted.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_declined</id>
+        <value>Your squad invite to {playerName} has been declined.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_timeout</id>
+        <value>The squad invite from {playerName} has timed out.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_error</id>
+        <value>The squad invite failed.</value>
+    </string>
+    <string>
+        <id>squad_info_invite_reject_from_sd_user</id>
+        <value>{playerName} is a SD user and thus cannot join squad.</value>
+    </string>
+    <string>
+        <id>squad_info_cancel_race_select</id>
+        <value>{playerName} has canceled race selection.</value>
+    </string>
+    <string>
+        <id>squad_tooltip_for_disabled_ranked_button</id>
+        <value>You are already in a squad for ranked play.</value>
+    </string>
+    <string>
+        <id>tag_zerg</id>
+        <value>Z</value>
+    </string>
+    <string>
+        <id>tag_terran</id>
+        <value>T</value>
+    </string>
+    <string>
+        <id>tag_protoss</id>
+        <value>P</value>
+    </string>
+    <string>
+        <id>tag_random</id>
+        <value>?</value>
+    </string>
+    <string>
+        <id>social_panel_message_button</id>
+        <value>Message</value>
+    </string>
+    <string>
+        <id>social_panel_friend_button</id>
+        <value>Friend</value>
+    </string>
+    <string>
+        <id>social_panel_ignore_button</id>
+        <value>Ignore</value>
+    </string>
+    <string>
+        <id>social_panel_unignore_button</id>
+        <value>Unignore</value>
+    </string>
+    <string>
+        <id>social_panel_report_button</id>
+        <value>Report</value>
+    </string>
+    <string>
+        <id>social_panel_header</id>
+        <value>Social</value>
+    </string>
+    <string>
+        <id>social_panel_report_reason</id>
+        <value>Choose Reason:</value>
+    </string>
+    <string>
+        <id>social_panel_report_spam</id>
+        <value>Spam</value>
+    </string>
+    <string>
+        <id>social_panel_report_harassment</id>
+        <value>Harassment</value>
+    </string>
+    <string>
+        <id>social_panel_report_cheating</id>
+        <value>Cheating</value>
+    </string>
+    <string>
+        <id>social_panel_report_account_name</id>
+        <value>Account Name</value>
+    </string>
+    <string>
+        <id>social_panel_report_battle_tag</id>
+        <value>Battle Tag</value>
+    </string>
+    <string>
+        <id>social_panel_report_game_name</id>
+        <value>Game Name</value>
+    </string>
+</strings>

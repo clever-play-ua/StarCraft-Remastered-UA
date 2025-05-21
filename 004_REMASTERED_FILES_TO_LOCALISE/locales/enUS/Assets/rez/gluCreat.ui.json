@@ -1,0 +1,168 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Create",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\create\\pListMap.pcx",
+      "id": 1,
+      "rect": [0,0,362,356],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\create\\pInfo.pcx",
+      "id": 2,
+      "rect": [400,0,240,333],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pCancel.pcx",
+      "id": 3,
+      "rect": [472,356,168,91],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pOk.pcx",
+      "id": 4,
+      "rect": [436,336,204,71],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\create\\pSlots.pcx",
+      "id": 19,
+      "rect": [0,333,372,147],
+      "flags": ["CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Chatroom\\pChat.dds",
+      "id": 42,
+      "rect": [0,308,372,169],
+      "flags": ["CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluCreat-1",
+      "id": -1,
+      "rect": [40,68,136,20],
+      "flags": ["WS_VISIBLE","RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "LISTBOX",
+      "content": "",
+      "id": 5,
+      "rect": [60,130,288,118],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGTEXT","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 6,
+      "rect": [58,102,292,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/MapBrowserInfoPanel/MapBrowserInfoPanel.html",
+      "id": 41,
+      "rect": [404,53,209,276],
+      "flags": ["WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluCreat-2",
+      "id": 12,
+      "rect": [441,383,152,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluCreat-3",
+      "id": 13,
+      "rect": [477,419,132,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ESCAPE"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluCreat-4",
+      "id": 38,
+      "rect": [58,262,112,20],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluCreat-5",
+      "id": 14,
+      "rect": [58,284,112,20],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 15,
+      "rect": [58,306,112,20],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 17,
+      "rect": [180,261,172,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 18,
+      "rect": [180,283,172,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "gluCreat-6",
+      "id": 39,
+      "rect": [178,305,10,30],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "SCROLLBAR",
+      "content": "",
+      "id": 16,
+      "rect": [190,307,152,6],
+      "flags": ["SBS_HORZ","WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluCreat-7",
+      "id": 40,
+      "rect": [344,305,10,30],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    }
+  ]
+}

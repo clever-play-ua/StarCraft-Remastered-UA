@@ -1,0 +1,32 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Delete",
+  "rect": [0,0,220,68],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "FLCBTN",
+      "content": "gluDelCh-1",
+      "id": 1,
+      "rect": [13,43,90,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluDelCh-2",
+      "id": 2,
+      "rect": [119,43,90,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ESCAPE"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluDelCh-3",
+      "id": -1,
+      "rect": [4,4,120,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_SMALLTEXT"],
+      "children": null
+    }
+  ]
+}

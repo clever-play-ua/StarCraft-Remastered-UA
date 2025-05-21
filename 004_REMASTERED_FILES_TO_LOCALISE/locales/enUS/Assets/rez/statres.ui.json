@@ -1,0 +1,72 @@
+﻿{
+  "type": "DIALOG",
+  "name": "StatRes",
+  "rect": [220,0,420,20],
+  "style": [],
+  "children": [
+    {
+      "type": "LTEXT",
+      "content": "statres-1",
+      "id": 1,
+      "rect": [352,0,66,20],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "statres-2",
+      "id": 2,
+      "rect": [284,0,66,20],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "statres-3",
+      "id": 3,
+      "rect": [216,0,66,20],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "statres-4",
+      "id": 4,
+      "rect": [148,0,66,20],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "statres-5",
+      "id": 5,
+      "rect": [80,0,66,20],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "statres-6",
+      "id": 6,
+      "rect": [9,0,69,20],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "statres-7",
+      "id": -10,
+      "rect": [0,0,80,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "statres-8",
+      "id": -11,
+      "rect": [216,0,198,20],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

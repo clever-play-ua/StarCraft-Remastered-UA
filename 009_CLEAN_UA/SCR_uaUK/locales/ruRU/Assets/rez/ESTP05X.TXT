@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Protoss Level 5x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpbx\xProtosb.pcx>
+</FONTCOLOR glue\palpbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+БИТВА НА БРАКСИСЕ
+
+Флот протоссов на низкой орбите Браксиса
+</PAGE>

@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 6x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpcx\xProtosC.pcx>
+</FONTCOLOR glue\palpcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+БЕГСТВО ИМПЕРАТОРА
+
+Флагман ОЗД «Александр» на пути к Айуру
+</PAGE>

@@ -1,0 +1,248 @@
+﻿{
+  "type": "DIALOG",
+  "name": "MsnStat2",
+  "rect": [0,0,320,240],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "msnstat2-1",
+      "id": -2,
+      "rect": [228,224,53,14],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-2",
+      "id": 1,
+      "rect": [6,40,96,25],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-3",
+      "id": 2,
+      "rect": [108,40,108,18],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-4",
+      "id": 3,
+      "rect": [222,40,96,18],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-5",
+      "id": 68,
+      "rect": [6,30,96,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-6",
+      "id": 69,
+      "rect": [108,30,108,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-7",
+      "id": 70,
+      "rect": [222,30,96,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-8",
+      "id": 4,
+      "rect": [20,118,280,18],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-9",
+      "id": 12,
+      "rect": [5,106,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-10",
+      "id": 20,
+      "rect": [50,106,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-11",
+      "id": 28,
+      "rect": [95,106,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-12",
+      "id": 36,
+      "rect": [140,106,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-13",
+      "id": 44,
+      "rect": [185,106,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-14",
+      "id": 52,
+      "rect": [230,106,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-15",
+      "id": 60,
+      "rect": [275,106,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-16",
+      "id": 5,
+      "rect": [20,170,280,18],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-17",
+      "id": 13,
+      "rect": [5,158,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-18",
+      "id": 21,
+      "rect": [50,158,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-19",
+      "id": 29,
+      "rect": [95,158,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-20",
+      "id": 37,
+      "rect": [140,158,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-21",
+      "id": 45,
+      "rect": [185,158,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-22",
+      "id": 53,
+      "rect": [230,158,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "msnstat2-23",
+      "id": 61,
+      "rect": [275,158,40,12],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","WS_BORDER","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-24",
+      "id": 71,
+      "rect": [2,90,45,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-25",
+      "id": 72,
+      "rect": [47,90,45,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-26",
+      "id": 73,
+      "rect": [92,90,45,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-27",
+      "id": 74,
+      "rect": [137,90,45,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-28",
+      "id": 75,
+      "rect": [182,90,45,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-29",
+      "id": 76,
+      "rect": [227,90,45,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "msnstat2-30",
+      "id": 77,
+      "rect": [272,90,45,9],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

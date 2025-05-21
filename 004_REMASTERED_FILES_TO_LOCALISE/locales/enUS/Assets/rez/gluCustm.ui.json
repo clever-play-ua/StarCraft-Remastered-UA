@@ -1,0 +1,248 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Create",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\create\\pListMap2.pcx",
+      "id": 1,
+      "rect": [0,0,361,293],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\create\\pInfo.pcx",
+      "id": 2,
+      "rect": [400,0,240,333],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\create\\pSlots.pcx",
+      "id": 19,
+      "rect": [0,285,361,193],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pCancel.pcx",
+      "id": 3,
+      "rect": [472,356,168,91],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\PalNl\\pOk.pcx",
+      "id": 4,
+      "rect": [436,336,204,71],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Chatroom\\pChat.dds",
+      "id": 42,
+      "rect": [0,308,372,169],
+      "flags": ["CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluCustm-1",
+      "id": -1,
+      "rect": [40,68,136,20],
+      "flags": ["WS_VISIBLE","RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "LISTBOX",
+      "content": "",
+      "id": 5,
+      "rect": [60,130,288,118],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGTEXT","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 6,
+      "rect": [58,102,292,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/MapBrowserInfoPanel/MapBrowserInfoPanel.html",
+      "id": 41,
+      "rect": [404,53,209,276],
+      "flags": ["WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluCustm-2",
+      "id": 12,
+      "rect": [441,383,152,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluCustm-3",
+      "id": 13,
+      "rect": [477,419,132,22],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGGERTEXT","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ESCAPE"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluCustm-4",
+      "id": 38,
+      "rect": [58,262,112,20],
+      "flags": ["WS_VISIBLE","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 17,
+      "rect": [180,261,172,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 20,
+      "rect": [33,315,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 21,
+      "rect": [33,334,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 22,
+      "rect": [33,353,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 23,
+      "rect": [33,372,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 24,
+      "rect": [33,391,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 25,
+      "rect": [33,410,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 26,
+      "rect": [33,429,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 27,
+      "rect": [33,448,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 28,
+      "rect": [193,315,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 29,
+      "rect": [193,334,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 30,
+      "rect": [193,353,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 31,
+      "rect": [193,372,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 32,
+      "rect": [193,391,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 33,
+      "rect": [193,410,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 34,
+      "rect": [193,429,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    },
+    {
+      "type": "COMBOBOX",
+      "content": "",
+      "id": 35,
+      "rect": [193,448,150,16],
+      "flags": ["WS_TABSTOP","RC_SMALLTEXT"],
+      "children": null
+    }
+  ]
+}

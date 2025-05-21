@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "FinalDlg",
+  "rect": [0,0,320,240],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "LTEXT",
+      "content": "finaldlg-1",
+      "id": 1,
+      "rect": [36,24,180,132],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    }
+  ]
+}

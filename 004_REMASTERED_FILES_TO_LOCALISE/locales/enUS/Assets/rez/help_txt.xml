@@ -1,0 +1,210 @@
+<strings>
+    <string>
+        <id>STR_HELP_1</id>
+        <value>F10 - Game Menu</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_1</id>
+        <value>Alt-M - Game Menu</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_2</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_3</id>
+        <value>Alt-S - Save Game</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_4</id>
+        <value>Alt-L - Load Game</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_5</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_6</id>
+        <value>Alt-H - Help Menu</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_7</id>
+        <value>F11 - Help Menu</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_8</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_9</id>
+        <value>Alt-O - Options Menu</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_10</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_11</id>
+        <value>+ - Increase Game Speed</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_12</id>
+        <value>- - Decrease Game Speed</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_13</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_14</id>
+        <value>Ctrl-X - Exit StarCraft</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_15</id>
+        <value>Alt-X - Exit StarCraft</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_16</id>
+        <value>Ctrl-Q - Quit Mission</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_17</id>
+        <value>Alt-Q - Quit Mission</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_18</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_19</id>
+        <value>Ctrl-M - Toggle Music On/Off</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_20</id>
+        <value>Ctrl-S - Toggle SFX On/Off</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_21</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_22</id>
+        <value>Space Bar - Last Transmission</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_23</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_24</id>
+        <value>Ctrl-# - Save Group #</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_25</id>
+        <value># - Recall Group #</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_26</id>
+        <value>Alt-select - Recall Group</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_27</id>
+        <value>Ctrl-select - Select Unit Type</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_28</id>
+        <value>double-click - Select Unit Type</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_29</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_30</id>
+        <value>Shift-F2 - Save Map Location 1</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_31</id>
+        <value>F2 - Restore Map Location 1</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_32</id>
+        <value>Shift-F3 - Save Map Location 2</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_33</id>
+        <value>F3 - Restore Map Location 2</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_34</id>
+        <value>Shift-F4 - Save Map Location 3</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_35</id>
+        <value>F4 - Restore Map Location 3</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_36</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_37</id>
+        <value>Shift-command - Set Waypoint</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_38</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_39</id>
+        <value>Ctrl-C - Center on Current Unit</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_40</id>
+        <value>Alt-C - Center on Current Unit</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_41</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_42</id>
+        <value>Tab - Toggle Mini-map Terrain Mode</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_43</id>
+        <value>Shift-Tab - Toggle Mini-map Unit Mode</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_44</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_45</id>
+        <value>Multiplayer Features:</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_46</id>
+        <value>Enter - Messaging Prompt</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_47</id>
+        <value>Shift-Enter - To All Messaging Prompt</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_48</id>
+        <value>Ctrl-Enter - To Allies Messaging Prompt</value>
+    </string>
+    <string>
+        <id>STR_HELP_1_49</id>
+        <value></value>
+    </string>
+    <string>
+        <id>STR_HELP_1_50</id>
+        <value>Ctrl-R - Toggle Ranking Mode</value>
+    </string>
+    <string>
+        <id>STR_HELP_LAST</id>
+        <value></value>
+    </string>
+</strings>

@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Stat_F10",
+  "rect": [408,388,88,20],
+  "style": [],
+  "children": [
+    {
+      "type": "PUSHBUTTON",
+      "content": "stat_f10-1",
+      "id": 1,
+      "rect": [8,0,64,20],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","WS_HOTVKEY","RC_SMALLTEXT"],
+      "children": null
+    }
+  ]
+}

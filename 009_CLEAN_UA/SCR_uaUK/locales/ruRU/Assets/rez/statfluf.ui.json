@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "StatFluf",
+  "rect": [0,0,8,8],
+  "style": [],
+  "children": [
+    {
+      "type": "LTEXT",
+      "content": "statfluf-1",
+      "id": -1,
+      "rect": [0,0,4,4],
+      "flags": [],
+      "children": null
+    }
+  ]
+}

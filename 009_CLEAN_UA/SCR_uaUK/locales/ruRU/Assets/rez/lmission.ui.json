@@ -1,0 +1,40 @@
+﻿{
+  "type": "DIALOG",
+  "name": "LMission",
+  "rect": [176,144,288,128],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "lmission-1",
+      "id": -2,
+      "rect": [32,92,224,28],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "lmission-2",
+      "id": 1,
+      "rect": [32,58,224,28],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "lmission-3",
+      "id": -20,
+      "rect": [0,8,288,58],
+      "flags": ["WS_VISIBLE","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "lmission-4",
+      "id": -21,
+      "rect": [0,8,288,58],
+      "flags": ["RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

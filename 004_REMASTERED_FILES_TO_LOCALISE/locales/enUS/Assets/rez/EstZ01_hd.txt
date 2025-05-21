@@ -1,0 +1,36 @@
+</COMMENT Establishing Shot for Zerg Level 1>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1010.webm>
+</TEXTBOX>
+ZERG CAMPAIGN: OVERMIND
+
+The Swarms have crushed the meager human resistance and laid waste to nine of the thirteen Terran worlds. 
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1020.webm>
+</TEXTBOX>
+Shortly after the fall of the Terran capitol world of Tarsonis, the main Protoss fleet abandoned the Terran Sector. 
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1030.webm>
+</TEXTBOX>
+Now, efforts continue on Tarsonis to weed out the remaining Protoss forces.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG1035.webm>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palza\ZergA.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"AMONG THE RUINS"
+
+Confederate Capitol World Tarsonis
+</PAGE>

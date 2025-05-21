@@ -1,0 +1,34 @@
+</COMMENT Establishing Shot for Zerg Level 3>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG2010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+После окончательного разгрома протоссов
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG2020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_ZG2020.wav>
+</TEXTBOX>
+Сверхразум направил Рой на удаленную выжженную планету Чар.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG2025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+НОВЫЙ ДОМИНИОН
+
+Главный улей
+Планета Чар
+</PAGE>

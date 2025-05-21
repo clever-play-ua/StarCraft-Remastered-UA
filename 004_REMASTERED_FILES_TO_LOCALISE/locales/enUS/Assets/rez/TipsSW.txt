@@ -1,0 +1,77 @@
+########################################
+# string data file for Starcraft tips of the day
+#
+# USA version
+#
+# created 12.29.97
+########################################
+# FORMAT:
+#	<header_name>, <hotkey><cost_icons><string>
+#
+# <header_name> is the name which will appear in "stat_txt.h"
+# <hotkey>		is either a single letter or a 3 digit escape sequence
+# 				which represents the ASCII value of the key.
+# <cost_icons>	is either \000 or \001 for cost icons on/off
+# <string>		is the actual text
+########################################
+########################################
+########################################
+STR_TIP_TUT1,				\4STR_TIP_TUT1\1
+STR_TIP_T1,				\4STR_TIP_T1\1
+STR_TIP_G1,				\4STR_TIP_G1\1
+STR_TIP_T2,				\4STR_TIP_T2\1
+STR_TIP_G2,				\4STR_TIP_G2\1
+STR_TIP_G3,				\4STR_TIP_G3\1
+STR_TIP_G4,				\4STR_TIP_G4\1
+STR_TIP_T3,				\4STR_TIP_T3\1
+STR_TIP_G5,				\4STR_TIP_G5\1
+STR_TIP_Ga,				\4STR_TIP_Ga\1
+STR_TIP_T4,				\4STR_TIP_T4\1
+STR_TIP_G6,				\4STR_TIP_G6\1
+STR_TIP_G7,				\4STR_TIP_G7\1
+STR_TIP_T5,				\4STR_TIP_T5\1
+STR_TIP_G8,				\4STR_TIP_G8\1
+STR_TIP_G9,				\4STR_TIP_G9\1
+STR_TIP_T6,				\4STR_TIP_T6\1
+STR_TIP_G10,				\4STR_TIP_G10\1
+STR_TIP_G11,				\4STR_TIP_G11\1
+STR_TIP_T7,				\4STR_TIP_T7\1
+STR_TIP_G12,				\4STR_TIP_G12\1
+STR_TIP_G13,				\4STR_TIP_G13\1
+STR_TIP_T8,				\4STR_TIP_T8\1
+STR_TIP_G14,				\4STR_TIP_G14\1
+STR_TIP_G15,				\4STR_TIP_G15\1
+STR_TIP_T9,				\4STR_TIP_T9\1
+STR_TIP_G16,				\4STR_TIP_G16\1
+STR_TIP_G17,				\4STR_TIP_G17\1
+STR_TIP_T10,				\4STR_TIP_T10\1
+STR_TIP_G18,				\4STR_TIP_G18\1
+STR_TIP_G19,				\4STR_TIP_G19\1
+STR_TIP_G20,				\4STR_TIP_G20\1
+STR_TIP_G21,				\4STR_TIP_G21\1
+STR_TIP_G22,				\4STR_TIP_G22\1
+STR_TIP_G23,				\4STR_TIP_G23\1
+STR_TIP_G24,				\4STR_TIP_G24\1
+STR_TIP_G25,				\4STR_TIP_G25\1
+STR_TIP_G26,				\4STR_TIP_G26\1
+STR_TIP_G27,				\4STR_TIP_G27\1
+STR_TIP_G28,				\4STR_TIP_G28\1
+STR_TIP_G29,				\4STR_TIP_G29\1
+STR_TIP_G30,				\4STR_TIP_G30\1
+STR_TIP_G31,				\4STR_TIP_G31\1
+STR_TIP_G32,				\4STR_TIP_G32\1
+STR_TIP_G33,				\4STR_TIP_G33\1
+STR_TIP_G34,				\4STR_TIP_G34\1
+STR_TIP_G35,				\4STR_TIP_G35\1
+STR_TIP_G36,				\4STR_TIP_G36\1
+STR_TIP_G37,				\4STR_TIP_G37\1
+STR_TIP_G38,				\4STR_TIP_G38\1
+STR_TIP_G39,				\4STR_TIP_G39\1
+STR_TIP_G40,				\4STR_TIP_G40\1
+STR_TIP_G41,				\4STR_TIP_G41\1
+STR_TIP_G42,				\4STR_TIP_G42\1
+STR_TIP_G43,				\4STR_TIP_G43\1
+STR_TIP_G44,				\4STR_TIP_G44\1
+STR_TIP_G45,				\4STR_TIP_G45\1
+,				\4STR_TIP_G45-1\1
+STR_LAST_TIP,				\4STR_LAST_TIP\1

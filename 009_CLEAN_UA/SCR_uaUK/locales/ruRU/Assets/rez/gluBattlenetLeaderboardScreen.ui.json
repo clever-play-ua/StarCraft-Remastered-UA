@@ -1,0 +1,64 @@
+﻿{
+  "type": "DIALOG",
+  "name": "LeaderboardScreen",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\Chatroom\\pChat3.dds",
+      "id": 1,
+      "rect": [0,326,372,147],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_TOPRIGHT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\leaderboardFrame.dds",
+      "id": 4,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE","CTRL_TRANSLUCENT","RC_ANCHOR_CENTER"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\web_B.dds",
+      "id": 7,
+      "rect": [382,326,256,147],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/LeaderboardPanel/LeaderboardPanel.html",
+      "id": 2,
+      "rect": [30,36,584,300],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/GlobalChatPanel/GlobalChatPanel.html",
+      "id": 3,
+      "rect": [24,352,340,118],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/LeaderboardMiniPanel/LeaderboardMiniPanel.html",
+      "id": 8,
+      "rect": [392,352,218,80],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluBattlenetLeaderboardScreen-1",
+      "id": 6,
+      "rect": [477,450,136,24],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","CTRL_TRANSLUCENT","RC_BIGTEXT","WS_HOTKEY","CTRL_ESCAPE","FB_HTEXTCENTER","FB_VTEXTCENTER"],
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+</COMMENT Establishing Shot for Protoss Level 1>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT1010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+КАМПАНИЯ ПРОТОССОВ: КАТАСТРОФА
+
+Сверхразум зергов завоевал родину протоссов, Айур, и обосновался на поверхности планеты.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT1020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_PT1020.wav>
+</TEXTBOX>
+Пока прислужники коварного Сверхразума сеют хаос и разрушение по всему Айуру, стойкие протоссы готовятся к грядущей бойне.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\PT1025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe_End2.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palpa\ProtossA.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ПЕРВЫЙ УДАР
+
+Цитадель нового вершителя протоссов
+Спустя два дня после вторжения зергов
+</PAGE>

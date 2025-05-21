@@ -1,0 +1,56 @@
+########################################
+# string data file for warcraft 2 mission statistics screen
+#
+# USA version
+#
+# created 9.11.95
+########################################
+########################################
+# player ranks
+########################################
+STR_H_RANK_0,				Слуга
+STR_O_RANK_0,				Раб
+STR_H_RANK_1,				Крестьянин
+STR_O_RANK_1,				Батрак
+STR_H_RANK_2,				Оруженосец
+STR_O_RANK_2,				Изгой
+STR_H_RANK_3,				Пехотинец
+STR_O_RANK_3,				Вояка
+STR_H_RANK_4,				Капрал
+STR_O_RANK_4,				Рубака
+STR_H_RANK_5,				Сержант
+STR_O_RANK_5,				Мародер
+STR_H_RANK_6,				Лейтенант
+STR_O_RANK_6,				Командир
+STR_H_RANK_7,				Капитан
+STR_O_RANK_7,				Капитан
+STR_H_RANK_8,				Майор
+STR_O_RANK_8,				Майор
+STR_H_RANK_9,				Рыцарь
+STR_O_RANK_9,				Рейдер
+STR_H_RANK_10,				Генерал
+STR_O_RANK_10,				Генерал
+STR_H_RANK_11,				Адмирал
+STR_O_RANK_11,				Магистр
+STR_H_RANK_12,				Маршал
+STR_O_RANK_12,				Маршал
+STR_H_RANK_13,				Лорд
+STR_O_RANK_13,				Вождь
+STR_H_RANK_14,				Гросс-адмирал
+STR_O_RANK_14,				Повелитель
+STR_H_RANK_15,				Владыка
+STR_O_RANK_15,				Военачальник
+STR_H_RANK_16,				Громовержец
+STR_O_RANK_16,				Полубог
+STR_H_RANK_17,				Бог
+STR_O_RANK_17,				Бог
+STR_H_RANK_18,				Разработчик
+STR_O_RANK_18,				Разработчик
+########################################
+########################################
+STR_CHEATER,				Читер!
+########################################
+# potential outcomes
+########################################
+STR_DEFEAT,				Поражение!
+STR_VICTORY,				Победа!

@@ -1,0 +1,207 @@
+﻿[
+  {
+    "id": "STR_H_RANK_0",
+    "Key": "STR_H_RANK_0",
+    "Value": "Servant"
+  },
+  {
+    "id": "STR_O_RANK_0",
+    "Key": "STR_O_RANK_0",
+    "Value": "Slave"
+  },
+  {
+    "id": "STR_H_RANK_1",
+    "Key": "STR_H_RANK_1",
+    "Value": "Peasant"
+  },
+  {
+    "id": "STR_O_RANK_1",
+    "Key": "STR_O_RANK_1",
+    "Value": "Peon"
+  },
+  {
+    "id": "STR_H_RANK_2",
+    "Key": "STR_H_RANK_2",
+    "Value": "Squire"
+  },
+  {
+    "id": "STR_O_RANK_2",
+    "Key": "STR_O_RANK_2",
+    "Value": "Rogue"
+  },
+  {
+    "id": "STR_H_RANK_3",
+    "Key": "STR_H_RANK_3",
+    "Value": "Footman"
+  },
+  {
+    "id": "STR_O_RANK_3",
+    "Key": "STR_O_RANK_3",
+    "Value": "Grunt"
+  },
+  {
+    "id": "STR_H_RANK_4",
+    "Key": "STR_H_RANK_4",
+    "Value": "Corporal"
+  },
+  {
+    "id": "STR_O_RANK_4",
+    "Key": "STR_O_RANK_4",
+    "Value": "Slasher"
+  },
+  {
+    "id": "STR_H_RANK_5",
+    "Key": "STR_H_RANK_5",
+    "Value": "Sergeant"
+  },
+  {
+    "id": "STR_O_RANK_5",
+    "Key": "STR_O_RANK_5",
+    "Value": "Marauder"
+  },
+  {
+    "id": "STR_H_RANK_6",
+    "Key": "STR_H_RANK_6",
+    "Value": "Lieutenant"
+  },
+  {
+    "id": "STR_O_RANK_6",
+    "Key": "STR_O_RANK_6",
+    "Value": "Commander"
+  },
+  {
+    "id": "STR_H_RANK_7",
+    "Key": "STR_H_RANK_7",
+    "Value": "Captain"
+  },
+  {
+    "id": "STR_O_RANK_7",
+    "Key": "STR_O_RANK_7",
+    "Value": "Captain"
+  },
+  {
+    "id": "STR_H_RANK_8",
+    "Key": "STR_H_RANK_8",
+    "Value": "Major"
+  },
+  {
+    "id": "STR_O_RANK_8",
+    "Key": "STR_O_RANK_8",
+    "Value": "Major"
+  },
+  {
+    "id": "STR_H_RANK_9",
+    "Key": "STR_H_RANK_9",
+    "Value": "Knight"
+  },
+  {
+    "id": "STR_O_RANK_9",
+    "Key": "STR_O_RANK_9",
+    "Value": "Raider"
+  },
+  {
+    "id": "STR_H_RANK_10",
+    "Key": "STR_H_RANK_10",
+    "Value": "General"
+  },
+  {
+    "id": "STR_O_RANK_10",
+    "Key": "STR_O_RANK_10",
+    "Value": "General"
+  },
+  {
+    "id": "STR_H_RANK_11",
+    "Key": "STR_H_RANK_11",
+    "Value": "Admiral"
+  },
+  {
+    "id": "STR_O_RANK_11",
+    "Key": "STR_O_RANK_11",
+    "Value": "Master"
+  },
+  {
+    "id": "STR_H_RANK_12",
+    "Key": "STR_H_RANK_12",
+    "Value": "Marshal"
+  },
+  {
+    "id": "STR_O_RANK_12",
+    "Key": "STR_O_RANK_12",
+    "Value": "Marshal"
+  },
+  {
+    "id": "STR_H_RANK_13",
+    "Key": "STR_H_RANK_13",
+    "Value": "Lord"
+  },
+  {
+    "id": "STR_O_RANK_13",
+    "Key": "STR_O_RANK_13",
+    "Value": "Chieftain"
+  },
+  {
+    "id": "STR_H_RANK_14",
+    "Key": "STR_H_RANK_14",
+    "Value": "Grand Admiral"
+  },
+  {
+    "id": "STR_O_RANK_14",
+    "Key": "STR_O_RANK_14",
+    "Value": "Overlord"
+  },
+  {
+    "id": "STR_H_RANK_15",
+    "Key": "STR_H_RANK_15",
+    "Value": "Highlord"
+  },
+  {
+    "id": "STR_O_RANK_15",
+    "Key": "STR_O_RANK_15",
+    "Value": "War Chief"
+  },
+  {
+    "id": "STR_H_RANK_16",
+    "Key": "STR_H_RANK_16",
+    "Value": "Thundergod"
+  },
+  {
+    "id": "STR_O_RANK_16",
+    "Key": "STR_O_RANK_16",
+    "Value": "Demigod"
+  },
+  {
+    "id": "STR_H_RANK_17",
+    "Key": "STR_H_RANK_17",
+    "Value": "God"
+  },
+  {
+    "id": "STR_O_RANK_17",
+    "Key": "STR_O_RANK_17",
+    "Value": "God"
+  },
+  {
+    "id": "STR_H_RANK_18",
+    "Key": "STR_H_RANK_18",
+    "Value": "Designer"
+  },
+  {
+    "id": "STR_O_RANK_18",
+    "Key": "STR_O_RANK_18",
+    "Value": "Designer"
+  },
+  {
+    "id": "STR_CHEATER",
+    "Key": "STR_CHEATER",
+    "Value": "Cheater!"
+  },
+  {
+    "id": "STR_DEFEAT",
+    "Key": "STR_DEFEAT",
+    "Value": "Defeat!"
+  },
+  {
+    "id": "STR_VICTORY",
+    "Key": "STR_VICTORY",
+    "Value": "Victory!"
+  }
+]

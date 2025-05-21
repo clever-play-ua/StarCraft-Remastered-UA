@@ -1,0 +1,72 @@
+﻿{
+  "type": "DIALOG",
+  "name": "TextBox",
+  "rect": [170,330,280,18],
+  "style": [],
+  "children": [
+    {
+      "type": "EDITTEXT",
+      "content": "",
+      "id": 7,
+      "rect": [0,2,280,16],
+      "flags": ["WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "ttextbox-1",
+      "id": 1,
+      "rect": [0,2,1,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "ttextbox-2",
+      "id": 2,
+      "rect": [0,2,1,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "ttextbox-3",
+      "id": 3,
+      "rect": [0,2,1,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "ttextbox-4",
+      "id": 5,
+      "rect": [0,2,1,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "ttextbox-5",
+      "id": -10,
+      "rect": [0,0,1,1],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "RTEXT",
+      "content": "textbox-6",
+      "id": 4,
+      "rect": [0,2,1,16],
+      "flags": [],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "ttextbox-7",
+      "id": 6,
+      "rect": [0,2,280,16],
+      "flags": [],
+      "children": null
+    }
+  ]
+}

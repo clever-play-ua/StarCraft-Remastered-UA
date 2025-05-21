@@ -1,0 +1,56 @@
+########################################
+# string data file for warcraft 2 mission statistics screen
+#
+# USA version
+#
+# created 9.11.95
+########################################
+########################################
+# player ranks
+########################################
+STR_H_RANK_0,				Servant
+STR_O_RANK_0,				Slave
+STR_H_RANK_1,				Peasant
+STR_O_RANK_1,				Peon
+STR_H_RANK_2,				Squire
+STR_O_RANK_2,				Rogue
+STR_H_RANK_3,				Footman
+STR_O_RANK_3,				Grunt
+STR_H_RANK_4,				Corporal
+STR_O_RANK_4,				Slasher
+STR_H_RANK_5,				Sergeant
+STR_O_RANK_5,				Marauder
+STR_H_RANK_6,				Lieutenant
+STR_O_RANK_6,				Commander
+STR_H_RANK_7,				Captain
+STR_O_RANK_7,				Captain
+STR_H_RANK_8,				Major
+STR_O_RANK_8,				Major
+STR_H_RANK_9,				Knight
+STR_O_RANK_9,				Raider
+STR_H_RANK_10,				General
+STR_O_RANK_10,				General
+STR_H_RANK_11,				Admiral
+STR_O_RANK_11,				Master
+STR_H_RANK_12,				Marshal
+STR_O_RANK_12,				Marshal
+STR_H_RANK_13,				Lord
+STR_O_RANK_13,				Chieftain
+STR_H_RANK_14,				Grand Admiral
+STR_O_RANK_14,				Overlord
+STR_H_RANK_15,				Highlord
+STR_O_RANK_15,				War Chief
+STR_H_RANK_16,				Thundergod
+STR_O_RANK_16,				Demigod
+STR_H_RANK_17,				God
+STR_O_RANK_17,				God
+STR_H_RANK_18,				Designer
+STR_O_RANK_18,				Designer
+########################################
+########################################
+STR_CHEATER,				Cheater!
+########################################
+# potential outcomes
+########################################
+STR_DEFEAT,				Defeat!
+STR_VICTORY,				Victory!

@@ -1,0 +1,40 @@
+﻿{
+  "type": "DIALOG",
+  "name": "IDD_OPTIONS_POPUP",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "",
+      "id": -1,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE","RC_POPUP_BACKGROUND"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/OptionsPanel/OptionsPanel.html",
+      "id": 11,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\GRB-Age.dds",
+      "id": 1,
+      "rect": [80,285,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\title\\GRB-Violence.dds",
+      "id": 2,
+      "rect": [80,330,1,1],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    }
+  ]
+}

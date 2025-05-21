@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "IDD_HOTKEYS",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/HotkeyPanel/HotkeyPanel.html",
+      "id": 1,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

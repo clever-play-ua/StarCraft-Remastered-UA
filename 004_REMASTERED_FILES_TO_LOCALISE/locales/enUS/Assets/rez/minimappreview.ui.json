@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Minimap",
+  "rect": [442,106,130,130],
+  "style": [],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "",
+      "id": 1,
+      "rect": [1,1,128,128],
+      "flags": [],
+      "children": null
+    }
+  ]
+}

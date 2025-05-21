@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "gluMinimapPreviewPopup",
+  "rect": [0,0,360,384],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\Battlenet\\Chat\\ChannelsListPopup\\Bg.dds",
+      "id": 1,
+      "rect": [0,0,360,384],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/MinimapPreviewPanel/MinimapPreviewPanel.html",
+      "id": 11,
+      "rect": [0,0,360,384],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

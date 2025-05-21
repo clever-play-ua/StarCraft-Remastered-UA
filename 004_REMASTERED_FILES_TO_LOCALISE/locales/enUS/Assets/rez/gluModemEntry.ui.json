@@ -1,0 +1,56 @@
+﻿{
+  "type": "DIALOG",
+  "name": "ModemEntry",
+  "rect": [0,0,288,200],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "LTEXT",
+      "content": "gluModemEntry-1",
+      "id": -1,
+      "rect": [10,10,266,31],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "gluModemEntry-2",
+      "id": -1,
+      "rect": [10,66,270,20],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "EDITTEXT",
+      "content": "",
+      "id": 1,
+      "rect": [21,38,246,21],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "EDITTEXT",
+      "content": "",
+      "id": 2,
+      "rect": [21,92,246,21],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluModemEntry-3",
+      "id": 3,
+      "rect": [20,162,117,23],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "gluModemEntry-4",
+      "id": 4,
+      "rect": [150,162,117,23],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","FB_HTEXTCENTER","FB_VTEXTCENTER","CTRL_ESCAPE"],
+      "children": null
+    }
+  ]
+}

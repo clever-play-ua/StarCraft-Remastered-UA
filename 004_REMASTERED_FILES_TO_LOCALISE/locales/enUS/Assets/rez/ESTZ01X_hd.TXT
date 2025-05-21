@@ -1,0 +1,30 @@
+</COMMENT Establishing Shot for Zerg Level 1x>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG5010.webm>
+</TEXTBOX>
+ZERG CAMPAIGN: THE QUEEN OF BLADES
+
+The forces of the United Earth Directorate have taken control of the planet Char and enslaved the ravenous broods of the fledgling Overmind. With the Directorate's powerful Psi Disrupter negating Kerrigan's control over the remaining broods, the UED remains uncontested in its domination of the sector.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG5020.webm>
+</TEXTBOX>
+Kerrigan, having sought out a band of unlikely allies, now plans to destroy the Psi Disrupter and sever the UED's control of the Overmind. 
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG5025.webm>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 8000>
+</BACKGROUND glue\paltbx\XTerranB.pcx>
+</FONTCOLOR glue\paltbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"VILE DISRUPTION"
+
+Kerrigan's Fortress, on the planet Tarsonis
+</PAGE>

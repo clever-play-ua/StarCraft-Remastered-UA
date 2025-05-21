@@ -1,0 +1,80 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Credits",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "",
+      "id": 9,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 1,
+      "rect": [60,0,520,480],
+      "flags": ["RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 2,
+      "rect": [60,0,520,480],
+      "flags": ["RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 3,
+      "rect": [0,60,640,220],
+      "flags": ["RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 4,
+      "rect": [0,200,640,220],
+      "flags": ["RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 5,
+      "rect": [60,60,520,360],
+      "flags": ["RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 6,
+      "rect": [10,240,520,220],
+      "flags": ["RC_BIGGERTEXT"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "",
+      "id": 7,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "LTEXT",
+      "content": "",
+      "id": 8,
+      "rect": [100,400,440,75],
+      "flags": ["RC_BIGGERTEXT"],
+      "children": null
+    }
+  ]
+}

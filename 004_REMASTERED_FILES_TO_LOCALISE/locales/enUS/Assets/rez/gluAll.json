@@ -1,0 +1,6512 @@
+[
+  {
+    "id": "bnet119_authentication_progressPopup_title",
+    "Key": "bnet119_authentication_progressPopup_title",
+    "Value": "Authenticating..."
+  },
+  {
+    "id": "bnet119_authentication_error_prefix",
+    "Key": "bnet119_authentication_error_prefix",
+    "Value": "Login failure:"
+  },
+  {
+    "id": "bnet119_loggedOut",
+    "Key": "bnet119_loggedOut",
+    "Value": "You have been logged out."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_LimitReached",
+    "Key": "bnet119_toonRegistry_create_error_CE_LimitReached",
+    "Value": "You have reached your limit of profiles. Delete one."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_ToonInUse",
+    "Key": "bnet119_toonRegistry_create_error_CE_ToonInUse",
+    "Value": "That profile already exists. Try a different name or gateway."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon",
+    "Value": "Invalid profile name."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon_BadWords",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon_BadWords",
+    "Value": "Invalid profile name (bad word)."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon_InvalidChar",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon_InvalidChar",
+    "Value": "Invalid profile name (invalid char/s)."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon_TooLong",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon_TooLong",
+    "Value": "Invalid profile name (too long)."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadToon_TooShort",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadToon_TooShort",
+    "Value": "Invalid profile name (too short)."
+  },
+  {
+    "id": "bnet119_toonRegistry_create_error_CE_BadAuthToken",
+    "Key": "bnet119_toonRegistry_create_error_CE_BadAuthToken",
+    "Value": "Incorrect password."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_LimitReached",
+    "Key": "bnet119_toonRegistry_link_error_CE_LimitReached",
+    "Value": "You have reached your limit of profiles. Delete one."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_ToonInUse",
+    "Key": "bnet119_toonRegistry_link_error_CE_ToonInUse",
+    "Value": "That profile already exists. Try a different name or gateway."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon",
+    "Value": "Invalid profile name."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon_BadWords",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon_BadWords",
+    "Value": "Invalid profile name (bad word)."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon_InvalidChar",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon_InvalidChar",
+    "Value": "Invalid profile name (invalid char/s)."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon_TooLong",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon_TooLong",
+    "Value": "Invalid profile name (too long)."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadToon_TooShort",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadToon_TooShort",
+    "Value": "Invalid profile name (too short)."
+  },
+  {
+    "id": "bnet119_toonRegistry_link_error_CE_BadAuthToken",
+    "Key": "bnet119_toonRegistry_link_error_CE_BadAuthToken",
+    "Value": "Incorrect password."
+  },
+  {
+    "id": "bnet119_toonRegistry_linkProgressPopup_title",
+    "Key": "bnet119_toonRegistry_linkProgressPopup_title",
+    "Value": "Linking..."
+  },
+  {
+    "id": "bnet119_toonRegistry_delete_confirmation",
+    "Key": "bnet119_toonRegistry_delete_confirmation",
+    "Value": "WARNING: Deleting a profile is a \\u0004permanent\\u0002 operation. You will \\u0001not\\u0002 be able to retrieve your profile once it is deleted.\\n\\nAre you sure you want to delete this profile?"
+  },
+  {
+    "id": "bnet119_toonRegistry_deleteProgressPopup_title",
+    "Key": "bnet119_toonRegistry_deleteProgressPopup_title",
+    "Value": "Deleting..."
+  },
+  {
+    "id": "bnet119_toonRegistry_error_CE_DuplicateConnection",
+    "Key": "bnet119_toonRegistry_error_CE_DuplicateConnection",
+    "Value": "You're connected on this toon elsewhere. Only one connection is allowed."
+  },
+  {
+    "id": "bnet119_toonRegistry_error_CE_FailedToConnect",
+    "Key": "bnet119_toonRegistry_error_CE_FailedToConnect",
+    "Value": "Failed to connect to Classic Server."
+  },
+  {
+    "id": "bnet119_cloud_uploadQuitConfirmation",
+    "Key": "bnet119_cloud_uploadQuitConfirmation",
+    "Value": "Upload in progress. Really quit?\\n(%s)."
+  },
+  {
+    "id": "bnet119_cloud_deleteProgressPopup_title",
+    "Key": "bnet119_cloud_deleteProgressPopup_title",
+    "Value": "Deleting..."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_TE_UnknownEndpoint",
+    "Key": "bnet118_fakeAuroraAuthentication_error_TE_UnknownEndpoint",
+    "Value": "There's a problem connecting to the server right now. Please wait a few minutes and try again."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_34200",
+    "Key": "bnet118_fakeAuroraAuthentication_error_34200",
+    "Value": "There's a problem connecting to the server right now. Please wait a few minutes and try again."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_progressPopup_title",
+    "Key": "bnet118_fakeAuroraAuthentication_progressPopup_title",
+    "Value": "Connecting..."
+  },
+  {
+    "id": "bnet118_fakeAurora_loggedOut",
+    "Key": "bnet118_fakeAurora_loggedOut",
+    "Value": "The server connection has been lost."
+  },
+  {
+    "id": "bnet118_login_error_CE_LimitReached",
+    "Key": "bnet118_login_error_CE_LimitReached",
+    "Value": "You have reached your limit of profiles. Delete one."
+  },
+  {
+    "id": "bnet118_login_error_CE_ToonInUse",
+    "Key": "bnet118_login_error_CE_ToonInUse",
+    "Value": "That profile is already in use."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon",
+    "Key": "bnet118_login_error_CE_BadToon",
+    "Value": "Your login information was incorrect. Please try again."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon_BadWords",
+    "Key": "bnet118_login_error_CE_BadToon_BadWords",
+    "Value": "Your login information was incorrect. Please try again."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon_InvalidChar",
+    "Key": "bnet118_login_error_CE_BadToon_InvalidChar",
+    "Value": "Your login information was incorrect. Please try again."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon_TooLong",
+    "Key": "bnet118_login_error_CE_BadToon_TooLong",
+    "Value": "Your login information was incorrect. Please try again."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadToon_TooShort",
+    "Key": "bnet118_login_error_CE_BadToon_TooShort",
+    "Value": "Your login information was incorrect. Please try again."
+  },
+  {
+    "id": "bnet118_login_error_CE_BadAuthToken",
+    "Key": "bnet118_login_error_CE_BadAuthToken",
+    "Value": "Incorrect password."
+  },
+  {
+    "id": "bnet118_loginProgressPopup_title",
+    "Key": "bnet118_loginProgressPopup_title",
+    "Value": "Logging in..."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon",
+    "Key": "bnet118_createToon_error_CE_BadToon",
+    "Value": "Invalid profile name."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon_BadWords",
+    "Key": "bnet118_createToon_error_CE_BadToon_BadWords",
+    "Value": "The specified profile name contains invalid words."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon_InvalidChar",
+    "Key": "bnet118_createToon_error_CE_BadToon_InvalidChar",
+    "Value": "The specified profile name contains invalid characters."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon_TooLong",
+    "Key": "bnet118_createToon_error_CE_BadToon_TooLong",
+    "Value": "The specified profile name is too long."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_BadToon_TooShort",
+    "Key": "bnet118_createToon_error_CE_BadToon_TooShort",
+    "Value": "The specified profile name is too short."
+  },
+  {
+    "id": "bnet118_createToon_error_CE_ToonInUse",
+    "Key": "bnet118_createToon_error_CE_ToonInUse",
+    "Value": "The specified profile name already exists. Try a different name or gateway."
+  },
+  {
+    "id": "bnet118_changePassword_error_CE_BadAuthToken",
+    "Key": "bnet118_changePassword_error_CE_BadAuthToken",
+    "Value": "Bad credentials."
+  },
+  {
+    "id": "bnet118_changePassword_success",
+    "Key": "bnet118_changePassword_success",
+    "Value": "Password changed!"
+  },
+  {
+    "id": "bnet118_changePasswordProgressPopup_title",
+    "Key": "bnet118_changePasswordProgressPopup_title",
+    "Value": "Changing password..."
+  },
+  {
+    "id": "bnet118_changeEmailAddress_error_CE_BadAuthToken",
+    "Key": "bnet118_changeEmailAddress_error_CE_BadAuthToken",
+    "Value": "Bad credentials"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_success",
+    "Key": "bnet118_changeEmailAddress_success",
+    "Value": "Your request to change your email address has been submitted. If the old email address you entered matches the one that is currently bound to this account, an email will be sent to that address with further instructions."
+  },
+  {
+    "id": "bnet118_changeEmailAddressProgressPopup_title",
+    "Key": "bnet118_changeEmailAddressProgressPopup_title",
+    "Value": "Changing email address..."
+  },
+  {
+    "id": "bnet118_resetPassword_error_CE_BadAuthToken",
+    "Key": "bnet118_resetPassword_error_CE_BadAuthToken",
+    "Value": "Bad credentials."
+  },
+  {
+    "id": "bnet118_resetPassword_success",
+    "Key": "bnet118_resetPassword_success",
+    "Value": "Your request for a new password has been received. If you registered an email address for this account you will receive an email with instructions on how to complete your password change."
+  },
+  {
+    "id": "bnet118_resetPasswordProgressPopup_title",
+    "Key": "bnet118_resetPasswordProgressPopup_title",
+    "Value": "Resetting password..."
+  },
+  {
+    "id": "bnet_chat_notConnectedToAnyChannel",
+    "Key": "bnet_chat_notConnectedToAnyChannel",
+    "Value": "Not connected to any channel."
+  },
+  {
+    "id": "bnet_chat_commandUsage",
+    "Key": "bnet_chat_commandUsage",
+    "Value": "Usage"
+  },
+  {
+    "id": "bnet_chat_commandAliases",
+    "Key": "bnet_chat_commandAliases",
+    "Value": "Aliases"
+  },
+  {
+    "id": "bnet_chat_unrecognizedCommand",
+    "Key": "bnet_chat_unrecognizedCommand",
+    "Value": "Unrecognized command"
+  },
+  {
+    "id": "bnet_chat_commandHelpListTitle",
+    "Key": "bnet_chat_commandHelpListTitle",
+    "Value": "Battle.net help topics:"
+  },
+  {
+    "id": "bnet_chat_defaultChannelName",
+    "Key": "bnet_chat_defaultChannelName",
+    "Value": "<Default channel>"
+  },
+  {
+    "id": "bnet_chat_joiningDefaultChannel",
+    "Key": "bnet_chat_joiningDefaultChannel",
+    "Value": "Joining default channel..."
+  },
+  {
+    "id": "bnet_chat_joiningChannel",
+    "Key": "bnet_chat_joiningChannel",
+    "Value": "Joining channel %s..."
+  },
+  {
+    "id": "bnet_chat_creatingAndJoiningCustomChannel",
+    "Key": "bnet_chat_creatingAndJoiningCustomChannel",
+    "Value": "Joining channel %s..."
+  },
+  {
+    "id": "bnet_chat_joinDefaultChannel_failure",
+    "Key": "bnet_chat_joinDefaultChannel_failure",
+    "Value": "Cannot join channel."
+  },
+  {
+    "id": "bnet_chat_joinChannel_failure",
+    "Key": "bnet_chat_joinChannel_failure",
+    "Value": "Cannot join channel."
+  },
+  {
+    "id": "bnet_chat_createJoinCustomChannel_failure",
+    "Key": "bnet_chat_createJoinCustomChannel_failure",
+    "Value": "Cannot join channel."
+  },
+  {
+    "id": "bnet_chat_leavingChannel",
+    "Key": "bnet_chat_leavingChannel",
+    "Value": "Leaving channel %s..."
+  },
+  {
+    "id": "bnet_chat_leftChannel",
+    "Key": "bnet_chat_leftChannel",
+    "Value": "Left channel %s."
+  },
+  {
+    "id": "bnet_chat_connectedToChatService",
+    "Key": "bnet_chat_connectedToChatService",
+    "Value": "Connected to chat service."
+  },
+  {
+    "id": "bnet_chat_joinChannel_error_misc",
+    "Key": "bnet_chat_joinChannel_error_misc",
+    "Value": "Failed to join channel: %s."
+  },
+  {
+    "id": "bnet_chat_joinChannel_error_CE_LimitReached",
+    "Key": "bnet_chat_joinChannel_error_CE_LimitReached",
+    "Value": "Failed to join channel: Limit reached."
+  },
+  {
+    "id": "bnet_chat_joinChannel_error_CE_BadChannel",
+    "Key": "bnet_chat_joinChannel_error_CE_BadChannel",
+    "Value": "Failed to join channel: bad channel."
+  },
+  {
+    "id": "bnet_chat_joinChannel_success",
+    "Key": "bnet_chat_joinChannel_success",
+    "Value": "Joined channel %s."
+  },
+  {
+    "id": "bnet_chat_createChannel_error_misc",
+    "Key": "bnet_chat_createChannel_error_misc",
+    "Value": "Failed to create channel: %s."
+  },
+  {
+    "id": "bnet_chat_createChannel_error_CE_LimitReached",
+    "Key": "bnet_chat_createChannel_error_CE_LimitReached",
+    "Value": "Failed to create channel: Limit has been reached."
+  },
+  {
+    "id": "bnet_chat_error_misc",
+    "Key": "bnet_chat_error_misc",
+    "Value": "Error: %s."
+  },
+  {
+    "id": "bnet_chat_error_CE_BadCommand",
+    "Key": "bnet_chat_error_CE_BadCommand",
+    "Value": "Error: bad command."
+  },
+  {
+    "id": "bnet_chat_error_CE_BadChannel",
+    "Key": "bnet_chat_error_CE_BadChannel",
+    "Value": "The channel name is invalid."
+  },
+  {
+    "id": "bnet_connectToonProgressPopup_title",
+    "Key": "bnet_connectToonProgressPopup_title",
+    "Value": "Connecting..."
+  },
+  {
+    "id": "bnet_createToonProgressPopup_title",
+    "Key": "bnet_createToonProgressPopup_title",
+    "Value": "Creating..."
+  },
+  {
+    "id": "bnet_upgradeRequired",
+    "Key": "bnet_upgradeRequired",
+    "Value": "Upgrade required."
+  },
+  {
+    "id": "bnet_renameToonProgressPopup_title",
+    "Key": "bnet_renameToonProgressPopup_title",
+    "Value": "Renaming..."
+  },
+  {
+    "id": "bnet_renameToonRequiredWarning",
+    "Key": "bnet_renameToonRequiredWarning",
+    "Value": "The character named \"{toonName}\" needs to be renamed."
+  },
+  {
+    "id": "bnet_toonRename_characterName",
+    "Key": "bnet_toonRename_characterName",
+    "Value": "Character Name"
+  },
+  {
+    "id": "bnet_toonRename_renameCharacter",
+    "Key": "bnet_toonRename_renameCharacter",
+    "Value": "Rename Character"
+  },
+  {
+    "id": "chatNOPLAYERS",
+    "Key": "chatNOPLAYERS",
+    "Value": "There must be at least one human player to start a game."
+  },
+  {
+    "id": "bnet118_createToon_error_emailAddressMismatch",
+    "Key": "bnet118_createToon_error_emailAddressMismatch",
+    "Value": "The email addresses must match."
+  },
+  {
+    "id": "bnet118_createToon_error_passwordRequired",
+    "Key": "bnet118_createToon_error_passwordRequired",
+    "Value": "A password is required."
+  },
+  {
+    "id": "bnet118_createToon_error_passwordMismatch",
+    "Key": "bnet118_createToon_error_passwordMismatch",
+    "Value": "The passwords must match."
+  },
+  {
+    "id": "bnet118_createToon_success_title",
+    "Key": "bnet118_createToon_success_title",
+    "Value": "Account created!"
+  },
+  {
+    "id": "bnet118_createToon_success_body",
+    "Key": "bnet118_createToon_success_body",
+    "Value": "Please note that inactive accounts are deleted at regular times. If you create a new account, you must be logged into Battle.net long enough (either in one session, or spread over several) to have accumulated 2 hours of time within the first 48 hours. After that, your account becomes permanent so long as you continue to login to this account every 3 months."
+  },
+  {
+    "id": "bnet118_createToon_title",
+    "Key": "bnet118_createToon_title",
+    "Value": "Create Account"
+  },
+  {
+    "id": "bnet118_createToon_email",
+    "Key": "bnet118_createToon_email",
+    "Value": "Email"
+  },
+  {
+    "id": "bnet118_changePassword_error_newPasswordRequired",
+    "Key": "bnet118_changePassword_error_newPasswordRequired",
+    "Value": "A new password is required. It must be between 3-512 characters in length."
+  },
+  {
+    "id": "bnet118_changePassword_error_passwordMismatch",
+    "Key": "bnet118_changePassword_error_passwordMismatch",
+    "Value": "The new passwords must match."
+  },
+  {
+    "id": "bnet118_changePassword_title",
+    "Key": "bnet118_changePassword_title",
+    "Value": "Change Password"
+  },
+  {
+    "id": "bnet118_changePassword_currentPassword",
+    "Key": "bnet118_changePassword_currentPassword",
+    "Value": "Current Password"
+  },
+  {
+    "id": "bnet118_changePassword_repeatPassword",
+    "Key": "bnet118_changePassword_repeatPassword",
+    "Value": "Repeat Password"
+  },
+  {
+    "id": "bnet118_changePassword_repeatNewPassword",
+    "Key": "bnet118_changePassword_repeatNewPassword",
+    "Value": "Repeat New Password"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_error_emailAddressMismatch",
+    "Key": "bnet118_changeEmailAddress_error_emailAddressMismatch",
+    "Value": "The new email addresses must match."
+  },
+  {
+    "id": "bnet118_changeEmailAddress_title",
+    "Key": "bnet118_changeEmailAddress_title",
+    "Value": "Change Email Address"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_body",
+    "Key": "bnet118_changeEmailAddress_body",
+    "Value": "If you have registered an email address for this account, then you can change it here.\\nNote that both email addresses must be active for you to make this change."
+  },
+  {
+    "id": "bnet118_changeEmailAddress_oldEmailAddress",
+    "Key": "bnet118_changeEmailAddress_oldEmailAddress",
+    "Value": "Old Email Address"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_newEmailAddress",
+    "Key": "bnet118_changeEmailAddress_newEmailAddress",
+    "Value": "New Email Address"
+  },
+  {
+    "id": "bnet118_changeEmailAddress_repeatNewEmailAddress",
+    "Key": "bnet118_changeEmailAddress_repeatNewEmailAddress",
+    "Value": "Repeat New Email Address"
+  },
+  {
+    "id": "bnet118_resetPassword_emailAddress",
+    "Key": "bnet118_resetPassword_emailAddress",
+    "Value": "Email Address"
+  },
+  {
+    "id": "bnet118_resetPassword_body",
+    "Key": "bnet118_resetPassword_body",
+    "Value": "If you have forgotten your password and you registered your email address with us for this account, you can request that a new password be sent. Make sure to enter the email address that you registered for the account."
+  },
+  {
+    "id": "bnet118_eulaPopup_agree",
+    "Key": "bnet118_eulaPopup_agree",
+    "Value": "a\\u0004A\\u0001gree"
+  },
+  {
+    "id": "bnet118_eulaPopup_title",
+    "Key": "bnet118_eulaPopup_title",
+    "Value": "Battle.net Terms of Use"
+  },
+  {
+    "id": "bnet118_eulaPopup_scrollToBottom",
+    "Key": "bnet118_eulaPopup_scrollToBottom",
+    "Value": "Scroll to the bottom to continue."
+  },
+  {
+    "id": "bnet118_legacyFlow_error_validEmailAddressRequired",
+    "Key": "bnet118_legacyFlow_error_validEmailAddressRequired",
+    "Value": "A valid email address is required."
+  },
+  {
+    "id": "bnet118_legacyFlow_error_accountNameRequired",
+    "Key": "bnet118_legacyFlow_error_accountNameRequired",
+    "Value": "An account name is required."
+  },
+  {
+    "id": "bnet118_legacyFlow_accountName",
+    "Key": "bnet118_legacyFlow_accountName",
+    "Value": "Account Name"
+  },
+  {
+    "id": "bnet118_legacyFlow_newPassword",
+    "Key": "bnet118_legacyFlow_newPassword",
+    "Value": "New Password"
+  },
+  {
+    "id": "bnet118_legacyFlow_password",
+    "Key": "bnet118_legacyFlow_password",
+    "Value": "Password"
+  },
+  {
+    "id": "bnet118_legacyFlow_recoverPassword",
+    "Key": "bnet118_legacyFlow_recoverPassword",
+    "Value": "Recover Password"
+  },
+  {
+    "id": "bnet118_addFriendPopup_title",
+    "Key": "bnet118_addFriendPopup_title",
+    "Value": "Add Friend"
+  },
+  {
+    "id": "bnet118_addFriendPopup_accountName",
+    "Key": "bnet118_addFriendPopup_accountName",
+    "Value": "Enter Account Name"
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_gatewayPane_title",
+    "Key": "bnet118_selectConnectionScreen_gatewayPane_title",
+    "Value": "Gateway"
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_gatewayPane_note",
+    "Key": "bnet118_selectConnectionScreen_gatewayPane_note",
+    "Value": "If the selected Gateway does not best represent your current location, select the correct Gateway for the best possible connection."
+  },
+  {
+    "id": "bnet_chat_channelSelectPopup_title",
+    "Key": "bnet_chat_channelSelectPopup_title",
+    "Value": "Select a Channel"
+  },
+  {
+    "id": "bnet_chat_channelSelectPopup_body",
+    "Key": "bnet_chat_channelSelectPopup_body",
+    "Value": "To join or create a private channel, enter a name below"
+  },
+  {
+    "id": "bnet_channels",
+    "Key": "bnet_channels",
+    "Value": "Channels"
+  },
+  {
+    "id": "bnet_participantsPanel_friends",
+    "Key": "bnet_participantsPanel_friends",
+    "Value": "Friends"
+  },
+  {
+    "id": "bnet_participantsPanel_friendsOffline",
+    "Key": "bnet_participantsPanel_friendsOffline",
+    "Value": "Offline"
+  },
+  {
+    "id": "bnet_participantsPanel_friendsOnline",
+    "Key": "bnet_participantsPanel_friendsOnline",
+    "Value": "Online"
+  },
+  {
+    "id": "infoPane_author",
+    "Key": "infoPane_author",
+    "Value": "Author"
+  },
+  {
+    "id": "infoPane_gameCreator",
+    "Key": "infoPane_gameCreator",
+    "Value": "Game Creator"
+  },
+  {
+    "id": "infoPane_gameName",
+    "Key": "infoPane_gameName",
+    "Value": "Game Name"
+  },
+  {
+    "id": "infoPane_gameType",
+    "Key": "infoPane_gameType",
+    "Value": "Game Type"
+  },
+  {
+    "id": "infoPane_mapName",
+    "Key": "infoPane_mapName",
+    "Value": "Map Name"
+  },
+  {
+    "id": "infoPane_players",
+    "Key": "infoPane_players",
+    "Value": "Players"
+  },
+  {
+    "id": "infoPane_size",
+    "Key": "infoPane_size",
+    "Value": "Size"
+  },
+  {
+    "id": "infoPane_speed",
+    "Key": "infoPane_speed",
+    "Value": "Speed"
+  },
+  {
+    "id": "infoPane_suggestedPlayers",
+    "Key": "infoPane_suggestedPlayers",
+    "Value": "Suggested Players"
+  },
+  {
+    "id": "infoPane_tileset",
+    "Key": "infoPane_tileset",
+    "Value": "Tileset"
+  },
+  {
+    "id": "str_ok",
+    "Key": "str_ok",
+    "Value": "o\\u0004O\\u0001k"
+  },
+  {
+    "id": "createGameScreen_title",
+    "Key": "createGameScreen_title",
+    "Value": "Create Game"
+  },
+  {
+    "id": "createGameScreen_gameName",
+    "Key": "createGameScreen_gameName",
+    "Value": "Create Name"
+  },
+  {
+    "id": "createGameScreen_map",
+    "Key": "createGameScreen_map",
+    "Value": "Map"
+  },
+  {
+    "id": "createGameScreen_privacy",
+    "Key": "createGameScreen_privacy",
+    "Value": "Privacy"
+  },
+  {
+    "id": "createGameScreen_private",
+    "Key": "createGameScreen_private",
+    "Value": "Private"
+  },
+  {
+    "id": "createGameScreen_public",
+    "Key": "createGameScreen_public",
+    "Value": "Public"
+  },
+  {
+    "id": "createGameScreen_fileBrowser_title",
+    "Key": "createGameScreen_fileBrowser_title",
+    "Value": "Select Map"
+  },
+  {
+    "id": "searchGameScreen_customGames",
+    "Key": "searchGameScreen_customGames",
+    "Value": "Custom Games"
+  },
+  {
+    "id": "lobbyScreen_observers",
+    "Key": "lobbyScreen_observers",
+    "Value": "Observers"
+  },
+  {
+    "id": "lobbyScreen_teams",
+    "Key": "lobbyScreen_teams",
+    "Value": "Teams"
+  },
+  {
+    "id": "bnet_profileStats_error_requestAlreadyActive",
+    "Key": "bnet_profileStats_error_requestAlreadyActive",
+    "Value": "Request already active."
+  },
+  {
+    "id": "bnet_profileStats_winsLossesDisconnects",
+    "Key": "bnet_profileStats_winsLossesDisconnects",
+    "Value": "wins: %d, losses: %d, disconnects: %d."
+  },
+  {
+    "id": "str_cancel",
+    "Key": "str_cancel",
+    "Value": "c\\u0004C\\u0001ancel"
+  },
+  {
+    "id": "bnet118_createGameScreen_error_passwordRequired",
+    "Key": "bnet118_createGameScreen_error_passwordRequired",
+    "Value": "A password is required to create a private game."
+  },
+  {
+    "id": "bnet_joinGame_error_invalidPassword",
+    "Key": "bnet_joinGame_error_invalidPassword",
+    "Value": "Invalid password."
+  },
+  {
+    "id": "bnet_joinGame_privateGameSearchProgressPopup_title",
+    "Key": "bnet_joinGame_privateGameSearchProgressPopup_title",
+    "Value": "Checking password..."
+  },
+  {
+    "id": "bnet_joinGame_publicGameSearchProgressPopup_title",
+    "Key": "bnet_joinGame_publicGameSearchProgressPopup_title",
+    "Value": "Searching for game..."
+  },
+  {
+    "id": "bnet_joinGame_GameSearch_GameNameNotFound",
+    "Key": "bnet_joinGame_GameSearch_GameNameNotFound",
+    "Value": "Unable to join game. The host may have already launched or closed the game."
+  },
+  {
+    "id": "bnet_joinGame_GameSearch_Failure_GameNoLongerBeingAdvertised",
+    "Key": "bnet_joinGame_GameSearch_Failure_GameNoLongerBeingAdvertised",
+    "Value": "Unable to join game. The host may have already launched or closed the game."
+  },
+  {
+    "id": "bnet_initialServerDataDownloadProgressPopup_title",
+    "Key": "bnet_initialServerDataDownloadProgressPopup_title",
+    "Value": "Downloading Settings..."
+  },
+  {
+    "id": "bnet_cloud_downloadProgressPopup_title",
+    "Key": "bnet_cloud_downloadProgressPopup_title",
+    "Value": "Downloading..."
+  },
+  {
+    "id": "bnet_cloud_downloadProgressPopup_body",
+    "Key": "bnet_cloud_downloadProgressPopup_body",
+    "Value": "Downloading...\\n(%s)."
+  },
+  {
+    "id": "bnet_cloud_sizeRemaining",
+    "Key": "bnet_cloud_sizeRemaining",
+    "Value": "%s KB remaining"
+  },
+  {
+    "id": "bnet118_createToon_repeatEmail",
+    "Key": "bnet118_createToon_repeatEmail",
+    "Value": "Repeat Email"
+  },
+  {
+    "id": "bnet118_createToon_accountName_rules",
+    "Key": "bnet118_createToon_accountName_rules",
+    "Value": "An account name is required. It must be under 16 characters in length and not contain any spaces."
+  },
+  {
+    "id": "bnet118_createToon_password_rules",
+    "Key": "bnet118_createToon_password_rules",
+    "Value": "A password is required. It must be between 3-512 characters in length."
+  },
+  {
+    "id": "bnet118_changePassword_error_currentPasswordRequired",
+    "Key": "bnet118_changePassword_error_currentPasswordRequired",
+    "Value": "The current password is required."
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_LANPane_title",
+    "Key": "bnet118_selectConnectionScreen_LANPane_title",
+    "Value": "Protocol"
+  },
+  {
+    "id": "hotkeyPane_save",
+    "Key": "hotkeyPane_save",
+    "Value": "s\\u0004S\\u0001ave"
+  },
+  {
+    "id": "hotkeyPane_reset",
+    "Key": "hotkeyPane_reset",
+    "Value": "r\\u0004R\\u0001eset To Default"
+  },
+  {
+    "id": "bnet118_eulaPopup_disagree",
+    "Key": "bnet118_eulaPopup_disagree",
+    "Value": "d\\u0004D\\u0001isagree"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_description",
+    "Key": "bnet_chat_commandHelp_friends_description",
+    "Value": "Add, remove, or whisper a friend"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_add_description",
+    "Key": "bnet_chat_commandHelp_friends_add_description",
+    "Value": "Add ACCOUNTNAME to your friends list"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_remove_description",
+    "Key": "bnet_chat_commandHelp_friends_remove_description",
+    "Value": "Remove ACCOUNTNAME from your friends list"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_whisper_description",
+    "Key": "bnet_chat_commandHelp_friends_whisper_description",
+    "Value": "Whisper MESSAGE to all Brood War friends and all Blizzard friends who are currently using StarCraft"
+  },
+  {
+    "id": "bnet_fishWarning",
+    "Key": "bnet_fishWarning",
+    "Value": "This Gateway is not an official Blizzard Gateway. Would you like to continue?"
+  },
+  {
+    "id": "spi_battlenet_title",
+    "Key": "spi_battlenet_title",
+    "Value": "Battle.net®"
+  },
+  {
+    "id": "spi_battlenet_description",
+    "Key": "spi_battlenet_description",
+    "Value": "An active connection to an Internet provider, or a direct connection to the Internet."
+  },
+  {
+    "id": "spi_lan_title",
+    "Key": "spi_lan_title",
+    "Value": "Local Area Network"
+  },
+  {
+    "id": "spi_lan_description",
+    "Key": "spi_lan_description",
+    "Value": "All computers must be connected to an UDP/IP-compatible network."
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_LANPane_error",
+    "Key": "bnet118_selectConnectionScreen_LANPane_error",
+    "Value": "Unable to retrieve protocol list."
+  },
+  {
+    "id": "bnet118_selectConnectionScreen_gatewayPane_error",
+    "Key": "bnet118_selectConnectionScreen_gatewayPane_error",
+    "Value": "Unable to retrieve gateway list."
+  },
+  {
+    "id": "bnet_chat_addFriendProgressPopup_title",
+    "Key": "bnet_chat_addFriendProgressPopup_title",
+    "Value": "Adding friend..."
+  },
+  {
+    "id": "bnet_createGameProgressPopup_title",
+    "Key": "bnet_createGameProgressPopup_title",
+    "Value": "Creating game..."
+  },
+  {
+    "id": "network_firewall_whitelist",
+    "Key": "network_firewall_whitelist",
+    "Value": "Do you want to add StarCraft to the firewall whitelist?"
+  },
+  {
+    "id": "hotkeyPane_title",
+    "Key": "hotkeyPane_title",
+    "Value": "Hotkeys"
+  },
+  {
+    "id": "hotkeyPane_selectedProfile",
+    "Key": "hotkeyPane_selectedProfile",
+    "Value": "Selected Profile"
+  },
+  {
+    "id": "modemPHONEBOOK",
+    "Key": "modemPHONEBOOK",
+    "Value": "Phonebook"
+  },
+  {
+    "id": "modemENTRY",
+    "Key": "modemENTRY",
+    "Value": "entry"
+  },
+  {
+    "id": "modemNEWENTRY",
+    "Key": "modemNEWENTRY",
+    "Value": "Enter new phone number:"
+  },
+  {
+    "id": "modemCONFIRMDELETE",
+    "Key": "modemCONFIRMDELETE",
+    "Value": "Are you sure you want to delete this entry?"
+  },
+  {
+    "id": "modemREPLACEENTRY_s",
+    "Key": "modemREPLACEENTRY_s",
+    "Value": "Do you wish to replace the entry '%s'?"
+  },
+  {
+    "id": "modemTOOMANYENTRIES",
+    "Key": "modemTOOMANYENTRIES",
+    "Value": "Too many phone book entries. Please delete an entry before adding another."
+  },
+  {
+    "id": "modemINITERROR",
+    "Key": "modemINITERROR",
+    "Value": "An error occurred while trying to initialize the modem."
+  },
+  {
+    "id": "modemNOMODEMS",
+    "Key": "modemNOMODEMS",
+    "Value": "No modems were detected."
+  },
+  {
+    "id": "modemVERSIONERROR",
+    "Key": "modemVERSIONERROR",
+    "Value": "Unable to join the detected game. Your version of StarCraft is incompatible with the game creator's version."
+  },
+  {
+    "id": "modemNOANSWERERROR",
+    "Key": "modemNOANSWERERROR",
+    "Value": "Unable to connect. There was no answer at the number dialed."
+  },
+  {
+    "id": "modemNETWORKERROR",
+    "Key": "modemNETWORKERROR",
+    "Value": "Unable to dial. Either no dial tone was detected or there were problems configuring the modem."
+  },
+  {
+    "id": "modemBUSYERROR",
+    "Key": "modemBUSYERROR",
+    "Value": "Unable to connect. The number dialed was busy."
+  },
+  {
+    "id": "modemOFFERROR",
+    "Key": "modemOFFERROR",
+    "Value": "Unable to detect the modem. Please ensure that your modem is properly installed, turned on, and correctly connected."
+  },
+  {
+    "id": "modemJOINERROR",
+    "Key": "modemJOINERROR",
+    "Value": "Unable to establish a connection. A game of StarCraft was not detected at the specified phone number."
+  },
+  {
+    "id": "modemCONFIRMHANGUP",
+    "Key": "modemCONFIRMHANGUP",
+    "Value": "Are you sure you want to hang up on your current connection?"
+  },
+  {
+    "id": "modemDESCRIPTION",
+    "Key": "modemDESCRIPTION",
+    "Value": "Two players can play StarCraft via Modem. To create a modem game, click on the Create Game button below and your computer will be set to auto answer incoming calls. To join a game that has already been created, select the phone number from the list to the left or enter a new number."
+  },
+  {
+    "id": "modemGAMENAME_u",
+    "Key": "modemGAMENAME_u",
+    "Value": "Game %u"
+  },
+  {
+    "id": "conANSWER",
+    "Key": "conANSWER",
+    "Value": "Answer"
+  },
+  {
+    "id": "conCALL",
+    "Key": "conCALL",
+    "Value": "Call"
+  },
+  {
+    "id": "conMODEM",
+    "Key": "conMODEM",
+    "Value": "Modem"
+  },
+  {
+    "id": "conMODEM_d",
+    "Key": "conMODEM_d",
+    "Value": "Requirements: Each computer will need a properly configured modem connected to a phone line. Modems can be configured by using the Control Panel item called \"Modems\". Each player needs a different phone number."
+  },
+  {
+    "id": "conDIRECT_d",
+    "Key": "conDIRECT_d",
+    "Value": "Requirements: The computers must be linked together using a null-modem cable that is connected to a free serial port on each computer."
+  },
+  {
+    "id": "conIPX_d",
+    "Key": "conIPX_d",
+    "Value": "Requirements: Your computer will need the IPX protocol installed, and it must be connected to your opponents' computers via local-area network cables."
+  },
+  {
+    "id": "conBTLN_d",
+    "Key": "conBTLN_d",
+    "Value": "Requirements: Your computer will need access to the Internet."
+  },
+  {
+    "id": "conSUPPORTED",
+    "Key": "conSUPPORTED",
+    "Value": "Supports up to %d players"
+  },
+  {
+    "id": "conIPX_ext",
+    "Key": "conIPX_ext",
+    "Value": "Local-area networks are commonly used to connect office computers together, but home networks can also be constructed relatively inexpensively. Players connected to a local-area network can play against any other players connected to the same network."
+  },
+  {
+    "id": "conBTLN_ext",
+    "Key": "conBTLN_ext",
+    "Value": "Battle.net is a free Internet gaming service provided by Blizzard Entertainment which allows players to meet up, challenge other players, and join games, all without paying any charges apart from normal Internet connection charges."
+  },
+  {
+    "id": "conMODEM_ext",
+    "Key": "conMODEM_ext",
+    "Value": "Two players can play together by over the telephone by using two modems. One computer is configured to answer its modem, and the other computer is configured to call the first computer."
+  },
+  {
+    "id": "conDIRECT_ext",
+    "Key": "conDIRECT_ext",
+    "Value": "Two players can play by connecting their computers together with a \"null-modem\" cable. One computer is configured to host the game, and the other computer can then join the game."
+  },
+  {
+    "id": "errRETAILCD",
+    "Key": "errRETAILCD",
+    "Value": "Please insert your StarCraft CD into the CD-ROM drive."
+  },
+  {
+    "id": "errBROODWARCD",
+    "Key": "errBROODWARCD",
+    "Value": "Please insert your Brood War CD into the CD-ROM drive."
+  },
+  {
+    "id": "errANYCD",
+    "Key": "errANYCD",
+    "Value": "Please insert either the StarCraft or Brood War CD into the CD-ROM drive."
+  },
+  {
+    "id": "gluSELECTTYPE",
+    "Key": "gluSELECTTYPE",
+    "Value": "Select Game Type"
+  },
+  {
+    "id": "gameTYPEDISABLED",
+    "Key": "gameTYPEDISABLED",
+    "Value": "Unable to create game because the selected game type is currently unavailable."
+  },
+  {
+    "id": "conGatewayInfo",
+    "Key": "conGatewayInfo",
+    "Value": "If the selected Gateway does not best represent your current location, select the correct Gateway for the best possible connection."
+  },
+  {
+    "id": "replayEndGameButton",
+    "Key": "replayEndGameButton",
+    "Value": "xE\\u0004x\\u0001it Replay"
+  },
+  {
+    "id": "conUDP",
+    "Key": "conUDP",
+    "Value": "UDP network"
+  },
+  {
+    "id": "conUDP_d",
+    "Key": "conUDP_d",
+    "Value": "Requirements: All computers must be connected to a TCP/IP compatible network."
+  },
+  {
+    "id": "conUDP_ext",
+    "Key": "conUDP_ext",
+    "Value": "Local-area networks are commonly used to connect office computers together, but home networks can also be constructed relatively inexpensively. Players connected to a local-area network can play against any other players connected to the same network."
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_keyboard",
+    "Key": "bnet119_optionsPanel_game_subtitle_keyboard",
+    "Value": "Keyboard Input"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_universalAccess_dialog_title",
+    "Key": "bnet119_optionsPanel_game_universalAccess_dialog_title",
+    "Value": "Universal Access Required"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_universalAccess_dialog_body",
+    "Key": "bnet119_optionsPanel_game_universalAccess_dialog_body",
+    "Value": "In order to use this option, you must grant access to StarCraft in Security & Privacy preferences, located in System Preferences. Would you like to open System Preferences now?"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_universalAccess_dialog_ok",
+    "Key": "bnet119_optionsPanel_game_universalAccess_dialog_ok",
+    "Value": "Open"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_universalAccess_dialog_cancel",
+    "Key": "bnet119_optionsPanel_game_universalAccess_dialog_cancel",
+    "Value": "Cancel"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_standardFunctionKeys",
+    "Key": "bnet119_optionsPanel_game_label_standardFunctionKeys",
+    "Value": "Use standard function keys"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_description",
+    "Key": "bnet_chat_commandHelp_options_description",
+    "Value": "Change messaging options"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_ignore_description",
+    "Key": "bnet_chat_commandHelp_options_ignore_description",
+    "Value": "Ignore whispers from anyone who isn't in your friends list"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_unignore_description",
+    "Key": "bnet_chat_commandHelp_options_unignore_description",
+    "Value": "Allow whispers from anyone who isn't in your friends list"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_ignorepublic_description",
+    "Key": "bnet_chat_commandHelp_options_ignorepublic_description",
+    "Value": "Ignore messages in public chat channels from anyone who isn't in your friends list"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_unignorepublic_description",
+    "Key": "bnet_chat_commandHelp_options_unignorepublic_description",
+    "Value": "Allow messages in public chat channels from anyone who isn't in your friends list"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_ignoreprivate_description",
+    "Key": "bnet_chat_commandHelp_options_ignoreprivate_description",
+    "Value": "Ignore messages in private chat channels from anyone who isn't in your friends list"
+  },
+  {
+    "id": "bnet_chat_commandHelp_options_unignoreprivate_description",
+    "Key": "bnet_chat_commandHelp_options_unignoreprivate_description",
+    "Value": "Allow messages in private chat channels from anyone who isn't in your friends list"
+  },
+  {
+    "id": "bnet_chat_options_MuteWhispersFromNonFriends",
+    "Key": "bnet_chat_options_MuteWhispersFromNonFriends",
+    "Value": "Ignoring whispers from non-friends."
+  },
+  {
+    "id": "bnet_chat_options_UnmuteWhispersFromNonFriends",
+    "Key": "bnet_chat_options_UnmuteWhispersFromNonFriends",
+    "Value": "Allowing whispers from non-friends."
+  },
+  {
+    "id": "bnet_chat_options_MutePublicChatFromNonFriends",
+    "Key": "bnet_chat_options_MutePublicChatFromNonFriends",
+    "Value": "Ignoring public chat from non-friends."
+  },
+  {
+    "id": "bnet_chat_options_UnmutePublicChatFromNonFriends",
+    "Key": "bnet_chat_options_UnmutePublicChatFromNonFriends",
+    "Value": "Allowing public chat from non-friends."
+  },
+  {
+    "id": "bnet_chat_options_MutePrivateChatFromNonFriends",
+    "Key": "bnet_chat_options_MutePrivateChatFromNonFriends",
+    "Value": "Ignoring private chat from non-friends."
+  },
+  {
+    "id": "bnet_chat_options_UnmutePrivateChatFromNonFriends",
+    "Key": "bnet_chat_options_UnmutePrivateChatFromNonFriends",
+    "Value": "Allowing private chat from non-friends."
+  },
+  {
+    "id": "bnet119_home_ad_purchaseNow",
+    "Key": "bnet119_home_ad_purchaseNow",
+    "Value": "PURCHASE NOW"
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_spam_description",
+    "Key": "bnet_chat_commandHelp_report_spam_description",
+    "Value": "Report ACCOUNTNAME for spamming the channel you are currently in"
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_harassment_description",
+    "Key": "bnet_chat_commandHelp_report_harassment_description",
+    "Value": "Report ACCOUNTNAME for harassment"
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_cheating_description",
+    "Key": "bnet_chat_commandHelp_report_cheating_description",
+    "Value": "Report ACCOUNTNAME for cheating in GAMENAME"
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_accountName_description",
+    "Key": "bnet_chat_commandHelp_report_accountName_description",
+    "Value": "Report ACCOUNTNAME for an offensive account name"
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_battleTag_description",
+    "Key": "bnet_chat_commandHelp_report_battleTag_description",
+    "Value": "Report ACCOUNTNAME for an offensive BattleTag™"
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_gameName_description",
+    "Key": "bnet_chat_commandHelp_report_gameName_description",
+    "Value": "Report ACCOUNTNAME for an offensive game name"
+  },
+  {
+    "id": "bnet119_registry_empty",
+    "Key": "bnet119_registry_empty",
+    "Value": "Select 'New' to create a character."
+  },
+  {
+    "id": "optionsPanel_speed_hardwareCursor_label",
+    "Key": "optionsPanel_speed_hardwareCursor_label",
+    "Value": "Hardware Cursor"
+  },
+  {
+    "id": "bnet119_matchmakingScreen_error_noGameModes",
+    "Key": "bnet119_matchmakingScreen_error_noGameModes",
+    "Value": "Could not get game modes."
+  },
+  {
+    "id": "bnet119_matchmakingScreen_error_noMapList",
+    "Key": "bnet119_matchmakingScreen_error_noMapList",
+    "Value": "Unable to download map list."
+  },
+  {
+    "id": "bnet_chat_options_status_whispers_muted",
+    "Key": "bnet_chat_options_status_whispers_muted",
+    "Value": "Allowing private messages from non-friends."
+  },
+  {
+    "id": "bnet_chat_options_status_whispers_unmuted",
+    "Key": "bnet_chat_options_status_whispers_unmuted",
+    "Value": "Not allowing private messages from non-friends."
+  },
+  {
+    "id": "bnet_chat_options_status_publicChat_muted",
+    "Key": "bnet_chat_options_status_publicChat_muted",
+    "Value": "Allowing messages from non-friends in public channels."
+  },
+  {
+    "id": "bnet_chat_options_status_publicChat_unmuted",
+    "Key": "bnet_chat_options_status_publicChat_unmuted",
+    "Value": "Not allowing messages from non-friends in public channels."
+  },
+  {
+    "id": "bnet_chat_options_status_privateChat_muted",
+    "Key": "bnet_chat_options_status_privateChat_muted",
+    "Value": "Allowing messages from non-friends in private channels."
+  },
+  {
+    "id": "bnet_chat_options_status_privateChat_unmuted",
+    "Key": "bnet_chat_options_status_privateChat_unmuted",
+    "Value": "Not allowing messages from non-friends in private channels."
+  },
+  {
+    "id": "optionsPanel_speed_hardwareCursor_tooltip",
+    "Key": "optionsPanel_speed_hardwareCursor_tooltip",
+    "Value": "Not available when using mouse scaling"
+  },
+  {
+    "id": "bnet118_login_title",
+    "Key": "bnet118_login_title",
+    "Value": "Login"
+  },
+  {
+    "id": "bnet118_login_newAccount",
+    "Key": "bnet118_login_newAccount",
+    "Value": "n\\u0004N\\u0001ew Account"
+  },
+  {
+    "id": "bnet118_login_changePassword",
+    "Key": "bnet118_login_changePassword",
+    "Value": "pChange \\u0004P\\u0001assword"
+  },
+  {
+    "id": "bnet118_login_recoverPassword",
+    "Key": "bnet118_login_recoverPassword",
+    "Value": "r\\u0004R\\u0001ecover Password"
+  },
+  {
+    "id": "bnet118_login_changeEmail",
+    "Key": "bnet118_login_changeEmail",
+    "Value": "eChange \\u0004E\\u0001mail"
+  },
+  {
+    "id": "bnet_chat_legacyChatDisconnectNotification",
+    "Key": "bnet_chat_legacyChatDisconnectNotification",
+    "Value": "Disconnected from chat server."
+  },
+  {
+    "id": "bnet_passwordPanel_passwordRequired",
+    "Key": "bnet_passwordPanel_passwordRequired",
+    "Value": "Password Required"
+  },
+  {
+    "id": "bnet_passwordPanel_enterPasswordInfo",
+    "Key": "bnet_passwordPanel_enterPasswordInfo",
+    "Value": "Enter the password to join this game"
+  },
+  {
+    "id": "bnet_participantsPanel_channel",
+    "Key": "bnet_participantsPanel_channel",
+    "Value": "Channel"
+  },
+  {
+    "id": "infoPanel_recentGames",
+    "Key": "infoPanel_recentGames",
+    "Value": "Recent Games"
+  },
+  {
+    "id": "infoPane_startingIn",
+    "Key": "infoPane_startingIn",
+    "Value": "Starting in"
+  },
+  {
+    "id": "searchGameScreen_openGames",
+    "Key": "searchGameScreen_openGames",
+    "Value": "mOpen Ga\\u0004m\\u0001es"
+  },
+  {
+    "id": "searchGameScreen_popularGames",
+    "Key": "searchGameScreen_popularGames",
+    "Value": "p\\u0004P\\u0001opular Games"
+  },
+  {
+    "id": "lobbyScreen_zerg",
+    "Key": "lobbyScreen_zerg",
+    "Value": "Zerg"
+  },
+  {
+    "id": "lobbyScreen_terran",
+    "Key": "lobbyScreen_terran",
+    "Value": "Terran"
+  },
+  {
+    "id": "lobbyScreen_protoss",
+    "Key": "lobbyScreen_protoss",
+    "Value": "Protoss"
+  },
+  {
+    "id": "lobbyScreen_random",
+    "Key": "lobbyScreen_random",
+    "Value": "Random"
+  },
+  {
+    "id": "lobbyScreen_selectRace",
+    "Key": "lobbyScreen_selectRace",
+    "Value": "Select Race"
+  },
+  {
+    "id": "lobbyScreen_open",
+    "Key": "lobbyScreen_open",
+    "Value": "Open"
+  },
+  {
+    "id": "lobbyScreen_closed",
+    "Key": "lobbyScreen_closed",
+    "Value": "Closed"
+  },
+  {
+    "id": "lobbyScreen_computer",
+    "Key": "lobbyScreen_computer",
+    "Value": "Computer"
+  },
+  {
+    "id": "lobbyScreen_makeGamePublic",
+    "Key": "lobbyScreen_makeGamePublic",
+    "Value": "Make Game Public"
+  },
+  {
+    "id": "lobbyScreen_banPlayer",
+    "Key": "lobbyScreen_banPlayer",
+    "Value": "Ban Player"
+  },
+  {
+    "id": "lobbyScreen_moveTo",
+    "Key": "lobbyScreen_moveTo",
+    "Value": "Move to"
+  },
+  {
+    "id": "lobbyScreen_switchWith",
+    "Key": "lobbyScreen_switchWith",
+    "Value": "Switch with"
+  },
+  {
+    "id": "lobbyScreen_Random",
+    "Key": "lobbyScreen_Random",
+    "Value": "Random"
+  },
+  {
+    "id": "lobbyScreen_Pink",
+    "Key": "lobbyScreen_Pink",
+    "Value": "Pink"
+  },
+  {
+    "id": "lobbyScreen_Red",
+    "Key": "lobbyScreen_Red",
+    "Value": "Red"
+  },
+  {
+    "id": "lobbyScreen_Tan",
+    "Key": "lobbyScreen_Tan",
+    "Value": "Tan"
+  },
+  {
+    "id": "lobbyScreen_Orange",
+    "Key": "lobbyScreen_Orange",
+    "Value": "Orange"
+  },
+  {
+    "id": "lobbyScreen_Brown",
+    "Key": "lobbyScreen_Brown",
+    "Value": "Brown"
+  },
+  {
+    "id": "lobbyScreen_PaleYellow",
+    "Key": "lobbyScreen_PaleYellow",
+    "Value": "Pale Yellow"
+  },
+  {
+    "id": "lobbyScreen_Yellow",
+    "Key": "lobbyScreen_Yellow",
+    "Value": "Yellow"
+  },
+  {
+    "id": "lobbyScreen_Olive",
+    "Key": "lobbyScreen_Olive",
+    "Value": "Olive"
+  },
+  {
+    "id": "lobbyScreen_Lime",
+    "Key": "lobbyScreen_Lime",
+    "Value": "Lime"
+  },
+  {
+    "id": "lobbyScreen_PaleGreen",
+    "Key": "lobbyScreen_PaleGreen",
+    "Value": "Pale Green"
+  },
+  {
+    "id": "lobbyScreen_Green",
+    "Key": "lobbyScreen_Green",
+    "Value": "Green"
+  },
+  {
+    "id": "lobbyScreen_Cyan",
+    "Key": "lobbyScreen_Cyan",
+    "Value": "Cyan"
+  },
+  {
+    "id": "lobbyScreen_Teal",
+    "Key": "lobbyScreen_Teal",
+    "Value": "Teal"
+  },
+  {
+    "id": "lobbyScreen_Blue",
+    "Key": "lobbyScreen_Blue",
+    "Value": "Blue"
+  },
+  {
+    "id": "lobbyScreen_Navy",
+    "Key": "lobbyScreen_Navy",
+    "Value": "Navy"
+  },
+  {
+    "id": "lobbyScreen_DarkAqua",
+    "Key": "lobbyScreen_DarkAqua",
+    "Value": "Dark Aqua"
+  },
+  {
+    "id": "lobbyScreen_BluishGrey",
+    "Key": "lobbyScreen_BluishGrey",
+    "Value": "Bluish Grey"
+  },
+  {
+    "id": "lobbyScreen_Purple",
+    "Key": "lobbyScreen_Purple",
+    "Value": "Purple"
+  },
+  {
+    "id": "lobbyScreen_Magenta",
+    "Key": "lobbyScreen_Magenta",
+    "Value": "Magenta"
+  },
+  {
+    "id": "lobbyScreen_White",
+    "Key": "lobbyScreen_White",
+    "Value": "White"
+  },
+  {
+    "id": "lobbyScreen_Grey",
+    "Key": "lobbyScreen_Grey",
+    "Value": "Grey"
+  },
+  {
+    "id": "lobbyScreen_Black",
+    "Key": "lobbyScreen_Black",
+    "Value": "Black"
+  },
+  {
+    "id": "ngdp_read_failure_title",
+    "Key": "ngdp_read_failure_title",
+    "Value": "Read Error"
+  },
+  {
+    "id": "ngdp_read_failure_message",
+    "Key": "ngdp_read_failure_message",
+    "Value": "Error reading game data"
+  },
+  {
+    "id": "bnet_chat_legacyProtocolDisconnectNotification",
+    "Key": "bnet_chat_legacyProtocolDisconnectNotification",
+    "Value": "Disconnected from server."
+  },
+  {
+    "id": "bnet_errorPopup_body",
+    "Key": "bnet_errorPopup_body",
+    "Value": "Error %s"
+  },
+  {
+    "id": "hotkeyPane_command",
+    "Key": "hotkeyPane_command",
+    "Value": "Command"
+  },
+  {
+    "id": "hotkey_profile_custom",
+    "Key": "hotkey_profile_custom",
+    "Value": "Custom"
+  },
+  {
+    "id": "bnet118_login_error_LE_InUse",
+    "Key": "bnet118_login_error_LE_InUse",
+    "Value": "The specified profile is already in use. Please select another."
+  },
+  {
+    "id": "bnet_chat_joinChannel_timeout",
+    "Key": "bnet_chat_joinChannel_timeout",
+    "Value": "Request Timeout."
+  },
+  {
+    "id": "bnet_chat_addFriend_timeout",
+    "Key": "bnet_chat_addFriend_timeout",
+    "Value": "The friend request timed out."
+  },
+  {
+    "id": "upgrader_popup_mainMenuButton",
+    "Key": "upgrader_popup_mainMenuButton",
+    "Value": "m\\u0004M\\u0001ain menu"
+  },
+  {
+    "id": "upgrader_confirmPopup_knownVersion_title",
+    "Key": "upgrader_confirmPopup_knownVersion_title",
+    "Value": "An upgrade to version %s is available! It is required for online play."
+  },
+  {
+    "id": "upgrader_confirmPopup_unknownVersion_title",
+    "Key": "upgrader_confirmPopup_unknownVersion_title",
+    "Value": "An update is available! It is required for online play."
+  },
+  {
+    "id": "upgrader_confirmPopup_confirmButton",
+    "Key": "upgrader_confirmPopup_confirmButton",
+    "Value": "u\\u0004U\\u0001pgrade"
+  },
+  {
+    "id": "bnet_aurora_error_prefix",
+    "Key": "bnet_aurora_error_prefix",
+    "Value": "Failed to make initial server connection"
+  },
+  {
+    "id": "hotkey_keybindPopup_title",
+    "Key": "hotkey_keybindPopup_title",
+    "Value": "Keybind: %s"
+  },
+  {
+    "id": "selectConnectionScreen_upgradeNotice",
+    "Key": "selectConnectionScreen_upgradeNotice",
+    "Value": "An upgrade is required before you can play online. Click Upgrade to begin the installation."
+  },
+  {
+    "id": "bnet_chat_addFriend_addSelf",
+    "Key": "bnet_chat_addFriend_addSelf",
+    "Value": "You can't add yourself to your friends list."
+  },
+  {
+    "id": "bnet_chat_channel_disabled",
+    "Key": "bnet_chat_channel_disabled",
+    "Value": "Chat is disabled for this channel."
+  },
+  {
+    "id": "bnet_chat_command_url",
+    "Key": "bnet_chat_command_url",
+    "Value": "You can copy and paste URLs from the channel messages."
+  },
+  {
+    "id": "bnet118_login_error_CE_FailedToConnect",
+    "Key": "bnet118_login_error_CE_FailedToConnect",
+    "Value": "There's a problem connecting to the server right now. Please wait a few minutes and try again."
+  },
+  {
+    "id": "bnet_error_transport",
+    "Key": "bnet_error_transport",
+    "Value": "Please check your network connection and try again."
+  },
+  {
+    "id": "bnet_error_classicServer_CE_InternalError",
+    "Key": "bnet_error_classicServer_CE_InternalError",
+    "Value": "There's a problem connecting to the server right now. Please wait a few minutes and try again."
+  },
+  {
+    "id": "bnet_advertisement_error_generalPrefix",
+    "Key": "bnet_advertisement_error_generalPrefix",
+    "Value": "Failed to advertise the game."
+  },
+  {
+    "id": "bnet_advertisement_error_EC_TimedOut",
+    "Key": "bnet_advertisement_error_EC_TimedOut",
+    "Value": "Timed out while trying to advertise the game."
+  },
+  {
+    "id": "bnet_advertisement_error_EC_InternalError",
+    "Key": "bnet_advertisement_error_EC_InternalError",
+    "Value": "Connection lost while trying to advertise the game."
+  },
+  {
+    "id": "bnet_chat_addFriend_error_CE_DuplicateFriend",
+    "Key": "bnet_chat_addFriend_error_CE_DuplicateFriend",
+    "Value": "You're already friends with that user."
+  },
+  {
+    "id": "bnet_chat_commandHelpListMoreInfo_topic",
+    "Key": "bnet_chat_commandHelpListMoreInfo_topic",
+    "Value": "Type /help TOPIC for information about a specific topic."
+  },
+  {
+    "id": "bnet_chat_commandHelpListMoreInfo_command",
+    "Key": "bnet_chat_commandHelpListMoreInfo_command",
+    "Value": "Type /help COMMAND for information about a specific command."
+  },
+  {
+    "id": "bnet_chat_commandHelp_basicCommands_title",
+    "Key": "bnet_chat_commandHelp_basicCommands_title",
+    "Value": "Basic chat commands:"
+  },
+  {
+    "id": "bnet_chat_commandHelp_advancedCommands_title",
+    "Key": "bnet_chat_commandHelp_advancedCommands_title",
+    "Value": "Advanced chat commands:"
+  },
+  {
+    "id": "bnet_chat_commandHelp_commandAliases_title",
+    "Key": "bnet_chat_commandHelp_commandAliases_title",
+    "Value": "Command aliases:"
+  },
+  {
+    "id": "bnet_chat_commandHelp_channel_description",
+    "Key": "bnet_chat_commandHelp_channel_description",
+    "Value": "Join channel CHANNELNAME"
+  },
+  {
+    "id": "bnet_chat_commandHelp_ignore_description",
+    "Key": "bnet_chat_commandHelp_ignore_description",
+    "Value": "Stop receiving messages from ACCOUNTNAME"
+  },
+  {
+    "id": "bnet_chat_commandHelp_unignore_description",
+    "Key": "bnet_chat_commandHelp_unignore_description",
+    "Value": "Start receiving messages from ACCOUNTNAME"
+  },
+  {
+    "id": "bnet_fish_terms_title",
+    "Key": "bnet_fish_terms_title",
+    "Value": "Fish Terms of Use"
+  },
+  {
+    "id": "bnet_error_notConnected",
+    "Key": "bnet_error_notConnected",
+    "Value": "Not connected to the server."
+  },
+  {
+    "id": "bnet_chat_removeFriend_error_notFriends",
+    "Key": "bnet_chat_removeFriend_error_notFriends",
+    "Value": "You are not friends with that user."
+  },
+  {
+    "id": "bnet118_login_error_FE_SecurePhoneDisabled",
+    "Key": "bnet118_login_error_FE_SecurePhoneDisabled",
+    "Value": "Secure by phone disabled."
+  },
+  {
+    "id": "bnet118_login_error_FE_PhoneFailure",
+    "Key": "bnet118_login_error_FE_PhoneFailure",
+    "Value": "Phone login failed."
+  },
+  {
+    "id": "bnet118_login_error_FE_IncorrectPhone",
+    "Key": "bnet118_login_error_FE_IncorrectPhone",
+    "Value": "Unregistered phone."
+  },
+  {
+    "id": "searchGameScreen_filterSettings",
+    "Key": "searchGameScreen_filterSettings",
+    "Value": "Filter Settings"
+  },
+  {
+    "id": "searchGameScreen_showPrivateGames",
+    "Key": "searchGameScreen_showPrivateGames",
+    "Value": "Show Private Games"
+  },
+  {
+    "id": "searchGameScreen_filter",
+    "Key": "searchGameScreen_filter",
+    "Value": "f\\u0004F\\u0001ilter"
+  },
+  {
+    "id": "searchGameScreen_searchCustomGames",
+    "Key": "searchGameScreen_searchCustomGames",
+    "Value": "Search custom games"
+  },
+  {
+    "id": "searchGameScreen_create",
+    "Key": "searchGameScreen_create",
+    "Value": "rC\\u0004r\\u0001eate"
+  },
+  {
+    "id": "searchGameScreen_created",
+    "Key": "searchGameScreen_created",
+    "Value": "Created"
+  },
+  {
+    "id": "searchGameScreen_acceptablePing",
+    "Key": "searchGameScreen_acceptablePing",
+    "Value": "Lowest Acceptable Ping"
+  },
+  {
+    "id": "searchGameScreen_maxPlayerCount",
+    "Key": "searchGameScreen_maxPlayerCount",
+    "Value": "Lowest Max Player Count"
+  },
+  {
+    "id": "searchGameScreen_filterGamesError",
+    "Key": "searchGameScreen_filterGamesError",
+    "Value": "Unable to find games that match your search settings."
+  },
+  {
+    "id": "searchGameScreen_showReplayGames",
+    "Key": "searchGameScreen_showReplayGames",
+    "Value": "Show Replay Games"
+  },
+  {
+    "id": "searchGameScreen_results",
+    "Key": "searchGameScreen_results",
+    "Value": "Results"
+  },
+  {
+    "id": "bnet_participantsPanel_statusAway",
+    "Key": "bnet_participantsPanel_statusAway",
+    "Value": "Away"
+  },
+  {
+    "id": "bnet_participantsPanel_statusBusy",
+    "Key": "bnet_participantsPanel_statusBusy",
+    "Value": "Busy"
+  },
+  {
+    "id": "bnet119_chat_auroraChat_error_AE_NotificationUndeliverable",
+    "Key": "bnet119_chat_auroraChat_error_AE_NotificationUndeliverable",
+    "Value": "That user is offline."
+  },
+  {
+    "id": "bnet119_chat_auroraChat_error_AE_FriendshipAlreadyExists",
+    "Key": "bnet119_chat_auroraChat_error_AE_FriendshipAlreadyExists",
+    "Value": "You are already friends with that user."
+  },
+  {
+    "id": "video_toggle_subtitles_hotkey",
+    "Key": "video_toggle_subtitles_hotkey",
+    "Value": "s"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_joinLobby",
+    "Key": "bnet119_chatPanel_contextMenu_joinLobby",
+    "Value": "Join Lobby"
+  },
+  {
+    "id": "bnet119_chat_auroraChat_error_AE_FriendInvitationExists",
+    "Key": "bnet119_chat_auroraChat_error_AE_FriendInvitationExists",
+    "Value": "A friendship invitation with that user already exists."
+  },
+  {
+    "id": "bnet119_matchmakingSearch_elapsedTime",
+    "Key": "bnet119_matchmakingSearch_elapsedTime",
+    "Value": "Elapsed Time"
+  },
+  {
+    "id": "bnet_participantsPanel_addFriend",
+    "Key": "bnet_participantsPanel_addFriend",
+    "Value": "a\\u0004A\\u0001dd Friend"
+  },
+  {
+    "id": "bnet_participantsPanel_joinChannel",
+    "Key": "bnet_participantsPanel_joinChannel",
+    "Value": "hJoin C\\u0004h\\u0001annel"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_mouseScaling",
+    "Key": "bnet119_optionsPanel_speed_label_mouseScaling",
+    "Value": "Use Mouse Scaling"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_portraits",
+    "Key": "bnet119_optionsPanel_game_label_portraits",
+    "Value": "Portraits"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_display",
+    "Key": "bnet119_optionsPanel_game_label_display",
+    "Value": "Display"
+  },
+  {
+    "id": "bnet119_chat_auroraChat_error_AE_FriendshipIsSelf",
+    "Key": "bnet119_chat_auroraChat_error_AE_FriendshipIsSelf",
+    "Value": "You can't send a friend request to yourself."
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_gameSubtitles",
+    "Key": "bnet119_optionsPanel_sound_label_gameSubtitles",
+    "Value": "Game Subtitles"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_cinematicSubtitles",
+    "Key": "bnet119_optionsPanel_sound_label_cinematicSubtitles",
+    "Value": "Cinematic Subtitles"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_originalUnitVO",
+    "Key": "bnet119_optionsPanel_sound_label_originalUnitVO",
+    "Value": "Original Unit Voice Overs"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_originalCampaignVO",
+    "Key": "bnet119_optionsPanel_sound_label_originalCampaignVO",
+    "Value": "Original 1998 Campaign"
+  },
+  {
+    "id": "createGameScreen_enabled",
+    "Key": "createGameScreen_enabled",
+    "Value": "Enabled"
+  },
+  {
+    "id": "createGameScreen_disabled",
+    "Key": "createGameScreen_disabled",
+    "Value": "Disabled"
+  },
+  {
+    "id": "createGameScreen_customHotkeys",
+    "Key": "createGameScreen_customHotkeys",
+    "Value": "Custom Hotkeys"
+  },
+  {
+    "id": "bnet_matchmaking_generalError",
+    "Key": "bnet_matchmaking_generalError",
+    "Value": "An error occurred while trying to find a match."
+  },
+  {
+    "id": "bnet_chat_commandHelp_report_description",
+    "Key": "bnet_chat_commandHelp_report_description",
+    "Value": "Report ACCOUNTNAME for REASON"
+  },
+  {
+    "id": "bnet_reportUser_succeeded",
+    "Key": "bnet_reportUser_succeeded",
+    "Value": "User has been reported."
+  },
+  {
+    "id": "bnet_reportUser_failed",
+    "Key": "bnet_reportUser_failed",
+    "Value": "Failed to report user."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_smoothAnimations",
+    "Key": "bnet119_optionsPanel_video_label_smoothAnimations",
+    "Value": "Smooth Unit Turning"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_aspect_ratio_widescreen",
+    "Key": "bnet119_optionsPanel_video_label_aspect_ratio_widescreen",
+    "Value": "Widescreen"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_aspect_ratio_letterbox",
+    "Key": "bnet119_optionsPanel_video_label_aspect_ratio_letterbox",
+    "Value": "Pillarbox"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_deDE",
+    "Key": "bnet119_optionsPanel_language_deDE",
+    "Value": "Deutsch"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_enUS",
+    "Key": "bnet119_optionsPanel_language_enUS",
+    "Value": "English"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_esES",
+    "Key": "bnet119_optionsPanel_language_esES",
+    "Value": "Español - España"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_frFR",
+    "Key": "bnet119_optionsPanel_language_frFR",
+    "Value": "Français"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_itIT",
+    "Key": "bnet119_optionsPanel_language_itIT",
+    "Value": "Italiano"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_jaJP",
+    "Key": "bnet119_optionsPanel_language_jaJP",
+    "Value": "日本語"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_koKR",
+    "Key": "bnet119_optionsPanel_language_koKR",
+    "Value": "한국어 (음역)"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_NOLA",
+    "Key": "bnet119_optionsPanel_language_NOLA",
+    "Value": "한국어 (완역)"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_plPL",
+    "Key": "bnet119_optionsPanel_language_plPL",
+    "Value": "Polski"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_ptBR",
+    "Key": "bnet119_optionsPanel_language_ptBR",
+    "Value": "Português"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_ruRU",
+    "Key": "bnet119_optionsPanel_language_ruRU",
+    "Value": "Русский"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_zhCN",
+    "Key": "bnet119_optionsPanel_language_zhCN",
+    "Value": "简体中文"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_zhTW",
+    "Key": "bnet119_optionsPanel_language_zhTW",
+    "Value": "繁體中文"
+  },
+  {
+    "id": "bnet_participantsPanel_reportUser",
+    "Key": "bnet_participantsPanel_reportUser",
+    "Value": "Report User"
+  },
+  {
+    "id": "chatPlayerJoinedChannel_bnet",
+    "Key": "chatPlayerJoinedChannel_bnet",
+    "Value": "{toonName} has joined {channelName}."
+  },
+  {
+    "id": "chatPlayerLeftChannel_bnet",
+    "Key": "chatPlayerLeftChannel_bnet",
+    "Value": "{toonName} has left {channelName}."
+  },
+  {
+    "id": "chatPlayerJoinedChannel_lan",
+    "Key": "chatPlayerJoinedChannel_lan",
+    "Value": "{toonName} has joined the LAN."
+  },
+  {
+    "id": "chatPlayerLeftChannel_lan",
+    "Key": "chatPlayerLeftChannel_lan",
+    "Value": "{toonName} has left the LAN."
+  },
+  {
+    "id": "bnet_featureError_HdRequired",
+    "Key": "bnet_featureError_HdRequired",
+    "Value": "This feature is only available for StarCraft: Remastered. Buy it now to unlock this feature!"
+  },
+  {
+    "id": "bnet_featureError_OfficialGatewayRequired",
+    "Key": "bnet_featureError_OfficialGatewayRequired",
+    "Value": "This feature is only available on an official Blizzard gateway."
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_mac",
+    "Key": "bnet119_optionsPanel_game_subtitle_mac",
+    "Value": "Mac"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_disableOsShortcuts",
+    "Key": "bnet119_optionsPanel_game_label_disableOsShortcuts",
+    "Value": "Disable OS Keyboard Shortcuts"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_UseCmdAsCtrl",
+    "Key": "bnet119_optionsPanel_game_label_UseCmdAsCtrl",
+    "Value": "Use Command instead of Control for hotkeys"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_shadowStacking",
+    "Key": "bnet119_optionsPanel_video_label_shadowStacking",
+    "Value": "Shadow Stacking"
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_NotAvailable",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_NotAvailable",
+    "Value": "There's a problem connecting to the server right now. Please wait a few minutes and try again."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_NoGameAccount",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_NoGameAccount",
+    "Value": "You are not old enough to play online."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_filtering",
+    "Key": "bnet119_optionsPanel_video_tooltip_filtering",
+    "Value": "Only applicable in SD mode. Bilinear filtering will smooth sprites to reduce hard or jagged edges."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_NoUtilityServer",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_NoUtilityServer",
+    "Value": "There's a problem connecting to the server right now. Please wait a few minutes and try again."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_TimeRestriction",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_TimeRestriction",
+    "Value": "You have either been playing too long or you are not permitted to play at this time of day."
+  },
+  {
+    "id": "bnet_chat_whisper_invalidUser",
+    "Key": "bnet_chat_whisper_invalidUser",
+    "Value": "Invalid user."
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_tooltip_mouseScaling",
+    "Key": "bnet119_optionsPanel_speed_tooltip_mouseScaling",
+    "Value": "Mouse scaling replicates StarCraft's original screen resolution input distance."
+  },
+  {
+    "id": "bnet119_optionsPanel_language_esMX",
+    "Key": "bnet119_optionsPanel_language_esMX",
+    "Value": "Español - Latino"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_tooltip_mouseSensitivity",
+    "Key": "bnet119_optionsPanel_speed_tooltip_mouseSensitivity",
+    "Value": "Turn off to use your operating system's mouse speed setting."
+  },
+  {
+    "id": "observerScreen_tooltip_map",
+    "Key": "observerScreen_tooltip_map",
+    "Value": "Toggle Display of the Minimap."
+  },
+  {
+    "id": "observerScreen_tooltip_map_hotkey",
+    "Key": "observerScreen_tooltip_map_hotkey",
+    "Value": "Alt + I|Q"
+  },
+  {
+    "id": "observerScreen_tooltip_factory",
+    "Key": "observerScreen_tooltip_factory",
+    "Value": "Toggle Display of the Production Panel."
+  },
+  {
+    "id": "observerScreen_tooltip_factory_hotkey",
+    "Key": "observerScreen_tooltip_factory_hotkey",
+    "Value": "Alt + F"
+  },
+  {
+    "id": "observerScreen_tooltip_unit",
+    "Key": "observerScreen_tooltip_unit",
+    "Value": "Toggle Display of the Unit Panel."
+  },
+  {
+    "id": "observerScreen_tooltip_unit_hotkey",
+    "Key": "observerScreen_tooltip_unit_hotkey",
+    "Value": "Alt + U|W"
+  },
+  {
+    "id": "observerScreen_tooltip_stats",
+    "Key": "observerScreen_tooltip_stats",
+    "Value": "Toggle Display of the Statistics Panel."
+  },
+  {
+    "id": "observerScreen_tooltip_stats_hotkey",
+    "Key": "observerScreen_tooltip_stats_hotkey",
+    "Value": "Alt + E|E"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_language_description",
+    "Key": "bnet119_optionsPanel_game_language_description",
+    "Value": "Changing language will require a game restart to take effect"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_windowMode_windows",
+    "Key": "bnet119_optionsPanel_video_tooltip_windowMode_windows",
+    "Value": "Pressing Alt+Enter also toggles Windowed mode."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_windowMode_mac",
+    "Key": "bnet119_optionsPanel_video_tooltip_windowMode_mac",
+    "Value": "Pressing Cmd+M also toggles Windowed mode."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_gamma",
+    "Key": "bnet119_optionsPanel_video_tooltip_gamma",
+    "Value": "Fullscreen must be active to adjust gamma. Gamma can be adjusted to change the light intensity."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_environmentEffects",
+    "Key": "bnet119_optionsPanel_video_tooltip_environmentEffects",
+    "Value": "Environment Effects are small objects added to better randomize the appearance of the terrain in game."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_realTimeLighting_disabled",
+    "Key": "bnet119_optionsPanel_video_tooltip_realTimeLighting_disabled",
+    "Value": "Real-time lighting requires hardware with greater than 2 GB of VRAM, and is disabled when using the Cartooned skin."
+  },
+  {
+    "id": "bnet119_optionsPanel_video_tooltip_realTimeLighting_enabled",
+    "Key": "bnet119_optionsPanel_video_tooltip_realTimeLighting_enabled",
+    "Value": "Casts dynamic light across units, buildings, and terrain based on light sources."
+  },
+  {
+    "id": "bnet119_page_load_error",
+    "Key": "bnet119_page_load_error",
+    "Value": "Unable to load page."
+  },
+  {
+    "id": "bnet119_optionsPanel_language_koUS",
+    "Key": "bnet119_optionsPanel_language_koUS",
+    "Value": "한국어 (완역)"
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_SessionNotFound",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_SessionNotFound",
+    "Value": "You have either been playing too long or you are not permitted to play at this time of day."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_ParentalRestricted",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_ParentalRestricted",
+    "Value": "You have either been playing too long or you are not permitted to play at this time of day."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_CaisPlaytimeExceeded",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_CaisPlaytimeExceeded",
+    "Value": "You can't login due to regulatory minor game time restrictions. Please be advised to keep a balanced and healthy lifestyle while playing video games. Learn more at https://www.battlenet.com.cn/support/zh/article/210633."
+  },
+  {
+    "id": "bnet118_fakeAuroraAuthentication_error_AE_CaisCurfew",
+    "Key": "bnet118_fakeAuroraAuthentication_error_AE_CaisCurfew",
+    "Value": "You can't login due to regulatory minor game time restrictions. Please be advised to keep a balanced and healthy lifestyle while playing video games. Learn more at https://www.battlenet.com.cn/support/zh/article/210633."
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_speed_settings",
+    "Key": "bnet119_optionsPanel_reset_speed_settings",
+    "Value": "Reset speed settings?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_sound_settings",
+    "Key": "bnet119_optionsPanel_reset_sound_settings",
+    "Value": "Reset sound settings?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_video_settings",
+    "Key": "bnet119_optionsPanel_reset_video_settings",
+    "Value": "Reset video settings?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_game_settings",
+    "Key": "bnet119_optionsPanel_reset_game_settings",
+    "Value": "Reset game settings?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_network_settings",
+    "Key": "bnet119_optionsPanel_reset_network_settings",
+    "Value": "Reset network settings?"
+  },
+  {
+    "id": "bnet119_optionsPanel_reset_debug_settings",
+    "Key": "bnet119_optionsPanel_reset_debug_settings",
+    "Value": "Reset debug settings?"
+  },
+  {
+    "id": "bnet119_home_ad_prePurchaseNow",
+    "Key": "bnet119_home_ad_prePurchaseNow",
+    "Value": "PRE-PURCHASE NOW"
+  },
+  {
+    "id": "bnet119_home_ad_globalLaunch",
+    "Key": "bnet119_home_ad_globalLaunch",
+    "Value": "LAUNCHES AUGUST 14"
+  },
+  {
+    "id": "bnet119_home_ad_igrLaunch",
+    "Key": "bnet119_home_ad_igrLaunch",
+    "Value": "AVAILABLE IN KOREA JULY 30"
+  },
+  {
+    "id": "bnet119_authentication_progressPopup_queuing_title",
+    "Key": "bnet119_authentication_progressPopup_queuing_title",
+    "Value": "The Blizzard servers are busy right now! You're position {position} in the queue (estimated time: {seconds}s)."
+  },
+  {
+    "id": "bnet119_optionsPanel_language_dialog_title",
+    "Key": "bnet119_optionsPanel_language_dialog_title",
+    "Value": "Changing Language"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_dialog_body",
+    "Key": "bnet119_optionsPanel_language_dialog_body",
+    "Value": "StarCraft needs to exit to install a new language"
+  },
+  {
+    "id": "bnet119_optionsPanel_language_dialog_button",
+    "Key": "bnet119_optionsPanel_language_dialog_button",
+    "Value": "Exit"
+  },
+  {
+    "id": "bnet119_chatScreen_ad_globalLaunchText",
+    "Key": "bnet119_chatScreen_ad_globalLaunchText",
+    "Value": "LAUNCHES"
+  },
+  {
+    "id": "bnet119_chatScreen_ad_globalWorldwideText",
+    "Key": "bnet119_chatScreen_ad_globalWorldwideText",
+    "Value": "WORLDWIDE"
+  },
+  {
+    "id": "bnet119_chatScreen_ad_globalLaunchDate",
+    "Key": "bnet119_chatScreen_ad_globalLaunchDate",
+    "Value": "AUGUST 14"
+  },
+  {
+    "id": "observerScreen_tooltip_menu",
+    "Key": "observerScreen_tooltip_menu",
+    "Value": "Open the Game Menu."
+  },
+  {
+    "id": "observerScreen_tooltip_menu_hotkey",
+    "Key": "observerScreen_tooltip_menu_hotkey",
+    "Value": "Alt + M"
+  },
+  {
+    "id": "observerScreen_tooltip_help",
+    "Key": "observerScreen_tooltip_help",
+    "Value": "Click an icon to show or hide a side panel."
+  },
+  {
+    "id": "observerScreen_tooltip_help_hotkey",
+    "Key": "observerScreen_tooltip_help_hotkey",
+    "Value": "Alt + W|R"
+  },
+  {
+    "id": "observerScreen_tooltip_hotkey_or",
+    "Key": "observerScreen_tooltip_hotkey_or",
+    "Value": "or"
+  },
+  {
+    "id": "bnet_downloadFailed",
+    "Key": "bnet_downloadFailed",
+    "Value": "Download failed."
+  },
+  {
+    "id": "mainEDITORGONE",
+    "Key": "mainEDITORGONE",
+    "Value": "StarCraft cannot locate the Campaign Editor. You will need to reinstall StarCraft to access the Editor."
+  },
+  {
+    "id": "mainSPAWNEDLABEL_ss",
+    "Key": "mainSPAWNEDLABEL_ss",
+    "Value": "spawned by %s, %s"
+  },
+  {
+    "id": "mainFULLLABEL_s",
+    "Key": "mainFULLLABEL_s",
+    "Value": "%s"
+  },
+  {
+    "id": "scoreUNITS",
+    "Key": "scoreUNITS",
+    "Value": "Units"
+  },
+  {
+    "id": "scoreINFRASTRUCTURE",
+    "Key": "scoreINFRASTRUCTURE",
+    "Value": "Structures"
+  },
+  {
+    "id": "scoreRESOURCES",
+    "Key": "scoreRESOURCES",
+    "Value": "Resources"
+  },
+  {
+    "id": "scoreUBUILT",
+    "Key": "scoreUBUILT",
+    "Value": "Produced"
+  },
+  {
+    "id": "scoreUKILLED",
+    "Key": "scoreUKILLED",
+    "Value": "Killed"
+  },
+  {
+    "id": "scoreULOST",
+    "Key": "scoreULOST",
+    "Value": "Lost"
+  },
+  {
+    "id": "scoreSBUILT",
+    "Key": "scoreSBUILT",
+    "Value": "Constructed"
+  },
+  {
+    "id": "scoreSDESTROYED",
+    "Key": "scoreSDESTROYED",
+    "Value": "Razed"
+  },
+  {
+    "id": "scoreSLOST",
+    "Key": "scoreSLOST",
+    "Value": "Lost"
+  },
+  {
+    "id": "scoreRGASES",
+    "Key": "scoreRGASES",
+    "Value": "Gas Mined"
+  },
+  {
+    "id": "scoreRMINERALS",
+    "Key": "scoreRMINERALS",
+    "Value": "Minerals Mined"
+  },
+  {
+    "id": "scoreRSPENT",
+    "Key": "scoreRSPENT",
+    "Value": "Total Spent"
+  },
+  {
+    "id": "scoreTIME_s",
+    "Key": "scoreTIME_s",
+    "Value": "Elapsed Time: %s"
+  },
+  {
+    "id": "scoreLOST",
+    "Key": "scoreLOST",
+    "Value": "Defeat!"
+  },
+  {
+    "id": "scoreWON",
+    "Key": "scoreWON",
+    "Value": "Victory!"
+  },
+  {
+    "id": "scoreDRAW",
+    "Key": "scoreDRAW",
+    "Value": "Draw!"
+  },
+  {
+    "id": "scoreDISCONNECT",
+    "Key": "scoreDISCONNECT",
+    "Value": "Disconnect"
+  },
+  {
+    "id": "scoreUNDECIDED",
+    "Key": "scoreUNDECIDED",
+    "Value": "Undecided"
+  },
+  {
+    "id": "loadCONFIRMDELETE",
+    "Key": "loadCONFIRMDELETE",
+    "Value": "Delete this saved game?"
+  },
+  {
+    "id": "loginNEWCHAR",
+    "Key": "loginNEWCHAR",
+    "Value": "Enter new character name:"
+  },
+  {
+    "id": "loginDELCHAR",
+    "Key": "loginDELCHAR",
+    "Value": "Delete this character? Associated saved games will be deleted too."
+  },
+  {
+    "id": "loginNAMEEXISTS",
+    "Key": "loginNAMEEXISTS",
+    "Value": "That name already exists!"
+  },
+  {
+    "id": "loginTOOMANY",
+    "Key": "loginTOOMANY",
+    "Value": "Please delete a character before adding a new one."
+  },
+  {
+    "id": "loginCREATEERROR",
+    "Key": "loginCREATEERROR",
+    "Value": "File error creating new character. Make sure there is enough disk space on the disk StarCraft is installed to, and that you have permission to write to that disk."
+  },
+  {
+    "id": "gameUpOneLevel",
+    "Key": "gameUpOneLevel",
+    "Value": "Up One Level"
+  },
+  {
+    "id": "gameSaveGames",
+    "Key": "gameSaveGames",
+    "Value": "Save"
+  },
+  {
+    "id": "gamePlayers",
+    "Key": "gamePlayers",
+    "Value": "%u"
+  },
+  {
+    "id": "gamePlayersText_cs",
+    "Key": "gamePlayersText_cs",
+    "Value": "Number of Players:%c%s"
+  },
+  {
+    "id": "gameMapSize",
+    "Key": "gameMapSize",
+    "Value": "%ux%u"
+  },
+  {
+    "id": "gameMapSizeText_cs",
+    "Key": "gameMapSizeText_cs",
+    "Value": "Map Size:%c%s"
+  },
+  {
+    "id": "gameMapERAText_cs",
+    "Key": "gameMapERAText_cs",
+    "Value": "Tileset:%c%s"
+  },
+  {
+    "id": "gameOpponents",
+    "Key": "gameOpponents",
+    "Value": "%u"
+  },
+  {
+    "id": "gameOpponentsText_cs",
+    "Key": "gameOpponentsText_cs",
+    "Value": "Computer Slots:%c%s"
+  },
+  {
+    "id": "gameHumans",
+    "Key": "gameHumans",
+    "Value": "%u"
+  },
+  {
+    "id": "gameHumansText_cs",
+    "Key": "gameHumansText_cs",
+    "Value": "Human Slots:%c%s"
+  },
+  {
+    "id": "gameMapERA",
+    "Key": "gameMapERA",
+    "Value": "Badlands"
+  },
+  {
+    "id": "gameMapERA1",
+    "Key": "gameMapERA1",
+    "Value": "Space"
+  },
+  {
+    "id": "gameMapERA2",
+    "Key": "gameMapERA2",
+    "Value": "Installation"
+  },
+  {
+    "id": "gameMapERA3",
+    "Key": "gameMapERA3",
+    "Value": "Ashworld"
+  },
+  {
+    "id": "gameMapERA4",
+    "Key": "gameMapERA4",
+    "Value": "Jungle"
+  },
+  {
+    "id": "gameMapERA5",
+    "Key": "gameMapERA5",
+    "Value": "Desert"
+  },
+  {
+    "id": "gameMapERA6",
+    "Key": "gameMapERA6",
+    "Value": "Ice"
+  },
+  {
+    "id": "gameMapERA7",
+    "Key": "gameMapERA7",
+    "Value": "Twilight"
+  },
+  {
+    "id": "saveTITLE",
+    "Key": "saveTITLE",
+    "Value": "Saved Game"
+  },
+  {
+    "id": "saveMAPNAME_s",
+    "Key": "saveMAPNAME_s",
+    "Value": "Map Name: %s"
+  },
+  {
+    "id": "gameMAPERROR",
+    "Key": "gameMAPERROR",
+    "Value": "Unable to Load Map!"
+  },
+  {
+    "id": "gameAUTHREQUIRED",
+    "Key": "gameAUTHREQUIRED",
+    "Value": "You must select an authenticated ladder map to start a ladder game."
+  },
+  {
+    "id": "gameINVALIDMAP",
+    "Key": "gameINVALIDMAP",
+    "Value": "The selected scenario is not valid."
+  },
+  {
+    "id": "gameCREATEERROR",
+    "Key": "gameCREATEERROR",
+    "Value": "An error occurred while trying to create the game."
+  },
+  {
+    "id": "gameCREATEEXISTS",
+    "Key": "gameCREATEEXISTS",
+    "Value": "Network game already exists!"
+  },
+  {
+    "id": "gameBADGAMETYPE",
+    "Key": "gameBADGAMETYPE",
+    "Value": "The selected map does not support the selected game type and options."
+  },
+  {
+    "id": "gameTOOMANYGAMES",
+    "Key": "gameTOOMANYGAMES",
+    "Value": "Unable to create game because there are too many games already running on this network."
+  },
+  {
+    "id": "gameNETWORKERROR",
+    "Key": "gameNETWORKERROR",
+    "Value": "Unable to create game because there was an error initializing the network."
+  },
+  {
+    "id": "gameNEEDOPPONENT",
+    "Key": "gameNEEDOPPONENT",
+    "Value": "You must have at least one computer opponent."
+  },
+  {
+    "id": "gameNEEDHUMAN",
+    "Key": "gameNEEDHUMAN",
+    "Value": "This map does not have a slot for a human participant."
+  },
+  {
+    "id": "gameMAPDEFAULTONLY",
+    "Key": "gameMAPDEFAULTONLY",
+    "Value": "This map can only be played with the \"Use Map Settings\" game type."
+  },
+  {
+    "id": "maperrorHIGHERVERSION",
+    "Key": "maperrorHIGHERVERSION",
+    "Value": "This scenario is intended for use with a StarCraft Expansion Set."
+  },
+  {
+    "id": "maperrorTITLE",
+    "Key": "maperrorTITLE",
+    "Value": "Invalid Scenario"
+  },
+  {
+    "id": "maperrorLONGNAME",
+    "Key": "maperrorLONGNAME",
+    "Value": "This scenario is unreadable because its filename is too long."
+  },
+  {
+    "id": "maperrorINVALID",
+    "Key": "maperrorINVALID",
+    "Value": "This scenario is unreadable because it is invalid or corrupted."
+  },
+  {
+    "id": "saveerrorTITLE",
+    "Key": "saveerrorTITLE",
+    "Value": "Invalid Saved Game"
+  },
+  {
+    "id": "saveerrorLONGNAME",
+    "Key": "saveerrorLONGNAME",
+    "Value": "This saved game is unreadable because its filename is too long."
+  },
+  {
+    "id": "saveerrorINVALID",
+    "Key": "saveerrorINVALID",
+    "Value": "This saved game is unreadable because it is invalid or corrupted."
+  },
+  {
+    "id": "saveerrorVERSION",
+    "Key": "saveerrorVERSION",
+    "Value": "This saved game is unreadable because of a version mismatch."
+  },
+  {
+    "id": "gameSLOWEST",
+    "Key": "gameSLOWEST",
+    "Value": "Slowest"
+  },
+  {
+    "id": "gameSLOWER",
+    "Key": "gameSLOWER",
+    "Value": "Slower"
+  },
+  {
+    "id": "gameSLOW",
+    "Key": "gameSLOW",
+    "Value": "Slow"
+  },
+  {
+    "id": "gameNORMAL",
+    "Key": "gameNORMAL",
+    "Value": "Normal"
+  },
+  {
+    "id": "gameFAST",
+    "Key": "gameFAST",
+    "Value": "Fast"
+  },
+  {
+    "id": "gameFASTER",
+    "Key": "gameFASTER",
+    "Value": "Faster"
+  },
+  {
+    "id": "gameFASTEST",
+    "Key": "gameFASTEST",
+    "Value": "Fastest"
+  },
+  {
+    "id": "gameSHOWALL",
+    "Key": "gameSHOWALL",
+    "Value": "Show All"
+  },
+  {
+    "id": "gameSPEED",
+    "Key": "gameSPEED",
+    "Value": "Speed:"
+  },
+  {
+    "id": "conDIRECT",
+    "Key": "conDIRECT",
+    "Value": "Direct Connect"
+  },
+  {
+    "id": "conIPX",
+    "Key": "conIPX",
+    "Value": "IPX network"
+  },
+  {
+    "id": "conBTLN",
+    "Key": "conBTLN",
+    "Value": "Battle.net"
+  },
+  {
+    "id": "conPROVERROR",
+    "Key": "conPROVERROR",
+    "Value": "The selected network provider could not be initialized."
+  },
+  {
+    "id": "chatPLAYERJOINED_s",
+    "Key": "chatPLAYERJOINED_s",
+    "Value": "Player %s has joined the game."
+  },
+  {
+    "id": "chatPLAYERLEFT_s",
+    "Key": "chatPLAYERLEFT_s",
+    "Value": "Player %s has left the game."
+  },
+  {
+    "id": "chatDISTERROR",
+    "Key": "chatDISTERROR",
+    "Value": "An error occurred while distributing the map."
+  },
+  {
+    "id": "chatASSIGNTEAMS",
+    "Key": "chatASSIGNTEAMS",
+    "Value": "Each players must be assigned to a team."
+  },
+  {
+    "id": "chatONESIDE",
+    "Key": "chatONESIDE",
+    "Value": "You must have an opponent in order to start a game."
+  },
+  {
+    "id": "chatFILETRANSFERRING",
+    "Key": "chatFILETRANSFERRING",
+    "Value": "The scenario map file is still being distributed."
+  },
+  {
+    "id": "chatBOOTED",
+    "Key": "chatBOOTED",
+    "Value": "You have been booted!"
+  },
+  {
+    "id": "chatBANNED",
+    "Key": "chatBANNED",
+    "Value": "You have been banned!"
+  },
+  {
+    "id": "chatSLOTCLOSED",
+    "Key": "chatSLOTCLOSED",
+    "Value": "The game creator closed all available slots!"
+  },
+  {
+    "id": "chatHOSTLEFT",
+    "Key": "chatHOSTLEFT",
+    "Value": "The game host has left."
+  },
+  {
+    "id": "chatUNJOINABLE",
+    "Key": "chatUNJOINABLE",
+    "Value": "Unable to join game."
+  },
+  {
+    "id": "chatVERSIONMISMATCH",
+    "Key": "chatVERSIONMISMATCH",
+    "Value": "You cannot join this game because it is a different version of StarCraft."
+  },
+  {
+    "id": "chatINVALIDSAVE",
+    "Key": "chatINVALIDSAVE",
+    "Value": "Save game file not found."
+  },
+  {
+    "id": "chatINVALIDSPAWN",
+    "Key": "chatINVALIDSPAWN",
+    "Value": "You are not able to join this game.  It was not created with the same CD that spawned your copy of StarCraft."
+  },
+  {
+    "id": "chatINVALIDMAP",
+    "Key": "chatINVALIDMAP",
+    "Value": "Unable to authenticate map."
+  },
+  {
+    "id": "chatFDERROR",
+    "Key": "chatFDERROR",
+    "Value": "Unable to write scenario file."
+  },
+  {
+    "id": "chatCONFIRMBOOT_s",
+    "Key": "chatCONFIRMBOOT_s",
+    "Value": "Performing this action will boot:\\n%s\\nContinue?"
+  },
+  {
+    "id": "chatPLAYERS",
+    "Key": "chatPLAYERS",
+    "Value": "Players"
+  },
+  {
+    "id": "chatCOMPUTERSLOT",
+    "Key": "chatCOMPUTERSLOT",
+    "Value": "Computer Player"
+  },
+  {
+    "id": "chatNEUTRALSLOT",
+    "Key": "chatNEUTRALSLOT",
+    "Value": "Neutral Slot"
+  },
+  {
+    "id": "chatSECONDS",
+    "Key": "chatSECONDS",
+    "Value": "seconds"
+  },
+  {
+    "id": "chatSOON",
+    "Key": "chatSOON",
+    "Value": "soon!"
+  },
+  {
+    "id": "slotCOMPUTER",
+    "Key": "slotCOMPUTER",
+    "Value": "Computer"
+  },
+  {
+    "id": "slotOPEN",
+    "Key": "slotOPEN",
+    "Value": "Open"
+  },
+  {
+    "id": "slotCLOSED",
+    "Key": "slotCLOSED",
+    "Value": "Closed"
+  },
+  {
+    "id": "slotBAN",
+    "Key": "slotBAN",
+    "Value": "Ban Player!"
+  },
+  {
+    "id": "bnMAP",
+    "Key": "bnMAP",
+    "Value": "Map:"
+  },
+  {
+    "id": "bnCREATOR",
+    "Key": "bnCREATOR",
+    "Value": "Creator:"
+  },
+  {
+    "id": "bnTYPE",
+    "Key": "bnTYPE",
+    "Value": "Type:"
+  },
+  {
+    "id": "bnSPEED",
+    "Key": "bnSPEED",
+    "Value": "Speed:"
+  },
+  {
+    "id": "bnTIME",
+    "Key": "bnTIME",
+    "Value": "Time:  %d:%02d%s"
+  },
+  {
+    "id": "bnAM",
+    "Key": "bnAM",
+    "Value": "AM"
+  },
+  {
+    "id": "bnPM",
+    "Key": "bnPM",
+    "Value": "PM"
+  },
+  {
+    "id": "bnCREATEEXISTS",
+    "Key": "bnCREATEEXISTS",
+    "Value": "A game by that name already exists!"
+  },
+  {
+    "id": "bnNAMENEEDED",
+    "Key": "bnNAMENEEDED",
+    "Value": "Please enter a game name to continue."
+  },
+  {
+    "id": "bnMAPNEEDED",
+    "Key": "bnMAPNEEDED",
+    "Value": "Please select a map to continue."
+  },
+  {
+    "id": "bnPASSWORDNEEDED",
+    "Key": "bnPASSWORDNEEDED",
+    "Value": "You must enter a password to start a saved game."
+  },
+  {
+    "id": "bnNOLADDER",
+    "Key": "bnNOLADDER",
+    "Value": "You cannot play ladder games until you have at least 10 non-ladder wins."
+  },
+  {
+    "id": "bnSPAWNNOLADDER",
+    "Key": "bnSPAWNNOLADDER",
+    "Value": "Unable to join selected game. Ladder games are unavailable because this is a spawned copy of StarCraft."
+  },
+  {
+    "id": "bnCANTJOIN",
+    "Key": "bnCANTJOIN",
+    "Value": "Unable to join selected game."
+  },
+  {
+    "id": "bnRESTRICTEDCHANNEL",
+    "Key": "bnRESTRICTEDCHANNEL",
+    "Value": "The selected channel is restricted."
+  },
+  {
+    "id": "profLADDERGAMES",
+    "Key": "profLADDERGAMES",
+    "Value": "Ladder Games"
+  },
+  {
+    "id": "profNORMALGAMES",
+    "Key": "profNORMALGAMES",
+    "Value": "Normal Games"
+  },
+  {
+    "id": "profRATINGTITLE",
+    "Key": "profRATINGTITLE",
+    "Value": "Rating:"
+  },
+  {
+    "id": "profRANKTITLE",
+    "Key": "profRANKTITLE",
+    "Value": "Rank:"
+  },
+  {
+    "id": "profUNRATED",
+    "Key": "profUNRATED",
+    "Value": "Unrated"
+  },
+  {
+    "id": "profLASTGAMETITLE",
+    "Key": "profLASTGAMETITLE",
+    "Value": "Last Game:"
+  },
+  {
+    "id": "profRANK_s",
+    "Key": "profRANK_s",
+    "Value": "#%s"
+  },
+  {
+    "id": "profUNRANKED",
+    "Key": "profUNRANKED",
+    "Value": "Unranked"
+  },
+  {
+    "id": "profRATINGHIGH_s",
+    "Key": "profRATINGHIGH_s",
+    "Value": "(High: %s)"
+  },
+  {
+    "id": "profRANKHIGH_s",
+    "Key": "profRANKHIGH_s",
+    "Value": "(High: #%s)"
+  },
+  {
+    "id": "profRECORD_ss",
+    "Key": "profRECORD_ss",
+    "Value": "Record: %s/%s"
+  },
+  {
+    "id": "profDISCONNECTS_s",
+    "Key": "profDISCONNECTS_s",
+    "Value": "Disconnects: %s"
+  },
+  {
+    "id": "profNEVERPLAYED",
+    "Key": "profNEVERPLAYED",
+    "Value": "Never Played"
+  },
+  {
+    "id": "profNOINFORMATION",
+    "Key": "profNOINFORMATION",
+    "Value": "No information available"
+  },
+  {
+    "id": "ladNOPENALTY",
+    "Key": "ladNOPENALTY",
+    "Value": "No penalty"
+  },
+  {
+    "id": "ladASLOSS",
+    "Key": "ladASLOSS",
+    "Value": "Count as loss"
+  },
+  {
+    "id": "tvbSIDES",
+    "Key": "tvbSIDES",
+    "Value": "%d vs %d"
+  },
+  {
+    "id": "tvbTEAMONE",
+    "Key": "tvbTEAMONE",
+    "Value": "Home Team"
+  },
+  {
+    "id": "tvbTEAMTWO",
+    "Key": "tvbTEAMTWO",
+    "Value": "Away Team"
+  },
+  {
+    "id": "tvbSWITCHWITH",
+    "Key": "tvbSWITCHWITH",
+    "Value": "Switch with %s"
+  },
+  {
+    "id": "tvbMOVETO",
+    "Key": "tvbMOVETO",
+    "Value": "Move to %s"
+  },
+  {
+    "id": "scoreReplaySavedStr",
+    "Key": "scoreReplaySavedStr",
+    "Value": "sReplay \\u0004S\\u0001aved"
+  },
+  {
+    "id": "scoreReplayTitle",
+    "Key": "scoreReplayTitle",
+    "Value": "Replay Information"
+  },
+  {
+    "id": "saveReplayDialogTitle",
+    "Key": "saveReplayDialogTitle",
+    "Value": "Save Replay"
+  },
+  {
+    "id": "replayChatTitle",
+    "Key": "replayChatTitle",
+    "Value": "Replay of:"
+  },
+  {
+    "id": "replayEndGame",
+    "Key": "replayEndGame",
+    "Value": "The replay has finished."
+  },
+  {
+    "id": "visionDialogTitle",
+    "Key": "visionDialogTitle",
+    "Value": "Replay Players"
+  },
+  {
+    "id": "visionRevealAll",
+    "Key": "visionRevealAll",
+    "Value": "Reveal Entire Map"
+  },
+  {
+    "id": "bnREPLAYPASSWORDNEEDED",
+    "Key": "bnREPLAYPASSWORDNEEDED",
+    "Value": "You must enter a password to start a replay."
+  },
+  {
+    "id": "gameNOTENOUGHPLAYERS",
+    "Key": "gameNOTENOUGHPLAYERS",
+    "Value": "There are not enough players to start the game."
+  },
+  {
+    "id": "gameMAPTOOSMALL",
+    "Key": "gameMAPTOOSMALL",
+    "Value": "The selected map does not have enough player slots for the selected game type."
+  },
+  {
+    "id": "bnNoTourn",
+    "Key": "bnNoTourn",
+    "Value": "Only league members are allowed to participate in league games."
+  },
+  {
+    "id": "gameTournAuthRequired",
+    "Key": "gameTournAuthRequired",
+    "Value": "You must select an official league map to start a league game."
+  },
+  {
+    "id": "bnSpawnNoTourn",
+    "Key": "bnSpawnNoTourn",
+    "Value": "Unable to join selected game. League games are unavailable because this is a spawned copy of StarCraft."
+  },
+  {
+    "id": "gameTournTwoPlayers",
+    "Key": "gameTournTwoPlayers",
+    "Value": "A league game must have two and only two non-referee players in it."
+  },
+  {
+    "id": "gameTournNoBroodWar",
+    "Key": "gameTournNoBroodWar",
+    "Value": "Please reconnect to Battle.net with StarCraft Original to play No Brood War game types."
+  },
+  {
+    "id": "gameTournRequireBroodWar",
+    "Key": "gameTournRequireBroodWar",
+    "Value": "Brood War is required to play league games."
+  },
+  {
+    "id": "slotPublic",
+    "Key": "slotPublic",
+    "Value": "Make Game Public"
+  },
+  {
+    "id": "slotPublic2",
+    "Key": "slotPublic2",
+    "Value": "Make Public"
+  },
+  {
+    "id": "profWINS",
+    "Key": "profWINS",
+    "Value": "Wins:"
+  },
+  {
+    "id": "profLOSSES",
+    "Key": "profLOSSES",
+    "Value": "Losses:"
+  },
+  {
+    "id": "chatSECOND",
+    "Key": "chatSECOND",
+    "Value": "second"
+  },
+  {
+    "id": "graphics_eightBitColorError",
+    "Key": "graphics_eightBitColorError",
+    "Value": "Attempted to run in 256 color mode. Please verify that\\ncompatibility settings are disabled."
+  },
+  {
+    "id": "bnet_joinGame_error_timeOut",
+    "Key": "bnet_joinGame_error_timeOut",
+    "Value": "The join request timed out."
+  },
+  {
+    "id": "bnet_joinGame_error_gameNotFound",
+    "Key": "bnet_joinGame_error_gameNotFound",
+    "Value": "The owner has closed the game."
+  },
+  {
+    "id": "bnet_friends_inviteFriendship",
+    "Key": "bnet_friends_inviteFriendship",
+    "Value": "Friend request sent to {name}"
+  },
+  {
+    "id": "chatPlayerJoinedChannel_s",
+    "Key": "chatPlayerJoinedChannel_s",
+    "Value": "%s has joined the channel."
+  },
+  {
+    "id": "chatPlayerLeftChannel_s",
+    "Key": "chatPlayerLeftChannel_s",
+    "Value": "%s has left the channel."
+  },
+  {
+    "id": "chatJoinLeaveVerboseOn",
+    "Key": "chatJoinLeaveVerboseOn",
+    "Value": "Enter/Leave notifications: ON"
+  },
+  {
+    "id": "chatJoinLeaveVerboseOff",
+    "Key": "chatJoinLeaveVerboseOff",
+    "Value": "Enter/Leave notifications: OFF"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_title",
+    "Key": "bnet119_optionsPanel_general_title",
+    "Value": "Options"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_restore",
+    "Key": "bnet119_optionsPanel_general_restore",
+    "Value": "r\\u0004R\\u0001estore to Default"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_hotkeys",
+    "Key": "bnet119_optionsPanel_general_hotkeys",
+    "Value": "Hotkeys"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_label_slow",
+    "Key": "bnet119_optionsPanel_general_label_slow",
+    "Value": "slow"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_label_fast",
+    "Key": "bnet119_optionsPanel_general_label_fast",
+    "Value": "fast"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_label_min",
+    "Key": "bnet119_optionsPanel_general_label_min",
+    "Value": "min"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_label_max",
+    "Key": "bnet119_optionsPanel_general_label_max",
+    "Value": "max"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_speed",
+    "Key": "bnet119_optionsPanel_tabs_speed",
+    "Value": "pS\\u0004p\\u0001eed"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_sound",
+    "Key": "bnet119_optionsPanel_tabs_sound",
+    "Value": "s\\u0004S\\u0001ound"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_video",
+    "Key": "bnet119_optionsPanel_tabs_video",
+    "Value": "v\\u0004V\\u0001ideo"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_game",
+    "Key": "bnet119_optionsPanel_tabs_game",
+    "Value": "g\\u0004G\\u0001ame"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_network",
+    "Key": "bnet119_optionsPanel_tabs_network",
+    "Value": "n\\u0004N\\u0001etwork"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_debug",
+    "Key": "bnet119_optionsPanel_tabs_debug",
+    "Value": "d\\u0004D\\u0001ebug"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_title",
+    "Key": "bnet119_optionsPanel_speed_title",
+    "Value": "Speed Options"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_subtitle_gameplaySpeed",
+    "Key": "bnet119_optionsPanel_speed_subtitle_gameplaySpeed",
+    "Value": "Gameplay Speed"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_subtitle_cursorSpeed",
+    "Key": "bnet119_optionsPanel_speed_subtitle_cursorSpeed",
+    "Value": "Cursor Speed"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_subtitle_scrollSpeed",
+    "Key": "bnet119_optionsPanel_speed_subtitle_scrollSpeed",
+    "Value": "Scroll Speed"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_gameSpeed",
+    "Key": "bnet119_optionsPanel_speed_label_gameSpeed",
+    "Value": "Game Speed"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_mouseSensitivity",
+    "Key": "bnet119_optionsPanel_speed_label_mouseSensitivity",
+    "Value": "Mouse Sensitivity"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_keyScroll",
+    "Key": "bnet119_optionsPanel_speed_label_keyScroll",
+    "Value": "Key Scroll Speed"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_mouseScroll",
+    "Key": "bnet119_optionsPanel_speed_label_mouseScroll",
+    "Value": "Mouse Scroll Speed"
+  },
+  {
+    "id": "bnet119_optionsPanel_speed_label_middleMouseScroll",
+    "Key": "bnet119_optionsPanel_speed_label_middleMouseScroll",
+    "Value": "Middle Mouse Scroll"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_title",
+    "Key": "bnet119_optionsPanel_sound_title",
+    "Value": "Sound Options"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_musicVolume",
+    "Key": "bnet119_optionsPanel_sound_label_musicVolume",
+    "Value": "Music Volume"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_digitalVolume",
+    "Key": "bnet119_optionsPanel_sound_label_digitalVolume",
+    "Value": "Digital Volume"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_unitSpeech",
+    "Key": "bnet119_optionsPanel_sound_label_unitSpeech",
+    "Value": "Unit Speech"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_unitAck",
+    "Key": "bnet119_optionsPanel_sound_label_unitAck",
+    "Value": "Unit Acknowledgments"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_buildingSounds",
+    "Key": "bnet119_optionsPanel_sound_label_buildingSounds",
+    "Value": "Building Sounds"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_remasteredAudio",
+    "Key": "bnet119_optionsPanel_sound_label_remasteredAudio",
+    "Value": "Remastered Audio"
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_subtitles",
+    "Key": "bnet119_optionsPanel_sound_label_subtitles",
+    "Value": "Subtitles On"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_title",
+    "Key": "bnet119_optionsPanel_video_title",
+    "Value": "Video Options"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_windowMode",
+    "Key": "bnet119_optionsPanel_video_label_windowMode",
+    "Value": "Display Mode"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_screenResolution",
+    "Key": "bnet119_optionsPanel_video_label_screenResolution",
+    "Value": "Screen Resolution"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_gamma",
+    "Key": "bnet119_optionsPanel_video_label_gamma",
+    "Value": "Gamma Correction"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_fpsCap",
+    "Key": "bnet119_optionsPanel_video_label_fpsCap",
+    "Value": "Enable FPS Cap"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_filtering",
+    "Key": "bnet119_optionsPanel_video_label_filtering",
+    "Value": "Enable Bilinear Filtering"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_vsync",
+    "Key": "bnet119_optionsPanel_video_label_vsync",
+    "Value": "Enable Vertical Sync"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_hd",
+    "Key": "bnet119_optionsPanel_video_label_hd",
+    "Value": "HD Graphics"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_environmentEffects",
+    "Key": "bnet119_optionsPanel_video_label_environmentEffects",
+    "Value": "Environment Effects"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_realTimeLighting",
+    "Key": "bnet119_optionsPanel_video_label_realTimeLighting",
+    "Value": "Real-Time Lighting"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_enhancedAnimAngles",
+    "Key": "bnet119_optionsPanel_video_label_enhancedAnimAngles",
+    "Value": "Enhanced Animation Angles On"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_colorblindMode",
+    "Key": "bnet119_optionsPanel_video_label_colorblindMode",
+    "Value": "Colorblind Mode"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_title",
+    "Key": "bnet119_optionsPanel_game_title",
+    "Value": "Game Options"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_gameplay",
+    "Key": "bnet119_optionsPanel_game_subtitle_gameplay",
+    "Value": "Gameplay"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_language",
+    "Key": "bnet119_optionsPanel_game_subtitle_language",
+    "Value": "Language"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_subtitle_apmTracking",
+    "Key": "bnet119_optionsPanel_game_subtitle_apmTracking",
+    "Value": "Actions Per Minute Tracking"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_gameTimer",
+    "Key": "bnet119_optionsPanel_game_label_gameTimer",
+    "Value": "Game Timer"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_colorCycling",
+    "Key": "bnet119_optionsPanel_game_label_colorCycling",
+    "Value": "Enable Color Cycling"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_languageFilter",
+    "Key": "bnet119_optionsPanel_game_label_languageFilter",
+    "Value": "Mature Language Filter"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_redBlueTeamColors",
+    "Key": "bnet119_optionsPanel_game_label_redBlueTeamColors",
+    "Value": "Red vs. Blue Team Colors"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_bonusSkins",
+    "Key": "bnet119_optionsPanel_game_label_bonusSkins",
+    "Value": "Show Bonus Skins"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_unitPortraits",
+    "Key": "bnet119_optionsPanel_game_label_unitPortraits",
+    "Value": "Unit Portraits"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_textLanguage",
+    "Key": "bnet119_optionsPanel_game_label_textLanguage",
+    "Value": "Text Language"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_voLanguage",
+    "Key": "bnet119_optionsPanel_game_label_voLanguage",
+    "Value": "Voiceover Language"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_apm",
+    "Key": "bnet119_optionsPanel_game_label_apm",
+    "Value": "Display APM In Game"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_epm",
+    "Key": "bnet119_optionsPanel_game_label_epm",
+    "Value": "Alert when APM falls below"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_alert",
+    "Key": "bnet119_optionsPanel_game_label_alert",
+    "Value": "Alert when below"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_colorText",
+    "Key": "bnet119_optionsPanel_game_label_colorText",
+    "Value": "Color Text"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_playSound",
+    "Key": "bnet119_optionsPanel_game_label_playSound",
+    "Value": "Play Sound"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_title",
+    "Key": "bnet119_optionsPanel_network_title",
+    "Value": "Network Options"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_description",
+    "Key": "bnet119_optionsPanel_network_description",
+    "Value": "Setting lower latency reduces the time between when you click the mouse and when a unit responds to the click. Higher latency increases that time, but smooths network performance for systems with slow or 'lossy' network connections."
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_defaultLatency",
+    "Key": "bnet119_optionsPanel_network_subtitle_defaultLatency",
+    "Value": "Latency"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_customGameLatency",
+    "Key": "bnet119_optionsPanel_network_subtitle_customGameLatency",
+    "Value": "Custom Game Latency"
+  },
+  {
+    "id": "bnet119_optionsPanel_debug_title",
+    "Key": "bnet119_optionsPanel_debug_title",
+    "Value": "Debug Options"
+  },
+  {
+    "id": "str_confirm",
+    "Key": "str_confirm",
+    "Value": "oC\\u0004o\\u0001nfirm"
+  },
+  {
+    "id": "bnet_chat_error_game_end",
+    "Key": "bnet_chat_error_game_end",
+    "Value": "Error: Failed to send end game result to server."
+  },
+  {
+    "id": "bnet_chat_whisperToPrefix",
+    "Key": "bnet_chat_whisperToPrefix",
+    "Value": "<To: %s>"
+  },
+  {
+    "id": "bnet_chat_whisperFromPrefix",
+    "Key": "bnet_chat_whisperFromPrefix",
+    "Value": "<From: %s>"
+  },
+  {
+    "id": "bnet_chat_addFriend_error_LE_Failure",
+    "Key": "bnet_chat_addFriend_error_LE_Failure",
+    "Value": "Invalid user."
+  },
+  {
+    "id": "bnet_chat_addFriend_error_LE_RequestTimedOut",
+    "Key": "bnet_chat_addFriend_error_LE_RequestTimedOut",
+    "Value": "Failed to add friend."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_offline",
+    "Key": "bnet_chat_command_whoIs_offline",
+    "Value": "{name}, offline."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_inGame",
+    "Key": "bnet_chat_command_whoIs_inGame",
+    "Value": "{name} ({gateway}), {mutual} using {program} in the {private} game {game}."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_inChat",
+    "Key": "bnet_chat_command_whoIs_inChat",
+    "Value": "{name} ({gateway}), {mutual} using {program} in the channel {channel}."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_online",
+    "Key": "bnet_chat_command_whoIs_online",
+    "Value": "{name} ({gateway}), {mutual} using {program}."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_mutualFriendship",
+    "Key": "bnet_chat_command_whoIs_mutualFriendship",
+    "Value": "(mutual)"
+  },
+  {
+    "id": "bnet_chat_command_friends_list_title",
+    "Key": "bnet_chat_command_friends_list_title",
+    "Value": "Your friends are:"
+  },
+  {
+    "id": "bnet_advertisement_error_CE_BadGame",
+    "Key": "bnet_advertisement_error_CE_BadGame",
+    "Value": "The specified game name already exists."
+  },
+  {
+    "id": "bnet_advertisement_error_CE_BadGame_BadWords",
+    "Key": "bnet_advertisement_error_CE_BadGame_BadWords",
+    "Value": "The game name is invalid."
+  },
+  {
+    "id": "str_quit",
+    "Key": "str_quit",
+    "Value": "q\\u0004Q\\u0001uit"
+  },
+  {
+    "id": "hotkeyPane_resetConfirmation",
+    "Key": "hotkeyPane_resetConfirmation",
+    "Value": "Reset Confirmation"
+  },
+  {
+    "id": "hotkeyPane_resetConfirmationDescription",
+    "Key": "hotkeyPane_resetConfirmationDescription",
+    "Value": "Custom keybinds will be reset to the default settings. These will need to be saved before taking effect."
+  },
+  {
+    "id": "graphics_errorTitle",
+    "Key": "graphics_errorTitle",
+    "Value": "Error"
+  },
+  {
+    "id": "graphics_initError",
+    "Key": "graphics_initError",
+    "Value": "Unable to initialize OpenGL.\\nPlease verify that your video card drivers are up to date."
+  },
+  {
+    "id": "graphics_error_driverVersionOutOfDate_title",
+    "Key": "graphics_error_driverVersionOutOfDate_title",
+    "Value": "Graphics driver out of date"
+  },
+  {
+    "id": "graphics_error_driverVersionOutOfDate_content",
+    "Key": "graphics_error_driverVersionOutOfDate_content",
+    "Value": "The installed version of your graphics driver is old and will prevent Starcraft: Remastered from running properly.\\n\\nVisit {url} for information on how to upgrade your graphics driver."
+  },
+  {
+    "id": "bnet_chat_create",
+    "Key": "bnet_chat_create",
+    "Value": "c\\u0004C\\u0001reate"
+  },
+  {
+    "id": "bnet119_connection_title",
+    "Key": "bnet119_connection_title",
+    "Value": "Select Connection"
+  },
+  {
+    "id": "bnet119_connection_error",
+    "Key": "bnet119_connection_error",
+    "Value": "Unable to retrieve connection list."
+  },
+  {
+    "id": "bnet119_registry_title",
+    "Key": "bnet119_registry_title",
+    "Value": "Registry"
+  },
+  {
+    "id": "bnet119_registry_error",
+    "Key": "bnet119_registry_error",
+    "Value": "Unable to retrieve toon list."
+  },
+  {
+    "id": "bnet119_matchmaking_title",
+    "Key": "bnet119_matchmaking_title",
+    "Value": "Ranked Play"
+  },
+  {
+    "id": "bnet119_matchmaking_selectRace",
+    "Key": "bnet119_matchmaking_selectRace",
+    "Value": "Select Race"
+  },
+  {
+    "id": "bnet119_matchmaking_selectMode",
+    "Key": "bnet119_matchmaking_selectMode",
+    "Value": "Select Game Type"
+  },
+  {
+    "id": "bnet119_matchmakingMapPreferences_title",
+    "Key": "bnet119_matchmakingMapPreferences_title",
+    "Value": "m\\u0004M\\u0001ap Preferences"
+  },
+  {
+    "id": "bnet119_matchmakingMapPreferences_voteDescription",
+    "Key": "bnet119_matchmakingMapPreferences_voteDescription",
+    "Value": "Vote for up to 3 maps. These maps will be selected less frequently when searching."
+  },
+  {
+    "id": "bnet119_matchmakingMapPreferences_voteRemaining",
+    "Key": "bnet119_matchmakingMapPreferences_voteRemaining",
+    "Value": "Votes Remaining"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_title",
+    "Key": "bnet119_matchmakingSearch_title",
+    "Value": "Searching"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_estimatedTime",
+    "Key": "bnet119_matchmakingSearch_estimatedTime",
+    "Value": "Estimated Time"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_cancel",
+    "Key": "bnet119_matchmakingSearch_cancel",
+    "Value": "eCanc\\u0004e\\u0001l"
+  },
+  {
+    "id": "bnet119_toonCreation_or",
+    "Key": "bnet119_toonCreation_or",
+    "Value": "or"
+  },
+  {
+    "id": "bnet119_toonCreation_creationInfo",
+    "Key": "bnet119_toonCreation_creationInfo",
+    "Value": "If you've played StarCraft in the last 3 months and want to retain your character name and record you may link your Classic Battle.net Account."
+  },
+  {
+    "id": "bnet119_toonCreation_linkAccount",
+    "Key": "bnet119_toonCreation_linkAccount",
+    "Value": "l\\u0004L\\u0001ink Account"
+  },
+  {
+    "id": "bnet119_toonLink_title",
+    "Key": "bnet119_toonLink_title",
+    "Value": "Link Classic Battle.net Account"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_whisper",
+    "Key": "bnet119_chatPanel_contextMenu_whisper",
+    "Value": "Whisper"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_playCustom",
+    "Key": "bnet119_chatPanel_contextMenu_playCustom",
+    "Value": "Play Custom"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_viewProfile",
+    "Key": "bnet119_chatPanel_contextMenu_viewProfile",
+    "Value": "View Profile"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_removeFriend",
+    "Key": "bnet119_chatPanel_contextMenu_removeFriend",
+    "Value": "Remove Friend"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_playersOnline",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_playersOnline",
+    "Value": "Players Online"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_change",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_change",
+    "Value": "Change"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_seasonRecord1v1",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_seasonRecord1v1",
+    "Value": "1v1 Season Record"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_careerWins",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_careerWins",
+    "Value": "Career Wins"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_topRace",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_topRace",
+    "Value": "Top Race"
+  },
+  {
+    "id": "bnet119_toonInfoPanel_seasonRank",
+    "Key": "bnet119_toonInfoPanel_seasonRank",
+    "Value": "1v1 Season Rank"
+  },
+  {
+    "id": "bnet119_addFriendPopup_suggestFriend",
+    "Key": "bnet119_addFriendPopup_suggestFriend",
+    "Value": "Suggested Friends"
+  },
+  {
+    "id": "bnet119_addFriendPopup_enterInfo",
+    "Key": "bnet119_addFriendPopup_enterInfo",
+    "Value": "Enter a StarCraft Character, BattleTag#0000, or email address"
+  },
+  {
+    "id": "bnet_chat_command_friends_whisper_name",
+    "Key": "bnet_chat_command_friends_whisper_name",
+    "Value": "your friends"
+  },
+  {
+    "id": "bnet119_toonCreation_createNewCharacter",
+    "Key": "bnet119_toonCreation_createNewCharacter",
+    "Value": "Create New Character"
+  },
+  {
+    "id": "bnet119_toonCreation_characterName",
+    "Key": "bnet119_toonCreation_characterName",
+    "Value": "Character Name"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_matchFound",
+    "Key": "bnet119_matchmakingSearch_matchFound",
+    "Value": "Match Found!"
+  },
+  {
+    "id": "bnet119_matchmakingSearch_ready",
+    "Key": "bnet119_matchmakingSearch_ready",
+    "Value": "eR\\u0004e\\u0001ady"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_header",
+    "Key": "bnet119_hotkeysPanel_header",
+    "Value": "Hotkeys"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_units_label",
+    "Key": "bnet119_hotkeysPanel_units_label",
+    "Value": "Units"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_buildings_label",
+    "Key": "bnet119_hotkeysPanel_buildings_label",
+    "Value": "Buildings"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_groudUnits_label",
+    "Key": "bnet119_hotkeysPanel_groudUnits_label",
+    "Value": "Ground Units"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_airUnits_label",
+    "Key": "bnet119_hotkeysPanel_airUnits_label",
+    "Value": "Air Units"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_basicBuildings_label",
+    "Key": "bnet119_hotkeysPanel_basicBuildings_label",
+    "Value": "Basic"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_advancedBuildings_label",
+    "Key": "bnet119_hotkeysPanel_advancedBuildings_label",
+    "Value": "Advanced"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_unitSelection_instructions",
+    "Key": "bnet119_hotkeysPanel_unitSelection_instructions",
+    "Value": "Click on a unit to view its commands"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_commandSelection_instructions",
+    "Key": "bnet119_hotkeysPanel_commandSelection_instructions",
+    "Value": "Click on a command to change its hotkey"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_hotkey_instructions",
+    "Key": "bnet119_hotkeysPanel_hotkey_instructions",
+    "Value": "Press the desired key"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_selected_prefix",
+    "Key": "bnet119_hotkeysPanel_selected_prefix",
+    "Value": "Selected:"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_general_actionCard",
+    "Key": "bnet119_hotkeysPanel_general_actionCard",
+    "Value": "General"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_basicStructure_actionCard",
+    "Key": "bnet119_hotkeysPanel_basicStructure_actionCard",
+    "Value": "Basic Structure"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_advancedStructure_actionCard",
+    "Key": "bnet119_hotkeysPanel_advancedStructure_actionCard",
+    "Value": "Advanced Structure"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_tankMode_actionCard",
+    "Key": "bnet119_hotkeysPanel_tankMode_actionCard",
+    "Value": "General - Tank Mode"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_siegeMode_actionCard",
+    "Key": "bnet119_hotkeysPanel_siegeMode_actionCard",
+    "Value": "General - Siege Mode"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_uncloaked_actionCard",
+    "Key": "bnet119_hotkeysPanel_uncloaked_actionCard",
+    "Value": "General - Uncloaked"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_cloaked_actionCard",
+    "Key": "bnet119_hotkeysPanel_cloaked_actionCard",
+    "Value": "General - Cloaked"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_lifted_actionCard",
+    "Key": "bnet119_hotkeysPanel_lifted_actionCard",
+    "Value": "General - Lifted"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_burrowed_actionCard",
+    "Key": "bnet119_hotkeysPanel_burrowed_actionCard",
+    "Value": "General - Burrowed"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_binding_unitsShared",
+    "Key": "bnet119_hotkeysPanel_binding_unitsShared",
+    "Value": "%d units share this command"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_binding_default",
+    "Key": "bnet119_hotkeysPanel_binding_default",
+    "Value": "Default:"
+  },
+  {
+    "id": "bnet119_selectConnectionScreen_gatewayInfoPane_careerGames",
+    "Key": "bnet119_selectConnectionScreen_gatewayInfoPane_careerGames",
+    "Value": "Career Games"
+  },
+  {
+    "id": "bnet119_optionsPanel_tabs_help",
+    "Key": "bnet119_optionsPanel_tabs_help",
+    "Value": "h\\u0004H\\u0001elp"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_unitPortraits_animated",
+    "Key": "bnet119_optionsPanel_game_label_unitPortraits_animated",
+    "Value": "Animated"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_unitPortraits_still",
+    "Key": "bnet119_optionsPanel_game_label_unitPortraits_still",
+    "Value": "Still"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_unitPortraits_disable",
+    "Key": "bnet119_optionsPanel_game_label_unitPortraits_disable",
+    "Value": "Disabled"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_label_lowLat",
+    "Key": "bnet119_optionsPanel_network_label_lowLat",
+    "Value": "l\\u0004L\\u0001ow"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_label_highLat",
+    "Key": "bnet119_optionsPanel_network_label_highLat",
+    "Value": "h\\u0004H\\u0001igh"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_label_extraHighLat",
+    "Key": "bnet119_optionsPanel_network_label_extraHighLat",
+    "Value": "e\\u0004E\\u0001xtra High"
+  },
+  {
+    "id": "bnet119_optionsPanel_help_title",
+    "Key": "bnet119_optionsPanel_help_title",
+    "Value": "Help"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_windowMode_windowed",
+    "Key": "bnet119_optionsPanel_video_label_windowMode_windowed",
+    "Value": "Windowed"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_windowMode_windowedFullscreen",
+    "Key": "bnet119_optionsPanel_video_label_windowMode_windowedFullscreen",
+    "Value": "Windowed (Fullscreen)"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_windowMode_fullscreen",
+    "Key": "bnet119_optionsPanel_video_label_windowMode_fullscreen",
+    "Value": "Fullscreen"
+  },
+  {
+    "id": "bnet119_optionsPanel_video_label_monitor",
+    "Key": "bnet119_optionsPanel_video_label_monitor",
+    "Value": "Monitor"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_vs",
+    "Key": "bnet119_matchmakingLoading_vs",
+    "Value": "VS"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_countdownLabel",
+    "Key": "bnet119_matchmakingLoading_countdownLabel",
+    "Value": "Match will start in"
+  },
+  {
+    "id": "infoPane_turnRate",
+    "Key": "infoPane_turnRate",
+    "Value": "Turn Rate"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_restoreToDefault_button",
+    "Key": "bnet119_hotkeysPanel_restoreToDefault_button",
+    "Value": "Restore to Default"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_save_button",
+    "Key": "bnet119_hotkeysPanel_save_button",
+    "Value": "Save"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_cancel_button",
+    "Key": "bnet119_hotkeysPanel_cancel_button",
+    "Value": "Cancel"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_dontSave_button",
+    "Key": "bnet119_hotkeysPanel_dontSave_button",
+    "Value": "Don't Save"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_continue_button",
+    "Key": "bnet119_hotkeysPanel_continue_button",
+    "Value": "Continue"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_saveChangesQuestion",
+    "Key": "bnet119_hotkeysPanel_saveChangesQuestion",
+    "Value": "Save Changes?"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_saveChangesExplanation",
+    "Key": "bnet119_hotkeysPanel_saveChangesExplanation",
+    "Value": "Your changes will be lost if you don't save them."
+  },
+  {
+    "id": "bnet119_hotkeysPanel_restoreDefaultsQuestion",
+    "Key": "bnet119_hotkeysPanel_restoreDefaultsQuestion",
+    "Value": "Restore defaults?"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_restoreDefaultsExplanation",
+    "Key": "bnet119_hotkeysPanel_restoreDefaultsExplanation",
+    "Value": "You will lose your changes, do you wish to continue?"
+  },
+  {
+    "id": "bnet119_hotkeysPanel_unboundedInstructions",
+    "Key": "bnet119_hotkeysPanel_unboundedInstructions",
+    "Value": "There are commands that have become unbound"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_wins",
+    "Key": "bnet119_matchmakingLoading_wins",
+    "Value": "Wins"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_losses",
+    "Key": "bnet119_matchmakingLoading_losses",
+    "Value": "Losses"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_disconnects",
+    "Key": "bnet119_matchmakingLoading_disconnects",
+    "Value": "Disconnects"
+  },
+  {
+    "id": "bnet119_matchmakingLoading_loading",
+    "Key": "bnet119_matchmakingLoading_loading",
+    "Value": "Loading"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_button_apply",
+    "Key": "bnet119_optionsPanel_general_button_apply",
+    "Value": "Apply"
+  },
+  {
+    "id": "bnet119_optionsPanel_general_button_reset",
+    "Key": "bnet119_optionsPanel_general_button_reset",
+    "Value": "Reset"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_consolePosition",
+    "Key": "bnet119_optionsPanel_game_label_consolePosition",
+    "Value": "Mini-Map Position"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_consolePosition_leftCorner",
+    "Key": "bnet119_optionsPanel_game_label_consolePosition_leftCorner",
+    "Value": "Left Corner"
+  },
+  {
+    "id": "bnet119_optionsPanel_game_label_consolePosition_standard",
+    "Key": "bnet119_optionsPanel_game_label_consolePosition_standard",
+    "Value": "Standard"
+  },
+  {
+    "id": "application_title",
+    "Key": "application_title",
+    "Value": "StarCraft Brood War"
+  },
+  {
+    "id": "browser_failed_to_start",
+    "Key": "browser_failed_to_start",
+    "Value": "A StarCraft service has failed to launch. Your antivirus software may be interfering with a required service. Some functionality of StarCraft may be disabled."
+  },
+  {
+    "id": "bonjour_install_prompt",
+    "Key": "bonjour_install_prompt",
+    "Value": "Bonjour is required for full LAN functionality. Would you like to activate Bonjour?"
+  },
+  {
+    "id": "bonjour_not_available",
+    "Key": "bonjour_not_available",
+    "Value": "Some LAN functionality will be disabled without the Bonjour service running."
+  },
+  {
+    "id": "bonjour_install_prompt_lanGameSearch",
+    "Key": "bonjour_install_prompt_lanGameSearch",
+    "Value": "Bonjour is required to search for available LAN games. Would you like to activate Bonjour?"
+  },
+  {
+    "id": "bonjour_not_available_lanGameSearch",
+    "Key": "bonjour_not_available_lanGameSearch",
+    "Value": "It's not possible to search for LAN games without the Bonjour service running."
+  },
+  {
+    "id": "bonjour_failed_to_start",
+    "Key": "bonjour_failed_to_start",
+    "Value": "Failed to activate the Bonjour service."
+  },
+  {
+    "id": "bnet_participantsPanel_pendingInvites",
+    "Key": "bnet_participantsPanel_pendingInvites",
+    "Value": "Pending Invites"
+  },
+  {
+    "id": "bnet119_addFriendPopup_onLAN",
+    "Key": "bnet119_addFriendPopup_onLAN",
+    "Value": "On LAN"
+  },
+  {
+    "id": "bnet119_addFriendPopup_classicBnetFriend",
+    "Key": "bnet119_addFriendPopup_classicBnetFriend",
+    "Value": "Your Classic Battle.net Friend"
+  },
+  {
+    "id": "scoreAPMTitle",
+    "Key": "scoreAPMTitle",
+    "Value": "APM"
+  },
+  {
+    "id": "scoreEPMTitle",
+    "Key": "scoreEPMTitle",
+    "Value": "EPM"
+  },
+  {
+    "id": "gameCloudFolder",
+    "Key": "gameCloudFolder",
+    "Value": "Cloud"
+  },
+  {
+    "id": "gameCloudPopularMaps",
+    "Key": "gameCloudPopularMaps",
+    "Value": "Popular Maps"
+  },
+  {
+    "id": "gameCloudSaveGames",
+    "Key": "gameCloudSaveGames",
+    "Value": "Save Games"
+  },
+  {
+    "id": "gameCloudReplays",
+    "Key": "gameCloudReplays",
+    "Value": "Replays"
+  },
+  {
+    "id": "gameCloudMaps",
+    "Key": "gameCloudMaps",
+    "Value": "Maps"
+  },
+  {
+    "id": "bnet_matchmaking_expansionOnlyError",
+    "Key": "bnet_matchmaking_expansionOnlyError",
+    "Value": "Matchmaking is only available when playing Brood War."
+  },
+  {
+    "id": "bnet_matchmaking_unavailableError",
+    "Key": "bnet_matchmaking_unavailableError",
+    "Value": "Matchmaking queues are currently unavailable, please try again later."
+  },
+  {
+    "id": "bnet119_optionsPanel_sound_label_soundPlaysInBackground",
+    "Key": "bnet119_optionsPanel_sound_label_soundPlaysInBackground",
+    "Value": "Sound Plays While In Background"
+  },
+  {
+    "id": "infoPane_noMapImage",
+    "Key": "infoPane_noMapImage",
+    "Value": "Map Preview Unavailable"
+  },
+  {
+    "id": "ossystems_compatibility_mode",
+    "Key": "ossystems_compatibility_mode",
+    "Value": "StarCraft detected Operating System Compatibility Mode settings. These can impair StarCraft services and it is recommended to disable them."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_aurora",
+    "Key": "bnet_chat_command_whoIs_aurora",
+    "Value": "{name}, using {program} - {presence}."
+  },
+  {
+    "id": "bnet_chat_command_whoIs_auroraNoPresence",
+    "Key": "bnet_chat_command_whoIs_auroraNoPresence",
+    "Value": "{name}, using {program}."
+  },
+  {
+    "id": "error_unrecognizedUser",
+    "Key": "error_unrecognizedUser",
+    "Value": "Unrecognized user - %s."
+  },
+  {
+    "id": "userProfile_error_unableToDisplay",
+    "Key": "userProfile_error_unableToDisplay",
+    "Value": "User is not connected to a recognized gateway."
+  },
+  {
+    "id": "scorePENDING",
+    "Key": "scorePENDING",
+    "Value": "Pending"
+  },
+  {
+    "id": "optionsPanel_speed_mouseConfine_label",
+    "Key": "optionsPanel_speed_mouseConfine_label",
+    "Value": "Use Mouse Confine"
+  },
+  {
+    "id": "optionsPanel_speed_mouseConfine_tooltip",
+    "Key": "optionsPanel_speed_mouseConfine_tooltip",
+    "Value": "Constrain the cursor to the window when playing. (Alt+F1 to toggle). Note: Only available when in windowed mode."
+  },
+  {
+    "id": "observerScreen_tooltip_diplomacy",
+    "Key": "observerScreen_tooltip_diplomacy",
+    "Value": "Open the Diplomacy Menu."
+  },
+  {
+    "id": "observerScreen_tooltip_diplomacy_hotkey",
+    "Key": "observerScreen_tooltip_diplomacy_hotkey",
+    "Value": "Alt + Z"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_designateUser",
+    "Key": "bnet119_chatPanel_contextMenu_designateUser",
+    "Value": "Designate as Moderator"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_kickUser",
+    "Key": "bnet119_chatPanel_contextMenu_kickUser",
+    "Value": "Kick User"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_banUser",
+    "Key": "bnet119_chatPanel_contextMenu_banUser",
+    "Value": "Ban User"
+  },
+  {
+    "id": "bnet119_chatPanel_contextMenu_resign",
+    "Key": "bnet119_chatPanel_contextMenu_resign",
+    "Value": "Resign as Moderator"
+  },
+  {
+    "id": "observerScreen_tooltip_replay",
+    "Key": "observerScreen_tooltip_replay",
+    "Value": "Toggle Display of the Replay Panel."
+  },
+  {
+    "id": "observerScreen_tooltip_replay_hotkey",
+    "Key": "observerScreen_tooltip_replay_hotkey",
+    "Value": "Alt + Y"
+  },
+  {
+    "id": "bnet_chat_command_whoIs_privateGame",
+    "Key": "bnet_chat_command_whoIs_privateGame",
+    "Value": "private"
+  },
+  {
+    "id": "bnet_chat_command_friends_listIntelligent_title",
+    "Key": "bnet_chat_command_friends_listIntelligent_title",
+    "Value": "Your Blizzard friends who are currently using StarCraft and your Brood War friends are:"
+  },
+  {
+    "id": "bnet_chat_command_friends_listOnline_title",
+    "Key": "bnet_chat_command_friends_listOnline_title",
+    "Value": "Your Blizzard friends who are currently using StarCraft and your Brood War friends who are online are:"
+  },
+  {
+    "id": "bnet_chat_command_friends_listAll_title",
+    "Key": "bnet_chat_command_friends_listAll_title",
+    "Value": "Your friends are:"
+  },
+  {
+    "id": "bnet_chat_command_friends_listBlizzard_title",
+    "Key": "bnet_chat_command_friends_listBlizzard_title",
+    "Value": "Your Blizzard friends are:"
+  },
+  {
+    "id": "optionsPanel_video_Filtering_label",
+    "Key": "optionsPanel_video_Filtering_label",
+    "Value": "SD Graphics Filter"
+  },
+  {
+    "id": "optionsPanel_video_Sharp_label",
+    "Key": "optionsPanel_video_Sharp_label",
+    "Value": "Sharp"
+  },
+  {
+    "id": "optionsPanel_video_Filtered_label",
+    "Key": "optionsPanel_video_Filtered_label",
+    "Value": "Filtered"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_listIntelligent_description",
+    "Key": "bnet_chat_commandHelp_friends_listIntelligent_description",
+    "Value": "List your Blizzard friends who are currently using StarCraft and your Brood War friends."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_listAll_description",
+    "Key": "bnet_chat_commandHelp_friends_listAll_description",
+    "Value": "List your friends."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_listBlizzard_description",
+    "Key": "bnet_chat_commandHelp_friends_listBlizzard_description",
+    "Value": "List your Blizzard friends."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_listOnline_description",
+    "Key": "bnet_chat_commandHelp_friends_listOnline_description",
+    "Value": "List your Blizzard friends who are currently using StarCraft and your Brood War friends who are online."
+  },
+  {
+    "id": "bnet_chat_command_friends_whisper_noFriendsError",
+    "Key": "bnet_chat_command_friends_whisper_noFriendsError",
+    "Value": "You don't have any friends available to message."
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_startDiagnostic",
+    "Key": "bnet119_optionsPanel_network_subtitle_startDiagnostic",
+    "Value": "Start Diagnostic"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_networkDiagnostic",
+    "Key": "bnet119_optionsPanel_network_subtitle_networkDiagnostic",
+    "Value": "Network Diagnostic"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_subtitle_diagnosticLogin",
+    "Key": "bnet119_optionsPanel_network_subtitle_diagnosticLogin",
+    "Value": "Login to Battle.net to enable this option."
+  },
+  {
+    "id": "cn_cais_warning1",
+    "Key": "cn_cais_warning1",
+    "Value": "您已在线进行了{totalHoursOnline}小时的游戏，您的健康游戏时间还剩余{totalHoursRemaining}小时。\\n届时您将无法在游戏中获得经验值及其它奖励，\\n必须下线累计满5小时才能恢复正常状态。"
+  },
+  {
+    "id": "cn_cais_warning2",
+    "Key": "cn_cais_warning2",
+    "Value": "您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入疲劳游戏时间。为了您的健康，请尽快下线休息，\\n做适当身体活动，合理安排学习生活。您已经无法在游戏中获得经验值及其它奖励，\\n直到您的累计下线时间满5小时后才能恢复正常。"
+  },
+  {
+    "id": "cn_cais_warning3",
+    "Key": "cn_cais_warning3",
+    "Value": "您的在线时间已经超过{totalHoursOnline}小时{minutesOnline}分钟，已进入不健康游戏时间。为了您的健康，\\n请立即下线休息。您已经无法在游戏中获得经验值及其它奖励，\\n直到您的累计下线时间满5小时后才能恢复正常。"
+  },
+  {
+    "id": "networkDiagnostic_AlreadyInProgress",
+    "Key": "networkDiagnostic_AlreadyInProgress",
+    "Value": "Network diagnostic already running. Please wait for completion before starting a new one."
+  },
+  {
+    "id": "networkDiagnostic_Commencing",
+    "Key": "networkDiagnostic_Commencing",
+    "Value": "Running network diagnostic..."
+  },
+  {
+    "id": "networkDiagnostic_Firewall.Commencing",
+    "Key": "networkDiagnostic_Firewall.Commencing",
+    "Value": "Checking the Windows firewall..."
+  },
+  {
+    "id": "networkDiagnostic_Firewall.Whitelisted",
+    "Key": "networkDiagnostic_Firewall.Whitelisted",
+    "Value": "StarCraft: Remastered is whitelisted in the Windows firewall."
+  },
+  {
+    "id": "networkDiagnostic_Firewall.NotWhitelisted",
+    "Key": "networkDiagnostic_Firewall.NotWhitelisted",
+    "Value": "StarCraft: Remastered is not whitelisted in the Windows firewall."
+  },
+  {
+    "id": "networkDiagnostic_Proxy.NotRequired",
+    "Key": "networkDiagnostic_Proxy.NotRequired",
+    "Value": "When hosting games, network traffic does not need to be routed via a proxy server. This PC is capable of connecting directly to other devices."
+  },
+  {
+    "id": "networkDiagnostic_Proxy.Required",
+    "Key": "networkDiagnostic_Proxy.Required",
+    "Value": "When hosting games, network traffic from this PC will route via a proxy server, because it cannot connect to other devices directly."
+  },
+  {
+    "id": "networkDiagnostic_Ping.Commencing",
+    "Key": "networkDiagnostic_Ping.Commencing",
+    "Value": "Checking inbound UDP traffic on port {Port}..."
+  },
+  {
+    "id": "networkDiagnostic_Ping.ReceivedData",
+    "Key": "networkDiagnostic_Ping.ReceivedData",
+    "Value": "Received response ({Time}ms)."
+  },
+  {
+    "id": "networkDiagnostic_Ping.NoData",
+    "Key": "networkDiagnostic_Ping.NoData",
+    "Value": "No response was received."
+  },
+  {
+    "id": "networkDiagnostic_Ping.PartialFailure",
+    "Key": "networkDiagnostic_Ping.PartialFailure",
+    "Value": "Some responses were not received."
+  },
+  {
+    "id": "networkDiagnostic_Ping.Success",
+    "Key": "networkDiagnostic_Ping.Success",
+    "Value": "Inbound UDP traffic check was successful."
+  },
+  {
+    "id": "networkDiagnostic_Udp.ExternalIp",
+    "Key": "networkDiagnostic_Udp.ExternalIp",
+    "Value": "Attempting to send data via external IP address {address}..."
+  },
+  {
+    "id": "networkDiagnostic_Udp.Success",
+    "Key": "networkDiagnostic_Udp.Success",
+    "Value": "Send succcessful."
+  },
+  {
+    "id": "networkDiagnostic_Udp.Failure",
+    "Key": "networkDiagnostic_Udp.Failure",
+    "Value": "Send failed."
+  },
+  {
+    "id": "networkDiagnostic_Upnp.Commencing",
+    "Key": "networkDiagnostic_Upnp.Commencing",
+    "Value": "Checking UPNP port forwarding..."
+  },
+  {
+    "id": "networkDiagnostic_Upnp.Timeout",
+    "Key": "networkDiagnostic_Upnp.Timeout",
+    "Value": "UPNP timed out."
+  },
+  {
+    "id": "networkDiagnostic_Upnp.Success",
+    "Key": "networkDiagnostic_Upnp.Success",
+    "Value": "UPNP port forwarding is configured on port {port}."
+  },
+  {
+    "id": "networkDiagnostic_Upnp.Failed",
+    "Key": "networkDiagnostic_Upnp.Failed",
+    "Value": "UPNP failed."
+  },
+  {
+    "id": "networkDiagnostic_Bind.Commencing",
+    "Key": "networkDiagnostic_Bind.Commencing",
+    "Value": "Checking binding UDP to port 6112..."
+  },
+  {
+    "id": "networkDiagnostic_Bind.Failure",
+    "Key": "networkDiagnostic_Bind.Failure",
+    "Value": "Failed to bind port 6112."
+  },
+  {
+    "id": "networkDiagnostic_Bind.Success",
+    "Key": "networkDiagnostic_Bind.Success",
+    "Value": "Successfully bound port {port}."
+  },
+  {
+    "id": "reportPlayerScreen_reportPlayer",
+    "Key": "reportPlayerScreen_reportPlayer",
+    "Value": "Report Player"
+  },
+  {
+    "id": "reportPlayerScreen_reason",
+    "Key": "reportPlayerScreen_reason",
+    "Value": "Reason"
+  },
+  {
+    "id": "reportPlayerScreen_channelName",
+    "Key": "reportPlayerScreen_channelName",
+    "Value": "Channel Name"
+  },
+  {
+    "id": "reportPlayerScreen_gameName",
+    "Key": "reportPlayerScreen_gameName",
+    "Value": "Game Name"
+  },
+  {
+    "id": "reportPlayerScreen_spam",
+    "Key": "reportPlayerScreen_spam",
+    "Value": "Spam"
+  },
+  {
+    "id": "reportPlayerScreen_harassment",
+    "Key": "reportPlayerScreen_harassment",
+    "Value": "Harassment"
+  },
+  {
+    "id": "reportPlayerScreen_cheating",
+    "Key": "reportPlayerScreen_cheating",
+    "Value": "Cheating"
+  },
+  {
+    "id": "reportPlayerScreen_badCharacterName",
+    "Key": "reportPlayerScreen_badCharacterName",
+    "Value": "Bad Character Name"
+  },
+  {
+    "id": "reportPlayerScreen_badBattleTag",
+    "Key": "reportPlayerScreen_badBattleTag",
+    "Value": "Bad BattleTag"
+  },
+  {
+    "id": "reportPlayerScreen_badGameName",
+    "Key": "reportPlayerScreen_badGameName",
+    "Value": "Bad Game Name"
+  },
+  {
+    "id": "chat_error_CE_AccountMuted",
+    "Key": "chat_error_CE_AccountMuted",
+    "Value": "Your account has been silenced."
+  },
+  {
+    "id": "chat_error_joinSystemReservedChannelName",
+    "Key": "chat_error_joinSystemReservedChannelName",
+    "Value": "Unable to join channel with reserved name."
+  },
+  {
+    "id": "networkTurnRateAdjusted",
+    "Key": "networkTurnRateAdjusted",
+    "Value": "Setting network turn rate to: %d"
+  },
+  {
+    "id": "createGameScreen_gameLimits",
+    "Key": "createGameScreen_gameLimits",
+    "Value": "Unit Limits"
+  },
+  {
+    "id": "createGameScreen_original",
+    "Key": "createGameScreen_original",
+    "Value": "Original"
+  },
+  {
+    "id": "createGameScreen_extended",
+    "Key": "createGameScreen_extended",
+    "Value": "Extended"
+  },
+  {
+    "id": "optionsPanel_game_bc2017_console_label",
+    "Key": "optionsPanel_game_bc2017_console_label",
+    "Value": "Use BlizzCon 2017 console"
+  },
+  {
+    "id": "bnet_friendFollow_offline",
+    "Key": "bnet_friendFollow_offline",
+    "Value": "Your friend {friend} has gone offline."
+  },
+  {
+    "id": "bnet_friendFollow_online",
+    "Key": "bnet_friendFollow_online",
+    "Value": "Your friend {friend} has come online."
+  },
+  {
+    "id": "bnet_friendFollow_enteredStarCraft",
+    "Key": "bnet_friendFollow_enteredStarCraft",
+    "Value": "Your friend {friend} has entered StarCraft."
+  },
+  {
+    "id": "bnet_friendFollow_exitedStarCraft",
+    "Key": "bnet_friendFollow_exitedStarCraft",
+    "Value": "Your friend {friend} has exited StarCraft."
+  },
+  {
+    "id": "bnet_friendFollow_enteredBattlenet",
+    "Key": "bnet_friendFollow_enteredBattlenet",
+    "Value": "Your friend {friend} has entered Battle.net."
+  },
+  {
+    "id": "bnet_friendFollow_exitedBattlenet",
+    "Key": "bnet_friendFollow_exitedBattlenet",
+    "Value": "Your friend {friend} has exited Battle.net."
+  },
+  {
+    "id": "bnet_friendFollow_enteredGameLobby",
+    "Key": "bnet_friendFollow_enteredGameLobby",
+    "Value": "Your friend {friend} entered a StarCraft Brood War game called {game}."
+  },
+  {
+    "id": "bnet_friendFollow_exitedGameLobby",
+    "Key": "bnet_friendFollow_exitedGameLobby",
+    "Value": "Your friend {friend} left a game."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_whisperAll_description",
+    "Key": "bnet_chat_commandHelp_friends_whisperAll_description",
+    "Value": "Whisper MESSAGE to all friends"
+  },
+  {
+    "id": "error_cant_watch_replays",
+    "Key": "error_cant_watch_replays",
+    "Value": "Can't watch replays while waiting in the match making queue."
+  },
+  {
+    "id": "bnet_friendFollow_enteredRankedGameLobby",
+    "Key": "bnet_friendFollow_enteredRankedGameLobby",
+    "Value": "Your friend {friend} entered a ranked game."
+  },
+  {
+    "id": "bnet_friendFollow_enteredSinglePlayerGameLobby",
+    "Key": "bnet_friendFollow_enteredSinglePlayerGameLobby",
+    "Value": "Your friend {friend} entered a single player game."
+  },
+  {
+    "id": "bnet_friendFollow_enteredCustomGameLobby",
+    "Key": "bnet_friendFollow_enteredCustomGameLobby",
+    "Value": "Your friend {friend} entered a custom game called {game}."
+  },
+  {
+    "id": "bnet_chat_commandHelp_dnd_description",
+    "Key": "bnet_chat_commandHelp_dnd_description",
+    "Value": "Starts/stops ignoring all whispers"
+  },
+  {
+    "id": "bnet_friendFollow_enteredReplayGameLobby",
+    "Key": "bnet_friendFollow_enteredReplayGameLobby",
+    "Value": "Your friend {friend} started watching a replay."
+  },
+  {
+    "id": "optionsPanel_social_label_friendsPresenceNotifications",
+    "Key": "optionsPanel_social_label_friendsPresenceNotifications",
+    "Value": "Friends presence text notifications"
+  },
+  {
+    "id": "bnet_friends_inviteFriendship_unknownRegion",
+    "Key": "bnet_friends_inviteFriendship_unknownRegion",
+    "Value": "Friend request sent to {name} in Blizzard region {myRegion}"
+  },
+  {
+    "id": "bnet_friends_inviteFriendship_foreignRegion",
+    "Key": "bnet_friends_inviteFriendship_foreignRegion",
+    "Value": "Friend request sent to {name} in Blizzard region {myRegion} (they're currently in region {theirRegion})"
+  },
+  {
+    "id": "createGameScreen_proxied",
+    "Key": "createGameScreen_proxied",
+    "Value": "Connection is routing via proxy server"
+  },
+  {
+    "id": "bnet_createGame_proxyConnectionWarning",
+    "Key": "bnet_createGame_proxyConnectionWarning",
+    "Value": "Due to your network configuration, your connection to other players must be routed via a proxy server, which may add latency."
+  },
+  {
+    "id": "bnet_findGame_proxyConnectionWarning",
+    "Key": "bnet_findGame_proxyConnectionWarning",
+    "Value": "Due to the host's network configuration, your connection to this game will route via a proxy server, which may increase latency."
+  },
+  {
+    "id": "bnet_chat_commandHelp_users_description",
+    "Key": "bnet_chat_commandHelp_users_description",
+    "Value": "Displays the current number of users connected to Battle.net."
+  },
+  {
+    "id": "bnet_chat_commandHelp_users_statsSuccess",
+    "Key": "bnet_chat_commandHelp_users_statsSuccess",
+    "Value": "There are {games} games being played.\\nThere are {players} players online."
+  },
+  {
+    "id": "bnet_chat_commandHelp_users_statsError",
+    "Key": "bnet_chat_commandHelp_users_statsError",
+    "Value": "Failed to retrieve gateway statistics."
+  },
+  {
+    "id": "bnet_friendInvitation_regionWarning",
+    "Key": "bnet_friendInvitation_regionWarning",
+    "Value": "{name} is playing StarCraft in a different Blizzard region than you. Your friend request to {name} has been sent in the region you are playing in ({myRegion}), and they will receive the friend request when they switch to {myRegion}."
+  },
+  {
+    "id": "bnet_chat_welcome_intro",
+    "Key": "bnet_chat_welcome_intro",
+    "Value": "Welcome to StarCraft: Remastered!"
+  },
+  {
+    "id": "bnet_chat_welcome_help",
+    "Key": "bnet_chat_welcome_help",
+    "Value": "Type /help for a list of commands."
+  },
+  {
+    "id": "bnet_cloud_size_s",
+    "Key": "bnet_cloud_size_s",
+    "Value": "%s KB"
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Commencing",
+    "Key": "networkDiagnostic_NatPunch.Commencing",
+    "Value": "Checking NAT punch-through (type 1)..."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.NoStunServers",
+    "Key": "networkDiagnostic_NatPunch.NoStunServers",
+    "Value": "No STUN servers available."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Start",
+    "Key": "networkDiagnostic_NatPunch.Start",
+    "Value": "Sending STUN packet..."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.NoData",
+    "Key": "networkDiagnostic_NatPunch.NoData",
+    "Value": "No response was received."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.BadData",
+    "Key": "networkDiagnostic_NatPunch.BadData",
+    "Value": "Response was corrupt."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Info",
+    "Key": "networkDiagnostic_NatPunch.Info",
+    "Value": "STUN response received via external IP {address}."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Success",
+    "Key": "networkDiagnostic_NatPunch.Success",
+    "Value": "NAT punch-through successful."
+  },
+  {
+    "id": "networkDiagnostic_NatPunch.Failure",
+    "Key": "networkDiagnostic_NatPunch.Failure",
+    "Value": "NAT punch-through failed."
+  },
+  {
+    "id": "networkDiagnostic_UdpNat2.ExternalIp",
+    "Key": "networkDiagnostic_UdpNat2.ExternalIp",
+    "Value": "External IP address is {address}."
+  },
+  {
+    "id": "networkDiagnostic_UdpNat2.Success",
+    "Key": "networkDiagnostic_UdpNat2.Success",
+    "Value": "Attempting to send data via external IP address {address}..."
+  },
+  {
+    "id": "networkDiagnostic_UdpNat2.Failure",
+    "Key": "networkDiagnostic_UdpNat2.Failure",
+    "Value": "NAT punch-through type 2 failed."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.Commencing",
+    "Key": "networkDiagnostic_PingNat2.Commencing",
+    "Value": "Checking inbound UDP traffic on port {Port} (NAT punch-through type 2)..."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.ReceivedData",
+    "Key": "networkDiagnostic_PingNat2.ReceivedData",
+    "Value": "Received response ({Time}ms)."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.NoData",
+    "Key": "networkDiagnostic_PingNat2.NoData",
+    "Value": "No response was received."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.PartialFailure",
+    "Key": "networkDiagnostic_PingNat2.PartialFailure",
+    "Value": "Some responses were not received."
+  },
+  {
+    "id": "networkDiagnostic_PingNat2.Success",
+    "Key": "networkDiagnostic_PingNat2.Success",
+    "Value": "Inbound UDP traffic check was successful (NAT punch-through type 2)."
+  },
+  {
+    "id": "scr.common.race.terran",
+    "Key": "scr.common.race.terran",
+    "Value": "Terran"
+  },
+  {
+    "id": "scr.common.race.zerg",
+    "Key": "scr.common.race.zerg",
+    "Value": "Zerg"
+  },
+  {
+    "id": "scr.common.race.protoss",
+    "Key": "scr.common.race.protoss",
+    "Value": "Protoss"
+  },
+  {
+    "id": "scr.common.points.label",
+    "Key": "scr.common.points.label",
+    "Value": "MMR:"
+  },
+  {
+    "id": "scr.common.points.small.label",
+    "Key": "scr.common.points.small.label",
+    "Value": "MMR"
+  },
+  {
+    "id": "scr.common.points.noData",
+    "Key": "scr.common.points.noData",
+    "Value": "You have not earned any MMR yet."
+  },
+  {
+    "id": "scr.common.table.noData",
+    "Key": "scr.common.table.noData",
+    "Value": "No table results found."
+  },
+  {
+    "id": "scr.common.location.label",
+    "Key": "scr.common.location.label",
+    "Value": "Location"
+  },
+  {
+    "id": "scr.common.stats.gauge.winRate.label",
+    "Key": "scr.common.stats.gauge.winRate.label",
+    "Value": "Win Rate"
+  },
+  {
+    "id": "scr.common.stats.gauge.apm.title",
+    "Key": "scr.common.stats.gauge.apm.title",
+    "Value": "Average APM"
+  },
+  {
+    "id": "scr.common.stats.gauge.apm.label",
+    "Key": "scr.common.stats.gauge.apm.label",
+    "Value": "Actions Per Minute"
+  },
+  {
+    "id": "scr.common.stats.overall.title",
+    "Key": "scr.common.stats.overall.title",
+    "Value": "Overall Record"
+  },
+  {
+    "id": "scr.common.stats.overall.label",
+    "Key": "scr.common.stats.overall.label",
+    "Value": "Overall"
+  },
+  {
+    "id": "scr.common.stats.seasonRecord.title",
+    "Key": "scr.common.stats.seasonRecord.title",
+    "Value": "1v1 Season Record"
+  },
+  {
+    "id": "scr.common.stats.record.win.label",
+    "Key": "scr.common.stats.record.win.label",
+    "Value": "W"
+  },
+  {
+    "id": "scr.common.stats.record.loss.label",
+    "Key": "scr.common.stats.record.loss.label",
+    "Value": "L"
+  },
+  {
+    "id": "scr.common.stats.record.disconnects.label",
+    "Key": "scr.common.stats.record.disconnects.label",
+    "Value": "D"
+  },
+  {
+    "id": "scr.common.stats.record.percentage.label",
+    "Key": "scr.common.stats.record.percentage.label",
+    "Value": "%"
+  },
+  {
+    "id": "scr.common.stats.wins.label",
+    "Key": "scr.common.stats.wins.label",
+    "Value": "Wins"
+  },
+  {
+    "id": "scr.common.stats.losses.label",
+    "Key": "scr.common.stats.losses.label",
+    "Value": "Losses"
+  },
+  {
+    "id": "scr.common.stats.disconnects.label",
+    "Key": "scr.common.stats.disconnects.label",
+    "Value": "Disconnects"
+  },
+  {
+    "id": "scr.common.stats.totalGames.label",
+    "Key": "scr.common.stats.totalGames.label",
+    "Value": "Total Games"
+  },
+  {
+    "id": "scr.common.stats.mostPlayedRace.label",
+    "Key": "scr.common.stats.mostPlayedRace.label",
+    "Value": "Most Played"
+  },
+  {
+    "id": "scr.common.stats.timePlayed.label",
+    "Key": "scr.common.stats.timePlayed.label",
+    "Value": "Time Played"
+  },
+  {
+    "id": "scr.common.stats.accountCreated.label",
+    "Key": "scr.common.stats.accountCreated.label",
+    "Value": "Account Created"
+  },
+  {
+    "id": "scr.common.stats.mmr.label",
+    "Key": "scr.common.stats.mmr.label",
+    "Value": "MMR"
+  },
+  {
+    "id": "scr.common.stats.highestMMR.label",
+    "Key": "scr.common.stats.highestMMR.label",
+    "Value": "Highest MMR"
+  },
+  {
+    "id": "scr.common.stats.units.produced.label",
+    "Key": "scr.common.stats.units.produced.label",
+    "Value": "Units Produced"
+  },
+  {
+    "id": "scr.common.stats.units.killed.label",
+    "Key": "scr.common.stats.units.killed.label",
+    "Value": "Units Killed"
+  },
+  {
+    "id": "scr.common.stats.units.lost.label",
+    "Key": "scr.common.stats.units.lost.label",
+    "Value": "Units Lost"
+  },
+  {
+    "id": "scr.common.stats.units.score.label",
+    "Key": "scr.common.stats.units.score.label",
+    "Value": "Units Score"
+  },
+  {
+    "id": "scr.common.stats.resources.spent.label",
+    "Key": "scr.common.stats.resources.spent.label",
+    "Value": "Resources Spent"
+  },
+  {
+    "id": "scr.common.stats.resources.score.label",
+    "Key": "scr.common.stats.resources.score.label",
+    "Value": "Resources Score"
+  },
+  {
+    "id": "scr.common.stats.resources.gasCollected.label",
+    "Key": "scr.common.stats.resources.gasCollected.label",
+    "Value": "Gas Collected"
+  },
+  {
+    "id": "scr.common.stats.resources.mineralsCollected.label",
+    "Key": "scr.common.stats.resources.mineralsCollected.label",
+    "Value": "Minerals Collected"
+  },
+  {
+    "id": "scr.common.stats.structures.constructed.label",
+    "Key": "scr.common.stats.structures.constructed.label",
+    "Value": "Structures Constructed"
+  },
+  {
+    "id": "scr.common.stats.structures.lost.label",
+    "Key": "scr.common.stats.structures.lost.label",
+    "Value": "Structures Lost"
+  },
+  {
+    "id": "scr.common.stats.structures.razed.label",
+    "Key": "scr.common.stats.structures.razed.label",
+    "Value": "Structures Razed"
+  },
+  {
+    "id": "scr.common.stats.structures.score.label",
+    "Key": "scr.common.stats.structures.score.label",
+    "Value": "Structures Score"
+  },
+  {
+    "id": "scr.common.stats.noData",
+    "Key": "scr.common.stats.noData",
+    "Value": "No stats data found."
+  },
+  {
+    "id": "scr.common.rank.currentSeasonRank.label",
+    "Key": "scr.common.rank.currentSeasonRank.label",
+    "Value": "Current Season Rank"
+  },
+  {
+    "id": "scr.profile.gateway.link.label",
+    "Key": "scr.profile.gateway.link.label",
+    "Value": "Learn More"
+  },
+  {
+    "id": "scr.profile.gateway.playerCount.label",
+    "Key": "scr.profile.gateway.playerCount.label",
+    "Value": "Players Online:"
+  },
+  {
+    "id": "scr.profile.gateway.noData",
+    "Key": "scr.profile.gateway.noData",
+    "Value": "No gateway data found."
+  },
+  {
+    "id": "scr.profile.changeProfile",
+    "Key": "scr.profile.changeProfile",
+    "Value": "Change Profile"
+  },
+  {
+    "id": "scr.common.time.hr",
+    "Key": "scr.common.time.hr",
+    "Value": "hr"
+  },
+  {
+    "id": "scr.common.time.hrs",
+    "Key": "scr.common.time.hrs",
+    "Value": "hrs"
+  },
+  {
+    "id": "scr.common.time.min",
+    "Key": "scr.common.time.min",
+    "Value": "min"
+  },
+  {
+    "id": "scr.common.time.sec",
+    "Key": "scr.common.time.sec",
+    "Value": "sec"
+  },
+  {
+    "id": "scr.profile.league.frontier",
+    "Key": "scr.profile.league.frontier",
+    "Value": "Frontier League"
+  },
+  {
+    "id": "scr.profile.season.1.title",
+    "Key": "scr.profile.season.1.title",
+    "Value": "2017 Season 1"
+  },
+  {
+    "id": "scr.profile.season.0.title",
+    "Key": "scr.profile.season.0.title",
+    "Value": "The Frontier League"
+  },
+  {
+    "id": "scr.profile.season.0.description1",
+    "Key": "scr.profile.season.0.description1",
+    "Value": "Welcome, pioneers. You are joining in the exploration of a new era of StarCraft."
+  },
+  {
+    "id": "scr.profile.season.0.description2",
+    "Key": "scr.profile.season.0.description2",
+    "Value": "Matches will be made by comparing your global rating and geographical distance against that of your opponent. This is a grand moment of discovery; thank you for playing and helping to refine this new system."
+  },
+  {
+    "id": "scr.common.autocomplete.matches",
+    "Key": "scr.common.autocomplete.matches",
+    "Value": "matches"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.1",
+    "Key": "scr.leaderboard.table.heading.1",
+    "Value": "Rank"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.2",
+    "Key": "scr.leaderboard.table.heading.2",
+    "Value": "Player"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.3",
+    "Key": "scr.leaderboard.table.heading.3",
+    "Value": "Most Played"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.4",
+    "Key": "scr.leaderboard.table.heading.4",
+    "Value": "MMR"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.5",
+    "Key": "scr.leaderboard.table.heading.5",
+    "Value": "Wins"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.6",
+    "Key": "scr.leaderboard.table.heading.6",
+    "Value": "Losses"
+  },
+  {
+    "id": "scr.leaderboard.table.heading.7",
+    "Key": "scr.leaderboard.table.heading.7",
+    "Value": "Disconnects"
+  },
+  {
+    "id": "scr.leaderboard.title",
+    "Key": "scr.leaderboard.title",
+    "Value": "Leaderboard"
+  },
+  {
+    "id": "scr.leaderboard.updateInterval",
+    "Key": "scr.leaderboard.updateInterval",
+    "Value": "Updates every %%interval%% minutes"
+  },
+  {
+    "id": "scr.leaderboard.updateLatest",
+    "Key": "scr.leaderboard.updateLatest",
+    "Value": "Last updated @ %%lastUpdate%% UTC"
+  },
+  {
+    "id": "scr.leaderboard.filter.gameType.opt.1",
+    "Key": "scr.leaderboard.filter.gameType.opt.1",
+    "Value": "1v1"
+  },
+  {
+    "id": "scr.leaderboard.btn.topPlayers.label",
+    "Key": "scr.leaderboard.btn.topPlayers.label",
+    "Value": "Top Players"
+  },
+  {
+    "id": "scr.leaderboard.btn.myself.label",
+    "Key": "scr.leaderboard.btn.myself.label",
+    "Value": "Myself"
+  },
+  {
+    "id": "scr.leaderboard.search.placeholder",
+    "Key": "scr.leaderboard.search.placeholder",
+    "Value": "Enter a Profile Name or BattleTag"
+  },
+  {
+    "id": "scr.leaderboard.profileModule.yourRank.part.1",
+    "Key": "scr.leaderboard.profileModule.yourRank.part.1",
+    "Value": "You're ranked"
+  },
+  {
+    "id": "scr.leaderboard.profileModule.yourRank.part.2",
+    "Key": "scr.leaderboard.profileModule.yourRank.part.2",
+    "Value": "on"
+  },
+  {
+    "id": "scr.leaderboard.profileModule.yourRank.noData",
+    "Key": "scr.leaderboard.profileModule.yourRank.noData",
+    "Value": "You haven't played enough matches on"
+  },
+  {
+    "id": "scr.common.title.win",
+    "Key": "scr.common.title.win",
+    "Value": "Victory!"
+  },
+  {
+    "id": "scr.common.title.loss",
+    "Key": "scr.common.title.loss",
+    "Value": "Defeat!"
+  },
+  {
+    "id": "scr.toast.points.yours",
+    "Key": "scr.toast.points.yours",
+    "Value": "Matchmaker Rating"
+  },
+  {
+    "id": "scr.profile.zerg.points.desc",
+    "Key": "scr.profile.zerg.points.desc",
+    "Value": "Zerg Points"
+  },
+  {
+    "id": "scr.profile.protoss.points.desc",
+    "Key": "scr.profile.protoss.points.desc",
+    "Value": "Protoss Points"
+  },
+  {
+    "id": "scr.profile.terran.points.desc",
+    "Key": "scr.profile.terran.points.desc",
+    "Value": "Terran Points"
+  },
+  {
+    "id": "scr.toast.unlock.textSmall.portrait",
+    "Key": "scr.toast.unlock.textSmall.portrait",
+    "Value": "New Portrait"
+  },
+  {
+    "id": "scr.toast.unlock.textLarge",
+    "Key": "scr.toast.unlock.textLarge",
+    "Value": "Unlocked!"
+  },
+  {
+    "id": "bnet_turnRate_dynamic",
+    "Key": "bnet_turnRate_dynamic",
+    "Value": "Dynamic"
+  },
+  {
+    "id": "bnet119_optionsPanel_network_label_preferPort6112",
+    "Key": "bnet119_optionsPanel_network_label_preferPort6112",
+    "Value": "Prefer port 6112"
+  },
+  {
+    "id": "scr.profile.gateway.dev79",
+    "Key": "scr.profile.gateway.dev79",
+    "Value": "A development server for internal testing."
+  },
+  {
+    "id": "scr.profile.gateway.usWestDesc",
+    "Key": "scr.profile.gateway.usWestDesc",
+    "Value": "Welcome to the Wild West. The population of this server may not be massive, but the stakes are high and the competition is deadly."
+  },
+  {
+    "id": "scr.profile.gateway.usEastDesc",
+    "Key": "scr.profile.gateway.usEastDesc",
+    "Value": "Based in the City of Broad Shoulders, this server plays host to players from across the Americas. With a larger population, comes more styles and strategy in gameplay."
+  },
+  {
+    "id": "scr.profile.gateway.europeDesc",
+    "Key": "scr.profile.gateway.europeDesc",
+    "Value": "The European server is second only to Korea in fostering professional players. Diversity in culture has led to innovative gameplay, and friendships that span the continent."
+  },
+  {
+    "id": "scr.profile.gateway.koreaDesc",
+    "Key": "scr.profile.gateway.koreaDesc",
+    "Value": "The Land of the Calm Dawn has mastered the art of war, and emerged as home to the most renowned StarCraft players on Earth. Do not arrive idle to this melee."
+  },
+  {
+    "id": "scr.profile.gateway.taiwanDesc",
+    "Key": "scr.profile.gateway.taiwanDesc",
+    "Value": "The newest Gateway to StarCraft. Created to support communication in Japanese, Simplified Chinese and Traditional Chinese. This server has yet to make a name for itself. Will you be one to join in battle to help write its story?"
+  },
+  {
+    "id": "scr.profile.gateway.fishDesc",
+    "Key": "scr.profile.gateway.fishDesc",
+    "Value": "Fish Server is a third-party server revered for the quality of players on their custom ladder."
+  },
+  {
+    "id": "scr.profile.noProfile",
+    "Key": "scr.profile.noProfile",
+    "Value": "You do not have any profiles on this gateway."
+  },
+  {
+    "id": "scr.profile.noProfileBtn",
+    "Key": "scr.profile.noProfileBtn",
+    "Value": "Create Profile"
+  },
+  {
+    "id": "bnet_profileStats_customGamesWinsLossesDisconnects",
+    "Key": "bnet_profileStats_customGamesWinsLossesDisconnects",
+    "Value": "[{gatewayName}] Custom Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}."
+  },
+  {
+    "id": "bnet_profileStats_allSeasonsWinsLossesDisconnects",
+    "Key": "bnet_profileStats_allSeasonsWinsLossesDisconnects",
+    "Value": "[{gatewayName}] Ranked Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}."
+  },
+  {
+    "id": "bnet_profileStats_seasonWinsLossesDisconnects",
+    "Key": "bnet_profileStats_seasonWinsLossesDisconnects",
+    "Value": "[{gatewayName}] Current Season Ranked Games - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}."
+  },
+  {
+    "id": "bnet119_addFriendPopup_or",
+    "Key": "bnet119_addFriendPopup_or",
+    "Value": "or"
+  },
+  {
+    "id": "launcher_failed_to_start",
+    "Key": "launcher_failed_to_start",
+    "Value": "The Battle.net launcher failed to launch."
+  },
+  {
+    "id": "scr.leaderboard.filter.gameType.opt.2",
+    "Key": "scr.leaderboard.filter.gameType.opt.2",
+    "Value": "2v2"
+  },
+  {
+    "id": "profile_skins_carbot",
+    "Key": "profile_skins_carbot",
+    "Value": "Cartooned Skins"
+  },
+  {
+    "id": "profile_skins_carbot_desc",
+    "Key": "profile_skins_carbot_desc",
+    "Value": "Infuse your StarCraft experience with the lighthearted charm of Carbot Animations with StarCraft: Cartooned! Every unit, structure, map, menu, and mission takes on a whole new cartoon aesthetic in multiplayer matches and the entire single-player campaign!"
+  },
+  {
+    "id": "profile_collection_announcers_HeyJini_title",
+    "Key": "profile_collection_announcers_HeyJini_title",
+    "Value": "Hey Jini"
+  },
+  {
+    "id": "squad_channel_title",
+    "Key": "squad_channel_title",
+    "Value": "Squad"
+  },
+  {
+    "id": "squad_lobby_create_error",
+    "Key": "squad_lobby_create_error",
+    "Value": "Failed to create lobby for squad."
+  },
+  {
+    "id": "squad_invite",
+    "Key": "squad_invite",
+    "Value": "Invite to Squad"
+  },
+  {
+    "id": "squad_invite_timeout",
+    "Key": "squad_invite_timeout",
+    "Value": "The invite will be cancelled in {cancelTimeInSec} seconds."
+  },
+  {
+    "id": "squad_kick",
+    "Key": "squad_kick",
+    "Value": "Kick from Squad"
+  },
+  {
+    "id": "squad_disband",
+    "Key": "squad_disband",
+    "Value": "Disband Squad"
+  },
+  {
+    "id": "squad_leave",
+    "Key": "squad_leave",
+    "Value": "Leave Squad"
+  },
+  {
+    "id": "squad_invite_pending",
+    "Key": "squad_invite_pending",
+    "Value": "Invite Pending"
+  },
+  {
+    "id": "squad_invite_accepted",
+    "Key": "squad_invite_accepted",
+    "Value": "Invite Accepted"
+  },
+  {
+    "id": "squad_invite_message",
+    "Key": "squad_invite_message",
+    "Value": "has invited you to a squad."
+  },
+  {
+    "id": "squad_queuing_message_2v2",
+    "Key": "squad_queuing_message_2v2",
+    "Value": "Your squad is queuing for ranked 2v2."
+  },
+  {
+    "id": "squad_chooseRace",
+    "Key": "squad_chooseRace",
+    "Value": "Please choose a race."
+  },
+  {
+    "id": "squad_chooseRace_timeout",
+    "Key": "squad_chooseRace_timeout",
+    "Value": "The race selection will be cancelled in {cancelTimeInSec} seconds."
+  },
+  {
+    "id": "squad_selecting_race",
+    "Key": "squad_selecting_race",
+    "Value": "Selecting Race"
+  },
+  {
+    "id": "squad_ready",
+    "Key": "squad_ready",
+    "Value": "Ready!"
+  },
+  {
+    "id": "squad_invite_player",
+    "Key": "squad_invite_player",
+    "Value": "i\\u0004I\\u0001nvite Player"
+  },
+  {
+    "id": "squad_invite_player_popup_enter_info",
+    "Key": "squad_invite_player_popup_enter_info",
+    "Value": "Enter a StarCraft Character or BattleTag#0000"
+  },
+  {
+    "id": "squad_recent_players",
+    "Key": "squad_recent_players",
+    "Value": "Recent Players"
+  },
+  {
+    "id": "squad_automatch_warning",
+    "Key": "squad_automatch_warning",
+    "Value": "We will auto match you with similarly skilled players to fill the empty slot in your squad."
+  },
+  {
+    "id": "squad_invite_a_player",
+    "Key": "squad_invite_a_player",
+    "Value": "Invite a Player"
+  },
+  {
+    "id": "squad_current",
+    "Key": "squad_current",
+    "Value": "CURRENT SQUAD"
+  },
+  {
+    "id": "squad_team_view",
+    "Key": "squad_team_view",
+    "Value": "See All Teams"
+  },
+  {
+    "id": "squad_waiting_for_player",
+    "Key": "squad_waiting_for_player",
+    "Value": "Waiting For Player"
+  },
+  {
+    "id": "squad_popup_squad_guest_can_not_invite",
+    "Key": "squad_popup_squad_guest_can_not_invite",
+    "Value": "You are already a squad guest, and can't invite others."
+  },
+  {
+    "id": "squad_popup_squad_is_full",
+    "Key": "squad_popup_squad_is_full",
+    "Value": "The squad is full. No more players can be invited."
+  },
+  {
+    "id": "squad_popup_squad_is_pending",
+    "Key": "squad_popup_squad_is_pending",
+    "Value": "Squad invite is pending. Please wait for the invite result before try again."
+  },
+  {
+    "id": "squad_popup_squad_invite_waiting",
+    "Key": "squad_popup_squad_invite_waiting",
+    "Value": "A squad invite is waiting for you. Please reject it before you invite another player."
+  },
+  {
+    "id": "squad_popup_disallow_invite_when_in_matchmaking",
+    "Key": "squad_popup_disallow_invite_when_in_matchmaking",
+    "Value": "You cannot invite player into a squad while you are currently in queue."
+  },
+  {
+    "id": "squad_popup_not_invite_player_in_custom_game",
+    "Key": "squad_popup_not_invite_player_in_custom_game",
+    "Value": "You cannot invite player who is currently in custom game."
+  },
+  {
+    "id": "squad_popup_wait_for_invite_result",
+    "Key": "squad_popup_wait_for_invite_result",
+    "Value": "Please wait for player to respond to your invite."
+  },
+  {
+    "id": "squad_popup_disallow_1v1_if_invited",
+    "Key": "squad_popup_disallow_1v1_if_invited",
+    "Value": "You cannot queue for 1v1 because you are currently in a squad."
+  },
+  {
+    "id": "squad_popup_disallow_1v1_for_squad_leader",
+    "Key": "squad_popup_disallow_1v1_for_squad_leader",
+    "Value": "You cannot queue for 1v1 because you are currently a squad leader."
+  },
+  {
+    "id": "squad_popup_kick_player_confirm",
+    "Key": "squad_popup_kick_player_confirm",
+    "Value": "Are you sure you want to\\n\\u0004kick {playerName} from your squad?\\u0002"
+  },
+  {
+    "id": "squad_popup_disband_squad_confirm",
+    "Key": "squad_popup_disband_squad_confirm",
+    "Value": "Are you sure you want to\\n\\u0004disband your squad?\\u0002"
+  },
+  {
+    "id": "squad_popup_leave_squad_confirm",
+    "Key": "squad_popup_leave_squad_confirm",
+    "Value": "Are you sure you want to\\n\\u0004leave your squad?\\u0002"
+  },
+  {
+    "id": "squad_popup_stay_with_squad",
+    "Key": "squad_popup_stay_with_squad",
+    "Value": "s\\u0004S\\u0001tay with Squad"
+  },
+  {
+    "id": "squad_popup_disband_squad",
+    "Key": "squad_popup_disband_squad",
+    "Value": "d\\u0004D\\u0001isband Squad"
+  },
+  {
+    "id": "squad_popup_leave_squad",
+    "Key": "squad_popup_leave_squad",
+    "Value": "l\\u0004L\\u0001eave Squad"
+  },
+  {
+    "id": "squad_info_invite_player",
+    "Key": "squad_info_invite_player",
+    "Value": "You have invited {playerName} to join your squad."
+  },
+  {
+    "id": "squad_info_kick_player",
+    "Key": "squad_info_kick_player",
+    "Value": "You have kicked {playerName} from your squad."
+  },
+  {
+    "id": "squad_info_kicked_from_squad",
+    "Key": "squad_info_kicked_from_squad",
+    "Value": "You have been dismissed from squad."
+  },
+  {
+    "id": "squad_info_leave_squad",
+    "Key": "squad_info_leave_squad",
+    "Value": "You have left squad."
+  },
+  {
+    "id": "squad_info_player_left_squad",
+    "Key": "squad_info_player_left_squad",
+    "Value": "{playerName} has left squad."
+  },
+  {
+    "id": "squad_info_squad_dismissed",
+    "Key": "squad_info_squad_dismissed",
+    "Value": "Your squad has been dismissed."
+  },
+  {
+    "id": "squad_info_accept_invite",
+    "Key": "squad_info_accept_invite",
+    "Value": "You have accepted squad invite from {playerName}."
+  },
+  {
+    "id": "squad_info_decline_invite",
+    "Key": "squad_info_decline_invite",
+    "Value": "You have declined squad invite from {playerName}."
+  },
+  {
+    "id": "squad_info_invite_accepted",
+    "Key": "squad_info_invite_accepted",
+    "Value": "Your squad invite to {playerName} has been accepted."
+  },
+  {
+    "id": "squad_info_invite_declined",
+    "Key": "squad_info_invite_declined",
+    "Value": "Your squad invite to {playerName} has been declined."
+  },
+  {
+    "id": "squad_info_invite_timeout",
+    "Key": "squad_info_invite_timeout",
+    "Value": "The squad invite from {playerName} has timed out."
+  },
+  {
+    "id": "squad_info_invite_error",
+    "Key": "squad_info_invite_error",
+    "Value": "The squad invite failed."
+  },
+  {
+    "id": "squad_info_invite_reject_from_sd_user",
+    "Key": "squad_info_invite_reject_from_sd_user",
+    "Value": "{playerName} is a SD user and thus cannot join squad."
+  },
+  {
+    "id": "squad_info_invite_reject_from_user_in_matchmaking",
+    "Key": "squad_info_invite_reject_from_user_in_matchmaking",
+    "Value": "{playerName} is still in matchmaking and thus the lobby invite is declined."
+  },
+  {
+    "id": "squad_info_invite_reject_from_user_on_toast_screen",
+    "Key": "squad_info_invite_reject_from_user_on_toast_screen",
+    "Value": "{playerName} is still on the toast screen and thus the lobby invite is declined."
+  },
+  {
+    "id": "squad_info_invite_reject_from_user_on_score_screen",
+    "Key": "squad_info_invite_reject_from_user_on_score_screen",
+    "Value": "{playerName} is still on the score screen and thus the lobby invite is declined."
+  },
+  {
+    "id": "squad_info_cancel_race_select",
+    "Key": "squad_info_cancel_race_select",
+    "Value": "{playerName} has canceled race selection."
+  },
+  {
+    "id": "squad_info_leader_cancel_matchmaking",
+    "Key": "squad_info_leader_cancel_matchmaking",
+    "Value": "The squad leader has canceled the matchmaking search."
+  },
+  {
+    "id": "squad_tooltip_for_disabled_ranked_button",
+    "Key": "squad_tooltip_for_disabled_ranked_button",
+    "Value": "You are already in a squad for ranked play."
+  },
+  {
+    "id": "squad_tooltip_for_disabled_requeue_button",
+    "Key": "squad_tooltip_for_disabled_requeue_button",
+    "Value": "Please go to the Ranked screen for re-queuing."
+  },
+  {
+    "id": "profile_collection_announcers_HeyJini_desc",
+    "Key": "profile_collection_announcers_HeyJini_desc",
+    "Value": "Hey Jini is beloved by kids of all ages in Korea, and now you can have her bubbly voice cheering you on during your matches. When paired with the Cartooned skin, it's the perfect way to share the joy of StarCraft across generations!"
+  },
+  {
+    "id": "loginDELCHARFAIL",
+    "Key": "loginDELCHARFAIL",
+    "Value": "Unable to delete this character - the file may be read-only on disk."
+  },
+  {
+    "id": "bnet_profileStats_overallWinsLossesDisconnects",
+    "Key": "bnet_profileStats_overallWinsLossesDisconnects",
+    "Value": "[{gatewayName}] Overall - Wins: {wins}, Losses: {losses}, Disconnects: {disconnects}."
+  },
+  {
+    "id": "optionsPanel_game_console_default_label",
+    "Key": "optionsPanel_game_console_default_label",
+    "Value": "Default"
+  },
+  {
+    "id": "optionsPanel_game_console_BlizzCon2017_label",
+    "Key": "optionsPanel_game_console_BlizzCon2017_label",
+    "Value": "BlizzCon 2017"
+  },
+  {
+    "id": "optionsPanel_game_console_SCAnniversary_label",
+    "Key": "optionsPanel_game_console_SCAnniversary_label",
+    "Value": "20th anniversary"
+  },
+  {
+    "id": "optionsPanel_game_console_KRC_Silver_label",
+    "Key": "optionsPanel_game_console_KRC_Silver_label",
+    "Value": "Silver - Orchestra 2019"
+  },
+  {
+    "id": "optionsPanel_game_console_KRC_Gold_label",
+    "Key": "optionsPanel_game_console_KRC_Gold_label",
+    "Value": "Gold - Orchestra 2019"
+  },
+  {
+    "id": "optionsPanel_game_console_label",
+    "Key": "optionsPanel_game_console_label",
+    "Value": "Console"
+  },
+  {
+    "id": "scr.DataError.desc",
+    "Key": "scr.DataError.desc",
+    "Value": "Cannot display results at this time. Your stats have been recorded and will be updated shortly."
+  },
+  {
+    "id": "bnet_chat_commandHelpCommandsList",
+    "Key": "bnet_chat_commandHelpCommandsList",
+    "Value": "Available commands:"
+  },
+  {
+    "id": "bnet_matchmaking_errorInit",
+    "Key": "bnet_matchmaking_errorInit",
+    "Value": "Unable to start matchmaking"
+  },
+  {
+    "id": "scr.profile.matches.btn.replay",
+    "Key": "scr.profile.matches.btn.replay",
+    "Value": "Watch Replay"
+  },
+  {
+    "id": "scr.profile.matches.outcome.win",
+    "Key": "scr.profile.matches.outcome.win",
+    "Value": "Win"
+  },
+  {
+    "id": "scr.profile.matches.outcome.loss",
+    "Key": "scr.profile.matches.outcome.loss",
+    "Value": "Loss"
+  },
+  {
+    "id": "scr.profile.matches.outcome.draw",
+    "Key": "scr.profile.matches.outcome.draw",
+    "Value": "Draw"
+  },
+  {
+    "id": "scr.profile.matches.outcome.disconnect",
+    "Key": "scr.profile.matches.outcome.disconnect",
+    "Value": "Disconnect"
+  },
+  {
+    "id": "scr.profile.matches.outcome.undecided",
+    "Key": "scr.profile.matches.outcome.undecided",
+    "Value": "Undecided"
+  },
+  {
+    "id": "scr.profile.matches.preview.information.label",
+    "Key": "scr.profile.matches.preview.information.label",
+    "Value": "Map & Settings"
+  },
+  {
+    "id": "scr.profile.matches.table.heading.3",
+    "Key": "scr.profile.matches.table.heading.3",
+    "Value": "Result"
+  },
+  {
+    "id": "scr.profile.matches.table.heading.4",
+    "Key": "scr.profile.matches.table.heading.4",
+    "Value": "Match Date"
+  },
+  {
+    "id": "scr.profile.noHistory",
+    "Key": "scr.profile.noHistory",
+    "Value": "No match history data found."
+  },
+  {
+    "id": "scr.common.terms.gameType.1",
+    "Key": "scr.common.terms.gameType.1",
+    "Value": "Melee"
+  },
+  {
+    "id": "scr.common.terms.gameType.2",
+    "Key": "scr.common.terms.gameType.2",
+    "Value": "Free For All"
+  },
+  {
+    "id": "scr.common.terms.gameType.3",
+    "Key": "scr.common.terms.gameType.3",
+    "Value": "One on One"
+  },
+  {
+    "id": "scr.common.terms.gameType.4",
+    "Key": "scr.common.terms.gameType.4",
+    "Value": "Capture The Flag"
+  },
+  {
+    "id": "scr.common.terms.gameType.5",
+    "Key": "scr.common.terms.gameType.5",
+    "Value": "Greed"
+  },
+  {
+    "id": "scr.common.terms.gameType.6",
+    "Key": "scr.common.terms.gameType.6",
+    "Value": "Slaughter"
+  },
+  {
+    "id": "scr.common.terms.gameType.7",
+    "Key": "scr.common.terms.gameType.7",
+    "Value": "Sudden Death"
+  },
+  {
+    "id": "scr.common.terms.gameType.8",
+    "Key": "scr.common.terms.gameType.8",
+    "Value": "Ladder"
+  },
+  {
+    "id": "scr.common.terms.gameType.9",
+    "Key": "scr.common.terms.gameType.9",
+    "Value": "Use Map Settings"
+  },
+  {
+    "id": "scr.common.terms.gameType.10",
+    "Key": "scr.common.terms.gameType.10",
+    "Value": "Team Melee"
+  },
+  {
+    "id": "scr.common.terms.gameType.11",
+    "Key": "scr.common.terms.gameType.11",
+    "Value": "Team Free For All"
+  },
+  {
+    "id": "scr.common.terms.gameType.12",
+    "Key": "scr.common.terms.gameType.12",
+    "Value": "Team Capture The Flag"
+  },
+  {
+    "id": "scr.common.terms.gameType.13",
+    "Key": "scr.common.terms.gameType.13",
+    "Value": "Top vs Bottom"
+  },
+  {
+    "id": "scr.profile.maps.information.label",
+    "Key": "scr.profile.maps.information.label",
+    "Value": "Map Information"
+  },
+  {
+    "id": "blizzcon.esports.brackets.draws",
+    "Key": "blizzcon.esports.brackets.draws",
+    "Value": "Draws"
+  },
+  {
+    "id": "scr.profile.tab.heading.1",
+    "Key": "scr.profile.tab.heading.1",
+    "Value": "Summary"
+  },
+  {
+    "id": "scr.profile.tab.heading.2",
+    "Key": "scr.profile.tab.heading.2",
+    "Value": "Stats"
+  },
+  {
+    "id": "scr.profile.tab.heading.3",
+    "Key": "scr.profile.tab.heading.3",
+    "Value": "History"
+  },
+  {
+    "id": "scr.profile.tab.heading.4",
+    "Key": "scr.profile.tab.heading.4",
+    "Value": "Seasons"
+  },
+  {
+    "id": "scr.profile.tab.heading.5",
+    "Key": "scr.profile.tab.heading.5",
+    "Value": "Collections"
+  },
+  {
+    "id": "scr.profile.tab.heading.6",
+    "Key": "scr.profile.tab.heading.6",
+    "Value": "Profile Settings"
+  },
+  {
+    "id": "scr.profile.editableField.title.placeholder",
+    "Key": "scr.profile.editableField.title.placeholder",
+    "Value": "Enter a title..."
+  },
+  {
+    "id": "scr.profile.editableField.desc.placeholder",
+    "Key": "scr.profile.editableField.desc.placeholder",
+    "Value": "Let them know who you are..."
+  },
+  {
+    "id": "scr.profile.season.currentSeason.label",
+    "Key": "scr.profile.season.currentSeason.label",
+    "Value": "Current Season"
+  },
+  {
+    "id": "scr.profile.maps.recentlyPlayed.label",
+    "Key": "scr.profile.maps.recentlyPlayed.label",
+    "Value": "Recently Played"
+  },
+  {
+    "id": "scr.profile.stats.header.title",
+    "Key": "scr.profile.stats.header.title",
+    "Value": "All Statistics"
+  },
+  {
+    "id": "scr.profile.replays.header.title",
+    "Key": "scr.profile.replays.header.title",
+    "Value": "Match History"
+  },
+  {
+    "id": "scr.profile.replays.filter.opt.1",
+    "Key": "scr.profile.replays.filter.opt.1",
+    "Value": "All Game Types"
+  },
+  {
+    "id": "scr.profile.btn.equip",
+    "Key": "scr.profile.btn.equip",
+    "Value": "EQUIP"
+  },
+  {
+    "id": "scr.profile.collections.unlock.label",
+    "Key": "scr.profile.collections.unlock.label",
+    "Value": "Unlock Progress"
+  },
+  {
+    "id": "scr.profile.collections.unlocked",
+    "Key": "scr.profile.collections.unlocked",
+    "Value": "unlocked"
+  },
+  {
+    "id": "scr.profile.collections.avatar.noData",
+    "Key": "scr.profile.collections.avatar.noData",
+    "Value": "You have not selected a profile avatar yet."
+  },
+  {
+    "id": "scr.profile.collections.avatar.desc.1",
+    "Key": "scr.profile.collections.avatar.desc.1",
+    "Value": "Get"
+  },
+  {
+    "id": "scr.profile.collections.avatar.desc.2",
+    "Key": "scr.profile.collections.avatar.desc.2",
+    "Value": "points in Ranked Play to unlock this portrait."
+  },
+  {
+    "id": "scr.profile.maps.noData",
+    "Key": "scr.profile.maps.noData",
+    "Value": "No map data found."
+  },
+  {
+    "id": "league_ranked_unrankedNotice",
+    "Key": "league_ranked_unrankedNotice",
+    "Value": "You are currently unranked."
+  },
+  {
+    "id": "league_ranked_completionRequirement",
+    "Key": "league_ranked_completionRequirement",
+    "Value": "You must complete %s more placement matches to qualify for a league."
+  },
+  {
+    "id": "news_banner_welcome",
+    "Key": "news_banner_welcome",
+    "Value": "Welcome Commander"
+  },
+  {
+    "id": "news_banner_join",
+    "Key": "news_banner_join",
+    "Value": "Join the Community:"
+  },
+  {
+    "id": "news_banner_forums",
+    "Key": "news_banner_forums",
+    "Value": "Official Forums"
+  },
+  {
+    "id": "bnet_latency_low",
+    "Key": "bnet_latency_low",
+    "Value": "Low"
+  },
+  {
+    "id": "bnet_latency_high",
+    "Key": "bnet_latency_high",
+    "Value": "High"
+  },
+  {
+    "id": "bnet_latency_extraHigh",
+    "Key": "bnet_latency_extraHigh",
+    "Value": "Extra high"
+  },
+  {
+    "id": "bnet_dtr_scanInProgress",
+    "Key": "bnet_dtr_scanInProgress",
+    "Value": "Calculating TR..."
+  },
+  {
+    "id": "bnet119_optionsPanel_soundBoard",
+    "Key": "bnet119_optionsPanel_soundBoard",
+    "Value": "Sound Board"
+  },
+  {
+    "id": "league_ranked_matchCompletetion_grats",
+    "Key": "league_ranked_matchCompletetion_grats",
+    "Value": "Excellent work, commander!"
+  },
+  {
+    "id": "league_ranked_matchCompletetion_sorry",
+    "Key": "league_ranked_matchCompletetion_sorry",
+    "Value": "The next battle awaits!"
+  },
+  {
+    "id": "league_ranked_unrankedNotice_toast",
+    "Key": "league_ranked_unrankedNotice_toast",
+    "Value": "%s placement matches remain."
+  },
+  {
+    "id": "league_ranked_rankUp",
+    "Key": "league_ranked_rankUp",
+    "Value": "You've Ranked Up!"
+  },
+  {
+    "id": "league_ranked_welcome",
+    "Key": "league_ranked_welcome",
+    "Value": "WELCOME TO %s LEAGUE"
+  },
+  {
+    "id": "league_toast_league",
+    "Key": "league_toast_league",
+    "Value": "League"
+  },
+  {
+    "id": "stats_career",
+    "Key": "stats_career",
+    "Value": "CAREER STATS"
+  },
+  {
+    "id": "stats_season",
+    "Key": "stats_season",
+    "Value": "SEASON STATS"
+  },
+  {
+    "id": "career_stats_title",
+    "Key": "career_stats_title",
+    "Value": "What are career stats?"
+  },
+  {
+    "id": "career_stats_description",
+    "Key": "career_stats_description",
+    "Value": "All ranked and unranked games played on this account contribute to these stats. Career stats will never be archived or reset."
+  },
+  {
+    "id": "season_stats_title",
+    "Key": "season_stats_title",
+    "Value": "What are season stats?"
+  },
+  {
+    "id": "season_stats_description",
+    "Key": "season_stats_description",
+    "Value": "Statistics on ranked games played during the current season are displayed here. Statistics reset at the beginning of each new season, when the previous season's statistics are archived."
+  },
+  {
+    "id": "season_mmr_title",
+    "Key": "season_mmr_title",
+    "Value": "What is MMR?"
+  },
+  {
+    "id": "season_mmr_description",
+    "Key": "season_mmr_description",
+    "Value": "Matchmaking Rating (MMR) helps us find appropriate opponents for your skill level. MMR is gained or lost at the end of each match, depending on the outcome."
+  },
+  {
+    "id": "season_srank_title",
+    "Key": "season_srank_title",
+    "Value": "S Rank players"
+  },
+  {
+    "id": "season_srank_description",
+    "Key": "season_srank_description",
+    "Value": "will be marked as \"inactive\" if they do not play at least 5 games each week. “Inactive” status will trigger weekly MMR decay."
+  },
+  {
+    "id": "season_end_title",
+    "Key": "season_end_title",
+    "Value": "2018 Season 1 End Date:"
+  },
+  {
+    "id": "season_end_date",
+    "Key": "season_end_date",
+    "Value": "09/30/2018"
+  },
+  {
+    "id": "season_title_2018_1",
+    "Key": "season_title_2018_1",
+    "Value": "2018 Season 1"
+  },
+  {
+    "id": "season_info_introducing",
+    "Key": "season_info_introducing",
+    "Value": "INTRODUCING"
+  },
+  {
+    "id": "season_info_newSeason",
+    "Key": "season_info_newSeason",
+    "Value": "A NEW SEASON & LEAGUE SYSTEM"
+  },
+  {
+    "id": "season_info_prideAndAccomplishment",
+    "Key": "season_info_prideAndAccomplishment",
+    "Value": "ACHIEVE GREATNESS & EARN REWARDS"
+  },
+  {
+    "id": "season_info_exclusive",
+    "Key": "season_info_exclusive",
+    "Value": "EXCLUSIVE PORTRAITS"
+  },
+  {
+    "id": "season_info_rankPortraits",
+    "Key": "season_info_rankPortraits",
+    "Value": "RANK THEMED PORTRAIT FRAMES"
+  },
+  {
+    "id": "season_info_howDoesItWork",
+    "Key": "season_info_howDoesItWork",
+    "Value": "HOW DOES IT WORK?"
+  },
+  {
+    "id": "season_info_placementMatches",
+    "Key": "season_info_placementMatches",
+    "Value": "Placement Matches"
+  },
+  {
+    "id": "season_info_startTheSeason",
+    "Key": "season_info_startTheSeason",
+    "Value": "All players begin the season unranked and are placed in the appropriate league after completing 5 placement matches."
+  },
+  {
+    "id": "season_info_frontierLeague",
+    "Key": "season_info_frontierLeague",
+    "Value": "Frontier League MMR"
+  },
+  {
+    "id": "season_info_carryOver",
+    "Key": "season_info_carryOver",
+    "Value": "Frontier League MMR will be used to determine suitable opponents for Season 1 placement matches."
+  },
+  {
+    "id": "season_info_mmr_decay",
+    "Key": "season_info_mmr_decay",
+    "Value": "MMR Decay"
+  },
+  {
+    "id": "season_info_mmr_decay_description",
+    "Key": "season_info_mmr_decay_description",
+    "Value": "S Rank players will be marked \"inactive\" if they do not play at least 5 games each week. \"Inactive\" status will trigger weekly MMR decay every Monday at 6:00 PM (GMT)."
+  },
+  {
+    "id": "season_info_top_players",
+    "Key": "season_info_top_players",
+    "Value": "Top Players"
+  },
+  {
+    "id": "season_info_achieve_through_placement",
+    "Key": "season_info_achieve_through_placement",
+    "Value": "Achievable through placement matches"
+  },
+  {
+    "id": "season_info_at_season_start",
+    "Key": "season_info_at_season_start",
+    "Value": "All players at season start"
+  },
+  {
+    "id": "profile_console_skins",
+    "Key": "profile_console_skins",
+    "Value": "Console Skins"
+  },
+  {
+    "id": "profile_unit_skins",
+    "Key": "profile_unit_skins",
+    "Value": "Unit & Structure Skins"
+  },
+  {
+    "id": "profile_collections_available",
+    "Key": "profile_collections_available",
+    "Value": "{numAvailable} Available"
+  },
+  {
+    "id": "profile_all_collections",
+    "Key": "profile_all_collections",
+    "Value": "All Collections"
+  },
+  {
+    "id": "profile_skins_default",
+    "Key": "profile_skins_default",
+    "Value": "Standard Skins"
+  },
+  {
+    "id": "profile_skins_preorder",
+    "Key": "profile_skins_preorder",
+    "Value": "Pre-Order Skins"
+  },
+  {
+    "id": "profile_season_history",
+    "Key": "profile_season_history",
+    "Value": "Season History"
+  },
+  {
+    "id": "league_ranked_current_status",
+    "Key": "league_ranked_current_status",
+    "Value": "Congratulations! You are in %s League."
+  },
+  {
+    "id": "chat_error_joinAlreadyInProgress",
+    "Key": "chat_error_joinAlreadyInProgress",
+    "Value": "A join channel request is already in progress."
+  },
+  {
+    "id": "profile_season_your_wins",
+    "Key": "profile_season_your_wins",
+    "Value": "Your Wins"
+  },
+  {
+    "id": "profile_season_opponent",
+    "Key": "profile_season_opponent",
+    "Value": "Opponent"
+  },
+  {
+    "id": "profile_season_gamesplayed",
+    "Key": "profile_season_gamesplayed",
+    "Value": "Games played this week:"
+  },
+  {
+    "id": "profile_collections_rankedFrame",
+    "Key": "profile_collections_rankedFrame",
+    "Value": "Show Ranked Portrait Frame"
+  },
+  {
+    "id": "profile_season_1v1global",
+    "Key": "profile_season_1v1global",
+    "Value": "1v1 Global Rank"
+  },
+  {
+    "id": "profile_season_2v2global",
+    "Key": "profile_season_2v2global",
+    "Value": "2v2 Global Rank"
+  },
+  {
+    "id": "profile_season_matchPreview",
+    "Key": "profile_season_matchPreview",
+    "Value": "Match Preview"
+  },
+  {
+    "id": "profile_season_mapStat",
+    "Key": "profile_season_mapStat",
+    "Value": "During this season %s has won %i% of games played on this map."
+  },
+  {
+    "id": "profile_season_dateformatting",
+    "Key": "profile_season_dateformatting",
+    "Value": "%m/%d/%y"
+  },
+  {
+    "id": "profile_season",
+    "Key": "profile_season",
+    "Value": "Season"
+  },
+  {
+    "id": "scr.waiting.title",
+    "Key": "scr.waiting.title",
+    "Value": "Waiting For Results..."
+  },
+  {
+    "id": "play_again",
+    "Key": "play_again",
+    "Value": "p\\u0004P\\u0001lay Again?"
+  },
+  {
+    "id": "news_str",
+    "Key": "news_str",
+    "Value": "n\\u0004N\\u0001ews"
+  },
+  {
+    "id": "bnet_error_classicServer_TE_DroppedDueToRateLimit",
+    "Key": "bnet_error_classicServer_TE_DroppedDueToRateLimit",
+    "Value": "Request rejected because too many operations are already in progress."
+  },
+  {
+    "id": "bnet_matchmaking_mapListsDownloadProgressPopup_title",
+    "Key": "bnet_matchmaking_mapListsDownloadProgressPopup_title",
+    "Value": "Downloading ranked map lists..."
+  },
+  {
+    "id": "profile_data_error",
+    "Key": "profile_data_error",
+    "Value": "Unable to load profile data. Please try again."
+  },
+  {
+    "id": "scr.leaderboard.filter.region.opt.1",
+    "Key": "scr.leaderboard.filter.region.opt.1",
+    "Value": "Global"
+  },
+  {
+    "id": "optionsPanel_game_console_BlizzCon2018_label",
+    "Key": "optionsPanel_game_console_BlizzCon2018_label",
+    "Value": "BlizzCon 2018"
+  },
+  {
+    "id": "season_info_newSeasonAndMapPool",
+    "Key": "season_info_newSeasonAndMapPool",
+    "Value": "A NEW SEASON & NEW MAP POOL"
+  },
+  {
+    "id": "season_info_newRewards",
+    "Key": "season_info_newRewards",
+    "Value": "EARN NEW REWARDS"
+  },
+  {
+    "id": "season_info_season2_mapPool",
+    "Key": "season_info_season2_mapPool",
+    "Value": "SEASON 2 MAP POOL"
+  },
+  {
+    "id": "bnet_profileStats_noStatsFound",
+    "Key": "bnet_profileStats_noStatsFound",
+    "Value": "No stats found."
+  },
+  {
+    "id": "scr.leaderboard.filter.igr",
+    "Key": "scr.leaderboard.filter.igr",
+    "Value": "IGR"
+  },
+  {
+    "id": "chat_error_AE_WhisperQuotaExceeded",
+    "Key": "chat_error_AE_WhisperQuotaExceeded",
+    "Value": "Whisper not sent because you have sent too many whispers too quickly."
+  },
+  {
+    "id": "chat_error_AE_FriendInviteeAtMaxFriends",
+    "Key": "chat_error_AE_FriendInviteeAtMaxFriends",
+    "Value": "That person already has the maximum number of Blizzard friends allowed."
+  },
+  {
+    "id": "bnet_chat_command_friends_presenceNotifications_enabled",
+    "Key": "bnet_chat_command_friends_presenceNotifications_enabled",
+    "Value": "Notifications related to friend presence will be displayed."
+  },
+  {
+    "id": "bnet_chat_command_friends_presenceNotifications_disabled",
+    "Key": "bnet_chat_command_friends_presenceNotifications_disabled",
+    "Value": "Notifications related to friend presence will be hidden."
+  },
+  {
+    "id": "bnet_availabilityChange_online",
+    "Key": "bnet_availabilityChange_online",
+    "Value": "Your availability is now set to online."
+  },
+  {
+    "id": "bnet_availabilityChange_away",
+    "Key": "bnet_availabilityChange_away",
+    "Value": "Your availability is now set to away."
+  },
+  {
+    "id": "bnet_availabilityChange_dnd",
+    "Key": "bnet_availabilityChange_dnd",
+    "Value": "Your availability is now set to busy (DND). You will not receive whispers or friends presence notifications."
+  },
+  {
+    "id": "scr.profile.btn.purchase",
+    "Key": "scr.profile.btn.purchase",
+    "Value": "BUY NOW"
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_on_description",
+    "Key": "bnet_chat_commandHelp_friends_on_description",
+    "Value": "Enable friends presence notifications."
+  },
+  {
+    "id": "bnet_chat_commandHelp_friends_off_description",
+    "Key": "bnet_chat_commandHelp_friends_off_description",
+    "Value": "Disable friends presence notifications."
+  },
+  {
+    "id": "season_info_season3_mapPool",
+    "Key": "season_info_season3_mapPool",
+    "Value": "SEASON 3 MAP POOL"
+  },
+  {
+    "id": "profile_collection_announcers_title",
+    "Key": "profile_collection_announcers_title",
+    "Value": "Announcers"
+  },
+  {
+    "id": "profile_collection_announcers_default_title",
+    "Key": "profile_collection_announcers_default_title",
+    "Value": "Default"
+  },
+  {
+    "id": "replay_date",
+    "Key": "replay_date",
+    "Value": "Date:"
+  },
+  {
+    "id": "replay_length",
+    "Key": "replay_length",
+    "Value": "Length:"
+  },
+  {
+    "id": "replay_file_name",
+    "Key": "replay_file_name",
+    "Value": "File Name:"
+  },
+  {
+    "id": "season_info_season_mapPool",
+    "Key": "season_info_season_mapPool",
+    "Value": "SEASON {seasonNumber} MAP POOL"
+  },
+  {
+    "id": "scr.profile.btn.preview",
+    "Key": "scr.profile.btn.preview",
+    "Value": "Preview"
+  },
+  {
+    "id": "bnet_availabilityChange_offline",
+    "Key": "bnet_availabilityChange_offline",
+    "Value": "Your availability is now set to offline."
+  },
+  {
+    "id": "profile_collection_announcers_Jaekyung_title",
+    "Key": "profile_collection_announcers_Jaekyung_title",
+    "Value": "Um"
+  },
+  {
+    "id": "profile_collection_announcers_Yongjun_title",
+    "Key": "profile_collection_announcers_Yongjun_title",
+    "Value": "Jeon"
+  },
+  {
+    "id": "profile_collection_announcers_Jungmin_title",
+    "Key": "profile_collection_announcers_Jungmin_title",
+    "Value": "Kim"
+  },
+  {
+    "id": "profile_collection_announcers_UmJeonKim_title",
+    "Key": "profile_collection_announcers_UmJeonKim_title",
+    "Value": "Um, Jeon, Kim Trio"
+  },
+  {
+    "id": "recent_players",
+    "Key": "recent_players",
+    "Value": "Recent Players"
+  },
+  {
+    "id": "profile_collection_announcers_Jaekyung_desc",
+    "Key": "profile_collection_announcers_Jaekyung_desc",
+    "Value": "Jae Kyung is an esports legend in Korea, having been at the mic since the very first day of Star League. Welcome his legendary commentating-and witty storytelling-into your own StarCraft games!"
+  },
+  {
+    "id": "profile_collection_announcers_Yongjun_desc",
+    "Key": "profile_collection_announcers_Yongjun_desc",
+    "Value": "Yong Jun is a passionate announcer whose provocative approach to commentating reminds fans of rowdy battle rap. Allow his boisterous presence to charge up the atmosphere in your StarCraft matches."
+  },
+  {
+    "id": "profile_collection_announcers_Jungmin_desc",
+    "Key": "profile_collection_announcers_Jungmin_desc",
+    "Value": "In his heyday as a formidable pro player, Jungmin was known as \"By-The-Book Terran.\" Let his analytic commentary, based on years of competitive experience, add color to your StarCraft games."
+  },
+  {
+    "id": "profile_collection_announcers_UmJeonKim_desc",
+    "Key": "profile_collection_announcers_UmJeonKim_desc",
+    "Value": "The Voices of Legend bundle includes the Um, Jeon, and Kim individual announcer packs, as well as the exclusive Um-Jeon-Kim Trio announcer, featuring the perfect combination of analysis, storytelling, and passion!"
+  },
+  {
+    "id": "error_cant_load_last_replay",
+    "Key": "error_cant_load_last_replay",
+    "Value": "Failed to load last replay."
+  },
+  {
+    "id": "profile_collections_leaveMmQueueForSimpleCheckout",
+    "Key": "profile_collections_leaveMmQueueForSimpleCheckout",
+    "Value": "You need to leave the matchmaking queue to complete the purchase. Is this OK?"
+  },
+  {
+    "id": "tag_zerg",
+    "Key": "tag_zerg",
+    "Value": "Z"
+  },
+  {
+    "id": "tag_terran",
+    "Key": "tag_terran",
+    "Value": "T"
+  },
+  {
+    "id": "tag_protoss",
+    "Key": "tag_protoss",
+    "Value": "P"
+  },
+  {
+    "id": "tag_random",
+    "Key": "tag_random",
+    "Value": "?"
+  },
+  {
+    "id": "profile_collection_announcers_note",
+    "Key": "profile_collection_announcers_note",
+    "Value": "Korean only (No Subtitles)"
+  },
+  {
+    "id": "season_info_season4_mapPool",
+    "Key": "season_info_season4_mapPool",
+    "Value": "SEASON 4 MAP POOL"
+  },
+  {
+    "id": "season_info_season5_mapPool",
+    "Key": "season_info_season5_mapPool",
+    "Value": "SEASON 5 MAP POOL"
+  },
+  {
+    "id": "social_panel_message_button",
+    "Key": "social_panel_message_button",
+    "Value": "Message"
+  },
+  {
+    "id": "social_panel_friend_button",
+    "Key": "social_panel_friend_button",
+    "Value": "Friend"
+  },
+  {
+    "id": "social_panel_ignore_button",
+    "Key": "social_panel_ignore_button",
+    "Value": "Ignore"
+  },
+  {
+    "id": "social_panel_unignore_button",
+    "Key": "social_panel_unignore_button",
+    "Value": "Unignore"
+  },
+  {
+    "id": "social_panel_report_button",
+    "Key": "social_panel_report_button",
+    "Value": "Report"
+  },
+  {
+    "id": "social_panel_header",
+    "Key": "social_panel_header",
+    "Value": "Social"
+  },
+  {
+    "id": "social_panel_report_reason",
+    "Key": "social_panel_report_reason",
+    "Value": "Choose Reason:"
+  },
+  {
+    "id": "social_panel_report_spam",
+    "Key": "social_panel_report_spam",
+    "Value": "Spam"
+  },
+  {
+    "id": "social_panel_report_harassment",
+    "Key": "social_panel_report_harassment",
+    "Value": "Harassment"
+  },
+  {
+    "id": "social_panel_report_cheating",
+    "Key": "social_panel_report_cheating",
+    "Value": "Cheating"
+  },
+  {
+    "id": "social_panel_report_account_name",
+    "Key": "social_panel_report_account_name",
+    "Value": "Account Name"
+  },
+  {
+    "id": "social_panel_report_battle_tag",
+    "Key": "social_panel_report_battle_tag",
+    "Value": "Battle Tag"
+  },
+  {
+    "id": "social_panel_report_game_name",
+    "Key": "social_panel_report_game_name",
+    "Value": "Game Name"
+  },
+  {
+    "id": "str_referee",
+    "Key": "str_referee",
+    "Value": "Referee"
+  },
+  {
+    "id": "strPAUSED_observer",
+    "Key": "strPAUSED_observer",
+    "Value": "{name} paused the game."
+  },
+  {
+    "id": "createGameScreen_refereeOption",
+    "Key": "createGameScreen_refereeOption",
+    "Value": "Enable Referees"
+  },
+  {
+    "id": "lobbyScreen_referees",
+    "Key": "lobbyScreen_referees",
+    "Value": "Referees"
+  },
+  {
+    "id": "optionsPanel_game_console_War3Spoils_label",
+    "Key": "optionsPanel_game_console_War3Spoils_label",
+    "Value": "Reforged"
+  },
+  {
+    "id": "lobbyScreen_MapSpecified",
+    "Key": "lobbyScreen_MapSpecified",
+    "Value": "Map specified"
+  },
+  {
+    "id": "profile_collection_soundtracks_title",
+    "Key": "profile_collection_soundtracks_title",
+    "Value": "Background Music"
+  },
+  {
+    "id": "profile_collection_soundtrack_default_title",
+    "Key": "profile_collection_soundtrack_default_title",
+    "Value": "Default"
+  },
+  {
+    "id": "profile_collection_soundtrack_concert_title",
+    "Key": "profile_collection_soundtrack_concert_title",
+    "Value": "StarCraft Remastered: Live Concert Background Music"
+  },
+  {
+    "id": "profile_collection_soundtrack_default_description",
+    "Key": "profile_collection_soundtrack_default_description",
+    "Value": "Original Music"
+  },
+  {
+    "id": "profile_collection_soundtrack_concert_description",
+    "Key": "profile_collection_soundtrack_concert_description",
+    "Value": "In August 2019, Blizzard collaborated with Flasic Co. to bring South Korean fans an epic StarCraft live concert. Now, with the StarCraft Live Concert Background Music (BGM) pack, you can enjoy this stellar orchestral performance in-game and from the comfort of your home."
+  }
+]

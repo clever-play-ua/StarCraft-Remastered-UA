@@ -1,0 +1,517 @@
+﻿[
+  {
+    "id": "STR_TIP_TUT1",
+    "Key": "STR_TIP_TUT1",
+    "Value": "Click on NEXT TIP to cycle through all available tips. You can activate this help menu at any time by clicking on the MENU button and choosing HELP."
+  },
+  {
+    "id": "STR_TIP_T1",
+    "Key": "STR_TIP_T1",
+    "Value": "Units can be ordered to move, attack, gather resources, or repair other units and buildings automatically. With a unit selected, right-click on the area or target where the action will be performed."
+  },
+  {
+    "id": "STR_TIP_G1",
+    "Key": "STR_TIP_G1",
+    "Value": "To toggle subtitles on or off, go to MENU. Under OPTIONS, select SOUND and click on the box marked TOGGLE SUBTITLES."
+  },
+  {
+    "id": "STR_TIP_T2",
+    "Key": "STR_TIP_T2",
+    "Value": "The Terran Refinery, Zerg Extractor and Protoss Assimilator must be constructed on top of a Vespene Geyser before any gas can be collected."
+  },
+  {
+    "id": "STR_TIP_G2",
+    "Key": "STR_TIP_G2",
+    "Value": "Most commands in the game have hot keys.  These keys are denoted by the highlighted letter in the text of the command button."
+  },
+  {
+    "id": "STR_TIP_G3",
+    "Key": "STR_TIP_G3",
+    "Value": "To restart a mission, choose END MISSION from the menu."
+  },
+  {
+    "id": "STR_TIP_G4",
+    "Key": "STR_TIP_G4",
+    "Value": "Mission objectives may be viewed at any time by choosing MISSION OBJECTIVES from the menu."
+  },
+  {
+    "id": "STR_TIP_T3",
+    "Key": "STR_TIP_T3",
+    "Value": "Any Terran Infantry units may be placed inside a Bunker. While inside a Bunker, units are shielded from attacks, but are free to return fire. To load a unit into a Bunker, select the unit and right-click on the Bunker."
+  },
+  {
+    "id": "STR_TIP_G5",
+    "Key": "STR_TIP_G5",
+    "Value": "Terran Vultures can lay Spider Mines: select a Vulture unit, then select the MINE button and designate an area of ground as the target."
+  },
+  {
+    "id": "STR_TIP_Ga",
+    "Key": "STR_TIP_Ga",
+    "Value": "Queue up to five units at the same time by selecting a building, then clicking on the button of the unit you wish to queue."
+  },
+  {
+    "id": "STR_TIP_T4",
+    "Key": "STR_TIP_T4",
+    "Value": "Terran Marines and Firebats have \"Stimpack\" upgrades. Stimpacks increase a unit's attack rate and movement rate, at a cost of 10 hit points per \"stim.\""
+  },
+  {
+    "id": "STR_TIP_G6",
+    "Key": "STR_TIP_G6",
+    "Value": "In some missions, you must return specific units to a particular location, designated by a glowing Command Point Marker, called a \"Beacon.\""
+  },
+  {
+    "id": "STR_TIP_G7",
+    "Key": "STR_TIP_G7",
+    "Value": "When building a Terran Command Center, Protoss Nexus, or Zerg Hatchery, try to place it as close to resources as possible."
+  },
+  {
+    "id": "STR_TIP_T5",
+    "Key": "STR_TIP_T5",
+    "Value": "Both the Terran Wraith and Ghost have the ability to \"Cloak.\" While cloaked, they are safe from attack, unless spotted by enemy detection units."
+  },
+  {
+    "id": "STR_TIP_G8",
+    "Key": "STR_TIP_G8",
+    "Value": "Cancel any unit in a queue by clicking on its icon in the construction \"pipeline\" display."
+  },
+  {
+    "id": "STR_TIP_G9",
+    "Key": "STR_TIP_G9",
+    "Value": "Toggle the terrain information on and off in the Mini Map by pressing \\u0004TAB\\u0001."
+  },
+  {
+    "id": "STR_TIP_T6",
+    "Key": "STR_TIP_T6",
+    "Value": "Terran Dropships ferry units quickly between areas. Load Dropships by selecting one or more units, then right-clicking on the Dropship. Dropships are built at the Starport."
+  },
+  {
+    "id": "STR_TIP_G10",
+    "Key": "STR_TIP_G10",
+    "Value": "Toggle the Mini Map between Team Color Identification and Friend-or-Foe recognition modes by pressing \\u0004SHIFT+TAB\\u0001."
+  },
+  {
+    "id": "STR_TIP_G11",
+    "Key": "STR_TIP_G11",
+    "Value": "When using the MOVE command, your units will ignore enemy units as they travel to their destination.  In this way, you can also use the MOVE command to retreat."
+  },
+  {
+    "id": "STR_TIP_T7",
+    "Key": "STR_TIP_T7",
+    "Value": "Most Terran buildings can fly. Select the building and click the LIFTOFF button to fly; press the button again to select a location to land."
+  },
+  {
+    "id": "STR_TIP_G12",
+    "Key": "STR_TIP_G12",
+    "Value": "Move your units with the ATTACK command when you wish them to engage enemy forces along the way."
+  },
+  {
+    "id": "STR_TIP_G13",
+    "Key": "STR_TIP_G13",
+    "Value": "You can adjust the sound, music, and speech in the SOUND menu."
+  },
+  {
+    "id": "STR_TIP_T8",
+    "Key": "STR_TIP_T8",
+    "Value": "Take over abandoned Terran add-ons (Machine Shops, Control Towers, etc.) by landing your own buildings next to them."
+  },
+  {
+    "id": "STR_TIP_G14",
+    "Key": "STR_TIP_G14",
+    "Value": "You can adjust the game speed, mouse speed, and other speed settings in the SPEED menu."
+  },
+  {
+    "id": "STR_TIP_G15",
+    "Key": "STR_TIP_G15",
+    "Value": "In single player games, you can speed up or slow down the game by pressing the \\u0004+\\u0001 or \\u0004-\\u0001 keys."
+  },
+  {
+    "id": "STR_TIP_T9",
+    "Key": "STR_TIP_T9",
+    "Value": "The Terran Nuclear Silo is an add-on to the Command Center. To launch a nuclear attack, build a nuclear missile at the silo, then use a Ghost unit to designate a target."
+  },
+  {
+    "id": "STR_TIP_G16",
+    "Key": "STR_TIP_G16",
+    "Value": "Deselect an individual unit from a group by holding down the \\u0004SHIFT\\u0001 key while selecting that unit."
+  },
+  {
+    "id": "STR_TIP_G17",
+    "Key": "STR_TIP_G17",
+    "Value": "To single out a unit from within a group, either select the individual unit, or select that unit's wireframe from the status display."
+  },
+  {
+    "id": "STR_TIP_T10",
+    "Key": "STR_TIP_T10",
+    "Value": "Missile Turrets and Science vessels reveal hidden units within their range. The Comsat station briefly reveals hidden units anywhere on the map with its Sensor Sweep."
+  },
+  {
+    "id": "STR_TIP_G18",
+    "Key": "STR_TIP_G18",
+    "Value": "Load units into a transport using the MOVE command. The transport will automatically move to meet the units."
+  },
+  {
+    "id": "STR_TIP_G19",
+    "Key": "STR_TIP_G19",
+    "Value": "Unload units from a transport by clicking the UNLOAD ALL button and selecting an unloading area. Unload an individual unit by clicking on its wireframe."
+  },
+  {
+    "id": "STR_TIP_Z1",
+    "Key": "STR_TIP_Z1",
+    "Value": "All Zerg buildings, except the Hatchery and Extractor, must be constructed on creep. Creep can be created by building a Hatchery or a creep colony."
+  },
+  {
+    "id": "STR_TIP_G20",
+    "Key": "STR_TIP_G20",
+    "Value": "You can designate targets for your commands (MOVE, ATTACK, GATHER, etc.) using the Mini Map.  In this way, you can send units to distant locations without having to scroll the Main Screen."
+  },
+  {
+    "id": "STR_TIP_G21",
+    "Key": "STR_TIP_G21",
+    "Value": "Click and drag in the Mini Map to rapidly scroll your view in the main screen."
+  },
+  {
+    "id": "STR_TIP_Z2",
+    "Key": "STR_TIP_Z2",
+    "Value": "The Zerg Hatchery can be upgraded to a Lair and eventually a Hive.  Each upgrade allows you to build additional Zerg structures."
+  },
+  {
+    "id": "STR_TIP_G22",
+    "Key": "STR_TIP_G22",
+    "Value": "To select a unit's previous group, hold down the \\u0004ALT\\u0001 key while selecting that unit."
+  },
+  {
+    "id": "STR_TIP_G23",
+    "Key": "STR_TIP_G23",
+    "Value": "SAVE your game frequently. If you find yourself in a desperate situation, you can go back and LOAD your game before you got into this whole mess."
+  },
+  {
+    "id": "STR_TIP_Z3",
+    "Key": "STR_TIP_Z3",
+    "Value": "Zerg Overlords can be upgraded to carry units at the Lair or Hive. Once upgraded, you can use them as transports by selecting a group of units and right-clicking on an Overlord."
+  },
+  {
+    "id": "STR_TIP_G24",
+    "Key": "STR_TIP_G24",
+    "Value": "Use the Campaign Editor, found on the Main Menu, to build your own maps and edit unit variables."
+  },
+  {
+    "id": "STR_TIP_G25",
+    "Key": "STR_TIP_G25",
+    "Value": "You can turn off unit responses in the SOUND menu."
+  },
+  {
+    "id": "STR_TIP_Z4",
+    "Key": "STR_TIP_Z4",
+    "Value": "Zerg Queens have the ability to \"Infest\" a severely damaged Terran Command Center. Once infested, the Command Center is now a Zerg structure capable of building Infested Terrans that explode when attacking."
+  },
+  {
+    "id": "STR_TIP_G26",
+    "Key": "STR_TIP_G26",
+    "Value": "The \\u0004SHIFT\\u0001 key allows you to chain together multiple commands. Hold down the SHIFT key while issuing commands; the unit will finish each task before proceeding to the next."
+  },
+  {
+    "id": "STR_TIP_G27",
+    "Key": "STR_TIP_G27",
+    "Value": "You can use the PATROL command to setup a patrol route for your units.  While in patrol mode your units will attack any enemy units that they see."
+  },
+  {
+    "id": "STR_TIP_Z5",
+    "Key": "STR_TIP_Z5",
+    "Value": "Most Zerg ground units have the ability to Burrow. When Burrowed, they cannot attack or be attacked unless detected."
+  },
+  {
+    "id": "STR_TIP_G28",
+    "Key": "STR_TIP_G28",
+    "Value": "Stationary combat units are assumed to be on guard: if they see an enemy unit they will automatically engage it."
+  },
+  {
+    "id": "STR_TIP_G29",
+    "Key": "STR_TIP_G29",
+    "Value": "Using the HOLD POSITION command, units will remain stationary, even if attacked, and attack enemy units within their range."
+  },
+  {
+    "id": "STR_TIP_Z6",
+    "Key": "STR_TIP_Z6",
+    "Value": "Zerg Mutalisks can be transformed into a unit called the Guardian. Once a Spire is upgraded into a Greater Spire, all Mutalisks automatically gain the ability to transform into Guardians."
+  },
+  {
+    "id": "STR_TIP_G30",
+    "Key": "STR_TIP_G30",
+    "Value": "You can setup convoys by selecting your escorts and telling them to MOVE onto the unit you want escorted.  They will then follow the designated unit."
+  },
+  {
+    "id": "STR_TIP_G31",
+    "Key": "STR_TIP_G31",
+    "Value": "To send messages to your opponent during multiplayer games, press \\u0004Enter\\u0001, type in your message and press \\u0004Enter\\u0001 again."
+  },
+  {
+    "id": "STR_TIP_Z7",
+    "Key": "STR_TIP_Z7",
+    "Value": "Zerg Defilers have the ability to CONSUME their own units. Every unit consumed restores 50 energy points to the Defiler."
+  },
+  {
+    "id": "STR_TIP_G32",
+    "Key": "STR_TIP_G32",
+    "Value": "You can form alliances during a multiplayer game using the DIPLOMACY button on the Command Console."
+  },
+  {
+    "id": "STR_TIP_G33",
+    "Key": "STR_TIP_G33",
+    "Value": "During multiplayer games, allies achieve a shared victory only if all surviving allies have selected ALLIED VICTORY from the DIPLOMACY MENU."
+  },
+  {
+    "id": "STR_TIP_Z8",
+    "Key": "STR_TIP_Z8",
+    "Value": "Use the PLAGUE spell to severely damage any unit or building. It will cause up to 300 points of damage to its target, but will not kill a target."
+  },
+  {
+    "id": "STR_TIP_G34",
+    "Key": "STR_TIP_G34",
+    "Value": "In a multiplayer game, allies can share their fog of war information once all members of the alliance select SHARE VISION from the DIPLOMACY MENU."
+  },
+  {
+    "id": "STR_TIP_G35",
+    "Key": "STR_TIP_G35",
+    "Value": "Pressing \\u0004CTRL-S\\u0001 will toggle the sound on or off.  \\u0004CTRL-M\\u0001 will toggle the music on or off."
+  },
+  {
+    "id": "STR_TIP_Z9",
+    "Key": "STR_TIP_Z9",
+    "Value": "Zerg Scourge can be set on Patrol to automatically attack all air units that come near."
+  },
+  {
+    "id": "STR_TIP_G36",
+    "Key": "STR_TIP_G36",
+    "Value": "To surrender during a campaign or multiplayer game, use the SURRENDER button in the OPTIONS menu."
+  },
+  {
+    "id": "STR_TIP_Z10",
+    "Key": "STR_TIP_Z10",
+    "Value": "The Zerg Queen's ENSNARE spell and The Defiler's PLAGUE spell can be cast on cloaked units to allow other units to target them."
+  },
+  {
+    "id": "STR_TIP_G37",
+    "Key": "STR_TIP_G37",
+    "Value": "Keep the path between the Command Center and available resources clear.  Obstacles slow the rate at which resources can be returned."
+  },
+  {
+    "id": "STR_TIP_P1",
+    "Key": "STR_TIP_P1",
+    "Value": "All Protoss buildings, except the Nexus, must be built within the energy field of a Pylon."
+  },
+  {
+    "id": "STR_TIP_G38",
+    "Key": "STR_TIP_G38",
+    "Value": "To save your current position on the map, press \\u0004Shift-F2\\u0001. To recall that position at any time, press \\u0004F2\\u0001. You can save up to three views using keys F2-F4 in this manner."
+  },
+  {
+    "id": "STR_TIP_P2",
+    "Key": "STR_TIP_P2",
+    "Value": "Protoss Reavers attack by firing explosive \"Scarabs\" at their targets. To build Scarabs, select the Reaver and press the BUILD SCARABS button."
+  },
+  {
+    "id": "STR_TIP_G39",
+    "Key": "STR_TIP_G39",
+    "Value": "Different units are designed to work together and support each other. Combinations are more effective than a force composed of a single unit type."
+  },
+  {
+    "id": "STR_TIP_P3",
+    "Key": "STR_TIP_P3",
+    "Value": "Protoss Probes can build multiple buildings at one time. Once a building warp has been started, the Probe can move onto a new task."
+  },
+  {
+    "id": "STR_TIP_G40",
+    "Key": "STR_TIP_G40",
+    "Value": "Hold down \\u0004CTRL\\u0001 while selecting a unit to select all units of the same type within your view."
+  },
+  {
+    "id": "STR_TIP_P4",
+    "Key": "STR_TIP_P4",
+    "Value": "Use PSIONIC STORM to damage all units in the spell's area of effect. It is devastating against a tight formation of enemy units."
+  },
+  {
+    "id": "STR_TIP_G41",
+    "Key": "STR_TIP_G41",
+    "Value": "Double-click a unit to select all units of the same type within your view."
+  },
+  {
+    "id": "STR_TIP_P5",
+    "Key": "STR_TIP_P5",
+    "Value": "Protoss Templars have the ability to transform into a powerful fighting unit called an Archon. Select two Templars and press the ARCHON WARP button to create an Archon."
+  },
+  {
+    "id": "STR_TIP_G42",
+    "Key": "STR_TIP_G42",
+    "Value": "Pressing the space bar will center the screen on the location of your last transmission."
+  },
+  {
+    "id": "STR_TIP_P6",
+    "Key": "STR_TIP_P6",
+    "Value": "Use HALLUCINATION to make multiple holograms of a single unit. Use them to scout and draw enemy fire as decoys."
+  },
+  {
+    "id": "STR_TIP_G43",
+    "Key": "STR_TIP_G43",
+    "Value": "To save your currently selected group of units, press \\u0004CTRL-1\\u0001. To recall that group at any time, press\\u0004 1\\u0001. You can save up to ten groups using keys 1 through 0 in this manner. This also works for buildings."
+  },
+  {
+    "id": "STR_TIP_P7",
+    "Key": "STR_TIP_P7",
+    "Value": "Protoss Observers are great for scouting: they remain permanently cloaked, and can detect hidden units."
+  },
+  {
+    "id": "STR_TIP_G44",
+    "Key": "STR_TIP_G44",
+    "Value": "In a multiplayer game, pressing \\u0004SHIFT-ENTER\\u0001 sends your message to all players."
+  },
+  {
+    "id": "STR_TIP_P8",
+    "Key": "STR_TIP_P8",
+    "Value": "Protoss Carriers attack by launching small interceptors that swarm their target. To build Interceptors, select the Carrier and press the BUILD INTERCEPTORS button."
+  },
+  {
+    "id": "STR_TIP_G45",
+    "Key": "STR_TIP_G45",
+    "Value": "In a multiplayer game, pressing \\u0004CTRL-ENTER\\u0001 sends a message that is exclusive to your allies."
+  },
+  {
+    "id": "STR_TIP_P9",
+    "Key": "STR_TIP_P9",
+    "Value": "The Protoss Arbiter cloaks all nearby units, although the Arbiter itself remains visible. Arbiters cannot cloak each other."
+  },
+  {
+    "id": "STR_TIP_G46",
+    "Key": "STR_TIP_G46",
+    "Value": "Units caught in an Arbiter's Stasis Field can neither attack nor be attacked for the duration of the spell."
+  },
+  {
+    "id": "STR_TIP_P10",
+    "Key": "STR_TIP_P10",
+    "Value": "Protoss Arbiters can use Recall to instantly teleport units to their location."
+  },
+  {
+    "id": "STR_TIP_G47",
+    "Key": "STR_TIP_G47",
+    "Value": "In Greed and Slaughter Mutiplayer games, a leaderboard displays the current leader. Press \\u0004CTRL-R\\u0001 to toggle between displaying the leader, and displaying all players."
+  },
+  {
+    "id": "STR_TIP_XP1",
+    "Key": "STR_TIP_XP1",
+    "Value": "Use an attack-move to have your forces fight through masses of enemies. Press the \\u0004A\\u0001 key, then left-click a location to have your forces engage the enemy while moving to their destination."
+  },
+  {
+    "id": "STR_TIP_XP2",
+    "Key": "STR_TIP_XP2",
+    "Value": "Combining different types of units during an attack makes your attack more effective. The strength of one unit will complement the weakness of another."
+  },
+  {
+    "id": "STR_TIP_XP3",
+    "Key": "STR_TIP_XP3",
+    "Value": "The Corsair's DISRUPTION WEB prevents enemy ground units from attacking while underneath the Web. DISRUPTION WEB is particularly effective against enemy towers."
+  },
+  {
+    "id": "STR_TIP_XP4",
+    "Key": "STR_TIP_XP4",
+    "Value": "Protoss Reavers can be used to effectively defend your base and to quickly destroy enemy towns. Keep them protected by other units, since they are slow and vulnerable."
+  },
+  {
+    "id": "STR_TIP_XP5",
+    "Key": "STR_TIP_XP5",
+    "Value": "Select a unit and press the \\u0004H\\u0001 key to have the unit hold-ground, which will prevent it from wandering into enemy territory."
+  },
+  {
+    "id": "STR_TIP_XP6",
+    "Key": "STR_TIP_XP6",
+    "Value": "Expand and establish new bases early in the game. Having a constant supply of minerals and gas is essential to victory."
+  },
+  {
+    "id": "STR_TIP_XP7",
+    "Key": "STR_TIP_XP7",
+    "Value": "Merge Dark Templar to create Dark Archons. Select two Dark Templars and press the DARK ARCHON MELD button to create a Dark Archon. Dark Archons have the ability to MIND CONTROL enemy units."
+  },
+  {
+    "id": "STR_TIP_XP8",
+    "Key": "STR_TIP_XP8",
+    "Value": "Photon Cannons can fire at both ground and air targets, making them ideal for defending your base or other locations."
+  },
+  {
+    "id": "STR_TIP_XT1",
+    "Key": "STR_TIP_XT1",
+    "Value": "Upgrade the attack and defense abilities of your units to increase their effectiveness."
+  },
+  {
+    "id": "STR_TIP_XT2",
+    "Key": "STR_TIP_XT2",
+    "Value": "Medics automatically HEAL nearby organic units. Mix Medics together with your Marines or Firebats to increase their life expectancy."
+  },
+  {
+    "id": "STR_TIP_XT3",
+    "Key": "STR_TIP_XT3",
+    "Value": "Use Comsat to spot for your Siege Tanks. Build a Comsat Station at your Command Center and use the SENSOR SWEEP to reveal high ground and other hidden terrain you wish your tanks to attack."
+  },
+  {
+    "id": "STR_TIP_XT4",
+    "Key": "STR_TIP_XT4",
+    "Value": "Use the Medic RESTORATION ability to remove the effects of LOCKDOWN and other abnormal effects from your units."
+  },
+  {
+    "id": "STR_TIP_XT5a",
+    "Key": "STR_TIP_XT5a",
+    "Value": "Build Missile Towers to detect enemy Ghosts and to stop Nuclear Missile attacks. You can stop the attack by killing the Ghost before the missile lands."
+  },
+  {
+    "id": "STR_TIP_XT5b",
+    "Key": "STR_TIP_XT5b",
+    "Value": "Use the Ghost LOCKDOWN ability to stop Battlecruisers and other mechanical enemy troops."
+  },
+  {
+    "id": "STR_TIP_XT6",
+    "Key": "STR_TIP_XT6",
+    "Value": "Valkyrie Frigates have splash damage and are very effective at destroying masses of enemy air units."
+  },
+  {
+    "id": "STR_TIP_XT8",
+    "Key": "STR_TIP_XT8",
+    "Value": "Block entrances to your bases with Bunkers and Supply Depots to slow down invading enemy units."
+  },
+  {
+    "id": "STR_TIP_XZ1",
+    "Key": "STR_TIP_XZ1",
+    "Value": "Use the Queen's SPAWN BROODLING ability to instantly destroy a tough enemy unit."
+  },
+  {
+    "id": "STR_TIP_XZ3",
+    "Key": "STR_TIP_XZ3",
+    "Value": "Queens have the ability to INFEST a severely damaged Terran Command Center. Once infested, the Command Center is now a Zerg structure capable of building Infested Terrans that explode when attacking."
+  },
+  {
+    "id": "STR_TIP_XZ4",
+    "Key": "STR_TIP_XZ4",
+    "Value": "Use multiple Hatcheries to build a large number of forces quickly."
+  },
+  {
+    "id": "STR_TIP_XZ5",
+    "Key": "STR_TIP_XZ5",
+    "Value": "Use Overlords to spot hidden Spider Mines and cloaked units."
+  },
+  {
+    "id": "STR_TIP_XZ6",
+    "Key": "STR_TIP_XZ6",
+    "Value": "You can build Nydus Canals on enemy Zerg Creep. This is a quick way to transport your forces for an attack."
+  },
+  {
+    "id": "STR_TIP_XZ7",
+    "Key": "STR_TIP_XZ7",
+    "Value": "Upgrade your Ultralisks for faster movement and tougher armor."
+  },
+  {
+    "id": "STR_TIP_XZ8",
+    "Key": "STR_TIP_XZ8",
+    "Value": "Use the Devourer's Acid Spore attack to slow down an enemy unit's rate of fire and reduce its armor. The effect is cumulative, and is best combined with other attacking forces."
+  },
+  {
+    "id": "STR_LAST_TIP",
+    "Key": "STR_LAST_TIP",
+    "Value": "<<PLACEHOLDER>>"
+  }
+]

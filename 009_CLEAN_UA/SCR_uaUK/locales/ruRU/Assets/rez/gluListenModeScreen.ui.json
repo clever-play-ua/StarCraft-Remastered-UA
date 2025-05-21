@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "ID_LISTEN_MODE_SCREEN",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "LISTBOX",
+      "content": "",
+      "id": 1,
+      "rect": [20,20,600,440],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGTEXT","CTRL_TRANSLUCENT"],
+      "children": null
+    },
+    {
+      "type": "FLCBTN",
+      "content": "ok-1",
+      "id": 2,
+      "rect": [0,0,30,30],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

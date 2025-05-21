@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "krLegalWarningScreen",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "glue\\krlegalwarning\\Disclaimer_Screen_KR.dds",
+      "id": 1,
+      "rect": [0,0,640,480],
+      "flags": ["WS_EX_TRANSPARENT","WS_VISIBLE"],
+      "children": null
+    },
+    {
+      "type": "RECT",
+      "content": "glue\\cnlegalwarning\\cnlegalwarning.dds",
+      "id": 2,
+      "rect": [0,0,640,480],
+      "flags": ["WS_EX_TRANSPARENT"],
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+</COMMENT Establishing Shot for Protoss Level 5>
+
+</FADESPEED 100>
+</DISPLAYTIME 5000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpb\ProtossB.pcx>
+</FONTCOLOR glue\palpb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ВЫБОР СОЮЗНИКОВ
+
+Флагман протоссов «Гантритор»
+Низкая орбита Чара
+Час спустя
+</PAGE>

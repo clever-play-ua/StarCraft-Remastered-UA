@@ -1,0 +1,16 @@
+</COMMENT Establishing Shot for Protoss Tutorial Level>
+
+</FADESPEED 100>
+</COMMENT #############################################################>
+
+</DISPLAYTIME 5000>
+
+</BACKGROUND glue\palpa\ProtossA.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLOWERLEFT>
+КАМПАНИЯ ПРОТОССОВ: КАТАСТРОФА
+
+Цитадель Адуна, провинция Антиох
+Незадолго до вторжения зергов
+</PAGE>

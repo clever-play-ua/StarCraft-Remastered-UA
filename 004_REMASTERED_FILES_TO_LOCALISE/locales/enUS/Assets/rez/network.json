@@ -1,0 +1,862 @@
+﻿[
+  {
+    "id": "strVOICE_NOT_SETUP",
+    "Key": "strVOICE_NOT_SETUP",
+    "Value": "You must configure your system for voice chat before attempting to change settings. To configure, please exit StarCraft and run the voice configuration utility \"STARVOX.exe\"."
+  },
+  {
+    "id": "strVOICE_MULTI_ONLY",
+    "Key": "strVOICE_MULTI_ONLY",
+    "Value": "Voice chat settings can only be modified while you are playing a multiplayer game."
+  },
+  {
+    "id": "strVOICE_NODIRECTSOUND",
+    "Key": "strVOICE_NODIRECTSOUND",
+    "Value": "Your system does not have DirectSound installed. Please run the setup program supplied with StarCraft to install DirectX drivers for your system."
+  },
+  {
+    "id": "strVOICE_VOXERRORFNF",
+    "Key": "strVOICE_VOXERRORFNF",
+    "Value": "Your system does not appear to be configured for voice chat. Please reinstall Starcraft using the install program on the Starcraft CDROM."
+  },
+  {
+    "id": "strVOICE_SNDALLOCATED",
+    "Key": "strVOICE_SNDALLOCATED",
+    "Value": "Another application is using audio. Please exit the other application and try running this application again."
+  },
+  {
+    "id": "strVOICE_VOXINTERNAL",
+    "Key": "strVOICE_VOXINTERNAL",
+    "Value": "An error occurred while attempting to initialize voice fonts: %s\\nError 0x%08x %s"
+  },
+  {
+    "id": "strVOICE_CAPTUREINIT",
+    "Key": "strVOICE_CAPTUREINIT",
+    "Value": "An error occurred while attempting to initialize voice capture: %s\\nError 0x%08x %s"
+  },
+  {
+    "id": "strVOICE_SNDGENERIC",
+    "Key": "strVOICE_SNDGENERIC",
+    "Value": "An error occurred while attempting to initialize sound: %s\\nError 0x%08x %s"
+  },
+  {
+    "id": "strVOICE_VOICEINIT",
+    "Key": "strVOICE_VOICEINIT",
+    "Value": "An error occurred while attempting to initialize voice playback: %s\\nError 0x%08x %s"
+  },
+  {
+    "id": "strMUSIC_ON_NETDRIVE",
+    "Key": "strMUSIC_ON_NETDRIVE",
+    "Value": "ERROR: cannot play music from network drive."
+  },
+  {
+    "id": "strDELETE_ERR_s",
+    "Key": "strDELETE_ERR_s",
+    "Value": "An error occurred while deleting game '%s'"
+  },
+  {
+    "id": "strREPLACE_ERR_s",
+    "Key": "strREPLACE_ERR_s",
+    "Value": "An error occurred while replacing game '%s'"
+  },
+  {
+    "id": "strCONFIRM_REPLACE_s",
+    "Key": "strCONFIRM_REPLACE_s",
+    "Value": "Replace the contents of game '%s'?"
+  },
+  {
+    "id": "strCONFIRM_DELETE_s",
+    "Key": "strCONFIRM_DELETE_s",
+    "Value": "Delete the game '%s'?"
+  },
+  {
+    "id": "strSAVE_TOO_MANY_ERR",
+    "Key": "strSAVE_TOO_MANY_ERR",
+    "Value": "Cannot create any more save files."
+  },
+  {
+    "id": "strRESERVED_FILENAME",
+    "Key": "strRESERVED_FILENAME",
+    "Value": "That file name is a reserved name. Please choose another name."
+  },
+  {
+    "id": "strZERG",
+    "Key": "strZERG",
+    "Value": "Zerg"
+  },
+  {
+    "id": "strTERRAN",
+    "Key": "strTERRAN",
+    "Value": "Terran"
+  },
+  {
+    "id": "strPROTOSS",
+    "Key": "strPROTOSS",
+    "Value": "Protoss"
+  },
+  {
+    "id": "strRANDOM",
+    "Key": "strRANDOM",
+    "Value": "Random"
+  },
+  {
+    "id": "strCOMPUTER",
+    "Key": "strCOMPUTER",
+    "Value": "Computer"
+  },
+  {
+    "id": "strHOURS",
+    "Key": "strHOURS",
+    "Value": "hours"
+  },
+  {
+    "id": "strHOUR",
+    "Key": "strHOUR",
+    "Value": "hour"
+  },
+  {
+    "id": "strMINUTES",
+    "Key": "strMINUTES",
+    "Value": "minutes"
+  },
+  {
+    "id": "strMINUTE",
+    "Key": "strMINUTE",
+    "Value": "minute"
+  },
+  {
+    "id": "strCONTINUEWARNING",
+    "Key": "strCONTINUEWARNING",
+    "Value": "Mission completed. Continuing play with map triggers disabled."
+  },
+  {
+    "id": "strBADFILECHARS",
+    "Key": "strBADFILECHARS",
+    "Value": "*\\\\/:><|&+^?\""
+  },
+  {
+    "id": "errCANTPLACE_sdd",
+    "Key": "errCANTPLACE_sdd",
+    "Value": "WARNING: Unit unplaceable! (%s) (%d,%d)"
+  },
+  {
+    "id": "strTEAM1",
+    "Key": "strTEAM1",
+    "Value": "Team 1"
+  },
+  {
+    "id": "strTEAM2",
+    "Key": "strTEAM2",
+    "Value": "Team 2"
+  },
+  {
+    "id": "strTEAM3",
+    "Key": "strTEAM3",
+    "Value": "Team 3"
+  },
+  {
+    "id": "strTEAM4",
+    "Key": "strTEAM4",
+    "Value": "Team 4"
+  },
+  {
+    "id": "strFORCE1",
+    "Key": "strFORCE1",
+    "Value": "Force 1"
+  },
+  {
+    "id": "strFORCE2",
+    "Key": "strFORCE2",
+    "Value": "Force 2"
+  },
+  {
+    "id": "strFORCE3",
+    "Key": "strFORCE3",
+    "Value": "Force 3"
+  },
+  {
+    "id": "strFORCE4",
+    "Key": "strFORCE4",
+    "Value": "Force 4"
+  },
+  {
+    "id": "strOBSERVER",
+    "Key": "strOBSERVER",
+    "Value": "Observer"
+  },
+  {
+    "id": "strOBSERVERS",
+    "Key": "strOBSERVERS",
+    "Value": "Observers"
+  },
+  {
+    "id": "strNATION_TERRAN_0",
+    "Key": "strNATION_TERRAN_0",
+    "Value": "Elite Guard"
+  },
+  {
+    "id": "strNATION_TERRAN_1",
+    "Key": "strNATION_TERRAN_1",
+    "Value": "Mar Sara"
+  },
+  {
+    "id": "strNATION_TERRAN_2",
+    "Key": "strNATION_TERRAN_2",
+    "Value": "Kel-Morian Combine"
+  },
+  {
+    "id": "strNATION_TERRAN_3",
+    "Key": "strNATION_TERRAN_3",
+    "Value": "Antiga"
+  },
+  {
+    "id": "strNATION_TERRAN_4",
+    "Key": "strNATION_TERRAN_4",
+    "Value": "Delta Squadron"
+  },
+  {
+    "id": "strNATION_TERRAN_5",
+    "Key": "strNATION_TERRAN_5",
+    "Value": "Omega Squadron"
+  },
+  {
+    "id": "strNATION_TERRAN_6",
+    "Key": "strNATION_TERRAN_6",
+    "Value": "Alpha Squadron"
+  },
+  {
+    "id": "strNATION_TERRAN_7",
+    "Key": "strNATION_TERRAN_7",
+    "Value": "Epsilon Squadron"
+  },
+  {
+    "id": "strNATION_ZERG_0",
+    "Key": "strNATION_ZERG_0",
+    "Value": "Tiamat Brood"
+  },
+  {
+    "id": "strNATION_ZERG_1",
+    "Key": "strNATION_ZERG_1",
+    "Value": "Surtur Brood"
+  },
+  {
+    "id": "strNATION_ZERG_2",
+    "Key": "strNATION_ZERG_2",
+    "Value": "Fenris Brood"
+  },
+  {
+    "id": "strNATION_ZERG_3",
+    "Key": "strNATION_ZERG_3",
+    "Value": "Jormungand Brood"
+  },
+  {
+    "id": "strNATION_ZERG_4",
+    "Key": "strNATION_ZERG_4",
+    "Value": "Garm Brood"
+  },
+  {
+    "id": "strNATION_ZERG_5",
+    "Key": "strNATION_ZERG_5",
+    "Value": "Grendel Brood"
+  },
+  {
+    "id": "strNATION_ZERG_6",
+    "Key": "strNATION_ZERG_6",
+    "Value": "Baelrog Brood"
+  },
+  {
+    "id": "strNATION_ZERG_7",
+    "Key": "strNATION_ZERG_7",
+    "Value": "Leviathan Brood"
+  },
+  {
+    "id": "strNATION_PROTOSS_0",
+    "Key": "strNATION_PROTOSS_0",
+    "Value": "Ara Tribe"
+  },
+  {
+    "id": "strNATION_PROTOSS_1",
+    "Key": "strNATION_PROTOSS_1",
+    "Value": "Sargas Tribe"
+  },
+  {
+    "id": "strNATION_PROTOSS_2",
+    "Key": "strNATION_PROTOSS_2",
+    "Value": "Akilae Tribe"
+  },
+  {
+    "id": "strNATION_PROTOSS_3",
+    "Key": "strNATION_PROTOSS_3",
+    "Value": "Furinax Tribe"
+  },
+  {
+    "id": "strNATION_PROTOSS_4",
+    "Key": "strNATION_PROTOSS_4",
+    "Value": "Auriga Tribe"
+  },
+  {
+    "id": "strNATION_PROTOSS_5",
+    "Key": "strNATION_PROTOSS_5",
+    "Value": "Venatir Tribe"
+  },
+  {
+    "id": "strNATION_PROTOSS_6",
+    "Key": "strNATION_PROTOSS_6",
+    "Value": "Shelak Tribe"
+  },
+  {
+    "id": "strNATION_PROTOSS_7",
+    "Key": "strNATION_PROTOSS_7",
+    "Value": "Velari Tribe"
+  },
+  {
+    "id": "strELIMINATED_s",
+    "Key": "strELIMINATED_s",
+    "Value": "%s was eliminated."
+  },
+  {
+    "id": "strELIMINATED_d",
+    "Key": "strELIMINATED_d",
+    "Value": "Player %d was eliminated."
+  },
+  {
+    "id": "strLEFTGAME",
+    "Key": "strLEFTGAME",
+    "Value": "Player %s left the game."
+  },
+  {
+    "id": "strDROPPED",
+    "Key": "strDROPPED",
+    "Value": "Player %s was dropped."
+  },
+  {
+    "id": "strPAUSED_sd",
+    "Key": "strPAUSED_sd",
+    "Value": "%s paused the game. (%d timeouts remaining)"
+  },
+  {
+    "id": "strRESUMED_s",
+    "Key": "strRESUMED_s",
+    "Value": "%s resumed the game."
+  },
+  {
+    "id": "strMSGSENT",
+    "Key": "strMSGSENT",
+    "Value": "* Message Sent *"
+  },
+  {
+    "id": "strEXITBLOCKED",
+    "Key": "strEXITBLOCKED",
+    "Value": "Building exit is blocked."
+  },
+  {
+    "id": "strMAXUNITS",
+    "Key": "strMAXUNITS",
+    "Value": "Cannot create more units."
+  },
+  {
+    "id": "strCANTCREATE",
+    "Key": "strCANTCREATE",
+    "Value": "Unable to create unit."
+  },
+  {
+    "id": "strTARGET",
+    "Key": "strTARGET",
+    "Value": "Select Target"
+  },
+  {
+    "id": "strLOCATION",
+    "Key": "strLOCATION",
+    "Value": "Select Location"
+  },
+  {
+    "id": "strCHEATON",
+    "Key": "strCHEATON",
+    "Value": "Cheat Enabled"
+  },
+  {
+    "id": "strCHEATOFF",
+    "Key": "strCHEATOFF",
+    "Value": "Cheat Disabled"
+  },
+  {
+    "id": "strNEW_OBSERVER_REMOTE",
+    "Key": "strNEW_OBSERVER_REMOTE",
+    "Value": "%s is now playing as an observer."
+  },
+  {
+    "id": "strNEW_OBSERVER_LOCAL",
+    "Key": "strNEW_OBSERVER_LOCAL",
+    "Value": "You are now playing as an observer."
+  },
+  {
+    "id": "strFIRSTLATENCY_s",
+    "Key": "strFIRSTLATENCY_s",
+    "Value": "Player %s set network for low latency."
+  },
+  {
+    "id": "strFIRSTLATENCY_s-1",
+    "Key": "strFIRSTLATENCY_s-1",
+    "Value": "Player %s set network for high latency."
+  },
+  {
+    "id": "strFIRSTLATENCY_s-2",
+    "Key": "strFIRSTLATENCY_s-2",
+    "Value": "Player %s set network for extra high latency."
+  },
+  {
+    "id": "strDEFAULTNAME",
+    "Key": "strDEFAULTNAME",
+    "Value": "Anonymous"
+  },
+  {
+    "id": "strILLEGAL_TEAMS",
+    "Key": "strILLEGAL_TEAMS",
+    "Value": "Illegal number of teams."
+  },
+  {
+    "id": "strPLAYER_JOINED",
+    "Key": "strPLAYER_JOINED",
+    "Value": "%s has joined the game."
+  },
+  {
+    "id": "strPLAYER_LEFT",
+    "Key": "strPLAYER_LEFT",
+    "Value": "%s has left the game."
+  },
+  {
+    "id": "strPLAYER_WAS_DROPPED",
+    "Key": "strPLAYER_WAS_DROPPED",
+    "Value": "%s was dropped from the game."
+  },
+  {
+    "id": "strIGNORING_PLAYER",
+    "Key": "strIGNORING_PLAYER",
+    "Value": "Ignoring messages from %s."
+  },
+  {
+    "id": "strUNIGNORING_PLAYER",
+    "Key": "strUNIGNORING_PLAYER",
+    "Value": "Accepting messages from %s."
+  },
+  {
+    "id": "strWHISPER_TO",
+    "Key": "strWHISPER_TO",
+    "Value": "<To: %s>"
+  },
+  {
+    "id": "strWHISPER_FROM",
+    "Key": "strWHISPER_FROM",
+    "Value": "<From: %s>"
+  },
+  {
+    "id": "strERROR_GENERAL_NETWORK",
+    "Key": "strERROR_GENERAL_NETWORK",
+    "Value": "A network error has occured."
+  },
+  {
+    "id": "strERROR_STANDARD_SNP",
+    "Key": "strERROR_STANDARD_SNP",
+    "Value": "Error initializing standard.snp.  Please reinstall StarCraft."
+  },
+  {
+    "id": "strERROR_INITIALIZE_PROVIDER",
+    "Key": "strERROR_INITIALIZE_PROVIDER",
+    "Value": "Unable to initialize network provider."
+  },
+  {
+    "id": "strERROR_INVALID_DEVICE",
+    "Key": "strERROR_INVALID_DEVICE",
+    "Value": "Unable to initialize device."
+  },
+  {
+    "id": "strERROR_INVALID_PROVIDER",
+    "Key": "strERROR_INVALID_PROVIDER",
+    "Value": "Invalid network provider."
+  },
+  {
+    "id": "strERROR_REGISTER_EVENTS",
+    "Key": "strERROR_REGISTER_EVENTS",
+    "Value": "Unable to register events."
+  },
+  {
+    "id": "strERROR_INVALID_PLAYER",
+    "Key": "strERROR_INVALID_PLAYER",
+    "Value": "Invalid player."
+  },
+  {
+    "id": "strERROR_INVALID_CHARACTER",
+    "Key": "strERROR_INVALID_CHARACTER",
+    "Value": "Invalid character."
+  },
+  {
+    "id": "strERROR_JOINING_GAME",
+    "Key": "strERROR_JOINING_GAME",
+    "Value": "Unable to join game."
+  },
+  {
+    "id": "strERROR_JOINING_BAD_VERSION",
+    "Key": "strERROR_JOINING_BAD_VERSION",
+    "Value": "Unable to join game. The selected game is an incompatible version of StarCraft."
+  },
+  {
+    "id": "strERROR_SEND_MESSAGE",
+    "Key": "strERROR_SEND_MESSAGE",
+    "Value": "Unable to send message."
+  },
+  {
+    "id": "strERROR_CREATE_SINGLE",
+    "Key": "strERROR_CREATE_SINGLE",
+    "Value": "Unable to create single player game."
+  },
+  {
+    "id": "strERROR_INVALID_OPTIONS",
+    "Key": "strERROR_INVALID_OPTIONS",
+    "Value": "Invalid game options."
+  },
+  {
+    "id": "strERROR_CREATE_MULTI",
+    "Key": "strERROR_CREATE_MULTI",
+    "Value": "Unable to create multi player game."
+  },
+  {
+    "id": "strERROR_NO_SAVE_FILE",
+    "Key": "strERROR_NO_SAVE_FILE",
+    "Value": "Save Game File Not Found."
+  },
+  {
+    "id": "strERROR_START_GAME_FAILED",
+    "Key": "strERROR_START_GAME_FAILED",
+    "Value": "Error launching game."
+  },
+  {
+    "id": "strERROR_LOAD_MAP",
+    "Key": "strERROR_LOAD_MAP",
+    "Value": "Error loading scenario file."
+  },
+  {
+    "id": "strERROR_LOADING_SAVE_FILE",
+    "Key": "strERROR_LOADING_SAVE_FILE",
+    "Value": "Unable to load saved game file."
+  },
+  {
+    "id": "strERROR_NO_SAVE_SCM",
+    "Key": "strERROR_NO_SAVE_SCM",
+    "Value": "Unable to load the SCM associated with this save file."
+  },
+  {
+    "id": "strERROR_FD_STARTUP",
+    "Key": "strERROR_FD_STARTUP",
+    "Value": "Unable to distribute map."
+  },
+  {
+    "id": "strERROR_SAVE",
+    "Key": "strERROR_SAVE",
+    "Value": "Unable to write save file."
+  },
+  {
+    "id": "strERROR_CAMPAIGN_OPTIONS",
+    "Key": "strERROR_CAMPAIGN_OPTIONS",
+    "Value": "Unable to load campaign options.  Please reinstall StarCraft."
+  },
+  {
+    "id": "strERROR_SPAWN_CREATE_SINGLE",
+    "Key": "strERROR_SPAWN_CREATE_SINGLE",
+    "Value": "You must own the full version of StarCraft to play the single player campaigns."
+  },
+  {
+    "id": "strERROR_SPAWN_CREATE_MULTI",
+    "Key": "strERROR_SPAWN_CREATE_MULTI",
+    "Value": "You must own the full version of StarCraft to create a multiplayer game."
+  },
+  {
+    "id": "strERROR_SPAWN_JOIN_MULTI",
+    "Key": "strERROR_SPAWN_JOIN_MULTI",
+    "Value": "You can only join games created by the owner of the CD that spawned your copy."
+  },
+  {
+    "id": "strERROR_CAMPAIGN_LINK",
+    "Key": "strERROR_CAMPAIGN_LINK",
+    "Value": "Unable to find the specified campaign map."
+  },
+  {
+    "id": "strNET_UPGRADE_FAIL",
+    "Key": "strNET_UPGRADE_FAIL",
+    "Value": "Network upgrade failed."
+  },
+  {
+    "id": "strSYNC_ERROR",
+    "Key": "strSYNC_ERROR",
+    "Value": "SYNC ERROR."
+  },
+  {
+    "id": "strSAVING",
+    "Key": "strSAVING",
+    "Value": "Saving Game...\\nFile Name:"
+  },
+  {
+    "id": "strSCREEN_CAPTURE_s",
+    "Key": "strSCREEN_CAPTURE_s",
+    "Value": "Screen captured to file '%s'."
+  },
+  {
+    "id": "strBNET_REPORT_PLAYER",
+    "Key": "strBNET_REPORT_PLAYER",
+    "Value": "%s was %s and played for %s\\n"
+  },
+  {
+    "id": "strBNET_REPORT_GAME",
+    "Key": "strBNET_REPORT_GAME",
+    "Value": "On map \"%s\":\\n"
+  },
+  {
+    "id": "strBNET_REPORT_OVERVIEW",
+    "Key": "strBNET_REPORT_OVERVIEW",
+    "Value": "Overall Score %u\\n    %10u for %s\\n    %10u for %s\\n    %10u for %s\\n"
+  },
+  {
+    "id": "strBNET_REPORT_UNITS",
+    "Key": "strBNET_REPORT_UNITS",
+    "Value": "Units Score %u\\n    %10u Units %s\\n    %10u Units %s\\n    %10u Units %s\\n"
+  },
+  {
+    "id": "strBNET_REPORT_INFRASTRUCTURE",
+    "Key": "strBNET_REPORT_INFRASTRUCTURE",
+    "Value": "Structures Score %u\\n    %10u Structures %s\\n    %10u Structures %s\\n    %10u Structures %s\\n"
+  },
+  {
+    "id": "strBNET_REPORT_RESOURCES",
+    "Key": "strBNET_REPORT_RESOURCES",
+    "Value": "Resources Score %u\\n    %10u %s\\n    %10u %s\\n    %10u %s\\n"
+  },
+  {
+    "id": "strOBJ_MELEE",
+    "Key": "strOBJ_MELEE",
+    "Value": "Destroy all of an opponent's buildings to eliminate him."
+  },
+  {
+    "id": "strOBJ_GREED_2500",
+    "Key": "strOBJ_GREED_2500",
+    "Value": "Accumulate 2500 ore.\\nAccumulate 2500 gas."
+  },
+  {
+    "id": "strOBJ_GREED_5000",
+    "Key": "strOBJ_GREED_5000",
+    "Value": "Accumulate 5000 ore.\\nAccumulate 5000 gas."
+  },
+  {
+    "id": "strOBJ_GREED_7500",
+    "Key": "strOBJ_GREED_7500",
+    "Value": "Accumulate 7500 ore.\\nAccumulate 7500 gas."
+  },
+  {
+    "id": "strOBJ_GREED_10000",
+    "Key": "strOBJ_GREED_10000",
+    "Value": "Accumulate 10000 ore.\\nAccumulate 10000 gas."
+  },
+  {
+    "id": "strOBJ_SLAUGHTER",
+    "Key": "strOBJ_SLAUGHTER",
+    "Value": "Get the most kills or razings before time runs out."
+  },
+  {
+    "id": "strOBJ_CTF",
+    "Key": "strOBJ_CTF",
+    "Value": "Capture an opponent's flag to eliminate him."
+  },
+  {
+    "id": "strOBJ_SUDDENDEATH",
+    "Key": "strOBJ_SUDDENDEATH",
+    "Value": "Destroy any opponent's HQs to eliminate him."
+  },
+  {
+    "id": "strCTF_TAKEN_s",
+    "Key": "strCTF_TAKEN_s",
+    "Value": "%s had his flag taken!"
+  },
+  {
+    "id": "strCTF_TAKEN_s-1",
+    "Key": "strCTF_TAKEN_s-1",
+    "Value": "%s had their flag taken!"
+  },
+  {
+    "id": "strCTF_RETURNED_s",
+    "Key": "strCTF_RETURNED_s",
+    "Value": "%s had his flag return to his base."
+  },
+  {
+    "id": "strCTF_RETURNED_s-1",
+    "Key": "strCTF_RETURNED_s-1",
+    "Value": "%s had their flag return to their base."
+  },
+  {
+    "id": "strCTF_CAPTURED_s",
+    "Key": "strCTF_CAPTURED_s",
+    "Value": "%s had his flag captured!"
+  },
+  {
+    "id": "strCTF_CAPTURED_s-1",
+    "Key": "strCTF_CAPTURED_s-1",
+    "Value": "%s had their flag captured!"
+  },
+  {
+    "id": "strRACE_ERR_ZERG",
+    "Key": "strRACE_ERR_ZERG",
+    "Value": "We recommend that you complete the Terran Campaign before playing this campaign.\\n\\nDo you wish to play the Zerg Campaign anyway?"
+  },
+  {
+    "id": "strRACE_ERR_PROTOSS",
+    "Key": "strRACE_ERR_PROTOSS",
+    "Value": "We recommend that you complete the Terran and Zerg Campaigns before playing this campaign.\\n\\nDo you wish to play the Protoss Campaign anyway?"
+  },
+  {
+    "id": "strRACE_ERR_TERRAN_EXP",
+    "Key": "strRACE_ERR_TERRAN_EXP",
+    "Value": "We recommend that you complete the Protoss Campaign before playing this campaign.\\n\\nDo you wish to play the Terran Campaign anyway?"
+  },
+  {
+    "id": "strRACE_ERR_ZERG_EXP",
+    "Key": "strRACE_ERR_ZERG_EXP",
+    "Value": "We recommend that you complete the Protoss and Terran Campaigns before playing this campaign.\\n\\nDo you wish to play the Zerg Campaign anyway?"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_0",
+    "Key": "strNATION_EXP_TERRAN_0",
+    "Value": "Elite Guard"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_1",
+    "Key": "strNATION_EXP_TERRAN_1",
+    "Value": "Mar Sara"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_2",
+    "Key": "strNATION_EXP_TERRAN_2",
+    "Value": "Kel-Morian Combine"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_3",
+    "Key": "strNATION_EXP_TERRAN_3",
+    "Value": "Antiga"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_4",
+    "Key": "strNATION_EXP_TERRAN_4",
+    "Value": "Delta Squadron"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_5",
+    "Key": "strNATION_EXP_TERRAN_5",
+    "Value": "Atlas Wing"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_6",
+    "Key": "strNATION_EXP_TERRAN_6",
+    "Value": "Cronus Wing"
+  },
+  {
+    "id": "strNATION_EXP_TERRAN_7",
+    "Key": "strNATION_EXP_TERRAN_7",
+    "Value": "Epsilon Squadron"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_0",
+    "Key": "strNATION_EXP_ZERG_0",
+    "Value": "Tiamat Brood"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_1",
+    "Key": "strNATION_EXP_ZERG_1",
+    "Value": "Surtur Brood"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_2",
+    "Key": "strNATION_EXP_ZERG_2",
+    "Value": "Fenris Brood"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_3",
+    "Key": "strNATION_EXP_ZERG_3",
+    "Value": "Jormungand Brood"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_4",
+    "Key": "strNATION_EXP_ZERG_4",
+    "Value": "Garm Brood"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_5",
+    "Key": "strNATION_EXP_ZERG_5",
+    "Value": "Grendel Brood"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_6",
+    "Key": "strNATION_EXP_ZERG_6",
+    "Value": "Baelrog Brood"
+  },
+  {
+    "id": "strNATION_EXP_ZERG_7",
+    "Key": "strNATION_EXP_ZERG_7",
+    "Value": "Leviathan Brood"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_0",
+    "Key": "strNATION_EXP_PROTOSS_0",
+    "Value": "Ara Tribe"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_1",
+    "Key": "strNATION_EXP_PROTOSS_1",
+    "Value": "Sargas Tribe"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_2",
+    "Key": "strNATION_EXP_PROTOSS_2",
+    "Value": "Akilae Tribe"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_3",
+    "Key": "strNATION_EXP_PROTOSS_3",
+    "Value": "Furinax Tribe"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_4",
+    "Key": "strNATION_EXP_PROTOSS_4",
+    "Value": "Auriga Tribe"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_5",
+    "Key": "strNATION_EXP_PROTOSS_5",
+    "Value": "Venatir Tribe"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_6",
+    "Key": "strNATION_EXP_PROTOSS_6",
+    "Value": "Shelak Tribe"
+  },
+  {
+    "id": "strNATION_EXP_PROTOSS_7",
+    "Key": "strNATION_EXP_PROTOSS_7",
+    "Value": "Velari Tribe"
+  },
+  {
+    "id": "strERROR_NOT_SUPPORTED_EUD_MAP",
+    "Key": "strERROR_NOT_SUPPORTED_EUD_MAP",
+    "Value": "Sorry, this EUD map is not supported. Please report the map on the StarCraft forums."
+  },
+  {
+    "id": "strERROR_NOT_SUPPORTED_AT_ALL_EUD_MAP",
+    "Key": "strERROR_NOT_SUPPORTED_AT_ALL_EUD_MAP",
+    "Value": "Sorry, this EUD map is not compatible with StarCraft Remastered."
+  },
+  {
+    "id": "strERROR_JOINING_GAME_FULL",
+    "Key": "strERROR_JOINING_GAME_FULL",
+    "Value": "Unable to join game - there are no available slots."
+  },
+  {
+    "id": "strERROR_JOINING_GAME_NOT_FOUND",
+    "Key": "strERROR_JOINING_GAME_NOT_FOUND",
+    "Value": "Unable to join game - the game cannot be found."
+  }
+]

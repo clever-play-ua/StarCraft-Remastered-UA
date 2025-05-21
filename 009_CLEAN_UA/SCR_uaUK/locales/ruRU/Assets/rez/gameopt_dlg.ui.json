@@ -1,0 +1,72 @@
+﻿{
+  "type": "DIALOG",
+  "name": "Game",
+  "rect": [184,32,264,288],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "gameopt_dlg-1",
+      "id": -2,
+      "rect": [20,252,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "PUSHBUTTON",
+      "content": "gameopt_dlg-2",
+      "id": -3,
+      "rect": [140,252,104,28],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "gameopt_dlg-3",
+      "id": 1,
+      "rect": [12,44,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "CHECKBOX",
+      "content": "gameopt_dlg-4",
+      "id": 2,
+      "rect": [12,70,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "RADIOBUTTON",
+      "content": "gameopt_dlg-5",
+      "id": 5,
+      "rect": [12,134,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "RADIOBUTTON",
+      "content": "gameopt_dlg-6",
+      "id": 4,
+      "rect": [12,160,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "RADIOBUTTON",
+      "content": "gameopt_dlg-7",
+      "id": 3,
+      "rect": [12,186,240,10],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_TABSTOP","WS_HOTKEY"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "gameopt_dlg-8",
+      "id": -1,
+      "rect": [0,8,264,24],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP","RC_BIGTEXT"],
+      "children": null
+    }
+  ]
+}

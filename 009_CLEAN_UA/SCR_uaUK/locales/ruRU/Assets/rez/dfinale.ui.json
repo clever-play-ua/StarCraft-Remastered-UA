@@ -1,0 +1,16 @@
+﻿{
+  "type": "DIALOG",
+  "name": "DFinale",
+  "rect": [0,0,320,240],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "LTEXT",
+      "content": "dfinale-1",
+      "id": 1,
+      "rect": [20,68,160,108],
+      "flags": ["WS_CHILD","WS_VISIBLE","WS_GROUP"],
+      "children": null
+    }
+  ]
+}

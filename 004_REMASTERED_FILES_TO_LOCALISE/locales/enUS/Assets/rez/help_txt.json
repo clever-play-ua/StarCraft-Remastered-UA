@@ -1,0 +1,262 @@
+[
+  {
+    "id": "STR_HELP_1",
+    "Key": "STR_HELP_1",
+    "Value": "\\u0004F10\\u0002 - Game Menu\\u0001"
+  },
+  {
+    "id": "STR_HELP_1-1",
+    "Key": "STR_HELP_1-1",
+    "Value": "\\u0004Alt-M\\u0002 - Game Menu"
+  },
+  {
+    "id": "STR_HELP_1-3",
+    "Key": "STR_HELP_1-3",
+    "Value": "\\u0004Alt-S\\u0002 - Save Game"
+  },
+  {
+    "id": "STR_HELP_1-4",
+    "Key": "STR_HELP_1-4",
+    "Value": "\\u0004Alt-L\\u0002 - Load Game"
+  },
+  {
+    "id": "STR_HELP_1-6",
+    "Key": "STR_HELP_1-6",
+    "Value": "\\u0004Alt-H\\u0002 - Help Menu"
+  },
+  {
+    "id": "STR_HELP_1-7",
+    "Key": "STR_HELP_1-7",
+    "Value": "\\u0004F11\\u0002 - Help Menu"
+  },
+  {
+    "id": "STR_HELP_1-9",
+    "Key": "STR_HELP_1-9",
+    "Value": "\\u0004Alt-O\\u0002 - Options Menu"
+  },
+  {
+    "id": "STR_HELP_1-11",
+    "Key": "STR_HELP_1-11",
+    "Value": "\\u0004+\\u0002 - Increase Game Speed"
+  },
+  {
+    "id": "STR_HELP_1-12",
+    "Key": "STR_HELP_1-12",
+    "Value": "\\u0004-\\u0002 - Decrease Game Speed"
+  },
+  {
+    "id": "STR_HELP_1-14",
+    "Key": "STR_HELP_1-14",
+    "Value": "\\u0004Ctrl-X\\u0002 - Exit StarCraft"
+  },
+  {
+    "id": "STR_HELP_1-15",
+    "Key": "STR_HELP_1-15",
+    "Value": "\\u0004Alt-X\\u0002 - Exit StarCraft"
+  },
+  {
+    "id": "STR_HELP_1-16",
+    "Key": "STR_HELP_1-16",
+    "Value": "\\u0004Ctrl-Q\\u0002 - Quit Mission"
+  },
+  {
+    "id": "STR_HELP_1-17",
+    "Key": "STR_HELP_1-17",
+    "Value": "\\u0004Alt-Q\\u0002 - Quit Mission"
+  },
+  {
+    "id": "STR_HELP_1-19",
+    "Key": "STR_HELP_1-19",
+    "Value": "\\u0004Ctrl-M\\u0002 - Toggle Music On/Off"
+  },
+  {
+    "id": "STR_HELP_1-20",
+    "Key": "STR_HELP_1-20",
+    "Value": "\\u0004Ctrl-S\\u0002 - Toggle SFX On/Off"
+  },
+  {
+    "id": "STR_HELP_1-22",
+    "Key": "STR_HELP_1-22",
+    "Value": "\\u0004Space Bar\\u0002 - Last Transmission"
+  },
+  {
+    "id": "STR_HELP_1-24",
+    "Key": "STR_HELP_1-24",
+    "Value": "\\u0004Ctrl-\\u0003#\\u0002 - Save Group \\u0003#"
+  },
+  {
+    "id": "STR_HELP_1-25",
+    "Key": "STR_HELP_1-25",
+    "Value": "\\u0003#\\u0002 - Recall Group \\u0003#"
+  },
+  {
+    "id": "STR_HELP_1-26",
+    "Key": "STR_HELP_1-26",
+    "Value": "\\u0004Alt-\\u0003select\\u0002 - Recall Group"
+  },
+  {
+    "id": "STR_HELP_1-27",
+    "Key": "STR_HELP_1-27",
+    "Value": "\\u0004Ctrl-\\u0003select\\u0002 - Select Unit Type"
+  },
+  {
+    "id": "STR_HELP_1-28",
+    "Key": "STR_HELP_1-28",
+    "Value": "\\u0003double-click\\u0002 - Select Unit Type"
+  },
+  {
+    "id": "STR_HELP_1-30",
+    "Key": "STR_HELP_1-30",
+    "Value": "\\u0004Shift-\\u0003F2\\u0002 - Save Map Location 1"
+  },
+  {
+    "id": "STR_HELP_1-31",
+    "Key": "STR_HELP_1-31",
+    "Value": "\\u0003F2\\u0002 - Restore Map Location 1"
+  },
+  {
+    "id": "STR_HELP_1-32",
+    "Key": "STR_HELP_1-32",
+    "Value": "\\u0004Shift-\\u0003F3\\u0002 - Save Map Location 2"
+  },
+  {
+    "id": "STR_HELP_1-33",
+    "Key": "STR_HELP_1-33",
+    "Value": "\\u0003F3\\u0002 - Restore Map Location 2"
+  },
+  {
+    "id": "STR_HELP_1-34",
+    "Key": "STR_HELP_1-34",
+    "Value": "\\u0004Shift-\\u0003F4\\u0002 - Save Map Location 3"
+  },
+  {
+    "id": "STR_HELP_1-35",
+    "Key": "STR_HELP_1-35",
+    "Value": "\\u0003F4\\u0002 - Restore Map Location 3"
+  },
+  {
+    "id": "STR_HELP_1-37",
+    "Key": "STR_HELP_1-37",
+    "Value": "\\u0004Shift-\\u0003command\\u0002 - Set Waypoint"
+  },
+  {
+    "id": "STR_HELP_1-39",
+    "Key": "STR_HELP_1-39",
+    "Value": "\\u0004Ctrl-C\\u0002 - Center on Current Unit"
+  },
+  {
+    "id": "STR_HELP_1-40",
+    "Key": "STR_HELP_1-40",
+    "Value": "\\u0004Alt-C\\u0002 - Center on Current Unit"
+  },
+  {
+    "id": "STR_HELP_1-42",
+    "Key": "STR_HELP_1-42",
+    "Value": "\\u0004Tab\\u0002 - Toggle Mini-map Terrain Mode"
+  },
+  {
+    "id": "STR_HELP_1-43",
+    "Key": "STR_HELP_1-43",
+    "Value": "\\u0004Shift-Tab\\u0002 - Toggle Mini-map Unit Mode"
+  },
+  {
+    "id": "STR_HELP_1-45",
+    "Key": "STR_HELP_1-45",
+    "Value": "Multiplayer Features:"
+  },
+  {
+    "id": "STR_HELP_1-46",
+    "Key": "STR_HELP_1-46",
+    "Value": "\\u0004Enter\\u0002 - Messaging Prompt"
+  },
+  {
+    "id": "STR_HELP_1-47",
+    "Key": "STR_HELP_1-47",
+    "Value": "\\u0004Shift-Enter\\u0002 - To All Messaging Prompt"
+  },
+  {
+    "id": "STR_HELP_1-48",
+    "Key": "STR_HELP_1-48",
+    "Value": "\\u0004Ctrl-Enter\\u0002 - To Allies Messaging Prompt"
+  },
+  {
+    "id": "STR_HELP_1-50",
+    "Key": "STR_HELP_1-50",
+    "Value": "\\u0004Ctrl-R\\u0002 - Toggle Ranking Mode"
+  },
+  {
+    "id": "STR_HELP_1-2",
+    "Key": "STR_HELP_1-2",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-5",
+    "Key": "STR_HELP_1-5",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-8",
+    "Key": "STR_HELP_1-8",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-10",
+    "Key": "STR_HELP_1-10",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-13",
+    "Key": "STR_HELP_1-13",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-18",
+    "Key": "STR_HELP_1-18",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-21",
+    "Key": "STR_HELP_1-21",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-23",
+    "Key": "STR_HELP_1-23",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-29",
+    "Key": "STR_HELP_1-29",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-36",
+    "Key": "STR_HELP_1-36",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-38",
+    "Key": "STR_HELP_1-38",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-41",
+    "Key": "STR_HELP_1-41",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-44",
+    "Key": "STR_HELP_1-44",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_1-49",
+    "Key": "STR_HELP_1-49",
+    "Value": "<<PLACEHOLDER>>"
+  },
+  {
+    "id": "STR_HELP_LAST",
+    "Key": "STR_HELP_LAST",
+    "Value": "<<PLACEHOLDER>>"
+  }
+]

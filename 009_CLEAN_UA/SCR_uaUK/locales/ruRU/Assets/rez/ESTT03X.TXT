@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 3x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\paltc\TerranC.pcx>
+</FONTCOLOR glue\paltc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+РУИНЫ ТАРСОНИСА
+
+Флагман ОЗД «Александр», низкая орбита Тарсониса, бывшей главной планеты Конфедерации терранов
+</PAGE>

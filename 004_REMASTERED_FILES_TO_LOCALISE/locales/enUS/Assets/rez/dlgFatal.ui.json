@@ -1,0 +1,32 @@
+﻿{
+  "type": "DIALOG",
+  "name": "dlgFatal",
+  "rect": [140,45,360,224],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "DEFPUSHBUTTON",
+      "content": "dlgFatal-1",
+      "id": -2,
+      "rect": [124,159,112,28],
+      "flags": ["WS_VISIBLE","WS_TABSTOP","WS_HOTKEY","RC_BIGTEXT","CTRL_ENTER"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "dlgFatal-2",
+      "id": -10,
+      "rect": [10,0,340,92],
+      "flags": ["WS_VISIBLE","RC_BIGTEXT"],
+      "children": null
+    },
+    {
+      "type": "CTEXT",
+      "content": "dlgFatal-3",
+      "id": -20,
+      "rect": [10,92,340,92],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}

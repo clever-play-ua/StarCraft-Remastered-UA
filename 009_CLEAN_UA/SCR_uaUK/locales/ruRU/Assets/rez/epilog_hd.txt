@@ -1,0 +1,35 @@
+</COMMENT epilogue for Starcraft>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT4010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+ЭПИЛОГ
+
+Когда хаотические возмущения энергии улеглись, над полями сражений по всему Айуру нависла тягостная тишина. Благодаря героической жертве Тассадара Сверхразум был повержен, а стаи зергов – сломлены и дезорганизованы. 
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT4020.webm>
+</TEXTBOX>
+Однако победа далась дорогой ценой – прежде величественный Айур превратился в пылающие руины. Тем, кто выжил в финальном сражении, оставалось только гадать, какое будущее ожидает протоссов.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT4030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Combo_PT4030.wav>
+</TEXTBOX>
+А в это время на далекой планете Чар Керриган, назвавшаяся Королевой Клинков,
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT4040.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_PT4040.wav>
+</TEXTBOX>
+ждала, когда наступит ее время.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\PT4045.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe_End2.wav>
+</PAGE>

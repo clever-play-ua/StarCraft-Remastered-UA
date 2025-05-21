@@ -1,0 +1,10 @@
+########################################
+# string data file for configurable Starcraft scenario objectives
+# Mission specific objectives are stored as part of the map .SCM file.
+#
+# USA version
+#
+# created 9.7.95
+########################################
+STR_GENERIC_OBJECTIVE,				-Destroy your enemies
+STR_CATUREFLAG,				-Capture your opponent's flag

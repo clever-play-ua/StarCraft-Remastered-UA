@@ -1,0 +1,24 @@
+﻿{
+  "type": "DIALOG",
+  "name": "ID_SOCIAL_POPUP",
+  "rect": [0,0,640,480],
+  "style": ["DS_MODALFRAME","WS_POPUP","WS_BORDER","WS_SYSMENU"],
+  "children": [
+    {
+      "type": "RECT",
+      "content": "",
+      "id": -1,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE","RC_POPUP_BACKGROUND"],
+      "children": null
+    },
+    {
+      "type": "WEBBROWSER",
+      "content": "webui/dist/SocialPanel/SocialPanel.html",
+      "id": 11,
+      "rect": [0,0,640,480],
+      "flags": ["WS_VISIBLE"],
+      "children": null
+    }
+  ]
+}
