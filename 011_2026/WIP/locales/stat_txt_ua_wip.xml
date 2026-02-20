@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <strings>
   <string>
     <id>FIRST_UNIT_STRING</id>
@@ -402,403 +401,403 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_100</id>
-    <value>Алєксєй СтуковПривидHeroes</value>
+    <value>Алєксєй Стуков\\000Привид\\000Герої</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_101</id>
-    <value>Map Revealer*Special</value>
+    <value>Відкривач мапи\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_102</id>
-    <value>Жерард ДюҐалльПривидHeroes</value>
+    <value>Жерар ДюҐалль\\000Привид\\000Герої</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_103</id>
-    <value>Мисливець*Ground Units</value>
+    <value>Мисливець\\000*\\000Наземні війська</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_104</id>
-    <value>Заражений Дюран*Heroes</value>
+    <value>Заражений Дюран\\000*\\000Герої</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_105</id>
-    <value>Поле переривання*Protoss</value>
+    <value>Поле переривання\000*\000Протоси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_106</id>
-    <value>Командний центр*Buildings</value>
+    <value>Командний центр\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_107</id>
-    <value>Супутникова станція*Addons</value>
+    <value>Супутникова станція\\000*\\000Прибудови</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_108</id>
-    <value>Ядерна шахта*Addons</value>
+    <value>Ядерна шахта\\000*\\000Прибудови</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_109</id>
-    <value>Склад*Buildings</value>
+    <value>Склад\\000*\\000Будівлі</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_110</id>
-    <value>Очисний завод*Buildings</value>
+    <value>Очисний завод\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_111</id>
-    <value>Казарма*Buildings</value>
+    <value>Казарма\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_112</id>
-    <value>Академія*Buildings</value>
+    <value>Академія\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_113</id>
-    <value>Завод*Buildings</value>
+    <value>Завод\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_114</id>
-    <value>Космопорт*Buildings</value>
+    <value>Космопорт\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_115</id>
-    <value>Вежа управління*Addons</value>
+    <value>Вежа управління\\000*\\000Прибудови</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_116</id>
-    <value>Науковий центр*Buildings</value>
+    <value>Науковий центр\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_117</id>
-    <value>Шпигунський модуль*Addons</value>
+    <value>Шпигунський модуль\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_118</id>
-    <value>Фізична лабораторія*Addons</value>
+    <value>Фізична лабораторія\\000*\\000Прибудови</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_119</id>
-    <value>Unused Terran Bldg**</value>
+    <value>Невикористовувана будівля терранів\\000*\\000*</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_120</id>
-    <value>Механічний цех*Addons</value>
+    <value>Механічний цех\\000*\\000Прибудови</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_121</id>
-    <value>Unused Terran Bldg*Terran</value>
+    <value>Невикористовувана будівля терранів\\000*\\000Террани</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_122</id>
-    <value>Інженерний відсік*Buildings</value>
+    <value>Інженерний відсік\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_123</id>
-    <value>Зброярня*Buildings</value>
+    <value>Зброярня\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_124</id>
-    <value>Ракетна гармата*Buildings</value>
+    <value>Ракетна гармата\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_125</id>
-    <value>Бункер*Buildings</value>
+    <value>Бункер\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_126</id>
-    <value>Норад ІІПошкоджений крейсерSpecial Buildings</value>
+    <value>Норад ІІ\\000Пошкоджений крейсер\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_127</id>
-    <value>Йонна гармата*Special Buildings</value>
+    <value>Йонна гармата\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_128</id>
-    <value>Кристал Ураж*Powerups</value>
+    <value>Кристал Ураж\\000*\\000Посилення</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_129</id>
-    <value>Кристал Халіс*Powerups</value>
+    <value>Кристал Халіс\\000*\\000Посилення</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_130</id>
-    <value>Заражений командний центр*Buildings</value>
+    <value>Заражений командний центр\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_131</id>
-    <value>Інкубатор*Buildings</value>
+    <value>Інкубатор\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_132</id>
-    <value>Лігво*Buildings</value>
+    <value>Лігво\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_133</id>
-    <value>Вулик*Buildings</value>
+    <value>Вулик\000*\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_134</id>
-    <value>Нідус-канал*Buildings</value>
+    <value>Нідус-канал\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_135</id>
-    <value>Барліг гідралисків*Buildings</value>
+    <value>Барліг гідралисків\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_136</id>
-    <value>Курган осквернителів*Buildings</value>
+    <value>Курган осквернителів\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_137</id>
-    <value>Вищий шпиль*Buildings</value>
+    <value>Вищий шпиль\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_138</id>
-    <value>Гніздо королеви*Buildings</value>
+    <value>Гніздо королеви\\000*\\000Будівлі</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_139</id>
-    <value>Еволюційна камера*Buildings</value>
+    <value>Еволюційна камера\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_140</id>
-    <value>Печера ультралисків*Buildings</value>
+    <value>Печера ультралисків\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_141</id>
-    <value>Шпиль*Buildings</value>
+    <value>Шпиль\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_142</id>
-    <value>Початкова твань*Buildings</value>
+    <value>Початкова твань\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_143</id>
-    <value>Колонія скверни*Buildings</value>
+    <value>Колонія скверни\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_144</id>
-    <value>Спорова колонія*Buildings</value>
+    <value>Спорова колонія\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_145</id>
-    <value>Unused Zerg Bldg*Zerg</value>
+    <value>Невикористовувана споруда зергів\\000*\\000Зерги</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_146</id>
-    <value>Запала колонія*Buildings</value>
+    <value>Запала колонія\000*\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_147</id>
-    <value>НадрозумЗ оболонкоюSpecial Buildings</value>
+    <value>Надрозум\\000З оболонкою\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_148</id>
-    <value>Надрозум*Special Buildings</value>
+    <value>Надрозум\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_149</id>
-    <value>Видобувач*Buildings</value>
+    <value>Видобувач\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_150</id>
-    <value>Доросла лялечка*Special Buildings</value>
+    <value>Доросла лялечка\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_151</id>
-    <value>Церебрат*Special Buildings</value>
+    <value>Церебрат\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_152</id>
-    <value>Церебрат Даґґот*Special Buildings</value>
+    <value>Церебрат Даґґот\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_153</id>
-    <value>Unused Zerg Bldg 5*Zerg</value>
+    <value>Невикористовувана споруда зергів 5\\000*\\000Зерги</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_154</id>
-    <value>Нексус*Buildings</value>
+    <value>Нексус\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_155</id>
-    <value>Завод робототехніки*Buildings</value>
+    <value>Завод робототехніки\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_156</id>
-    <value>Пілон*Buildings</value>
+    <value>Пілон\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_157</id>
-    <value>Асимілятор*Buildings</value>
+    <value>Асимілятор\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_158</id>
-    <value>Protoss Unused*Protoss</value>
+    <value>Protoss Unused\\000*\\000Protoss</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_159</id>
-    <value>Обсерваторія*Buildings</value>
+    <value>Обсерваторія\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_160</id>
-    <value>Брама*Buildings</value>
+    <value>Брама\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_161</id>
-    <value>Protoss Unused*Protoss</value>
+    <value>Protoss Unused\\000*\\000Protoss</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_162</id>
-    <value>Фотонна гармата*Buildings</value>
+    <value>Фотонна гармата\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_163</id>
-    <value>Цитадель Адуна*Buildings</value>
+    <value>Цитадель Адуна\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_164</id>
-    <value>Кібернетичне ядро*Buildings</value>
+    <value>Кібернетичне ядро\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_165</id>
-    <value>Архів тамплієрів*Buildings</value>
+    <value>Архів тамплієрів\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_166</id>
-    <value>Ковальня*Buildings</value>
+    <value>Ковальня\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_167</id>
-    <value>Зоряна брама*Buildings</value>
+    <value>Зоряна брама\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_168</id>
-    <value>Стазис-камера*Special Buildings</value>
+    <value>Стазис-камера\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_169</id>
-    <value>Маяк флоту*Buildings</value>
+    <value>Маяк флоту\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_170</id>
-    <value>Верховний суд*Buildings</value>
+    <value>Верховний суд\000*\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_171</id>
-    <value>Допоміжний модуль*Buildings</value>
+    <value>Допоміжний модуль\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_172</id>
-    <value>Батарея щитів*Buildings</value>
+    <value>Батарея щитів\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_173</id>
-    <value>Формація кристалів Кейдерин*Special Buildings</value>
+    <value>Формація кристалів Кейдерин\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_174</id>
-    <value>Храм*Special Buildings</value>
+    <value>Храм\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_175</id>
-    <value>Храм Зел'Наґа*Special Buildings</value>
+    <value>Храм Зел'Наґа\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_176</id>
-    <value>МінералиType 1Resources</value>
+    <value>Мінерали\\000Тип 1\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_177</id>
-    <value>МінералиType 2Resources</value>
+    <value>Мінерали\\000Тип 2\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_178</id>
-    <value>МінералиType 3Resources</value>
+    <value>Мінерали\000Тип 3\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_179</id>
-    <value>Печера*Neutral</value>
+    <value>Печера\\000*\\000Нейтральні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_180</id>
-    <value>Печера*Neutral</value>
+    <value>Печера (вхід)\\000*\\000Нейтральні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_181</id>
-    <value>Бар*Neutral</value>
+    <value>Бар\\000*\\000Нейтральні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_182</id>
-    <value>Шахтарська платформа*Neutral</value>
+    <value>Шахтарська платформа\\000*\\000Нейтральні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_183</id>
-    <value>Незалежний командний центр*Independent</value>
+    <value>Незалежний командний центр\\000*\\000Незалежні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_184</id>
-    <value>Незалежний космопорт*Independent</value>
+    <value>Незалежний космопорт\\000*\\000Нейтральні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_185</id>
-    <value>Брама*Neutral</value>
+    <value>Брама\000*\000Нейтральні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_186</id>
-    <value>Руїни*Neutral</value>
+    <value>Руїни\\000*\\000Нейтральні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_187</id>
-    <value>Формація кристалів Кейдерин*Neutral</value>
+    <value>Формація кристалів Кейдерин\\000*\\000Нейтральні</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_188</id>
-    <value>Гейзер Веспіну*Resources</value>
+    <value>Гейзер Веспіну\\000*\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_189</id>
-    <value>Просторова брама*Special Buildings</value>
+    <value>Просторова брама\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_190</id>
-    <value>Пси-переривач*Special Buildings</value>
+    <value>Пси-переривач\\000*\\000Особливі споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_191</id>
-    <value>Маркер зерґів*Special</value>
+    <value>Маркер зерґів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_192</id>
-    <value>Маркер терранів*Special</value>
+    <value>Маркер терранів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_193</id>
-    <value>Маркер протоссів*Special</value>
+    <value>Маркер протоссів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_194</id>
-    <value>Маяк зерґів*Special</value>
+    <value>Маяк зерґів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_195</id>
-    <value>Маяк терранів*Special</value>
+    <value>Маяк терранів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_196</id>
-    <value>Маяк протоссів*Special</value>
+    <value>Маяк протоссів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_197</id>
-    <value>Маяк прапору зерґів*Special</value>
+    <value>Маяк прапора зерґів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_198</id>
-    <value>Маяк прапору терранів*Special</value>
+    <value>Маяк прапора терранів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_199</id>
-    <value>Маяк прапору протоссів*Special</value>
+    <value>Маяк прапору протоссів\\000*\\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_200</id>
