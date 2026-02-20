@@ -1297,15 +1297,15 @@
   </string>
   <string>
     <id>STR_RSRCH_STIM</id>
-    <value>t\004Дослідити стим-пакети\n (особлива здібність морпіхів і вогнеметників) \003(T)\001</value>
+    <value>t\\004Дослідити стим-пакети\\n(здібність морпіхів і вогнеметників)</value>
   </string>
   <string>
     <id>STR_RSRCH_MAGNA</id>
-    <value>l\004Дослідити блокатор\n (особлива здібність привидів) \003(L)\001</value>
+    <value>l\\004Дослідити блокатор\\n(здібність привидів)</value>
   </string>
   <string>
     <id>STR_RSRCH_EMP</id>
-    <value>e\004Дослідити шокову хвилю ЕМІ\n (особлива здібність наукових суден) \003(E)\001</value>
+    <value>e\\004Дослідити шокову хвилю ЕМІ\\n(здібність наукових суде)</value>
   </string>
   <string>
     <id>STR_RSRCH_MINES</id>
@@ -1337,15 +1337,15 @@
   </string>
   <string>
     <id>STR_USESTIM</id>
-    <value>t\003Використати стим-пакети \003(T)\001</value>
+    <value>Використати стим-пакети</value>
   </string>
   <string>
     <id>STR_USEMAGNA</id>
-    <value>l\003Використати блокатор \003(L)\001</value>
+    <value>Використати блокатор</value>
   </string>
   <string>
     <id>STR_USEMINES</id>
-    <value>i\003Використати міни-павуки \003(I)\001</value>
+    <value>Використати міни-павуки</value>
   </string>
   <string>
     <id>STR_SCANNERSWEEP</id>
@@ -1365,11 +1365,11 @@
   </string>
   <string>
     <id>STR_USEEMP</id>
-    <value>e\003Активувати шокову хвилю ЕМІ \003(E)\001</value>
+    <value>Активувати шокову хвилю ЕМІ</value>
   </string>
   <string>
     <id>STR_IRRADIATE</id>
-    <value>i\003Опромінити ціль \003(I)\001</value>
+    <value>Опромінити ціль </value>
   </string>
   <string>
     <id>STR_YAMATO</id>
@@ -1377,43 +1377,49 @@
   </string>
   <string>
     <id>STR_CLOAK</id>
-    <value>c\003Сховатися \003(C)\001</value>
+    <value>Сховатися</value>
   </string>
   <string>
     <id>STR_DECLOAK</id>
-    <value>cЗ'явитися \003(C)\001</value>
+    <value>З'явитися</value>
   </string>
   <string>
     <id>STR_STIM_REQ</id>
-    <value>Стим-пакети:\n   Дослідіть у академії</value>
+    <value>Стим-пакети\\n   Дослідіть у академії
+</value>
   </string>
   <string>
     <id>STR_MAGNA_REQ</id>
-    <value>Блокатор:\n   Дослідіть у шпигунському модулі</value>
+    <value>Блокатор\\n   Дослідіть у шпигунському модулі
+</value>
   </string>
   <string>
     <id>STR_MINE_REQ</id>
-    <value>Міни-павуки:\n   Дослідіть у механічному цеху</value>
+    <value>Міни-павуки\\n   Дослідіть у механічному цеху
+</value>
   </string>
   <string>
     <id>STR_SIEGE_REQ</id>
-    <value>Режим облоги:\n   Дослідіть у механічному цеху</value>
+    <value>Режим облоги\\n   Дослідіть у механічному цеху
+</value>
   </string>
   <string>
     <id>STR_DEFMTX_REQ</id>
-    <value>Захисна матриця:\n   Дослідіть у науковому центрі</value>
+    <value>Захисна матриця\\n  Дослідіть у науковому центрі</value>
   </string>
   <string>
     <id>STR_EMP_REQ</id>
-    <value>Шокова хвиля ЕМІ:\n   Дослідіть у науковому центрі</value>
+    <value>Шокова хвиля ЕМІ\\n  Дослідіть у науковому центрі
+</value>
   </string>
   <string>
     <id>STR_IRRADIATE_REQ</id>
-    <value>Опромінювання:\n   Дослідіть у науковому центрі</value>
+    <value>Опромінювання\\n   Дослідіть у науковому центрі
+</value>
   </string>
   <string>
     <id>STR_YAMATO_REQ</id>
-    <value>Ямато-гармата:\n   Дослідіть у фізичній лабораторії</value>
+    <value>Ямато-гармата\\n   Дослідіть у фізичній лабораторії</value>
   </string>
   <string>
     <id>STR_SHIP_CLOAK_REQ</id>
@@ -1489,7 +1495,8 @@
   </string>
   <string>
     <id>STR_BURROW</id>
-    <value>u\003Заритися у землю \003(U)\001</value>
+    <value>u\\003Заритися у землю
+</value>
   </string>
   <string>
     <id>STR_DEBURROW</id>
@@ -1573,7 +1580,7 @@
   </string>
   <string>
     <id>STR_STASIS_TECH</id>
-    <value>Стазис-поле</value>
+    <value>Стазис-пол</value>
   </string>
   <string>
     <id>STR_ARCHON_TECH</id>
@@ -1781,7 +1788,7 @@
   </string>
   <string>
     <id>STR_ZEALOT_SPEED</id>
-    <value>Покращення ніг</value>
+    <value>Імпланти для ніг</value>
   </string>
   <string>
     <id>STR_SCARAB_DAMAGE</id>
@@ -2213,7 +2220,7 @@
   </string>
   <string>
     <id>STR_UP_PSHIELDS_REQ_6</id>
-    <value>Капрал</value>
+    <value>Рядовий</value>
   </string>
   <string>
     <id>STR_UP_PSHIELDS_REQ_7</id>
@@ -2261,7 +2268,7 @@
   </string>
   <string>
     <id>STR_UP_PSHIELDS_REQ_18</id>
-    <value>Комодор</value>
+    <value>Командор</value>
   </string>
   <string>
     <id>STR_UP_PSHIELDS_REQ_19</id>
@@ -3245,7 +3252,7 @@
   </string>
   <string>
     <id>STR_HIDE_TERRAIN</id>
-    <value>Сховати терен на міні-мапі (\003Tab\001)</value>
+    <value>Приховати ландшафт на міні-мапі (\\3Tab\\1)</value>
   </string>
   <string>
     <id>STR_DIPLOMACY</id>
@@ -3353,15 +3360,15 @@
   </string>
   <string>
     <id>STR_LB_DELTA_LABEL</id>
-    <value>Лишилось одиниць</value>
+    <value>Лишилось одиниць:</value>
   </string>
   <string>
     <id>STR_LB_DELTA_LABEL_1</id>
-    <value>Лишилось одиниць</value>
+    <value>Лишилось одиниць:</value>
   </string>
   <string>
     <id>STR_LB_DELTA_LABEL_2</id>
-    <value>Лишилось ресурсів</value>
+    <value>Лишилось ресурсів:</value>
   </string>
   <string>
     <id>STR_LB_DELTA_LABEL_3</id>
@@ -3369,7 +3376,7 @@
   </string>
   <string>
     <id>STR_LB_DELTA_LABEL_4</id>
-    <value>Лишилось рахунку</value>
+    <value>Лишилось рахунку:</value>
   </string>
   <string>
     <id>STR_RETURN_ERR</id>
