@@ -821,13 +821,11 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_205</id>
-    <value>Left Upper Level Door&lt;0&gt;*&lt;0&gt;Doodads&lt;0&gt;
-</value>
+    <value>Ліві двері (верхній рівень)\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_206</id>
-    <value>Right Upper Level Door&lt;0&gt;*&lt;0&gt;Doodads&lt;0&gt;
-</value>
+    <value>Праві двері (верхній рівень)\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_207</id>
@@ -989,19 +987,19 @@
   </string>
   <string>
     <id>STR_CRUISER_GND</id>
-    <value>Лазерна батарея П-З</value>
+    <value>Лазерна батарея «повітря-земля»</value>
   </string>
   <string>
     <id>STR_CRUISER_AIR</id>
-    <value>Лазерна батарея П-П</value>
+    <value>Лазерна батарея «повітря-повітря»</value>
   </string>
   <string>
     <id>STR_NORAD_CRUISER_GND</id>
-    <value>Лазерна батарея П-З</value>
+    <value>Лазерна батарея «повітря-земля»</value>
   </string>
   <string>
     <id>STR_NORAD_CRUISER_AIR</id>
-    <value>Лазерна батарея П-П</value>
+    <value>Лазерна батарея «повітря-повітря»</value>
   </string>
   <string>
     <id>STR_HYPERION_CRUISER_GND</id>
@@ -1628,27 +1626,27 @@
   </string>
   <string>
     <id>STR_PSISTORM_REQ</id>
-    <value>Психічний шторм:\n   Розробіть у архівах тамплієрів</value>
+    <value>Псіонічний шторм\\n   Розробіть в архівах тамплієрів</value>
   </string>
   <string>
     <id>STR_HALLUC_REQ</id>
-    <value>Галюцинація:\n   Розробіть у архівах тамплієрів</value>
+    <value>Галюцинація\\n   Розробіть у архівах тамплієрів</value>
   </string>
   <string>
     <id>STR_RECALL_REQ</id>
-    <value>Відкликання:\n   Розробіть у верховному суді</value>
+    <value>Відкликання\n   Розробіть у верховному суді</value>
   </string>
   <string>
     <id>STR_STASIS_REQ</id>
-    <value>Стазис-поле:\n   Розробіть у верховному суді</value>
+    <value>Стазис-поле\\n   Розробіть у верховному суді</value>
   </string>
   <string>
     <id>STR_ARCHON0_REQ</id>
-    <value>Перетворення на архонта:\n   Розробіть у архівах тамплієрів</value>
+    <value>Перетворення на архонта\\n   Розробіть в архівах тамплієрів</value>
   </string>
   <string>
     <id>STR_ARCHON1_REQ</id>
-    <value>Перетворення на архонта:\n   Оберіть двох чи більше тамплієрів</value>
+    <value>Перетворення на архонта\n   Оберіть двох чи більше тамплієрів</value>
   </string>
   <string>
     <id>STR_T_ARMOR</id>
