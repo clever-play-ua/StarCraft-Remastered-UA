@@ -801,115 +801,119 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_200</id>
-    <value>Генератор струму*Special Buildings</value>
+    <value>Генератор струму\\000*\\000Особливі будівлі</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_201</id>
-    <value>Кокон Надрозуму*Special Buildings</value>
+    <value>Кокон Надрозуму\\000*\\000Особливі будівлі</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_202</id>
-    <value>Темний рій*Zerg</value>
+    <value>Темний рій\\000*\\000Зерґи</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_203</id>
-    <value>Підлогова ракетниця*Doodads</value>
+    <value>Підлогова ракетниця\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_204</id>
-    <value>Floor Hatch (UNUSED)*Doodads</value>
+    <value>Напольний люк (UNUSED)\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_205</id>
-    <value>Left Upper Level Door*Doodads</value>
+    <value>Left Upper Level Door&lt;0&gt;*&lt;0&gt;Doodads&lt;0&gt;
+</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_206</id>
-    <value>Right Upper Level Door*Doodads</value>
+    <value>Right Upper Level Door&lt;0&gt;*&lt;0&gt;Doodads&lt;0&gt;
+</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_207</id>
-    <value>Left Pit Door*Doodads</value>
+    <value>Ліва дверь (яма)\\000*\\000Об'єктиLeft Pit Door&lt;0&gt;*&lt;0&gt;Doodads&lt;0&gt;
+</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_208</id>
-    <value>Right Pit Door*Doodads</value>
+    <value>Права двері (яма)\\000*\\000Об'єктиRight Pit Door&lt;0&gt;*&lt;0&gt;Doodads&lt;0&gt;
+</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_209</id>
-    <value>Підлоговий кулемет*Doodads</value>
+    <value>Підлоговий кулемет\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_210</id>
-    <value>Прихована ракетниця*Doodads</value>
+    <value>Прихована ракетниця\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_211</id>
-    <value>Прихований вогнемет*Doodads</value>
+    <value>Прихований вогнемет\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_212</id>
-    <value>Прихована ракетниця*Doodads</value>
+    <value>Прихована ракетниця\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_213</id>
-    <value>Прихований вогнемет*Doodads</value>
+    <value>Прихований вогнемет\\000*\\000Об'єкти</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_214</id>
-    <value>Початкова позиція*Start Location</value>
+    <value>Початкова позиція\\000*\\000Початкова позиція</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_215</id>
-    <value>Прапор*Special</value>
+    <value>Прапор\000*\000Особливе</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_216</id>
-    <value>Молода лялечка*Powerups</value>
+    <value>Молода лялечка\000*\000Посилення</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_217</id>
-    <value>Пси-випромінювач*Powerups</value>
+    <value>Пси-випромінювач\\000*\\000Посилення</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_218</id>
-    <value>Диск з даними*Powerups</value>
+    <value>Диск з даними\\000*\\000Посилення</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_219</id>
-    <value>Кристал Кейдерин*Powerups</value>
+    <value>Кристал Кейдерин\\000*\\000Посилення</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_220</id>
-    <value>Шмат мінералівType 1Resources</value>
+    <value>Шмат мінералів\\000Тип 1\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_221</id>
-    <value>Шмат мінералівType 2Resources</value>
+    <value>Шмат мінералів\\000Тип 2\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_222</id>
-    <value>Частка ВеспінуProtoss Type 1Resources</value>
+    <value>Частка Веспіну\\000Протосси тип 1\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_223</id>
-    <value>Частка ВеспінуProtoss Type 2Resources</value>
+    <value>Частка Веспіну\\000Протосси тип 2\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_224</id>
-    <value>Мішок ВеспінуZerg Type 1Resources</value>
+    <value>Мішок Веспіну\\000Зерґи тип 1\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_225</id>
-    <value>Мішок ВеспінуZerg Type 2Resources</value>
+    <value>Мішок Веспіну\\000Зерґи тип 2\\000Ресурси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_226</id>
-    <value>Цистерна ВеспінуTerran Type 1Resources</value>
+    <value>Цистерна Веспіну\\000Терани тип 1\\000Ресурси</value>
   </string>
   <string>
     <id>LAST_UNIT_STRING</id>
-    <value>Цистерна ВеспінуTerran Type 2Resources</value>
+    <value>Цистерна Веспіну\\000Терани тип 2\\000Ресурси</value>
   </string>
   <string>
     <id>STR_MARINE_GUN</id>
@@ -953,11 +957,11 @@
   </string>
   <string>
     <id>STR_TANK_CANNON</id>
-    <value>Гармата Арклайт</value>
+    <value>Гармата «Арклайт»</value>
   </string>
   <string>
     <id>STR_DUKE_TANK_CANNON</id>
-    <value>Гармата Арклайт</value>
+    <value>Гармата «Арклайт»</value>
   </string>
   <string>
     <id>STR_SCV_GUN</id>
@@ -1193,7 +1197,7 @@
   </string>
   <string>
     <id>STR_FIGHTER_GUN</id>
-    <value>Імпульсна гармата</value>
+    <value>Імпульсна гармата&lt;</value>
   </string>
   <string>
     <id>STR_PHOTON_GUN_GND</id>
@@ -1217,7 +1221,7 @@
   </string>
   <string>
     <id>STR_GUNSHIP_MISSILE</id>
-    <value>Ракети-мордівники</value>
+    <value>Ракети-мордівники&lt;</value>
   </string>
   <string>
     <id>STR_GUNSHIP_BOMB</id>
