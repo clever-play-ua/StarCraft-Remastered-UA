@@ -1195,15 +1195,15 @@
   </string>
   <string>
     <id>STR_FIGHTER_GUN</id>
-    <value>Імпульсна гармата&lt;</value>
+    <value>Імпульсна гармата</value>
   </string>
   <string>
     <id>STR_PHOTON_GUN_GND</id>
-    <value>Фотонна гармата З-З</value>
+    <value>Фотонна гармата (земля-земля)</value>
   </string>
   <string>
     <id>STR_PHOTON_GUN_AIR</id>
-    <value>Фотонна гармата З-П</value>
+    <value>Фотонна гармата (земля-повітря)</value>
   </string>
   <string>
     <id>STR_SCARAB</id>
@@ -1219,7 +1219,7 @@
   </string>
   <string>
     <id>STR_GUNSHIP_MISSILE</id>
-    <value>Ракети-мордівники&lt;</value>
+    <value>Ракети-мордівники</value>
   </string>
   <string>
     <id>STR_GUNSHIP_BOMB</id>
@@ -1295,27 +1295,27 @@
   </string>
   <string>
     <id>STR_RSRCH_STIM</id>
-    <value>t\\004Дослідити стим-пакети\\n(здібність морпіхів і вогнеметників)</value>
+    <value>t\\004Дослідити стим-пакети\\n((особлива здібність морпіхів і вогнеметників)</value>
   </string>
   <string>
     <id>STR_RSRCH_MAGNA</id>
-    <value>l\\004Дослідити блокатор\\n(здібність привидів)</value>
+    <value>l\\004Дослідити блокатор\\n(особлива здібність привидів)</value>
   </string>
   <string>
     <id>STR_RSRCH_EMP</id>
-    <value>e\\004Дослідити шокову хвилю ЕМІ\\n(здібність наукових суде)</value>
+    <value>e\\004Дослідити шокову хвилю ЕМІ\\n(особлива здібність наукових суден)</value>
   </string>
   <string>
     <id>STR_RSRCH_MINES</id>
-    <value>m\004Дослідити міни-павуки\n (особлива здібність грифів) \003(M)\001</value>
+    <value>m\004Дослідити міни-павуки\n (особлива здібність грифів)</value>
   </string>
   <string>
     <id>STR_RSRCH_SIEGE</id>
-    <value>s\004Дослідити режим облоги\n (особлива здібність облогових танків) \003(S)\001</value>
+    <value>s\004Дослідити режим облоги\n (особлива здібність облогових танків) </value>
   </string>
   <string>
     <id>STR_RSRCH_DEFMTX</id>
-    <value>m\004Дослідити захисну матрицю\n (особлива здібність наукових суден) \003(M)\001</value>
+    <value>m\004Дослідити захисну матрицю\n (особлива здібність наукових суден) </value>
   </string>
   <string>
     <id>STR_RSRCH_IRRADIATE</id>
@@ -1331,39 +1331,40 @@
   </string>
   <string>
     <id>STR_RSRCH_MAN_CLOAK</id>
-    <value>c\004Дослідити особовий стелс-генератор\n (особлива здібність привидів) \003(C)\001</value>
+    <value>c\004Дослідити особовий стелс-генератор\n (особлива здібність привидів)</value>
   </string>
   <string>
     <id>STR_USESTIM</id>
-    <value>Використати стим-пакети</value>
+    <value>t\\003Використати стим-пакети</value>
   </string>
   <string>
     <id>STR_USEMAGNA</id>
-    <value>Використати блокатор</value>
+    <value>l\\003Використати блокатор</value>
   </string>
   <string>
     <id>STR_USEMINES</id>
-    <value>Використати міни-павуки</value>
+    <value>i\\003Використати міни-павуки</value>
   </string>
   <string>
     <id>STR_SCANNERSWEEP</id>
-    <value>s\003Здійснити сканування (має властивості детектора) \003(S)\001</value>
+    <value>s\003Здійснити сканування (має властивості детектора) </value>
   </string>
   <string>
     <id>STR_SIEGE_MODE</id>
-    <value>o\003Перейти у режим облоги \003(O)\001</value>
+    <value>o\003Перейти у режим облоги</value>
   </string>
   <string>
     <id>STR_TANK_MODE</id>
-    <value>oПерейти у режим танку \003(O)\001</value>
+    <value>o\\007Перейти у режим танку</value>
   </string>
   <string>
     <id>STR_DEFMTX</id>
-    <value>d\003Активувати захисну матрицю \003(D)\001</value>
+    <value>d\\003Активувати захисну матрицю
+</value>
   </string>
   <string>
     <id>STR_USEEMP</id>
-    <value>Активувати шокову хвилю ЕМІ</value>
+    <value>e\\003Активувати шокову хвилю ЕМІ</value>
   </string>
   <string>
     <id>STR_IRRADIATE</id>
@@ -1461,11 +1462,11 @@
   </string>
   <string>
     <id>STR_RSRCH_BURROW</id>
-    <value>b\004Здійснити еволюцію заривання\n (здібність наземних одиниць) \003(B)\001</value>
+    <value>b\\004Здійснити еволюцію заривання\n (здібність наземних одиниць)</value>
   </string>
   <string>
     <id>STR_RSRCH_INFEST</id>
-    <value>i\004Здійснити еволюцію зараження\n (здібність королев) \003(I)\001</value>
+    <value>i\\004Здійснити еволюцію зараження\n (здібність королев)</value>
   </string>
   <string>
     <id>STR_RSRCH_INFBROOD</id>
@@ -1473,7 +1474,7 @@
   </string>
   <string>
     <id>STR_RSRCH_PLAGUE</id>
-    <value>s\004Здійснити еволюцію темного рою\n (здібність осквернителів) \003(S)\001</value>
+    <value>s\\004Здійснити еволюцію темного рою\n (здібність осквернителів)</value>
   </string>
   <string>
     <id>STR_RSRCH_PARASITE</id>
@@ -1481,15 +1482,15 @@
   </string>
   <string>
     <id>STR_RSRCH_BLOODBOIL</id>
-    <value>g\004Здійснити еволюцію чуми\n (здібність осквернителів) \003(G)\001</value>
+    <value>g\\004Здійснити еволюцію чуми\n (здібність осквернителів) </value>
   </string>
   <string>
     <id>STR_RSRCH_ENSNARE</id>
-    <value>e\004Здійснити еволюцію обплутання\n (здібність королев) \003(E)\001</value>
+    <value>e\\004Здійснити еволюцію обплутання\n (здібність королев)</value>
   </string>
   <string>
     <id>STR_RSRCH_CONSUME</id>
-    <value>c\004Здійснити еволюцію поглинання\n (здібність осквернителів) \003(C)\001</value>
+    <value>c\\004Здійснити еволюцію поглинання\n (здібність осквернителів) </value>
   </string>
   <string>
     <id>STR_BURROW</id>
@@ -1498,39 +1499,39 @@
   </string>
   <string>
     <id>STR_DEBURROW</id>
-    <value>uВилізти на поверхню \003(U)\001</value>
+    <value>u\\Вилізти на поверхню </value>
   </string>
   <string>
     <id>STR_INFEST</id>
-    <value>iЗаразити терранський командний центр \003(I)\001</value>
+    <value>i\\007Заразити терранський командний центр</value>
   </string>
   <string>
     <id>STR_INFBROOD</id>
-    <value>b\003Породити виплодка \003(B)\001</value>
+    <value>b\\003Породити виплодка </value>
   </string>
   <string>
     <id>STR_PLAGUE</id>
-    <value>w\003Темний рій \003(W)\001</value>
+    <value>w\\003Темний рій </value>
   </string>
   <string>
     <id>STR_PARASITE</id>
-    <value>r\003Паразит \003(R)\001</value>
+    <value>r\\003Паразит </value>
   </string>
   <string>
     <id>STR_BLOODBOIL</id>
-    <value>g\003Чума \003(G)\001</value>
+    <value>g\\003Чума </value>
   </string>
   <string>
     <id>STR_CONSUME</id>
-    <value>c\003Поглинути \003(C)\001</value>
+    <value>c\\003Поглинути </value>
   </string>
   <string>
     <id>STR_KERRIGAN_CONSUME</id>
-    <value>u\003Поглинути \003(U)\001</value>
+    <value>u\\003Поглинути </value>
   </string>
   <string>
     <id>STR_ENSNARE</id>
-    <value>e\003Обплутати \003(E)\001</value>
+    <value>e\\003Обплутати</value>
   </string>
   <string>
     <id>STR_BURROW_REQ</id>
@@ -1586,43 +1587,43 @@
   </string>
   <string>
     <id>STR_RSRCH_PSISTORM</id>
-    <value>p\004Розробити психічний шторм\n (здібність тамплієрів) \003(P)\001</value>
+    <value>p\\004Розробити психічний шторм\n (здібність тамплієрів)</value>
   </string>
   <string>
     <id>STR_RSRCH_HALLUCINATION</id>
-    <value>h\004Розробити галюцинацію\n (здібність тамплієрів) \003(H)\001</value>
+    <value>h\\004Розробити галюцинацію\n (здібність тамплієрів)</value>
   </string>
   <string>
     <id>STR_RSRCH_RECALL</id>
-    <value>r\004Розробити відкликання\n (здібність верховних суддів) \003(R)\001</value>
+    <value>r\\004Розробити відкликання\n (здібність верховних суддів) </value>
   </string>
   <string>
     <id>STR_RSRCH_STASIS</id>
-    <value>s\004Розробити стазис-поле\n (здібність верховних суддів) \003(S)\001</value>
+    <value>s\\004Розробити стазис-поле\n (здібність верховних суддів) </value>
   </string>
   <string>
     <id>STR_RSRCH_SUMMON_ARCHON</id>
-    <value>a\004Розробити перетворення на архонта\n (здібність тамплієрів) \003(A)\001</value>
+    <value>a\\004Розробити перетворення на архонта\n (здібність тамплієрів)</value>
   </string>
   <string>
     <id>STR_PSISTORM</id>
-    <value>t\003Утворити психічний шторм \003(T)\001</value>
+    <value>t\\003Утворити психічний шторм \003(T)\001</value>
   </string>
   <string>
     <id>STR_HALLUCINATION</id>
-    <value>l\003Створити галюцинацію \003(L)\001</value>
+    <value>l\\003Створити галюцинацію</value>
   </string>
   <string>
     <id>STR_RECALL</id>
-    <value>r\003Відкликати одиниці \003(R)\001</value>
+    <value>r\\003Відкликати одиниці </value>
   </string>
   <string>
     <id>STR_STASIS</id>
-    <value>t\003Утворити стазис-поле \003(T)\001</value>
+    <value>t\\003Утворити стазис-поле</value>
   </string>
   <string>
     <id>STR_MAKE_P_ARCHON</id>
-    <value>r\001Перетворитися на архонта \003(R)\001</value>
+    <value>r\\001Перетворитися на архонта </value>
   </string>
   <string>
     <id>STR_PSISTORM_REQ</id>
@@ -1714,7 +1715,7 @@
   </string>
   <string>
     <id>STR_MARINE_GUN_RANGE</id>
-    <value>Набої зі збідненого урану</value>
+    <value>Набої U-238 зі збідненого урану</value>
   </string>
   <string>
     <id>STR_VULTURE_SPEED</id>
@@ -1830,95 +1831,95 @@
   </string>
   <string>
     <id>STR_UP_T_ARMOR</id>
-    <value>a\002Поліпшити броню піхоти \003(A)\001</value>
+    <value>a\\002Поліпшити броню піхоти </value>
   </string>
   <string>
     <id>STR_UP_T_VEHICLE_PLATING</id>
-    <value>p\002Поліпшити обшивку техніки \003(P)\001</value>
+    <value>p\\002Поліпшити обшивку техніки </value>
   </string>
   <string>
     <id>STR_UP_T_SHIP_PLATING</id>
-    <value>h\002Поліпшити обшивку кораблів \003(H)\001</value>
+    <value>h\\002Поліпшити обшивку кораблів </value>
   </string>
   <string>
     <id>STR_UP_Z_CARAPACE</id>
-    <value>c\002Здійснити еволюцію карапакса \003(C)\001</value>
+    <value>c\\002Здійснити еволюцію карапакса </value>
   </string>
   <string>
     <id>STR_UP_Z_PLATING</id>
-    <value>c\002Здійснити еволюцію карапакса літунів \003(C)\001</value>
+    <value>c\\002Здійснити еволюцію карапакса літунів</value>
   </string>
   <string>
     <id>STR_UP_P_ARMOR</id>
-    <value>a\002Поліпшити броню наземних \003(A)\001</value>
+    <value>a\\002Поліпшити броню наземних одиниць</value>
   </string>
   <string>
     <id>STR_UP_P_PLATING</id>
-    <value>a\002Поліпшити броню повітряних одиниць \003(A)\001</value>
+    <value>a\\002Поліпшити броню повітряних одиниць</value>
   </string>
   <string>
     <id>STR_UP_T_MAN_GUNS</id>
-    <value>w\002Поліпшити озброєння піхоти \003(W)\001</value>
+    <value>w\\002Поліпшити озброєння піхоти </value>
   </string>
   <string>
     <id>STR_UP_T_VEHICLE_GUNS</id>
-    <value>w\002Поліпшити озброєння техніки \003(W)\001</value>
+    <value>w\\002Поліпшити озброєння техніки </value>
   </string>
   <string>
     <id>STR_UP_T_SHIP_GUNS</id>
-    <value>s\002Поліпшити озброєння кораблів \003(S)\001</value>
+    <value>s\\002Поліпшити озброєння кораблів</value>
   </string>
   <string>
     <id>STR_UP_Z_MELEE_ATTACKS</id>
-    <value>m\002Поліпшити зброю ближнього бою \003(M)\001</value>
+    <value>m\\002Поліпшити зброю ближнього бою </value>
   </string>
   <string>
     <id>STR_UP_Z_MISSILE_ATTACKS</id>
-    <value>a\002Поліпшити ракетну зброю \003(A)\001</value>
+    <value>a\\002Поліпшити ракетну зброю</value>
   </string>
   <string>
     <id>STR_UP_Z_FLYER_ATTACKS</id>
-    <value>a\002Поліпшити зброю літунів \003(A)\001</value>
+    <value>a\\002Поліпшити зброю повітряних одиниць</value>
   </string>
   <string>
     <id>STR_UP_P_GND_WEAPONS</id>
-    <value>w\002Поліпшити озброєння наземних одиниць \003(W)\001</value>
+    <value>w\\002Поліпшити озброєння наземних одиниць</value>
   </string>
   <string>
     <id>STR_UP_P_AIR_WEAPONS</id>
-    <value>w\002Поліпшити озброєння повітряних одиниць \003(W)\001</value>
+    <value>w\\002Поліпшити озброєння повітряних одиниць </value>
   </string>
   <string>
     <id>STR_UP_P_SHIELDS</id>
-    <value>s\002Поліпшити плазма-щити \003(S)\001</value>
+    <value>s\\002Поліпшити плазма-щити </value>
   </string>
   <string>
     <id>STR_UP_MARINE_GUN_RANGE</id>
-    <value>u\002Дослідити набої зі збідненого урану\n (збільшує радіус ураження морпіхів) \003(U)\001</value>
+    <value>u\\002Дослідити набої U1-238 зі збідненого урану\n (збільшує дальність атаки морпіхів) </value>
   </string>
   <string>
     <id>STR_UP_VULTURE_SPEED</id>
-    <value>i\002Дослідити йонні рушії\n (збільшує швидкість грифів) \003(I)\001</value>
+    <value>i\\002Дослідити йонні рушії\n (збільшує швидкість грифів) </value>
   </string>
   <string>
     <id>STR_UP_WRAITH_WEAPON</id>
-    <value>b\002Дослідити лазерні гармати\n (зброя примар) \003(B)\001</value>
+    <value>b\\002Дослідити лазерні гармати\n (зброя примар) </value>
   </string>
   <string>
     <id>STR_UP_VESSEL_ENERGY</id>
-    <value>t\002Дослідити титановий реактор\n (+50 до енергії наукових суден) \003(T)\001</value>
+    <value>t\\002Дослідити титановий реактор\n (+50 од. до запасу енергії наукових суден) </value>
   </string>
   <string>
     <id>STR_UP_GHOST_SIGHT</id>
-    <value>o\002Дослідити очні імплантанти\n (збільшує далекоглядність привидів) \003(O)\001</value>
+    <value>o\\002Дослідити очні імплантанти\n (збільшує далекоглядність привидів)</value>
   </string>
   <string>
     <id>STR_UP_GHOST_ENERGY</id>
-    <value>m\002Дослідити реактор Мебіуса\n (+50 до енергії привидів) \003(M)\001</value>
+    <value>m\\002Дослідити реактор Мебіуса\n (+50 од. до запасу енергії привидів)</value>
   </string>
   <string>
     <id>STR_UP_WRAITH_ENERGY</id>
-    <value>a\002Дослідити реактор Аполлона\n (+50 до енергії примар) \003(A)\001</value>
+    <value>a\\002Дослідити реактор Аполлона\n (+50 од. до запасу енергії примар) </value>
   </string>
   <string>
     <id>STR_UP_CRUISER_ENERGY</id>
@@ -1926,87 +1927,87 @@
   </string>
   <string>
     <id>STR_UP_OVERLORD_TRANSPORT</id>
-    <value>v\002Здійснити еволюцію черевних міхурів\n (перетворює володарів на транспортники) \003(V)\001</value>
+    <value>v\\002Здійснити еволюцію черевних міхурів\n (Дозволяє володарям транспортувати одиниці) </value>
   </string>
   <string>
     <id>STR_UP_OVERLORD_SIGHT</id>
-    <value>a\002Здійснити еволюцію вусиків\n (збільшує далекоглядність володарів) \003(A)\001</value>
+    <value>a\\002Здійснити еволюцію вусиків\n (збільшує далекоглядність володарів) </value>
   </string>
   <string>
     <id>STR_UP_OVERLORD_SPEED</id>
-    <value>p\002Здійснити еволюцію пневматизованого карапакса\n (пришвидшує володарів) \003(P)\001</value>
+    <value>p\\002Здійснити еволюцію пневматизованого карапакса\n (суттєво пришвидшує володарів) </value>
   </string>
   <string>
     <id>STR_UP_ZERGLING_SPEED</id>
-    <value>m\002Здійснити еволюцію прискорення метаболізму\n (пришвидшує зерґлінгів) \003(M)\001</value>
+    <value>m\\002Здійснити еволюцію прискорення метаболізму\n (пришвидшує зерґлінгів) </value>
   </string>
   <string>
     <id>STR_UP_ZERGLING_ATTACK_SPEED</id>
-    <value>a\002Здійснити еволюцію надниркових залоз\n (пришвидшує атаки зерґлінгів) \003(A)\001</value>
+    <value>a\\002Здійснити еволюцію надниркових залоз\n (пришвидшує атаки зерґлінгів) </value>
   </string>
   <string>
     <id>STR_UP_HYDRALISK_SPEED</id>
-    <value>m\002Здійснити еволюцію м'язових наростів\n (пришвидшує гідралисків) \003(M)\001</value>
+    <value>m\\002Здійснити еволюцію м'язових наростів\n (пришвидшує гідралисків) </value>
   </string>
   <string>
     <id>STR_UP_HYDRALISK_ATTACK_RANGE</id>
-    <value>g\002Здійснити еволюцію жолобчастого хребта\n (збільшує радіус гідралисків) \003(G)\001</value>
+    <value>g\\002Здійснити еволюцію жолобчастого хребта\n (збільшує радіус атаки гідралисків) </value>
   </string>
   <string>
     <id>STR_UP_QUEEN_ENERGY</id>
-    <value>g\002Здійснити еволюцію гаметного мейозу\n (+50 до енергії королев) \003(G)\001</value>
+    <value>g\\002Здійснити еволюцію гаметного мейозу\n (+50 од. до запасу енергії королев) </value>
   </string>
   <string>
     <id>STR_UP_DEFILER_ENERGY</id>
-    <value>m\002Здійснити еволюцію метасинаптичного вузла\n (+50 до енергії осквернителів) \003(M)\001</value>
+    <value>m\\002Здійснити еволюцію метасинаптичного вузла\n (+50 од. до запасу енергії осквернителів) </value>
   </string>
   <string>
     <id>STR_UP_DRAGOON_ATTACK_RANGE</id>
-    <value>s\002Розробити заряд сингулярності\n (збільшує радіус ураження драгунів) \003(S)\001</value>
+    <value>s\\002Розробити заряд сингулярності\n (збільшує дальність атаки драгунів) </value>
   </string>
   <string>
     <id>STR_UP_ZEALOT_SPEED</id>
-    <value>l\002Розробити покращення ніг\n (збільшує швидкість фанатиків) \003(L)\001</value>
+    <value>l\\002Розробити покращення ніг\n (збільшує швидкість фанатиків) </value>
   </string>
   <string>
     <id>STR_UP_SCARAB_DAMAGE</id>
-    <value>s\002Збільшити шкоду від скарабеїв \003(S)\001</value>
+    <value>s\\002Збільшити шкоду від скарабеїв </value>
   </string>
   <string>
     <id>STR_UP_REAVER_CAPACITY</id>
-    <value>c\002Збільшити місткість мародерів\n (+5 до максимальної кількості скарабеїв) \003(C)\001</value>
+    <value>c\\002Збільшити місткість мародерів\n (+5 до максимальної кількості скарабеїв)</value>
   </string>
   <string>
     <id>STR_UP_SHUTTLE_SPEED</id>
-    <value>g\002Розробити гравітаційний привід\n (збільшує швидкість шатлів) \003(G)\001</value>
+    <value>g\\002Розробити гравітаційний привід\n (збільшує швидкість шатлів)</value>
   </string>
   <string>
     <id>STR_UP_OBSERVER_SIGHT</id>
-    <value>s\002Розробити сенсорний масив\n (збільшує далекоглядність спостерігачів) \003(S)\001</value>
+    <value>s\\002Розробити сенсорний масив\n (збільшує далекоглядність спостерігачів) </value>
   </string>
   <string>
     <id>STR_UP_OBSERVER_SPEED</id>
-    <value>g\002Розробити гравітаційні підсилювачі\n (збільшує швидкість спостерігачів) \003(G)\001</value>
+    <value>g\\002Розробити гравітаційні підсилювачі\n (збільшує швидкість спостерігачів) </value>
   </string>
   <string>
     <id>STR_UP_TEMPLAR_ENERGY</id>
-    <value>k\002Розробити амулети з кристалами Кейдерин\n (+50 до енергії тамплієрів) \003(K)\001</value>
+    <value>k\\002Розробити амулети з кристалами Кейдерин\n (+50 од. до запасу енергії тамплієрів) </value>
   </string>
   <string>
     <id>STR_UP_SCOUT_SIGHT</id>
-    <value>a\002Розробити апіальні сенсори\n (збільшує далекоглядність розвідників) \003(A)\001</value>
+    <value>a\\002Розробити апіальні сенсори\n (збільшує далекоглядність розвідників) </value>
   </string>
   <string>
     <id>STR_UP_SCOUT_SPEED</id>
-    <value>g\002Розробити гравітаційні дроселі\n (збільшує швидкість розвідників) \003(G)\001</value>
+    <value>g\\002Розробити гравітаційні дроселі\n (збільшує швидкість розвідників)</value>
   </string>
   <string>
     <id>STR_UP_CARRIER_CAPACITY</id>
-    <value>c\002Збільшити місткість крейсерів\n (+4 до максимальної кількості перехоплювачів) \003(C)\001</value>
+    <value>c\\002Збільшити місткість крейсерів\n (+4 до максимальної кількості перехоплювачів) </value>
   </string>
   <string>
     <id>STR_UP_ARBITER_ENERGY</id>
-    <value>k\002Розробити ядро Кейдерин\n (+50 до енергії верховних суддів) \003(K)\001</value>
+    <value>k\\002Розробити ядро Кейдерин\n (+50 од. до запасу енергії верховних суддів) </value>
   </string>
   <string>
     <id>STR_UP_TARMOR_REQ</id>
@@ -2306,487 +2307,491 @@
   </string>
   <string>
     <id>STR_MAKE_Z_ZERGLING</id>
-    <value>z\001Мутувати у зерґлінгів \003(Z)\001</value>
+    <value>z\\001Мутувати у зерґлінгів </value>
   </string>
   <string>
     <id>STR_MAKE_Z_HYDRALISK</id>
-    <value>h\001Мутувати у гідралиска \003(H)\001</value>
+    <value>h\\001Мутувати у гідралиска </value>
   </string>
   <string>
     <id>STR_MAKE_Z_ULTRALISK</id>
-    <value>u\001Мутувати в ультралиска \003(U)\001</value>
+    <value>u\\001Мутувати в ультралиска </value>
   </string>
   <string>
     <id>STR_MAKE_Z_DRONE</id>
-    <value>d\001Мутувати у трутня \003(D)\001</value>
+    <value>d\\001Мутувати у трутня </value>
   </string>
   <string>
     <id>STR_MAKE_Z_OVERLORD</id>
-    <value>o\001Мутувати у володаря \003(O)\001</value>
+    <value>o\\001Мутувати у володаря </value>
   </string>
   <string>
     <id>STR_MAKE_Z_MUTALID</id>
-    <value>m\001Мутувати у муталиска \003(M)\001</value>
+    <value>m\\001Мутувати у муталиска </value>
   </string>
   <string>
     <id>STR_GUARDIAN_ASPECT</id>
-    <value>gПідвид захисників \003(G)\001</value>
+    <value>g\\005Мутувати у захистника</value>
   </string>
   <string>
     <id>STR_MAKE_Z_QUEEN</id>
-    <value>q\001Мутувати у королеву \003(Q)\001</value>
+    <value>q\\001Мутувати у королеву </value>
   </string>
   <string>
     <id>STR_MAKE_Z_DEFILER</id>
-    <value>f\001Мутувати в осквернителя \003(F)\001</value>
+    <value>f\\001Мутувати в осквернителя </value>
   </string>
   <string>
     <id>STR_MAKE_Z_AVENGER</id>
-    <value>s\001Мутувати у батіг \003(S)\001</value>
+    <value>s\\001Мутувати у батіг </value>
   </string>
   <string>
     <id>STR_MAKE_Z_INFESTED</id>
-    <value>i\001Тренувати зараженого террана \003(I)\001</value>
+    <value>i\\001Породити зараженого террана </value>
   </string>
   <string>
     <id>STR_MAKE_T_MARINE</id>
-    <value>m\001Тренувати морпіха \003(M)\001</value>
+    <value>m\\001Тренувати морпіха </value>
   </string>
   <string>
     <id>STR_MAKE_T_GHOST</id>
-    <value>g\001Тренувати привида \003(G)\001</value>
+    <value>g\\001Тренувати привида </value>
   </string>
   <string>
     <id>STR_MAKE_T_FIREBAT</id>
-    <value>f\001Тренувати вогнеметника \003(F)\001</value>
+    <value>f\\001Тренувати вогнеметника </value>
   </string>
   <string>
     <id>STR_MAKE_T_VULTURE</id>
-    <value>v\001Збудувати грифа \003(V)\001</value>
+    <value>v\\001Збудувати грифа </value>
   </string>
   <string>
     <id>STR_MAKE_T_GOLIATH</id>
-    <value>g\001Збудувати голіафа \003(G)\001</value>
+    <value>g\\001Збудувати голіафа </value>
   </string>
   <string>
     <id>STR_MAKE_T_TANK</id>
-    <value>t\001Збудувати облоговий танк \003(T)\001</value>
+    <value>t\\001Збудувати облоговий танк </value>
   </string>
   <string>
     <id>STR_MAKE_T_SCV</id>
-    <value>s\001Збудувати КБМ \003(S)\001</value>
+    <value>s\\001Збудувати КБМ </value>
   </string>
   <string>
     <id>STR_MAKE_T_WRAITH</id>
-    <value>w\001Збудувати примару \003(W)\001</value>
+    <value>w\\001Збудувати примару </value>
   </string>
   <string>
     <id>STR_MAKE_T_VESSEL</id>
-    <value>v\001Збудувати наукове судно \003(V)\001</value>
+    <value>v\\001Збудувати наукове судно </value>
   </string>
   <string>
     <id>STR_MAKE_T_DROPSHIP</id>
-    <value>d\001Збудувати десантний транспорт \003(D)\001</value>
+    <value>d\\001Збудувати десантний транспорт </value>
   </string>
   <string>
     <id>STR_MAKE_T_BCRUISER</id>
-    <value>b\001Збудувати бойовий крейсер \003(B)\001</value>
+    <value>b\\001Збудувати бойовий крейсер</value>
   </string>
   <string>
     <id>STR_MAKE_T_NUKE</id>
-    <value>n\001Підготувати ядерну ракету до запуску \003(N)\001</value>
+    <value>n\\001Підготувати ядерну ракету </value>
   </string>
   <string>
     <id>STR_MAKE_P_OBSERVER</id>
-    <value>o\001Збудувати спостерігача \003(O)\001</value>
+    <value>o\\001Збудувати спостерігача </value>
   </string>
   <string>
     <id>STR_MAKE_P_PROBE</id>
-    <value>p\001Збудувати зонд \003(P)\001</value>
+    <value>p\\001Збудувати зонд </value>
   </string>
   <string>
     <id>STR_MAKE_P_ZEALOT</id>
-    <value>z\001Телепортувати фанатика \003(Z)\001</value>
+    <value>z\\001Телепортувати фанатика </value>
   </string>
   <string>
     <id>STR_MAKE_P_DRAGOON</id>
-    <value>d\001Телепортувати драгуна \003(D)\001</value>
+    <value>d\\001Телепортувати драгуна </value>
   </string>
   <string>
     <id>STR_MAKE_P_TEMPLAR</id>
-    <value>t\001Телепортувати верховного тамплієра \003(T)\001</value>
+    <value>t\\001Телепортувати верховного тамплієра </value>
   </string>
   <string>
     <id>STR_MAKE_P_SHUTTLE</id>
-    <value>s\001Збудувати шатл \003(S)\001</value>
+    <value>s\\001Збудувати шатл </value>
   </string>
   <string>
     <id>STR_MAKE_P_SCOUT</id>
-    <value>s\001Телепортувати розвідника \003(S)\001</value>
+    <value>s\\001Телепортувати розвідника </value>
   </string>
   <string>
     <id>STR_MAKE_P_ARBITER</id>
-    <value>a\001Телепортувати верховного суддю \003(A)\001</value>
+    <value>a\\001Телепортувати верховного суддю </value>
   </string>
   <string>
     <id>STR_MAKE_P_CARRIER</id>
-    <value>c\001Телепортувати крейсер \003(C)\001</value>
+    <value>c\\001Телепортувати крейсер </value>
   </string>
   <string>
     <id>STR_MAKE_P_INTERCEPTOR</id>
-    <value>i\001Збудувати перехоплювач \003(I)\001</value>
+    <value>i\\001Збудувати перехоплювач</value>
   </string>
   <string>
     <id>STR_MAKE_P_REAVER</id>
-    <value>v\001Збудувати мародера \003(V)\001</value>
+    <value>v\\001Збудувати мародера</value>
   </string>
   <string>
     <id>STR_MAKE_P_SCARAB</id>
-    <value>r\001Збудувати скарабея \003(R)\001</value>
+    <value>r\\001Збудувати скарабея</value>
   </string>
   <string>
     <id>STR_MAKE_N_BIKER</id>
-    <value>b\001Найняти байкера \003(B)\001</value>
+    <value>b\\001Найняти байкера</value>
   </string>
   <string>
     <id>STR_MAKE_N_GUNSHIP</id>
-    <value>g\001Найняти бойовий корабель \003(G)\001</value>
+    <value>g\\001Найняти бойовий корабель</value>
   </string>
   <string>
     <id>STR_MAKE_N_RAIDER</id>
-    <value>r\001Найняти рейдера \003(R)\001</value>
+    <value>r\\001Найняти рейдера</value>
   </string>
   <string>
     <id>STR_BLD_HATCHERY</id>
-    <value>h\001Перетворитися на інкубатор \003(H)\001</value>
+    <value>h\\001Перетворитися на інкубатор</value>
   </string>
   <string>
     <id>STR_BLD_CREEP_COLONY</id>
-    <value>c\001Перетворитися на колонію скверни \003(C)\001</value>
+    <value>c\\001Перетворитися на колонію скверни </value>
   </string>
   <string>
     <id>STR_BLD_ZEXTRACTOR</id>
-    <value>e\001Перетворитися на видобувач \003(E)\001</value>
+    <value>e\\001Перетворитися на видобувач</value>
   </string>
   <string>
     <id>STR_BLD_SPAWNING</id>
-    <value>s\001Перетворитися на початкову твань \003(S)\001</value>
+    <value>s\\001Перетворитися на початкову твань</value>
   </string>
   <string>
     <id>STR_BLD_EVO_CHAMBER</id>
-    <value>v\001Перетворитися на еволюційну кімнату \003(V)\001</value>
+    <value>v\\001Перетворитися на еволюційну кімнату </value>
   </string>
   <string>
     <id>STR_BLD_HYDRA_DEN</id>
-    <value>d\001Перетворитися на барліг гідралисків \003(D)\001</value>
+    <value>d\\001Перетворитися на барліг гідралисків</value>
   </string>
   <string>
     <id>STR_BLD_NYDUS</id>
-    <value>n\001Перетворитися на нідус-канал \003(N)\001</value>
+    <value>n\\001Перетворитися на нідус-канал</value>
   </string>
   <string>
     <id>STR_BLD_SPIRE</id>
-    <value>s\001Перетворитися на шпиль \003(S)\001</value>
+    <value>s\\001Перетворитися на шпиль </value>
   </string>
   <string>
     <id>STR_BLD_NEST</id>
-    <value>q\001Перетворитися на гніздо королеви \003(Q)\001</value>
+    <value>q\\001Перетворитися на гніздо королеви</value>
   </string>
   <string>
     <id>STR_BLD_ULTRA_CAVERN</id>
-    <value>u\001Перетворитися на печеру ультралисків \003(U)\001</value>
+    <value>u\\001Перетворитися на печеру ультралисків</value>
   </string>
   <string>
     <id>STR_BLD_DEFILER_MOUND</id>
-    <value>d\001Перетворитися на курган осквернителів \003(D)\001</value>
+    <value>d\\001Перетворитися на курган осквернителів</value>
   </string>
   <string>
     <id>STR_BLD_LAIR</id>
-    <value>l\001Перетворитися на лігво \003(L)\001</value>
+    <value>l\\001Перетворитися на лігво </value>
   </string>
   <string>
     <id>STR_BLD_HIVE</id>
-    <value>h\001Перетворитися на вулик \003(H)\001</value>
+    <value>h\\001Перетворитися на вулик</value>
   </string>
   <string>
     <id>STR_BLD_GREATERSPIRE</id>
-    <value>g\001Перетворитися на вищий шпиль \003(G)\001</value>
+    <value>g\\001Перетворитися на вищий шпиль</value>
   </string>
   <string>
     <id>STR_BLD_SPORE_COLONY</id>
-    <value>s\001Перетворитися на спорову колонію \003(S)\001</value>
+    <value>s\\001Перетворитися на спорову колонію </value>
   </string>
   <string>
     <id>STR_BLD_SUNKEN_COLONY</id>
-    <value>u\001Перетворитися на запалу колонію \003(U)\001</value>
+    <value>u\\001Перетворитися на запалу колонію</value>
   </string>
   <string>
     <id>STR_NYDUS_EXIT</id>
-    <value>nРозташувати вихід з нідус-каналу \003(N)\001</value>
+    <value>n\\007Розташувати вихід з нідус-каналу</value>
   </string>
   <string>
     <id>STR_BLD_NEXUS</id>
-    <value>n\001Телепортувати нексус \003(N)\001</value>
+    <value>n\\001Телепортувати нексус</value>
   </string>
   <string>
     <id>STR_BLD_PYLON</id>
-    <value>p\001Телепортувати пілон \003(P)\001</value>
+    <value>p\\001Телепортувати пілон</value>
   </string>
   <string>
     <id>STR_BLD_ASSIMILATOR</id>
-    <value>a\001Телепортувати асимілятор \003(A)\001</value>
+    <value>a\\001Телепортувати асимілятор</value>
   </string>
   <string>
     <id>STR_BLD_GATEWAY</id>
-    <value>g\001Телепортувати браму \003(G)\001</value>
+    <value>g\\001Телепортувати браму</value>
   </string>
   <string>
     <id>STR_BLD_FORGE</id>
-    <value>f\001Телепортувати ковальню \003(F)\001</value>
+    <value>f\\001Телепортувати ковальню</value>
   </string>
   <string>
     <id>STR_BLD_PHOTON</id>
-    <value>c\001Телепортувати фотонну гармату \003(C)\001</value>
+    <value>c\\001Телепортувати фотонну гармату</value>
   </string>
   <string>
     <id>STR_BLD_CYBER_CORE</id>
-    <value>y\001Телепортувати кібернетичне ядро \003(Y)\001</value>
+    <value>y\\001Телепортувати кібернетичне ядро</value>
   </string>
   <string>
     <id>STR_BLD_SHIELDBATT</id>
-    <value>b\001Телепортувати батарею щитів \003(B)\001</value>
+    <value>b\\001Телепортувати батарею щитів</value>
   </string>
   <string>
     <id>STR_BLD_ROBOTICS</id>
-    <value>r\001Телепортувати завод робототехніки \003(R)\001</value>
+    <value>r\\001Телепортувати завод робототехніки</value>
   </string>
   <string>
     <id>STR_BLD_OBSERVATORY</id>
-    <value>o\001Телепортувати обсерваторію \003(O)\001</value>
+    <value>o\\001Телепортувати обсерваторію</value>
   </string>
   <string>
     <id>STR_BLD_CITADEL</id>
-    <value>c\001Телепортувати цитадель Адуна \003(C)\001</value>
+    <value>c\\001Телепортувати цитадель Адуна</value>
   </string>
   <string>
     <id>STR_BLD_ARCHIVES</id>
-    <value>t\001Телепортувати архів тамплієрів \003(T)\001</value>
+    <value>t\\001Телепортувати архів тамплієрів</value>
   </string>
   <string>
     <id>STR_BLD_STARGATE</id>
-    <value>s\001Телепортувати зоряну браму \003(S)\001</value>
+    <value>s\\001Телепортувати зоряну браму</value>
   </string>
   <string>
     <id>STR_BLD_FLEET_BEACON</id>
-    <value>f\001Телепортувати маяк флоту \003(F)\001</value>
+    <value>f\\001Телепортувати маяк флоту</value>
   </string>
   <string>
     <id>STR_BLD_TRIBUNAL</id>
-    <value>a\001Телепортувати верховний суд \003(A)\001</value>
+    <value>a\\001Телепортувати верховний суд</value>
   </string>
   <string>
     <id>STR_BLD_ROBOTICS_BAY</id>
-    <value>b\001Телепортувати допоміжний модуль \003(B)\001</value>
+    <value>b\\001Телепортувати допоміжний модуль</value>
   </string>
   <string>
     <id>STR_BLD_TCOMMANDCTR</id>
-    <value>c\001Збудувати командний центр \003(C)\001</value>
+    <value>c\\001Збудувати командний центр</value>
   </string>
   <string>
     <id>STR_BLD_DEPOT</id>
-    <value>s\001Збудувати склад \003(S)\001</value>
+    <value>s\\001Збудувати склад</value>
   </string>
   <string>
     <id>STR_BLD_REFINERY</id>
-    <value>r\001Збудувати очисний завод \003(R)\001</value>
+    <value>r\\001Збудувати очисний завод</value>
   </string>
   <string>
     <id>STR_BLD_BARRACKS</id>
-    <value>b\001Збудувати казарму \003(B)\001</value>
+    <value>b\\001Збудувати казарму</value>
   </string>
   <string>
     <id>STR_BLD_ENGINEERING</id>
-    <value>e\001Збудувати інженерний відсік \003(E)\001</value>
+    <value>e\\001Збудувати інженерний відсік</value>
   </string>
   <string>
     <id>STR_BLD_TURRET</id>
-    <value>t\001Збудувати ракетну гармату \003(T)\001</value>
+    <value>t\\001Збудувати ракетну гармату</value>
   </string>
   <string>
     <id>STR_BLD_ACADEMY</id>
-    <value>a\001Збудувати академію \003(A)\001</value>
+    <value>a\\001Збудувати академію</value>
   </string>
   <string>
     <id>STR_BLD_PILLBOX</id>
-    <value>u\001Збудувати бункер \003(U)\001</value>
+    <value>u\\001Збудувати бункер</value>
   </string>
   <string>
     <id>STR_BLD_FACTORY</id>
-    <value>f\001Збудувати завод \003(F)\001</value>
+    <value>f\\001Збудувати завод</value>
   </string>
   <string>
     <id>STR_BLD_TSTARPORT</id>
-    <value>s\001Збудувати космопорт \003(S)\001</value>
+    <value>s\\001Збудувати космопорт</value>
   </string>
   <string>
     <id>STR_BLD_SCIENCE_FAC</id>
-    <value>i\001Збудувати науковий центр \003(I)\001</value>
+    <value>i\\001Збудувати науковий центр</value>
   </string>
   <string>
     <id>STR_BLD_ARMORY</id>
-    <value>a\001Збудувати зброярню \003(A)\001</value>
+    <value>a\\001Збудувати зброярню</value>
   </string>
   <string>
     <id>STR_BLD_COMSAT</id>
-    <value>c\001Збудувати супутникову станцію \003(C)\001</value>
+    <value>c\\001Збудувати супутникову станцію</value>
   </string>
   <string>
     <id>STR_BLD_SILO</id>
-    <value>n\001Збудувати ядерну шахту \003(N)\001</value>
+    <value>n\\001Збудувати ядерну шахту</value>
   </string>
   <string>
     <id>STR_BLD_DOCKS</id>
-    <value>c\001Збудувати вежу управління \003(C)\001</value>
+    <value>c\\001Збудувати вежу управління</value>
   </string>
   <string>
     <id>STR_BLD_COVERT_OPS</id>
-    <value>c\001Збудувати шпигунський модуль \003(C)\001</value>
+    <value>c\\001Збудувати шпигунський модуль</value>
   </string>
   <string>
     <id>STR_BLD_PHYSICS</id>
-    <value>p\001Збудувати фізичну лабораторію \003(P)\001</value>
+    <value>p\\001Збудувати фізичну лабораторію </value>
   </string>
   <string>
     <id>STR_BLD_MACHINE</id>
-    <value>c\001Збудувати механічний цех \003(C)\001</value>
+    <value>c\\001Збудувати механічний цех </value>
   </string>
   <string>
     <id>STR_MOVE</id>
-    <value>mРухатися \003(M)\001</value>
+    <value>m\\007Рухатися</value>
   </string>
   <string>
     <id>STR_STOP</id>
-    <value>sЗупинитися \003(S)\001</value>
+    <value>s\\007Зупинитися</value>
   </string>
   <string>
     <id>STR_ATTACK</id>
-    <value>aАтакувати \003(A)\001</value>
+    <value>a\\007Атакувати</value>
   </string>
   <string>
     <id>STR_PATROL</id>
-    <value>pПатрулювати \003(P)\001</value>
+    <value>p\\007Патрулювати</value>
   </string>
   <string>
     <id>STR_HOLD</id>
-    <value>hУтримувати позицію \003(H)\001</value>
+    <value>h\\007Утримувати позицію </value>
   </string>
   <string>
     <id>STR_WAYPOINTS</id>
-    <value>wРежим контрольних точок \003(W)\001</value>
+    <value>w\\007Режим контрольних точок</value>
   </string>
   <string>
     <id>STR_LAND</id>
-    <value>lПриземлитися \003(L)\001</value>
+    <value>l\\007Приземлитися</value>
   </string>
   <string>
     <id>STR_LIFTOFF</id>
-    <value>lЗлетіти у повітря \003(L)\001</value>
+    <value>l\\007Злетіти у повітря </value>
   </string>
   <string>
     <id>STR_RALLYPOINT</id>
-    <value>rОбрати місце зустрічі \003(R)\001</value>
+    <value>r\\007Обрати місце зустрічі </value>
   </string>
   <string>
     <id>STR_RECHARGE</id>
-    <value>rПерезарядити щити \003(R)\001</value>
+    <value>r\\007Перезарядити щити</value>
   </string>
   <string>
     <id>STR_SELECT_LARVA</id>
-    <value>sОбрати лярву \003(S)\001</value>
+    <value>s\\007Обрати лярв</value>
   </string>
   <string>
     <id>STR_GATHER</id>
-    <value>gЗбирати ресурси \003(G)\001</value>
+    <value>g\\007Збирати ресурси</value>
   </string>
   <string>
     <id>STR_RETURN</id>
-    <value>cПовернутися з вантажем на базу \003(C)\001</value>
+    <value>c\\007Повернутися з вантажем на базу</value>
   </string>
   <string>
     <id>STR_REPAIR</id>
-    <value>rПолагодити \003(R)\001</value>
+    <value>r\\007Полагодити</value>
   </string>
   <string>
     <id>STR_BUILD</id>
-    <value>bБудувати споруди \003(B)\001</value>
+    <value>b\\007Будувати споруди</value>
   </string>
   <string>
     <id>STR_BLD_ADVANCED</id>
-    <value>vБудувати просунуті споруди \003(V)\001</value>
+    <value>v\\007Будувати просунуті споруди </value>
   </string>
   <string>
     <id>STR_MUTATE</id>
-    <value>bБазові перетворення \003(B)\001</value>
+    <value>b\\007Базові перетворення</value>
   </string>
   <string>
     <id>STR_MUTATE_ADV</id>
-    <value>vПросунуті перетворення \003(V)\001</value>
+    <value>v\\007Просунуті перетворення </value>
   </string>
   <string>
     <id>STR_MORPH_ADV</id>
-    <value>vПросунуті мутації \003(V)\001</value>
+    <value>v\\007Просунуті мутації</value>
   </string>
   <string>
     <id>STR_PICKUP</id>
-    <value>lЗавантажити \003(L)\001</value>
+    <value>l\\007Завантажити </value>
   </string>
   <string>
     <id>STR_UNLOAD</id>
-    <value>uРозвантажити все \003(U)\001</value>
+    <value>u\\007Розвантажити все </value>
   </string>
   <string>
     <id>STR_NUKESTRIKE</id>
-    <value>nЯдерний удар \003(N)\001</value>
+    <value>n\\007Ядерний удар</value>
   </string>
   <string>
     <id>STR_PLACE_COP</id>
-    <value>pРозташувати прапор \003(P)\001</value>
+    <value>p\\007Розташувати прапор </value>
   </string>
   <string>
     <id>STR_CANCELESC</id>
-    <value>\003ESC\001 - скасувати</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати</value>
   </string>
   <string>
     <id>STR_CANCEL</id>
-    <value>\003ESC\001 - скасувати</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати
+</value>
   </string>
   <string>
     <id>STR_CANCELCONSTRUCTION</id>
-    <value>\003ESC\001 - скасувати будівництво</value>
+    <value>\\027\\007\\3ESC\\1 - Сскасувати будівництво
+</value>
   </string>
   <string>
     <id>STR_CANCELUNIT</id>
-    <value>\003ESC\001 - скасувати тренування</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати тренування</value>
   </string>
   <string>
     <id>STR_CANCELUPGRADE</id>
-    <value>\003ESC\001 - скасувати поліпшення</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати поліпшення</value>
   </string>
   <string>
     <id>STR_CANCELRESEARCH</id>
-    <value>\003ESC\001 - скасувати дослідження</value>
+    <value>\\027\\007\\3ESC\\1 - скасувати дослідження
+</value>
   </string>
   <string>
     <id>STR_CANCELLAST</id>
-    <value>\003ESC\001 - скасувати останнє</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати останню дію</value>
   </string>
   <string>
     <id>STR_CANCELADDON</id>
-    <value>\003ESC\001 - скасувати додавання</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати придубову</value>
   </string>
   <string>
     <id>STR_EGGREVERT</id>
-    <value>\003ESC\001 - скасувати мутацію</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати мутацію
+</value>
   </string>
   <string>
     <id>STR_DRONEREVERT</id>
@@ -2794,263 +2799,264 @@
   </string>
   <string>
     <id>STR_DRONECANCELINFESTATION</id>
-    <value>\003ESC\001 - скасувати зараження</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати зараження</value>
   </string>
   <string>
     <id>STR_CANCELBLDGMORPH</id>
-    <value>\003ESC\001 - скасувати мутацію</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати перетворення</value>
   </string>
   <string>
     <id>STR_CANCELNUKESTRIKE</id>
-    <value>\003ESC\001 - скасувати ядерний удар</value>
+    <value>\\027\\007\\3ESC\\1 - скасувати ядерний удар
+</value>
   </string>
   <string>
     <id>STR_HALT_CONSTRUCTION</id>
-    <value>\003ESC\001 - призупинити будівництво</value>
+    <value>\\027\\007\\3ESC\\1 - Скасувати придубову</value>
   </string>
   <string>
     <id>STR_GHOST_REQ</id>
-    <value>Привид потребує:\n   Академії\n   Наукового центру зі\n   шпигунським модулем</value>
+    <value>Привид потребує:\\n   Академії\n   Наукового центру зі шпигунським модулем</value>
   </string>
   <string>
     <id>STR_FIREBAT_REQ</id>
-    <value>Вогнеметник потребує:\n   Академії</value>
+    <value>Вогнеметник потребує:\\n   Академії</value>
   </string>
   <string>
     <id>STR_GOLIATH_REQ</id>
-    <value>Голіаф потребує:\n   Зброярні</value>
+    <value>Голіаф потребує:\\n   Зброярні</value>
   </string>
   <string>
     <id>STR_TANK_REQ</id>
-    <value>Облоговий танк потребує:\n   Приєднаного механічного цеху</value>
+    <value>Облоговий танк потребує:\\n   Приєднаного механічного цеху</value>
   </string>
   <string>
     <id>STR_VESSEL_REQ</id>
-    <value>Наукове судно потребує:\n   Приєднаної вежі управління\n   Наукового центру</value>
+    <value>Наукове судно потребує:\\n   Приєднаної вежі управління\n   Наукового центру</value>
   </string>
   <string>
     <id>STR_DROPSHIP_REQ</id>
-    <value>Десантний транспорт потребує:\n   Приєднаної вежі управління</value>
+    <value>Десантний транспорт потребує:\\n   Приєднаної вежі управління</value>
   </string>
   <string>
     <id>STR_BCRUISER_REQ</id>
-    <value>Бойовий крейсер потребує:\n   Приєднаної вежі управління\n   Наукового центру з\n   фізичною лабораторією</value>
+    <value>Бойовий крейсер потребує:\\n   Приєднаної вежі управління\n   Наукового центру з фізичною лабораторією</value>
   </string>
   <string>
     <id>STR_COMSAT_REQ</id>
-    <value>Супутникова станція потребує:\n   Академії</value>
+    <value>Супутникова станція потребує:\\n   Академії</value>
   </string>
   <string>
     <id>STR_SILO_REQ</id>
-    <value>Ядерна шахта потребує:\n   Наукового центру зі\n   шпигунським модулем</value>
+    <value>Ядерна шахта потребує:\\n   Наукового центру зі шпигунським модулем</value>
   </string>
   <string>
     <id>STR_BARRACKS_REQ</id>
-    <value>Казарма потребує:\n   Командного центру</value>
+    <value>Казарма потребує:\\n   Командного центру</value>
   </string>
   <string>
     <id>STR_ACADEMY_REQ</id>
-    <value>Академія потребує:\n   Казарми</value>
+    <value>Академія потребує:\\n   Казарми</value>
   </string>
   <string>
     <id>STR_FACTORY_REQ</id>
-    <value>Завод потребує:\n   Казарми</value>
+    <value>Завод потребує:\\n   Казарми</value>
   </string>
   <string>
     <id>STR_STARPORT_REQ</id>
-    <value>Космопорт потребує:\n   Заводу</value>
+    <value>Космопорт потребує:\\n   Заводу</value>
   </string>
   <string>
     <id>STR_SCIENCE_FAC_REQ</id>
-    <value>Науковий центр потребує:\n   Космопорту</value>
+    <value>Науковий центр потребує:\\n   Космопорту</value>
   </string>
   <string>
     <id>STR_ENGINEERING_REQ</id>
-    <value>Інженерний відсік потребує:\n   Командного центру</value>
+    <value>Інженерний відсік потребує:\\n   Командного центру</value>
   </string>
   <string>
     <id>STR_ARMORY_REQ</id>
-    <value>Зброярня потребує:\n   Заводу</value>
+    <value>Зброярня потребує:\\n   Заводу</value>
   </string>
   <string>
     <id>STR_TURRET_REQ</id>
-    <value>Ракетна гармата потребує:\n   Інженерного відсіку</value>
+    <value>Ракетна гармата потребує:\\n   Інженерного відсіку</value>
   </string>
   <string>
     <id>STR_PILLBOX_REQ</id>
-    <value>Бункер потребує:\n   Казарми</value>
+    <value>Бункер потребує:\\n   Казарми</value>
   </string>
   <string>
     <id>STR_DRAGOON_REQ</id>
-    <value>Драгун потребує:\n   Кібернетичного ядра</value>
+    <value>Драгун потребує:\\n   Кібернетичного ядра</value>
   </string>
   <string>
     <id>STR_TEMPLAR_REQ</id>
-    <value>Тамплієр потребує:\n   Архіву тамплієрів</value>
+    <value>Тамплієр потребує:\\n   Архіву тамплієрів</value>
   </string>
   <string>
     <id>STR_ARBITER_REQ</id>
-    <value>Верховний суддя потребує:\n   Верховного суду</value>
+    <value>Верховний суддя потребує:\\n   Верховного суду</value>
   </string>
   <string>
     <id>STR_CARRIER_REQ</id>
-    <value>Крейсер потребує:\n   Маяка флоту</value>
+    <value>Крейсер потребує:\\n   Маяка флоту</value>
   </string>
   <string>
     <id>STR_REAVER_REQ</id>
-    <value>Мародер потребує:\n   Допоміжного модулю</value>
+    <value>Мародер потребує:\\n   Допоміжного модулю</value>
   </string>
   <string>
     <id>STR_OBSERVER_REQ</id>
-    <value>Спостерігач потребує:\n   Обсерваторії</value>
+    <value>Спостерігач потребує:\\n   Обсерваторії</value>
   </string>
   <string>
     <id>STR_GATEWAY_REQ</id>
-    <value>Брама потребує:\n   Нексусу</value>
+    <value>Брама потребує:\\n   Нексусу</value>
   </string>
   <string>
     <id>STR_FORGE_REQ</id>
-    <value>Ковальня потребує:\n   Нексусу</value>
+    <value>Ковальня потребує:\\n   Нексусу</value>
   </string>
   <string>
     <id>STR_PHOTONBATT_REQ</id>
-    <value>Фотонна гармата потребує:\n   Ковальні</value>
+    <value>Фотонна гармата потребує:\\n   Ковальні</value>
   </string>
   <string>
     <id>STR_SHIELDBATT_REQ</id>
-    <value>Батарея щитів потребує:\n   Брами</value>
+    <value>Батарея щитів потребує:\\n   Брами</value>
   </string>
   <string>
     <id>STR_CYBER_CORE_REQ</id>
-    <value>Кібернетичне ядро потребує:\n   Брами</value>
+    <value>Кібернетичне ядро потребує:\\n   Брами</value>
   </string>
   <string>
     <id>STR_ROBOTICS_REQ</id>
-    <value>Завод робототехніки потребує:\n   Кібернетичного ядра</value>
+    <value>Завод робототехніки потребує:\\n   Кібернетичного ядра</value>
   </string>
   <string>
     <id>STR_STARGATE_REQ</id>
-    <value>Зоряна брама потребує:\n   Кібернетичного ядра</value>
+    <value>Зоряна брама потребує:\\n   Кібернетичного ядра</value>
   </string>
   <string>
     <id>STR_CITADEL_REQ</id>
-    <value>Цитадель Адуна потребує:\n   Кібернетичного ядра</value>
+    <value>Цитадель Адуна потребує:\\n   Кібернетичного ядра</value>
   </string>
   <string>
     <id>STR_OBSERVATORY_REQ</id>
-    <value>Обсерваторія потребує:\n   Заводу робототехніки</value>
+    <value>Обсерваторія потребує:\\n   Заводу робототехніки</value>
   </string>
   <string>
     <id>STR_ROBOTICS_BAY_REQ</id>
-    <value>Допоміжний модуль потребує:\n   Заводу робототехніки</value>
+    <value>Допоміжний модуль потребує:\\n   Заводу робототехніки</value>
   </string>
   <string>
     <id>STR_FLEET_BEACON_REQ</id>
-    <value>Маяк флоту потребує:\n   Зоряної брами</value>
+    <value>Маяк флоту потребує:\\n   Зоряної брами</value>
   </string>
   <string>
     <id>STR_ARCHIVES_REQ</id>
-    <value>Архів тамплієрів потребує:\n   Цитаделі Адуна</value>
+    <value>Архів тамплієрів потребує:\\n   Цитаделі Адуна</value>
   </string>
   <string>
     <id>STR_TRIBUNAL_REQ</id>
-    <value>Верховний суд потребує:\n   Зоряної брами\n   Архіву тамплієрів</value>
+    <value>Верховний суд потребує:\\n   Зоряної брами\n   Архіву тамплієрів</value>
   </string>
   <string>
     <id>STR_ZERGLING_REQ</id>
-    <value>Зерґлінги потребують:\n   Початкової твані</value>
+    <value>Зерґлінги потребують:\\n   Початкової твані</value>
   </string>
   <string>
     <id>STR_HYDRALISK_REQ</id>
-    <value>Гідралиск потребує:\n   Барлогу гідралисків</value>
+    <value>Гідралиск потребує:\\n   Барлогу гідралисків</value>
   </string>
   <string>
     <id>STR_ULTRALISK_REQ</id>
-    <value>Ультралиск потребує:\n   Печери ультралисків</value>
+    <value>Ультралиск потребує:\\n   Печери ультралисків</value>
   </string>
   <string>
     <id>STR_MUTALID_REQ</id>
-    <value>Муталиск потребує:\n   Шпилю</value>
+    <value>Муталиск потребує:\\n   Шпилю</value>
   </string>
   <string>
     <id>STR_GUARDIAN_REQ</id>
-    <value>Підвид захисників потребує:\n   Вищого шпилю</value>
+    <value>Підвид захисників потребує:\\n   Вищого шпилю</value>
   </string>
   <string>
     <id>STR_QUEEN_REQ</id>
-    <value>Королева потребує:\n   Гнізда королеви</value>
+    <value>Королева потребує:\\n   Гнізда королеви</value>
   </string>
   <string>
     <id>STR_DEFILER_REQ</id>
-    <value>Осквернитель потребує:\n   Кургану осквернителів</value>
+    <value>Осквернитель потребує:\\n   Кургану осквернителів</value>
   </string>
   <string>
     <id>STR_AVENGER_REQ</id>
-    <value>Батіг потребує:\n   Шпилю</value>
+    <value>Батіг потребує:\\n   Шпилю</value>
   </string>
   <string>
     <id>STR_LAIR_REQ</id>
-    <value>Лігво потребує:\n   Початкової твані</value>
+    <value>Лігво потребує:\\n   Початкової твані</value>
   </string>
   <string>
     <id>STR_HIVE_REQ</id>
-    <value>Вулик потребує:\n   Гнізда королеви</value>
+    <value>Вулик потребує:\\n   Гнізда королеви</value>
   </string>
   <string>
     <id>STR_NYDUS_REQ</id>
-    <value>Нідус-канал потребує:\n   Вулика</value>
+    <value>Нідус-канал потребує:\\n   Вулика</value>
   </string>
   <string>
     <id>STR_HYDRA_DEN_REQ</id>
-    <value>Барліг гідралисків потребує:\n   Початкової твані</value>
+    <value>Барліг гідралисків потребує:\\n   Початкової твані</value>
   </string>
   <string>
     <id>STR_SPIRE_REQ</id>
-    <value>Шпиль потребує:\n   Лігва</value>
+    <value>Шпиль потребує:\\n   Лігва</value>
   </string>
   <string>
     <id>STR_GREATERSPIRE_REQ</id>
-    <value>Вищий шпиль потребує:\n   Вулика</value>
+    <value>Вищий шпиль потребує:\\n   Вулика</value>
   </string>
   <string>
     <id>STR_NEST_REQ</id>
-    <value>Гніздо королеви потребує:\n   Лігва</value>
+    <value>Гніздо королеви потребує:\\n   Лігва</value>
   </string>
   <string>
     <id>STR_EVO_CHAMBER_REQ</id>
-    <value>Еволюційна кімната потребує:\n   Інкубатора</value>
+    <value>Еволюційна кімната потребує:\\n   Інкубатора</value>
   </string>
   <string>
     <id>STR_ULTRA_CAVERN_REQ</id>
-    <value>Печера ультралисків потребує:\n   Вулика</value>
+    <value>Печера ультралисків потребує:\\n   Вулика</value>
   </string>
   <string>
     <id>STR_DEFILER_MOUND_REQ</id>
-    <value>Курган осквернителів потребує:\n   Вулика</value>
+    <value>Курган осквернителів потребує:\\n   Вулика</value>
   </string>
   <string>
     <id>STR_SPAWNING_REQ</id>
-    <value>Початкова твань потребує:\n   Інкубатора</value>
+    <value>Початкова твань потребує:\\n   Інкубатора</value>
   </string>
   <string>
     <id>STR_SPORE_REQ</id>
-    <value>Спорова колонія потребує:\n   Еволюційної кімнати</value>
+    <value>Спорова колонія потребує:\\n   Еволюційної кімнати</value>
   </string>
   <string>
     <id>STR_SUNKEN_REQ</id>
-    <value>Запала колонія потребує:\n   Початкової твані</value>
+    <value>Запала колонія потребує:\\n   Початкової твані</value>
   </string>
   <string>
     <id>STR_CARRIERATTACK_REQ</id>
-    <value>Атака крейсера:\n   Збудуйте перехоплювачів</value>
+    <value>Атака крейсера:\\n   Збудуйте перехоплювачів</value>
   </string>
   <string>
     <id>STR_REAVERATTACK_REQ</id>
-    <value>Атака мародера:\n   Збудуйте скарабеїв</value>
+    <value>Атака мародера:\\n   Збудуйте скарабеїв</value>
   </string>
   <string>
     <id>STR_NUKE_REQ</id>
-    <value>Ядерний удар потребує:\n   Підготовленої до запуску ядерної шахти</value>
+    <value>Ядерний удар потребує:\\n   Підготовленої до запуску ядерної шахти</value>
   </string>
   <string>
     <id>STR_NOT_IMPLEMENTED</id>
@@ -3146,7 +3152,7 @@
   </string>
   <string>
     <id>STR_PERCENT</id>
-    <value>% завершено</value>
+    <value>% Завершено</value>
   </string>
   <string>
     <id>STR_ORDER_LBL</id>
@@ -3242,11 +3248,11 @@
   </string>
   <string>
     <id>STR_MULTISELECT_HELP</id>
-    <value>ЛКМ: Обрати одиницю\nShift+ЛКМ: Скасувати вибір\nCtrl+ЛКМ: Обрати цей тип</value>
+    <value>ЛКМ: Обрати одиницю\\nShift+ЛКМ: Скасувати вибір\\nCtrl+ЛКМ: Обрати всі одиницю цього типу</value>
   </string>
   <string>
     <id>STR_SHOW_TERRAIN</id>
-    <value>Показувати терен на міні-мапі (\003Tab\001)</value>
+    <value>Показувати ландшафт на міні-мапі (\003Tab\001)</value>
   </string>
   <string>
     <id>STR_HIDE_TERRAIN</id>
@@ -3262,7 +3268,7 @@
   </string>
   <string>
     <id>STR_GAMEMENU_HELP</id>
-    <value>Головне меню (\003F10\001)</value>
+    <value>Головне меню (\\3F10\\1)</value>
   </string>
   <string>
     <id>STR_UNI_FOOD_PROVIDED</id>
@@ -3314,35 +3320,35 @@
   </string>
   <string>
     <id>STR_PARASITE_LBL</id>
-    <value>Виявлено паразита</value>
+    <value>\\7Виявлено паразита</value>
   </string>
   <string>
     <id>STR_DISABLED_LBL</id>
-    <value>Нейтралізовано</value>
+    <value>\\6Відключено</value>
   </string>
   <string>
     <id>STR_DISABLED_LBL_1</id>
-    <value>Нейтралізовано</value>
+    <value>\\6Відключено</value>
   </string>
   <string>
     <id>STR_DISABLED_LBL_2</id>
-    <value>Знеструмлено</value>
+    <value>\\6Знеструмлено</value>
   </string>
   <string>
     <id>STR_DETECTOR_LBL</id>
-    <value>\003Детектор</value>
+    <value>\\3Детектор</value>
   </string>
   <string>
     <id>STR_HALLUCINATION_LBL</id>
-    <value>\004Галюцинація</value>
+    <value>\\4Галюцинація</value>
   </string>
   <string>
     <id>STR_LB_LABEL</id>
-    <value>Одиниці</value>
+    <value>Бойові одиниці</value>
   </string>
   <string>
     <id>STR_LB_LABEL_1</id>
-    <value>Одиниці</value>
+    <value>Бойові одиниці</value>
   </string>
   <string>
     <id>STR_LB_LABEL_2</id>
@@ -3370,7 +3376,7 @@
   </string>
   <string>
     <id>STR_LB_DELTA_LABEL_3</id>
-    <value>Лишилось убивств</value>
+    <value>Лишилось убивств:</value>
   </string>
   <string>
     <id>STR_LB_DELTA_LABEL_4</id>
@@ -3378,7 +3384,7 @@
   </string>
   <string>
     <id>STR_RETURN_ERR</id>
-    <value>Неможливо виконати наказ - повертатись нікуди.</value>
+    <value>Неможливо виконати наказ...повертатись нікуди.</value>
   </string>
   <string>
     <id>STR_NEED_FOOD_ERR</id>
@@ -3510,7 +3516,7 @@
   </string>
   <string>
     <id>STR_CANT_TARGET</id>
-    <value>Хибна ціль.</value>
+    <value>Невірна ціль.</value>
   </string>
   <string>
     <id>STR_CANT_TARGET_BLDG</id>
@@ -3526,15 +3532,15 @@
   </string>
   <string>
     <id>STR_DMATRIX_ERR</id>
-    <value>Хибна ціль.</value>
+    <value>Невірна ціль.</value>
   </string>
   <string>
     <id>STR_LOCKDOWN_ERR</id>
-    <value>Ціллю мусить бути якась механізована одиниця.</value>
+    <value>Ціллю мусить бути механізована одиниця.</value>
   </string>
   <string>
     <id>STR_IRRADIATE_ERR</id>
-    <value>Хибна ціль.</value>
+    <value>Невірна ціль.</value>
   </string>
   <string>
     <id>STR_REPAIR_ERR</id>
@@ -3542,15 +3548,15 @@
   </string>
   <string>
     <id>STR_REPAIR2_ERR</id>
-    <value>Ціллю мусить бути якась терранська одиниця.</value>
+    <value>Ціллю мусить бути терранська одиниця.</value>
   </string>
   <string>
     <id>STR_PARASITE_ERR</id>
-    <value>Хибна ціль.</value>
+    <value>Невірна ціль.</value>
   </string>
   <string>
     <id>STR_BROODLING_ERR</id>
-    <value>Ціллю мусить бути якась органічна наземна одиниця.</value>
+    <value>Ціллю мусить бути органічна наземна одиниця.</value>
   </string>
   <string>
     <id>STR_MINES_ERR</id>
@@ -3562,7 +3568,7 @@
   </string>
   <string>
     <id>STR_TOO_CLOSE_ERR</id>
-    <value>Ціль перебуває занадто близько.</value>
+    <value>Ціль занадто близько.</value>
   </string>
   <string>
     <id>STR_FERRY1_ERR</id>
@@ -3594,15 +3600,15 @@
   </string>
   <string>
     <id>STR_CONSUME_ERR</id>
-    <value>Хибна ціль.</value>
+    <value>Невірна ціль.</value>
   </string>
   <string>
     <id>STR_PLAGUE_ERR</id>
-    <value>Хибна ціль.</value>
+    <value>Невірна ціль.</value>
   </string>
   <string>
     <id>STR_HALLUCINATION_ERR</id>
-    <value>Хибна ціль.</value>
+    <value>Невірна ціль.</value>
   </string>
   <string>
     <id>STR_STASISED_ERR</id>
@@ -4986,31 +4992,31 @@
   </string>
   <string>
     <id>STR_RSRCH_CURE</id>
-    <value>r\004Дослідити відновлення\n (здібність медиків) \003(R)\001</value>
+    <value>r\\004Дослідити відновлення\n (здібність медиків) </value>
   </string>
   <string>
     <id>STR_RSRCH_MYOPIA</id>
-    <value>f\004Дослідити оптичний спалах\n (здібність медиків) \003(F)\001</value>
+    <value>f\\004Дослідити оптичний спалах\n (здібність медиків)</value>
   </string>
   <string>
     <id>STR_HEAL</id>
-    <value>a\003Лікувати \003(A)\001</value>
+    <value>a\\003Лікувати</value>
   </string>
   <string>
     <id>STR_CURE</id>
-    <value>r\003Відновити \003(R)\001</value>
+    <value>r\\003Відновлення</value>
   </string>
   <string>
     <id>STR_MYOPIA</id>
-    <value>f\003Оптичний спалах \003(F)\001</value>
+    <value>f\\003Оптичний спалах </value>
   </string>
   <string>
     <id>STR_CURE_REQ</id>
-    <value>Відновлення:\n   Дослідіть у академії</value>
+    <value>Відновлення:\\n   Дослідіть у академії</value>
   </string>
   <string>
     <id>STR_MYOPIA_REQ</id>
-    <value>Оптичний спалах:\n   Дослідіть у академії</value>
+    <value>Оптичний спалах:\\n   Дослідіть у академії</value>
   </string>
   <string>
     <id>STR_LURKERASPECT</id>
@@ -5018,7 +5024,7 @@
   </string>
   <string>
     <id>STR_RSRCH_LURKERASPECT</id>
-    <value>l\004Здійснити еволюцію підвиду мисливців\n (здібність гідралисків) \003(L)\001</value>
+    <value>l\\004Здійснити еволюцію підвиду мисливців\n (здібність гідралисків) </value>
   </string>
   <string>
     <id>STR_RSRCH_LURKERASPECT_REQ</id>
@@ -5046,63 +5052,63 @@
   </string>
   <string>
     <id>STR_RSRCH_DISRUPTOR</id>
-    <value>d\004Розробити підривну сітку\n (здібність корсарів) \003(D)\001</value>
+    <value>d\\004Розробити підривну сітку\n (здібність корсарів) </value>
   </string>
   <string>
     <id>STR_RSRCH_MINDCONTROL</id>
-    <value>m\004Розробити панування над розумом\n (здібність темних архонтів) \003(M)\001</value>
+    <value>m\\004Розробити панування над розумом\n (здібність темних архонтів)</value>
   </string>
   <string>
     <id>STR_RSRCH_PSYFEEDBACK</id>
-    <value>f\004Розробити зворотний зв'язок\n (здібність темних архонтів) \003(F)\001</value>
+    <value>f\\004Розробити зворотний зв'язок\n (здібність темних архонтів)</value>
   </string>
   <string>
     <id>STR_RSRCH_PARALIZE</id>
-    <value>e\004Розробити вихор\n (здібність темних архонтів) \003(E)\001</value>
+    <value>e\\004Розробити вихор\n (здібність темних архонтів) </value>
   </string>
   <string>
     <id>STR_MAKE_P_DARCHON</id>
-    <value>r\001Перетворитися на темного архонта \003(R)\001</value>
+    <value>r\\001Перетворитися на темного архонта</value>
   </string>
   <string>
     <id>STR_DISRUPTOR</id>
-    <value>d\003Підривна сітка \003(D)\001</value>
+    <value>d\\003Підривна сітка </value>
   </string>
   <string>
     <id>STR_MINDCONTROL</id>
-    <value>c\003Панувати над розумом \003(C)\001</value>
+    <value>c\\003Панувати над розумом </value>
   </string>
   <string>
     <id>STR_PSYFEEDBACK</id>
-    <value>f\003Завдати удару зворотним зв'язком \003(F)\001</value>
+    <value>f\\003Завдати удару зворотним зв'язком </value>
   </string>
   <string>
     <id>STR_USEPARALIZE</id>
-    <value>e\003Утворити вихор \003(E)\001</value>
+    <value>e\\003Утворити вихор </value>
   </string>
   <string>
     <id>STR_DISRUPTOR_REQ</id>
-    <value>Підривна сітка:\n   Дослідіть у маяку флоту</value>
+    <value>Підривна сітка:\\n   Дослідіть у маяку флоту</value>
   </string>
   <string>
     <id>STR_MINDCONTROL_REQ</id>
-    <value>Панування над розумом:\n   Дослідіть у архіві тамплієрів</value>
+    <value>Панування над розумом:\\n   Дослідіть у архіві тамплієрів</value>
   </string>
   <string>
     <id>STR_DARCHON0_REQ</id>
-    <value>Перетворення на темного архонта:\n   Дослідіть у архіві тамплієрів</value>
+    <value>Перетворення на темного архонта:\\n   Дослідіть у архіві тамплієрів</value>
   </string>
   <string>
     <id>STR_DARCHON1_REQ</id>
-    <value>Перетворитися на темного архонта:\n   Оберіть двох чи більше тамплієрів</value>
+    <value>Перетворитися на темного архонта:\\n   Оберіть двох чи більше тамплієрів</value>
   </string>
   <string>
     <id>STR_PSYFEEDBACK_REQ</id>
-    <value>Зворотний зв'язок:\n   Брак потреб</value>
+    <value>Зворотний зв'язок:\\n   Брак потреб</value>
   </string>
   <string>
     <id>STR_PARALIZE_REQ</id>
-    <value>Вихор:\n   Розробіть у архіві тамплієрів</value>
+    <value>Вихор:\\n   Розробіть у архіві тамплієрів</value>
   </string>
   <string>
     <id>STR_MEDIC_ENERGY</id>
@@ -5130,27 +5136,27 @@
   </string>
   <string>
     <id>STR_UP_MEDIC_ENERGY</id>
-    <value>d\002Дослідити реактор Кадуцея\n (+50 до енергії медиків) \003(D)\001</value>
+    <value>d\\002Дослідити реактор Кадуцея\n (+50 од. до запасу енергії медиків) </value>
   </string>
   <string>
     <id>STR_UP_T_MISSILE_BOOST</id>
-    <value>c\002Дослідити Харонові підсилювачі\n (збільшує радіус ураження голіафових ракет) \003(C)\001</value>
+    <value>c\\002Дослідити Харонові підсилювачі\n (збільшує радіус ураження голіафових ракет) </value>
   </string>
   <string>
     <id>STR_UP_Z_ULTRA_SPEED</id>
-    <value>a\002Здійснити еволюцію анаболічного синтезу\n (збільшує швидкість руху ультралисків) \003(A)\001</value>
+    <value>a\\002Здійснити еволюцію анаболічного синтезу\n (збільшує швидкість руху ультралисків) </value>
   </string>
   <string>
     <id>STR_UP_Z_ULTRA_ARMOR</id>
-    <value>c\002Здійснити еволюцію хітинового покриття\n (покращує броню ультралисків) \003(C)\001</value>
+    <value>c\\002Здійснити еволюцію хітинового покриття\n (покращує броню ультралисків) </value>
   </string>
   <string>
     <id>STR_UP_CORSAIR_ENERGY</id>
-    <value>j\002Розробити Аргосову перлину\n (+50 до енергії корсарів) \003(J)\001</value>
+    <value>j\\002Розробити Аргосову перлину\n (+50 од. до запасу енергії корсарів) </value>
   </string>
   <string>
     <id>STR_UP_DARCHON_ENERGY</id>
-    <value>t\002Розробити Аргосів талісман\n (+50 до енергії темних архонтів) \003(T)\001</value>
+    <value>t\\002Розробити Аргосів талісман\n (+50  од. до запасу енергії темних архонтів) </value>
   </string>
   <string>
     <id>STR_UP_T_MISSILE_BOOST_REQ</id>
@@ -5158,27 +5164,27 @@
   </string>
   <string>
     <id>STR_DEVOURER_ASPECT</id>
-    <value>dПідвид пожирачів \003(D)\001</value>
+    <value>d\\005Мутувати у пожирача</value>
   </string>
   <string>
     <id>STR_MAKE_Z_LURKER</id>
-    <value>l\001Мутувати у мисливця \003(L)\001</value>
+    <value>l\\001Мутувати у мисливця </value>
   </string>
   <string>
     <id>STR_MAKE_T_MEDIC</id>
-    <value>c\001Тренувати медика \003(C)\001</value>
+    <value>c\\001Тренувати медика </value>
   </string>
   <string>
     <id>STR_MAKE_T_FRIGATE</id>
-    <value>y\001Збудувати валькірію \003(Y)\001</value>
+    <value>y\\001Збудувати валькірію </value>
   </string>
   <string>
     <id>STR_MAKE_P_CORSAIR</id>
-    <value>o\001Телепортувати корсара \003(O)\001</value>
+    <value>o\\001Телепортувати корсара </value>
   </string>
   <string>
     <id>STR_MAKE_P_DTEMPLAR</id>
-    <value>k\001Телепортувати темного тамплієра \003(K)\001</value>
+    <value>k\\001Телепортувати темного тамплієра </value>
   </string>
   <string>
     <id>STR_MEDIC_REQ</id>
@@ -5310,7 +5316,7 @@
   </string>
   <string>
     <id>STR_MINDCONTROL_ERR</id>
-    <value>Хибна ціль.</value>
+    <value>Невірна ціль.</value>
   </string>
   <string>
     <id>STR_MINDCONTROL_TARGET_ERR</id>
@@ -6170,23 +6176,27 @@
   </string>
   <string>
     <id>STR_PLAYBACK_HELP_SPEEDUP</id>
-    <value>uШвидше \003(U)\001</value>
+    <value>e\\007\\Швидше
+</value>
   </string>
   <string>
     <id>STR_PLAYBACK_HELP_PLAY</id>
-    <value>pГрати \003(P)\001</value>
+    <value>d\\007\\Грати
+</value>
   </string>
   <string>
     <id>STR_PLAYBACK_HELP_PAUSE</id>
-    <value>pПризупинити \003(P)\001</value>
+    <value>g\\007\\3П\\1ауза
+</value>
   </string>
   <string>
     <id>STR_PLAYBACK_HELP_SLOWDOWN</id>
-    <value>dПовільніше \003(D)\001</value>
+    <value>p\\007\\Повільніше
+</value>
   </string>
   <string>
     <id>STR_REPLAY_PROGRESS</id>
-    <value>Прогрес</value>
+    <value>Прогрес повтору</value>
   </string>
   <string>
     <id>STR_REPLAY_PAUSED</id>
@@ -6198,18 +6208,20 @@
   </string>
   <string>
     <id>STR_REPLAY_SEEKING</id>
-    <value></value>
+    <value>Пошук: %s
+</value>
   </string>
   <string>
     <id>STR_APM_COL_PLAYER</id>
-    <value></value>
+    <value>Гравець</value>
   </string>
   <string>
     <id>STR_APM_COL_APM</id>
-    <value></value>
+    <value>APM</value>
   </string>
   <string>
     <id>STR_APM_COL_EPM</id>
-    <value></value>
+    <value>Ефф. дій./хв.
+</value>
   </string>
 </strings>
