@@ -1,0 +1,27 @@
+</COMMENT Establishing Shot for Zerg Level 1x>
+
+</FADESPEED 100>
+</DISPLAYTIME 50000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+ZERGSKE TAZENI: KRALOVNA CEPELI
+
+Ozbrojene sily Predstavenstva spojene Zeme prevzaly kontrolu nad planetou Char a zotrocily drave zergy spolecne s Nadvedomim. Diky Psionickemu rozrusovaci, ktery rusi Kerriganinu kontrolu na zbylymi roji, pokracuje PSZ v neohrozenem dobyvani celeho sektoru.
+
+Kerriganova, hledajice jakekoli spojence, nyni planuje zniceni Psionickeho rozrusovace a preruseni kontroly PSZ nad Nadvedomim.
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 8000>
+</BACKGROUND glue\paltbx\XTerranB.pcx>
+</FONTCOLOR glue\paltbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"ZLE RUSENI"
+
+Kerriganina pevnost na planete Tarsonis
+</PAGE>

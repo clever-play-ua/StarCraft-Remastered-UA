@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 2x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpcx\XProtosC.pcx>
+</FONTCOLOR glue\palpcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"DYLARIJSKA PRISTAVISTE"
+
+Vlajkova lod PSZ Aleksander drzici orbit nad Dylarijskymi pristavisti; odlehlym obchodnim strediskem Dominia
+</PAGE>

@@ -1,0 +1,25 @@
+</COMMENT Establishing Shot for Zerg Level 9Bx -- bonus level>
+
+</FADESPEED 100>
+</DISPLAYTIME 35000>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+
+
+Ac to zni neuveritelne, Kerriganova dovolila Zeratulovi a jeho bratrum opusit planetu Char. Vycerpani a zdrceni valecnici nastavili kurz na planetu Shakuras s nadeji, ze naleznou pritele Artanise a jine, co besneni Kerriganove prezili...
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 10000>
+</BACKGROUND glue\palzcx\XZergC.pcx>
+</FONTCOLOR glue\palzcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"TEMNY PUVOD"
+
+</PAGE>

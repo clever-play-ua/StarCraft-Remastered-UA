@@ -1,0 +1,26 @@
+</COMMENT Establishing Shot for Zerg Level 1>
+
+</FADESPEED 100>
+</DISPLAYTIME 28000>
+
+</COMMENT Confusing - what are the protoss doing? #############################################################>
+</BACKGROUND glue\palza\Blank.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLEFT>
+ZERGSKA KAMPAN: NADVEDOMI
+
+Roje rozdrtili smesny lidsky odpor a zpustosily devet ze trinacti Terranskych Svetu. Kratce po padu Terranskeho Hlavniho Sveta Tarsonis, Hlavni Protosska flotila opustila Terransky Sektor. Nyni probihaji snahy o odstraneni zbylych Protosskych sil.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palza\ZergA.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"MEZI RUINAMI"
+
+Hlavni Svet Konfederace Tarsonis
+</PAGE>

@@ -1,0 +1,28 @@
+</COMMENT Establishing Shot for Terran Level 1x>
+
+</FADESPEED 100>
+</DISPLAYTIME 50000>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+TAZENI POZEMSTANU: OCELOVA PEST
+
+Jiz od doby, co zacal konflikt v Koprulu sektoru, vladnouci rada Prestavenstva spojene Zeme dukladne monitorovala tamni vrtosive kolonie pozemstanu. Vidouce stale se rozsirujici zergske zamoreni a manevry protossanu napric koloniemi, rada definitivne odsouhlasila prevzeti kontroly nad valkami zmitanym sektorem.
+
+S vedomim, ze nove zergske Nadvedomi se zahnizdilo na planete Char, poverila PSZ sveho nejslavnejsiho admirala, Gerarda DuGalla, zajmutim tohoto stvoreni. Jako kapitan PSZ pod velenim Gerarda DuGalla budete mit za ukol dobyt Dominium a sesadit tamniho diktatora, imperatora Mengska I.
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 8000>
+</BACKGROUND glue\palpbx\XProtosB.pcx>
+</FONTCOLOR glue\palpbx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"PRVNI UDER" 
+
+Vlajkova lod PSZ Aleksander, vysoky orbit nad planetou Braxis; Odlehlou drzavou Dominia
+</PAGE>

@@ -1,0 +1,13 @@
+</COMMENT epilogue for Zerg9b bonus mission>
+</FADESPEED 100>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 34000>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLEFT>
+Rozrusen hruznym vedomim o Hybridovi, vratil se Zeratul zpet do sve lodi a opustil temny mesic. Neschopen popsat spolecnikum svuj ohromujici objev, mohl se jen posadit a obavat se o budoucnost sveta...
+</PAGE>
+
+

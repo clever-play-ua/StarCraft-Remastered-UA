@@ -1,0 +1,28 @@
+</COMMENT Establishing Shot for Protoss Level 4>
+
+</FADESPEED 100>
+</DISPLAYTIME 45000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+Zergsky Ul pobliz provincie Scion byl znicen, ale Protosske sily zaplatili vysokou cenu za vitezstvi.
+
+Pretor Fenix, hrdina a udatny Templar, byl zabit pri utoku. Konklava je presvedcena, ze jeho lsti ji pomahaji vyhrat valku proti Zergum, stahla sve straze a obratila svou pozornost na osobni zalezitosti. Soudce Aldaris byl poveren nalezenim a zatcenim svehlaveho Tassadara, jeho privezenim domu a jeho postavenim pred soud za zradu.
+
+Nyni jen s malou ochrannou flotilou, Aldaris a Vykonavatel leti na lavovou planetu Char, doufajic ze tam nekde najdou Tassadara.
+</PAGE>
+
+</DISPLAYTIME 5000>
+</COMMENT #############################################################>
+</BACKGROUND glue\palpb\ProtossB.pcx>
+</FONTCOLOR glue\palpb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"LOV NA TASSADARA"
+
+Protosska Velitelska lod Gantrithor
+Orbita planety Char
+</PAGE>

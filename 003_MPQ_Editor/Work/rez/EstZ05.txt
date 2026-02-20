@@ -1,0 +1,27 @@
+</COMMENT Establishing Shot for Zerg Level 5>
+
+</FADESPEED 100>
+</DISPLAYTIME 24000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palza\Blank.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLEFT>
+Kerriganova, nejnovejsi a nejsilnejsi agent Nadvedomi, povstala ze sve zarodecne kukly, ale jeji obavana sila neni jeste plne funkcni.
+
+Kerriganova ted musi objasnit upravy Duchu, ktere drzi jeji silu pod dozorem. Pote povede oblibence Nadvedomi k plne nadvlade nad nic netusicimi Protossy.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"AMERIGO"
+
+Primarni Zergsky Ul
+Planeta Char
+</PAGE>

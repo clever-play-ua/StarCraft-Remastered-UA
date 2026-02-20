@@ -1,0 +1,24 @@
+</COMMENT Establishing Shot for Protoss Level 8>
+
+</FADESPEED 100>
+</DISPLAYTIME 20000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+Tassadar byl vzat do vazby za sve ciny proti Konklave. Fenix, Raynor a Tassadarovi nasledovnici unikli agentum Konklavy a i Temni Templari vyklouzli ve zmatku pryc.
+</PAGE>
+
+</DISPLAYTIME 5000>
+</COMMENT #############################################################>
+</BACKGROUND glue\palpc\ProtossC.pcx>
+</FONTCOLOR glue\palpc\tfont.pcx>
+	
+</SCREENLOWERLEFT>
+"TASSADARUV SOUD"
+
+Protosska velitelska lod Gantrithor
+Orbita planety Aiur
+</PAGE>

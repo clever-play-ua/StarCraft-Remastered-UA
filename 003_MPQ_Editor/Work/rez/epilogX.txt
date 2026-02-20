@@ -1,0 +1,36 @@
+</COMMENT epilogue for Starcraft Expansion>
+</FADESPEED 100>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 30000>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLEFT>
+EPILOG
+
+Kratce po DuGallove porazce byla zbyla cast flotily PSZ predstizena roji kralovny Kerriganove a vyhlazena. Zadne z plavidel PSZ se jiz nikdy na planetu Zemi nevratilo. 
+
+Se svou zmatorenou a zlomenou armadou se Arcturus Mengsk navratil zpet na Korhal, aby si olizal sve rany a naplanoval opetovnou rekonstrukci jeho Dominia...
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 30000>
+</COMMENT change background to identical background just to force fade>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+Artanis se spolecne se zbylymi prezivsimi vratil na Shakuras, aby mohl znovu obnovit protossanskou, kdysi preslavnou civilizaci...
+
+Zeratul a James Raynor se po porazce rozdelili a vydali se kazdy svou cestou. Nikdo uz o nich nikdy vice neslysel.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 35000>
+</COMMENT change background to identical background just to force fade>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+A osamela kralovna cepeli, Sarah Kerriganova, plovouci na temne platforme nad vypalenou planetou Char, jen sedi a rozkazuje svym dravym rojum. Nemohouce setrast pocit, ze hned za horizontem se rysuje straslive nebezpeci, Kerriganova jen uprene hledi do rozlehleho vesmiru, kde uzriva pouze ohromnou prazdnotu. Nebo snad pomsta falesneho vitezstvi a trapeni teprve prijde...
+</PAGE>
+

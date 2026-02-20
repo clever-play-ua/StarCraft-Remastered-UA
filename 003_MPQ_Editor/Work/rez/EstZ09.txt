@@ -1,0 +1,28 @@
+</COMMENT Establishing Shot for Zerg Level 9>
+
+</FADESPEED 100>
+</DISPLAYTIME 34000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palza\Blank.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLEFT>
+Tassadar a Temny Templar Zeratul prezili surove utoky Kerriganove, ale jejich Templarske armady byly zdecimovany. Kerriganova, byla zanechana zde aby nasla a znicila zbyvajici Protosske bojovniky.
+
+Mezitim se cele obrovske roje Zergu teleportovali casoprostorem a zapocali dlouho ocekavanou invazi na nenavideny domovsky svet Protossu Aiur.
+
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzc\ZergC.pcx>
+</FONTCOLOR glue\palzc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"INVAZE NA AIUR"
+
+Zergsky Roj
+Vysoka Orbita
+Protossky domovsky svet Aiur
+</PAGE>

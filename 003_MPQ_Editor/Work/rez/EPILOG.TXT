@@ -1,0 +1,25 @@
+</COMMENT epilogue for Starcraft>
+</FADESPEED 100>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 25000>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLEFT>
+EPILOGUE
+
+Jak chaoticke, virive energie klesly, velke ticho zavladlo na bojistich Aiuru. Diky Tassadarovu slechetnemu obetovani, je Nadvedomi nyni mrtve a Zergske Roje jsou rozdrceny a rozbity. Ale jak hrdinove zkoumali svou kdysi slavnou domovinu, zjistovali ze vitezstvi je stalo vsechno mimo jejich zivotu. Na Aiuru nezbylo uz nic nez kourici trosky. Tech par Protossu co prezilo posledni bitvu mohlo jen doufat o budoucnosti sve rasy.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 15000>
+</COMMENT change background to identical background just to force fade>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+A daleko na odlehle planete Char, Kerriganova samozvana Kralovna Cepeli vedela ze cas jejiho vitezstvi byl na dosah ruky.
+</PAGE>
+
+
+

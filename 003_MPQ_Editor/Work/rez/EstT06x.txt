@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 6x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpcx\xProtosC.pcx>
+</FONTCOLOR glue\palpcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"IMPERATORUV UTEK"
+
+Vlajkova lod PSZ Aleksander na ceste k planete Aiur
+</PAGE>

@@ -1,0 +1,25 @@
+</COMMENT Establishing Shot for Protoss Level 1x>
+
+</FADESPEED 100>
+</DISPLAYTIME 25000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+PROTOSSANSKE TAZENI: ODPOR
+
+Zlocinne Nadvedomi zergu bylo zniceno a protossanska domovina Aiur nyni lezi v doutnajicich ruinach. Jako exekutor zbylych protossanskych vojsk se nyni musite pokusit znovu sjednotit vas suzovany lid a ochranit jej pred dravymi zergy, kteri se i nadale zbesile potuluji po potemnelem Aiuru.
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 8000>
+</BACKGROUND glue\palpa\ProtossA.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"UTEK Z AIURU"
+
+Izolovana protossanska baze na planete Aiur
+</PAGE>

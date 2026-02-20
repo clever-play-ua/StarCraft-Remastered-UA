@@ -1,0 +1,31 @@
+</COMMENT Establishing Shot for Terran Level 1>
+
+</FADESPEED 100>
+</DISPLAYTIME 35000>
+</COMMENT #############################################################>
+</BACKGROUND glue\palta\Blank.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLEFT>
+TERRANSKA KAMPAN: KRIK POVSTALCU
+
+V desetileti po konci Valek Cechu, despoticka Terranska Konfederace stala nenapadnutelne ve sve autorite nad kolonizovanym vesmirem.
+
+To vse se zmenilo pred ctyrmi dny, kdyz se obrovska vetrelecka flotila vynorila z Hyper-Prostoru a zpustosila nic netusici kolonii Chau Sara.
+
+Konfederace ze strachu, ze dalsim cilem vetrelecke flotily bude kolonie Mar Sara, te vyslala, abys zakrocil. Jako kolonialni Spravce musis chranit kolonisty a udrzovat je tak, aby nepanikarili.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 6000>
+</BACKGROUND glue\palta\TerranA.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLOWERLEFT>
+"VYCVIKOVY TABOR"
+
+Kancelar Kolonialniho Spravce
+Kolonie Mar Sara
+2:25 SCT, 12.12.2499
+</PAGE>
