@@ -213,7 +213,7 @@
     </string>
     <string>
         <id>gluMain-9</id>
-        <value>a\\4А\\втори</value>
+        <value>a\\4А\\1втори</value>
     </string>
     <string>
         <id>gluMain-18</id>
@@ -1013,7 +1013,7 @@
     </string>
     <string>
         <id>gluLoad-4</id>
-        <value>d\\4В\\идалити</value>
+        <value>d\\4В\\1идалити</value>
     </string>
     <string>
         <id>gluLogin-1</id>
@@ -1029,7 +1029,7 @@
     </string>
     <string>
         <id>gluLogin-4</id>
-        <value>d\\4В\\идалити</value>
+        <value>d\\4В\\1идалити</value>
     </string>
     <string>
         <id>gluLogin-5</id>
@@ -1497,7 +1497,7 @@
     </string>
     <string>
         <id>savegame-1</id>
-        <value>s\\Зберегт\\4и\\1</value>
+        <value>sЗберегт\\4и\\1</value>
     </string>
     <string>
         <id>savegame-2</id>
