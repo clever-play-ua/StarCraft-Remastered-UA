@@ -213,7 +213,7 @@
     </string>
     <string>
         <id>gluMain-9</id>
-        <value>Автори</value>
+        <value>a\\4А\\втори</value>
     </string>
     <string>
         <id>gluMain-18</id>
@@ -757,7 +757,7 @@
     </string>
     <string>
         <id>abrtmenu-2</id>
-        <value>Переграти наново</value>
+        <value>g\\4\\1Переграти наново</value>
     </string>
     <string>
         <id>abrtmenu-3</id>
@@ -801,7 +801,7 @@
     </string>
     <string>
         <id>gamemenu-2</id>
-        <value>Зберегти гру</value>
+        <value>p\\4З\\1берегти гру</value>
     </string>
     <string>
         <id>gamemenu-3</id>
@@ -929,7 +929,7 @@
     </string>
     <string>
         <id>gluExpCmpgn-2</id>
-        <value>Завантажити повтор</value>
+        <value>tЗавантажити повтор</value>
     </string>
     <string>
         <id>gluExpCmpgn-3</id>
@@ -1013,7 +1013,7 @@
     </string>
     <string>
         <id>gluLoad-4</id>
-        <value>Видалити</value>
+        <value>d\\4В\\идалити</value>
     </string>
     <string>
         <id>gluLogin-1</id>
@@ -1029,7 +1029,7 @@
     </string>
     <string>
         <id>gluLogin-4</id>
-        <value>Видалити</value>
+        <value>d\\4В\\идалити</value>
     </string>
     <string>
         <id>gluLogin-5</id>
@@ -1049,7 +1049,7 @@
     </string>
     <string>
         <id>gluMain-4</id>
-        <value>Мультиплєєр</value>
+        <value>mМул\\4ь\\1типлєєр</value>
     </string>
     <string>
         <id>gluMain-5</id>
@@ -1149,7 +1149,7 @@
     </string>
     <string>
         <id>gluRdyP-1</id>
-        <value>Почати</value>
+        <value>g\\4П\\1очати</value>
     </string>
     <string>
         <id>gluRdyP-2</id>
@@ -1581,7 +1581,7 @@
     </string>
     <string>
         <id>stat_f10-1</id>
-        <value>\\121МЕНЮ</value>
+        <value>\\1МЕНЮ</value>
     </string>
     <string>
         <id>teamfltr-1</id>
@@ -2481,7 +2481,7 @@
     </string>
     <string>
         <id>objctdlg-3</id>
-        <value>Цілі місії</value>
+        <value>Цілі завдання</value>
     </string>
     <string>
         <id>ptextbox-1</id>
