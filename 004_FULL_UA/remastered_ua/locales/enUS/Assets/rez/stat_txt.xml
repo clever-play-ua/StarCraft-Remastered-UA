@@ -425,7 +425,7 @@
   <string>
     <id>FIRST_UNIT_STRING_105</id>
     <value>
-      Поле переривання\\000*\\000Протоси</value>
+      Поле переривання\\000*\\000Протосси</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_106</id>
@@ -585,7 +585,7 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_145</id>
-    <value>Невикористовувана споруда зергів\\000*\\000Зерги</value>
+    <value>Невикористовувана споруда зерґів\\000*\\000Зерґи</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_146</id>
@@ -617,7 +617,7 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_153</id>
-    <value>Невикористовувана споруда зергів 5\\000*\\000Зерги</value>
+    <value>Невикористовувана споруда зерґів 5\\000*\\000Зерґи</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_154</id>
