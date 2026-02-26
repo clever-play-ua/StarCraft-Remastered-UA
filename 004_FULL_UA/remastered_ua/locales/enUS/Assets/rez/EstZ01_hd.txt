@@ -1,0 +1,40 @@
+</COMMENT Establishing Shot for Zerg Level 1>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+КАМПАНІЯ ЗЕРҐІВ: НАДРОЗУМУМ
+
+Рій зерґів розтрощив війська терранів і спустошив 9 із 13 терранських планет.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Невдовзі після падіння Тарсоніса, головної планети терранів, основні сили флотилії протоссів покинули сектор.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG1030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_ZG1030.wav>
+</TEXTBOX>
+Тепер залишилося лише остаточно очистити Тарсоніс від присутності протоссів.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG1035.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palza\ZergA.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ПОСЕРЕД РУЇН
+
+Тарсоніс, головна планета Конфедерації
+</PAGE>

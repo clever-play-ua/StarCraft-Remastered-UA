@@ -1,0 +1,40 @@
+</COMMENT Establishing Shot for Zerg Level 9>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG4010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Тассадар і темний тамплієр Зератул вижили в битвах із Керріґан, але їхні армії зазнали колосальних втрат.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG4020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Королева Лез продовжила полювання на тих протоссів, що залишилися серед тліючих пустошів Чара.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG4030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+А тим часом Рій зерґів, що розрісся здійснив просторово-часове переміщення і розпочав завоювання планети Аїур, батьківщини протоссів.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG4035.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzc\ZergC.pcx>
+</FONTCOLOR glue\palzc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ВТОРГНЕННЯ НА АЇУР
+
+Рій зерґів
+Висока орбіта планети Аїур,
+батьківщини протоссів
+</PAGE>

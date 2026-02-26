@@ -1,0 +1,26 @@
+</COMMENT Establishing Shot for Zerg Level 1>
+
+</FADESPEED 100>
+</DISPLAYTIME 28000>
+
+</COMMENT Confusing - what are the protoss doing? #############################################################>
+</BACKGROUND glue\palza\Blank.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLEFT>
+КАМПАНІЯ ЗЕРҐІВ: НАДРОЗУМ
+
+Рій зерґів розтрощив війська терранів і спустошив 9 із 13 терранських планет. Невдовзі після падіння Тарсоніса, головної планети терранів, основні сили флотилії протоссів покинули сектор. Тепер залишилося лише остаточно очистити Тарсоніс від присутності протоссів.
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palza\ZergA.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ПОСЕРЕД РУЇН
+
+Тарсоніс, головна планета Конфедерації
+</PAGE>

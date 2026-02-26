@@ -1,0 +1,34 @@
+</COMMENT Establishing Shot for Zerg Level 3>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG2010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Після остаточного розгрому протоссів
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG2020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_ZG2020.wav>
+</TEXTBOX>
+Надрозум спрямував Рій на віддалену випалену планету Чар.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG2025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+НОВИЙ ДОМІНІОН
+
+Головний вулик
+Планета Чар
+</PAGE>

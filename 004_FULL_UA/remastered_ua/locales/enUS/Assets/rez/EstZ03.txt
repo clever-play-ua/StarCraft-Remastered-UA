@@ -1,0 +1,24 @@
+</COMMENT Establishing Shot for Zerg Level 3>
+
+</FADESPEED 100>
+</DISPLAYTIME 11000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palza\Blank.pcx>
+</FONTCOLOR glue\palza\tfont.pcx>
+
+</SCREENLEFT>
+Після остаточного розгрому протоссів Надрозум спрямував Рій на віддалену випалену планету Чар.
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+НОВИЙ ДОМІНІОН
+
+Головний вулик
+Планета Чар
+</PAGE>

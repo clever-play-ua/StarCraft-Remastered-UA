@@ -1,0 +1,34 @@
+</COMMENT Establishing Shot for Protoss Level 1>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT1010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+КАМПАНІЯ ПРОТОССІВ: КАТАСТРОФА
+
+Надрозум зерґів завоював батьківщину протоссів, Аїюр, і осівся на поверхні планети.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT1020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_PT1020.wav>
+</TEXTBOX>
+Поки прислужники підступного Надрозуму сіють хаос і руйнування по всьому Аїюру, стійкі протосси готуються до бійні, що на них чекає.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\PT1025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe_End2.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palpa\ProtossA.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ПЕРШИЙ УДАР
+
+Цитадель нового виконавця протоссів
+Через два дні після вторгнення зерґів
+</PAGE>

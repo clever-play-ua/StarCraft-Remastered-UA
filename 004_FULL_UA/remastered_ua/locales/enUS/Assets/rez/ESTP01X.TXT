@@ -1,0 +1,25 @@
+</COMMENT Establishing Shot for Protoss Level 1x>
+
+</FADESPEED 100>
+</DISPLAYTIME 25000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+КАМПАНІЯ ПРОТОССІВ: ПРОТИСТОЯННЯ
+
+Надрозум зерґів було знищено, але Аїюр, рідна планета протоссів, тепер лежить у руїнах. Як виконавець, ви маєте знову згуртувати зламаний народ і вберегти його від безжальних зерґів, які досі рищуть випаленими просторами Аїюр.
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 8000>
+</BACKGROUND glue\palpa\ProtossA.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ВТЕЧА З АЇЮР
+
+Табір протоссів на планеті Аїюр
+</PAGE>

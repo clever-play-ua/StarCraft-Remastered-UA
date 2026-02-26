@@ -1,0 +1,350 @@
+<strings>
+    <string>
+        <id>histTERRAN_0</id>
+        <value>Тренувальний табір</value>
+    </string>
+    <string>
+        <id>histTERRAN_1</id>
+        <value>1. Пустище</value>
+    </string>
+    <string>
+        <id>histTERRAN_2</id>
+        <value>2. Заточна станція</value>
+    </string>
+    <string>
+        <id>histTERRAN_3</id>
+        <value>3. Відчайдушний альянс</value>
+    </string>
+    <string>
+        <id>histTERRAN_4</id>
+        <value>4. Станція «Джейкобс»</value>
+    </string>
+    <string>
+        <id>histTERRAN_5</id>
+        <value>5. Революція</value>
+    </string>
+    <string>
+        <id>histTERRAN_6</id>
+        <value>6. «Норад II»</value>
+    </string>
+    <string>
+        <id>histTERRAN_7</id>
+        <value>7. Козир у рукаві</value>
+    </string>
+    <string>
+        <id>histTERRAN_8</id>
+        <value>8. Великий поштовх</value>
+    </string>
+    <string>
+        <id>histTERRAN_9</id>
+        <value>9. Новий Геттісберг</value>
+    </string>
+    <string>
+        <id>histTERRAN_10</id>
+        <value>10. Падіння молоту</value>
+    </string>
+    <string>
+        <id>histTFLIC_1</id>
+        <value>Відеоролик «Патруль пустищ»</value>
+    </string>
+    <string>
+        <id>histTFLIC_2</id>
+        <value>Відеоролик Падіння \"Норада II\"»</value>
+    </string>
+    <string>
+        <id>histTFLIC_3</id>
+        <value>Відеоролик «Відкрите повстання»</value>
+    </string>
+    <string>
+        <id>histTFLIC_4</id>
+        <value>Відеоролик «Інавгурація»</value>
+    </string>
+    <string>
+        <id>histTFLIC_5</id>
+        <value>Терранський ролик №5</value>
+    </string>
+    <string>
+        <id>histPROTOSS_1</id>
+        <value>1. Перший удар</value>
+    </string>
+    <string>
+        <id>histPROTOSS_2</id>
+        <value>2. У вир полум'я</value>
+    </string>
+    <string>
+        <id>histPROTOSS_3</id>
+        <value>3. Стратегічна висота</value>
+    </string>
+    <string>
+        <id>histPROTOSS_4</id>
+        <value>4. Полювання на Тассадара</value>
+    </string>
+    <string>
+        <id>histPROTOSS_5</id>
+        <value>5. Важкий вибір</value>
+    </string>
+    <string>
+        <id>histPROTOSS_6</id>
+        <value>6. У пітьму</value>
+    </string>
+    <string>
+        <id>histPROTOSS_7</id>
+        <value>7. Батьківщина</value>
+    </string>
+    <string>
+        <id>histPROTOSS_8</id>
+        <value>8. Суд над Тассадаром</value>
+    </string>
+    <string>
+        <id>histPROTOSS_9</id>
+        <value>9. Мисливці на тіней</value>
+    </string>
+    <string>
+        <id>histPROTOSS_10</id>
+        <value>10. Око циклону</value>
+    </string>
+    <string>
+        <id>histPFLIC_1</id>
+        <value>Видеоролик «Загибель Фенікса»</value>
+    </string>
+    <string>
+        <id>histPFLIC_2</id>
+        <value>Видеоролик Засідка</value>
+    </string>
+    <string>
+        <id>histPFLIC_3</id>
+        <value>Видеоролик «Повернення на Аїур»</value>
+    </string>
+    <string>
+        <id>histPFLIC_4</id>
+        <value>Видеоролик «Смерть Надрозуму»</value>
+    </string>
+    <string>
+        <id>histPFLIC_5</id>
+        <value>Протосський ролик №5</value>
+    </string>
+    <string>
+        <id>histZERG_1</id>
+        <value>1. Посеред руїн</value>
+    </string>
+    <string>
+        <id>histZERG_2</id>
+        <value>2. Егресія</value>
+    </string>
+    <string>
+        <id>histZERG_3</id>
+        <value>3. Новий Домініон</value>
+    </string>
+    <string>
+        <id>histZERG_4</id>
+        <value>4. Агент рою</value>
+    </string>
+    <string>
+        <id>histZERG_5</id>
+        <value>5. Амеріґо</value>
+    </string>
+    <string>
+        <id>histZERG_6</id>
+        <value>6. Темний тамплієр</value>
+    </string>
+    <string>
+        <id>histZERG_7</id>
+        <value>7. Очищення</value>
+    </string>
+    <string>
+        <id>histZERG_8</id>
+        <value>8. Око за око</value>
+    </string>
+    <string>
+        <id>histZERG_9</id>
+        <value>9. Вторгнення на Аїур</value>
+    </string>
+    <string>
+        <id>histZERG_10</id>
+        <value>10. Заключний акт</value>
+    </string>
+    <string>
+        <id>histZFLIC_1</id>
+        <value>Відеоролик Сон</value>
+    </string>
+    <string>
+        <id>histZFLIC_2</id>
+        <value>Відеоролик «Битва на \"Амеріґо\"»</value>
+    </string>
+    <string>
+        <id>histZFLIC_3</id>
+        <value>Відеоролик «Стрибок»</value>
+    </string>
+    <string>
+        <id>histZFLIC_4</id>
+        <value>Відеоролик «Вторгнення на Аїур»</value>
+    </string>
+    <string>
+        <id>histZFLIC_5</id>
+        <value>Зерґовий ролик №5</value>
+    </string>
+    <string>
+        <id>histTERRAN_ED0</id>
+        <value>Tutorial: Boot Camp</value>
+    </string>
+    <string>
+        <id>histTERRAN_ED1</id>
+        <value>1. Strongarm</value>
+    </string>
+    <string>
+        <id>histTERRAN_ED2</id>
+        <value>2. Den of the Beast</value>
+    </string>
+    <string>
+        <id>histTERRAN_ED3</id>
+        <value>3. Extermination</value>
+    </string>
+    <string>
+        <id>histTERRAN_SW0</id>
+        <value>Tutorial: Boot Camp</value>
+    </string>
+    <string>
+        <id>histTERRAN_SW1</id>
+        <value>1. Strongarm</value>
+    </string>
+    <string>
+        <id>histTERRAN_SW2</id>
+        <value>2. The Gauntlet</value>
+    </string>
+    <string>
+        <id>histTERRAN_SW3</id>
+        <value>3. Den of the Beast</value>
+    </string>
+    <string>
+        <id>histTERRAN_SW4</id>
+        <value>4. Force of Arms</value>
+    </string>
+    <string>
+        <id>histTERRAN_SW5</id>
+        <value>5. Extermination</value>
+    </string>
+    <string>
+        <id>histEXPPROTOSS_1</id>
+        <value>1. Втеча з Аїур</value>
+    </string>
+    <string>
+        <id>histEXPPROTOSS_2</id>
+        <value>2. Дюни Шакураса</value>
+    </string>
+    <string>
+        <id>histEXPPROTOSS_3</id>
+        <value>3. Спадок Зел'Наґа</value>
+    </string>
+    <string>
+        <id>histEXPPROTOSS_4</id>
+        <value>4. У пошуках Уража</value>
+    </string>
+    <string>
+        <id>histEXPPROTOSS_5</id>
+        <value>5. Битва за Браксис</value>
+    </string>
+    <string>
+        <id>histEXPPROTOSS_6</id>
+        <value>6. Повернення на Чар</value>
+    </string>
+    <string>
+        <id>histEXPPROTOSS_7</id>
+        <value>7. Заколотник</value>
+    </string>
+    <string>
+        <id>histEXPPROTOSS_8</id>
+        <value>8. Відлік</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_1</id>
+        <value>1. Перший удар</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_2</id>
+        <value>2. Дайлеріанські корабельні</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_3</id>
+        <value>3. Руїни Тарсоніса</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_4</id>
+        <value>4. Напад на Коргал</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_5a</id>
+        <value>5a. Падіння імператора (Епіцентр)</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_5b</id>
+        <value>5b. Падіння імператора (Хижі птахи)</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_6</id>
+        <value>6. Втеча імператора</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_7</id>
+        <value>7. Кров патріота</value>
+    </string>
+    <string>
+        <id>histEXPTERRAN_8</id>
+        <value>8. Тамування звіра</value>
+    </string>
+    <string>
+        <id>histEXPZERG_1</id>
+        <value>1. Ниций саботаж</value>
+    </string>
+    <string>
+        <id>histEXPZERG_2</id>
+        <value>2. Влада вогню</value>
+    </string>
+    <string>
+        <id>histEXPZERG_3</id>
+        <value>3. Кел-Моріанський Альянс</value>
+    </string>
+    <string>
+        <id>histEXPZERG_4</id>
+        <value>4. Звільнення Коргала</value>
+    </string>
+    <string>
+        <id>histEXPZERG_5</id>
+        <value>5. Справжня відданість</value>
+    </string>
+    <string>
+        <id>histEXPZERG_6</id>
+        <value>6. Гнів рою</value>
+    </string>
+    <string>
+        <id>histEXPZERG_7</id>
+        <value>7. Плетіння павутиння</value>
+    </string>
+    <string>
+        <id>histEXPZERG_8</id>
+        <value>8. Убивство звіра</value>
+    </string>
+    <string>
+        <id>histEXPZERG_9</id>
+        <value>9. Помста</value>
+    </string>
+    <string>
+        <id>histEXPZERG_B</id>
+        <value>9a. Темне походження</value>
+    </string>
+    <string>
+        <id>histEXPZERG_10</id>
+        <value>10. «Омега»</value>
+    </string>
+    <string>
+        <id>histEXPZFLIC_1</id>
+        <value>Відеоролик Вознесіння</value>
+    </string>
+    <string>
+        <id>histEXPPFLIC_1</id>
+        <value>Відеоролик «Лють Зел'Наґа»</value>
+    </string>
+    <string>
+        <id>histEXPTFLIC_1</id>
+        <value>Відеоролик «Переможний звіт ОЗД»</value>
+    </string>
+</strings>

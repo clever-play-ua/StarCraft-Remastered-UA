@@ -1,0 +1,50 @@
+</COMMENT epilogue for Starcraft Expansion>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6010.webm>
+</SOUND interstitials\sounds\scHD_Interstitial_Terran_Swipe.wav>
+</TEXTBOX>
+ЕПІЛОГ
+
+Незабаром після розгрому ДюҐалля рій Керріґан наздогнав і знищив залишки флоту ОЗД. Жоден корабель так і не повернувся на Землю, щоб доповісти про те, що сталося.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR6020.wav>
+</TEXTBOX>
+Арктур Менгск повернувся зі своїм розбитим флотом на Коргал, щоб оговтатися від поразки та зайнятися відновленням Домініону терранів...
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Combo_TR6030.wav>
+</TEXTBOX>
+Артаніс і протосси, що вижили, повернулися на Шакурас у надії відродити свою колись славетну цивілізацію...
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6040.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+Дороги Зератула і Джеймса Рейнора розійшлися, і відтоді ніхто про них не чув.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6050.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Combo_TR6050.wav>
+</TEXTBOX>
+А Сара Керріґан, Королева Лез, стала безроздільною володаркою полчищ ненаситних зерґів. Самотньо сидячи над випаленою планетою Чар, вона задумливо вдивлялася в безкрайній зоряний океан і наче бачила в ньому велику порожнечу,
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR6060.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+ провісника прийдешньої біди... відблиск примарної перемоги і тих випробувань, через які їй ще тільки належало пройти.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\TR6065.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+</PAGE>

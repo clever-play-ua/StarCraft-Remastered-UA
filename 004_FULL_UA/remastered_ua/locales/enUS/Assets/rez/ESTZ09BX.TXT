@@ -1,0 +1,25 @@
+</COMMENT Establishing Shot for Zerg Level 9Bx -- bonus level>
+
+</FADESPEED 100>
+</DISPLAYTIME 35000>
+
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpa\Blank.pcx>
+</FONTCOLOR glue\palpa\tfont.pcx>
+
+</SCREENLEFT>
+
+
+На загальний подив, Керріґан стримала своє слово і дозволила Зератулу та його побратимам покинути Чар живими. Змучені й втомлені протосси вирушили на Шакурас у надії знайти там свого бойового товариша Артаніса і тих, кому вдалося піти живими від Керріґан...
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 10000>
+</BACKGROUND glue\palzcx\XZergC.pcx>
+</FONTCOLOR glue\palzcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ТЕМНЕ ПОХОДЖЕННЯ
+
+</PAGE>

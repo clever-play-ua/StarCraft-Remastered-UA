@@ -1,0 +1,34 @@
+</COMMENT Establishing Shot for Terran Level 9>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR3010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR3010.wav>
+</TEXTBOX>
+Зерґи, яких привабив сигнал псі-випромінювача, обрушилися на нічого не підозрюючі сили Конфедерації і повністю їх знищили..
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR3020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR3020.wav>
+</TEXTBOX>
+Після цього знову з'явилася флотилія протоссів під командуванням вищого тамплієра Тассадара і спопелила планету.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\TR3025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_TR3025.wav>
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\paltc\TerranC.pcx>
+</FONTCOLOR glue\paltc\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ВЕЛИКИЙ ПОШТОВХ
+
+Флагман «Гіперіон»
+Периферійна орбіта Тарсоніса,
+головної планети Конфедерації
+</PAGE>
