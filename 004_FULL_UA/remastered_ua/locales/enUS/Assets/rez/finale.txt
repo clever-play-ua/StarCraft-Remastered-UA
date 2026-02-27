@@ -1,0 +1,42 @@
+########################################
+# string data file for warcraft 2 finales
+#
+# USA version
+#
+# created 10.3.95
+########################################
+########################################
+########################################
+STR_HUMAN_FINALE,				Над Черными топями наконец-то воцарилась тишина, и только обугленные остатки проклятого портала стоят как зловещее напоминание о зле, что когда-то гнездилось здесь. После долгой и яростной битвы поле боя осталось за вами. Некогда могучие орды орков потерпели сокрушительное поражение. Немногие уцелевшие в этой войне орки ушли на северо-восток, надеясь, что там ваше возмездие их не настигнет. Вы и не собираетесь преследовать их, зная, что Орда уже никогда не вернет себе былую силу, и земли Азерота отныне и навеки будут принадлежать его родным детям.
+STR_ORC_FINALE,				В сумеречное небо поднимается дым погребальных костров у разрушенной столицы Лордерона. Оргрим Молот Рока, вождь Орочьих Орд, высоко оценил ваши успехи и удостоил вас титулом полководца, дающим право власти над своим собственным кланом. Альянс наконец-то повержен; немногие его уцелевшие в последней битве воины казнены и сожжены, как того требуют традиции орков. Наконец-то Азерот и все его земли принадлежат могучей силе, которую все ее противники знают как Орду!
+#STR_HUMAN_VETERAN_FINALE,	As the sun rises on a new day, golden \
+#light falls across the ruined spires of Stormwind Keep.  Many hundreds \
+#of Men, Elves and Dwarves have come in pilgrimage to pay homage to \
+#their comrades who fell in battle against the Horde.  The sight of \
+#the devastated castle calls to mind the terrible losses your forces \
+#suffered during the War... yet you remember the glories as well.\n\n\
+#As you face the masses who have gathered here this day, your voice \
+#carries out across the glade.  "Let the ruins of Stormwind stand as \
+#a reminder so that we never break the unity of this Alliance, and that \
+#we shall stand ever-vigilant against the darkness that has brought \
+#us together!"\n\n\
+#Thunderous cries of support erupt from those assembled as all eyes \
+#turn to the tattered flag of Azeroth that has been raised atop highest \
+#spire of Stormwind Keep.
+#
+#
+#STR_ORC_VETERAN_FINALE,		Long after the clash of steel and the \
+#thunder of mighty war cries have faded, the hunger still burns within \
+#your warrior's heart.  The Alliance is broken, and its fall has left \
+#a disquieting lull in the ravaging dance of the Horde.  The clans have \
+#begun to bicker and feud amongst themselves over the jurisdiction of the \
+#Alliance's lands.\n\n\
+#Even the Doomhammer has let down his guard, lavishing himself with the \
+#treasures of his victory.  You however know that only in battle, bathed \
+#in the blood of your enemies can the warrior's heart ever be contented.  \
+#You reach for your battle-axe, and call your troops to arms...\n\n\
+#As your forces clash with the Blackrock clan in a battle for the title \
+#of War Chief, you lock gazes with the Doomhammer from across the \
+#battlefield.  He raises his warhammer in salute and leaps from his mount \
+#into the fray.  You scream to the impartial skies above and join in the \
+#battle as well, knowing that this will be a good death.  

@@ -1,0 +1,35 @@
+</COMMENT epilogue for Starcraft>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT4010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe.wav>
+</TEXTBOX>
+ЕПІЛОГ
+
+Коли хаотичні збурення енергії вщухли, над полями битв по всьому Аїюр нависла гнітюча тиша. Завдяки героїчній жертві Тассадара Надрозум був повержений, а зграї зерґів — зламані й дезорганізовані. 
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT4020.webm>
+</TEXTBOX>
+Однак перемога далася дорогою ціною — колись величний Аїюр перетворився на палаючі руїни. Тим, хто вижив у фінальній битві, залишалося лише гадати, яке майбутнє чекає на протоссів.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT4030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Combo_PT4030.wav>
+</TEXTBOX>
+А тим часом на далекій планеті Чар Керріґан, яка назвала себе Королевою Лез, 
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\PT4040.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_PT4040.wav>
+</TEXTBOX>
+чекала, коли настане її час.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\PT4045.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Protoss_Swipe_End2.wav>
+</PAGE>

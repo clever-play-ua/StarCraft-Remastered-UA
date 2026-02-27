@@ -1,0 +1,43 @@
+</COMMENT Establishing Shot for Terran Level 1>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR1010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_1010.wav>
+</TEXTBOX>
+КАМПАНІЯ ТЕРРАНІВ: ПОВСТАННЯ
+
+Після закінчення війни з шахтарськими гільдіями Конфедерація терранів десять років повністю контролювала колонізовану частину космосу.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR1020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_1020.wav>
+</TEXTBOX>
+Однак чотири дні тому з гіперпростору з'явилася флотилія кораблів прибульців і знищила колонію Конфедерації на Чау Сара.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\TR1030.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Terran_1030.wav>
+</TEXTBOX>
+Побоюючись, що наступною ціллю прибульців може стати Мар Сара, Конфедерація доручила вам втрутитися в ситуацію. Як магістрат, ви маєте забезпечити безпеку колоністів і не допустити паніки серед населення.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\TR1035.webm>
+</SOUND interstitials\sounds\scHD_Interstitial_Terran_Out.wav>
+</PAGE>
+
+
+</COMMENT #############################################################>
+</DISPLAYTIME 6000>
+</BACKGROUND glue\palta\TerranA.pcx>
+</FONTCOLOR glue\palta\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ТРЕНУВАЛЬНИЙ ТАБІР
+
+Штаб магістрата
+Колонія на Мар Сара
+2:25 за часом сектора Копрулу, 12.12.2499 р.
+</PAGE>

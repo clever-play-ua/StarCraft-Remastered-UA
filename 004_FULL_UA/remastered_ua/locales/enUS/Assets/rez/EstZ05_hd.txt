@@ -1,0 +1,32 @@
+</COMMENT Establishing Shot for Zerg Level 5>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG3010.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Керріґан, новоявлена й наймогутніша служниця Надрозуму, нарешті покинула лялечку, але їй усе ще потрібен час, щоб повністю розкрити свій потенціал.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEO interstitials\ZG3020.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
+</TEXTBOX>
+Тепер вона має докладніше дізнатися про програму підготовки привидів, яка не дозволяє їй пробудити всі свої приховані можливості. Коли їй це вдасться, Керріґан обрушить гнів Рою на нічого не підозрюючих протоссів.
+</PAGE>
+
+</DISPLAYTIME 0>
+</VIDEOAUTOPROCEED interstitials\ZG3025.webm>
+</SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe_End.wav>
+</PAGE>
+
+</COMMENT #############################################################>
+</DISPLAYTIME 5000>
+</BACKGROUND glue\palzb\ZergB.pcx>
+</FONTCOLOR glue\palzb\tfont.pcx>
+
+</SCREENLOWERLEFT>
+«АМЕРІҐО»
+
+Головний вулик
+Планета Чар
+</PAGE>

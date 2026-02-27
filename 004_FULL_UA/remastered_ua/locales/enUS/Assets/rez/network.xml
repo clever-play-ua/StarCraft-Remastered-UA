@@ -1,0 +1,690 @@
+<strings>
+ <string>
+    <id>strVOICE_NOT_SETUP</id>
+    <value>Необхідно налаштувати систему до зміни налаштувань голосового чату. Закрийте додаток StarCraft і запустіть утиліту голосового налаштування &quot;STARVOX.exe&quot;.</value>
+  </string>
+  <string>
+    <id>strVOICE_MULTI_ONLY</id>
+    <value>Налаштування голосового чату можна змінити тільки в режимі мережевої гри.</value>
+  </string>
+  <string>
+    <id>strVOICE_NODIRECTSOUND</id>
+    <value>На вашому комп'ютері не встановлено DirectSound. Запустіть програму його встановлення DirectX, що постачається разом зі StarCraft.</value>
+  </string>
+  <string>
+    <id>strVOICE_VOXERRORFNF</id>
+    <value>Ваша система не налаштована для використання голосового чату. Перевстановіть Starcraft, використовуючи програму встановлення на диску гри.</value>
+  </string>
+  <string>
+    <id>strVOICE_SNDALLOCATED</id>
+    <value>Інший додаток використовує звукове відтворення. Закрийте його і перезапустіть цю програму.</value>
+  </string>
+  <string>
+    <id>strVOICE_VOXINTERNAL</id>
+    <value>Помилка ініціалізації голосової бази: %s\\nпомилка 0x%08x %s</value>
+  </string>
+  <string>
+    <id>strVOICE_CAPTUREINIT</id>
+    <value>Помилка ініціалізації розпізнавання голосу: %s\\nпомилка 0x%08x %s</value>
+  </string>
+  <string>
+    <id>strVOICE_SNDGENERIC</id>
+    <value>Помилка ініціалізації звуку: %s\\nпомилка 0x%08x %s</value>
+  </string>
+  <string>
+    <id>strVOICE_VOICEINIT</id>
+    <value>Помилка ініціалізації відтворення звуку: %s\\nпомилка 0x%08x %s</value>
+  </string>
+  <string>
+    <id>strMUSIC_ON_NETDRIVE</id>
+    <value>ПОМИЛКА: неможливо відтворювати музику з мережевого диска.</value>
+  </string>
+  <string>
+    <id>strDELETE_ERR_s</id>
+    <value>При видаленні гри «%s» виникла помилка.</value>
+  </string>
+  <string>
+    <id>strREPLACE_ERR_s</id>
+    <value>При заміні «%s» виникла помилка.</value>
+  </string>
+  <string>
+    <id>strCONFIRM_REPLACE_s</id>
+    <value>Замінити вміст гри «%s»?</value>
+  </string>
+  <string>
+    <id>strCONFIRM_DELETE_s</id>
+    <value>Видалити гру «%s»?</value>
+  </string>
+  <string>
+    <id>strSAVE_TOO_MANY_ERR</id>
+    <value>Забагато файлів збережень.</value>
+  </string>
+  <string>
+    <id>strRESERVED_FILENAME</id>
+    <value>Назва файлу вже зайнята. Будь ласка, оберіть іншу.</value>
+  </string>
+  <string>
+    <id>strZERG</id>
+    <value>Зерґи</value>
+  </string>
+  <string>
+    <id>strTERRAN</id>
+    <value>Teррани</value>
+  </string>
+  <string>
+    <id>strPROTOSS</id>
+    <value>Протосси</value>
+  </string>
+  <string>
+    <id>strRANDOM</id>
+    <value>Випадкова</value>
+  </string>
+  <string>
+    <id>strCOMPUTER</id>
+    <value>Комп'ютер</value>
+  </string>
+  <string>
+    <id>strHOURS</id>
+    <value>год.</value>
+  </string>
+  <string>
+    <id>strHOUR</id>
+    <value>год.</value>
+  </string>
+  <string>
+    <id>strMINUTES</id>
+    <value>хв.</value>
+  </string>
+  <string>
+    <id>strMINUTE</id>
+    <value>хв.</value>
+  </string>
+  <string>
+    <id>strCONTINUEWARNING</id>
+    <value>Завдання виконано. Гра продовжується без тригерів карти.</value>
+  </string>
+  <string>
+    <id>strBADFILECHARS</id>
+    <value>*\\\\/:&amp;gt;&amp;lt;|&amp;amp;+^?\&quot;</value>
+  </string>
+  <string>
+    <id>errCANTPLACE_sdd</id>
+    <value>УВАГА: неприпустимий символ! (%s) (%d,%d)</value>
+  </string>
+  <string>
+    <id>strTEAM1</id>
+    <value>Команда 1</value>
+  </string>
+  <string>
+    <id>strTEAM2</id>
+    <value>Команда 2</value>
+  </string>
+  <string>
+    <id>strTEAM3</id>
+    <value>Команда 3</value>
+  </string>
+  <string>
+    <id>strTEAM4</id>
+    <value>Команда 4</value>
+  </string>
+  <string>
+    <id>strFORCE1</id>
+    <value>Військо 1</value>
+  </string>
+  <string>
+    <id>strFORCE2</id>
+    <value>Військо 2</value>
+  </string>
+  <string>
+    <id>strFORCE3</id>
+    <value>Військо 3</value>
+  </string>
+  <string>
+    <id>strFORCE4</id>
+    <value>Військо 4</value>
+  </string>
+  <string>
+    <id>strOBSERVER</id>
+    <value>Спостерігач</value>
+  </string>
+  <string>
+    <id>strOBSERVERS</id>
+    <value>Спостерігачі</value>
+  </string>
+  <string>
+    <id>strNATION_TERRAN_0</id>
+    <value>Елітна гвардія</value>
+  </string>
+  <string>
+    <id>strNATION_TERRAN_1</id>
+    <value>Мар Сара</value>
+  </string>
+  <string>
+    <id>strNATION_TERRAN_2</id>
+    <value>Келморійці</value>
+  </string>
+  <string>
+    <id>strNATION_TERRAN_3</id>
+    <value>Антиґа</value>
+  </string>
+  <string>
+    <id>strNATION_TERRAN_4</id>
+    <value>Корпус «Дельта»</value>
+  </string>
+  <string>
+    <id>strNATION_TERRAN_5</id>
+    <value>Корпус «Омега»</value>
+  </string>
+  <string>
+    <id>strNATION_TERRAN_6</id>
+    <value>Корпус «Альфа»</value>
+  </string>
+  <string>
+    <id>strNATION_TERRAN_7</id>
+    <value>Корпус «Епсілон»</value>
+  </string>
+  <string>
+    <id>strNATION_ZERG_0</id>
+    <value>Зграя Тіамат</value>
+  </string>
+  <string>
+    <id>strNATION_ZERG_1</id>
+    <value>Зграя Сурт</value>
+  </string>
+  <string>
+    <id>strNATION_ZERG_2</id>
+    <value>Зграя Фенрір</value>
+  </string>
+  <string>
+    <id>strNATION_ZERG_3</id>
+    <value>Зграя Йормунганд</value>
+  </string>
+  <string>
+    <id>strNATION_ZERG_4</id>
+    <value>Зграя Гарм</value>
+  </string>
+  <string>
+    <id>strNATION_ZERG_5</id>
+    <value>Зграя Грендель</value>
+  </string>
+  <string>
+    <id>strNATION_ZERG_6</id>
+    <value>Зграя Балрог</value>
+  </string>
+  <string>
+    <id>strNATION_ZERG_7</id>
+    <value>Зграя Левіафан</value>
+  </string>
+  <string>
+    <id>strNATION_PROTOSS_0</id>
+    <value>Плем'я Ара</value>
+  </string>
+  <string>
+    <id>strNATION_PROTOSS_1</id>
+    <value>Плем'я Саргас</value>
+  </string>
+  <string>
+    <id>strNATION_PROTOSS_2</id>
+    <value>Плем'я Акілай</value>
+  </string>
+  <string>
+    <id>strNATION_PROTOSS_3</id>
+    <value>Плем'я Фурінкс</value>
+  </string>
+  <string>
+    <id>strNATION_PROTOSS_4</id>
+    <value>Плем'я Аурига</value>
+  </string>
+  <string>
+    <id>strNATION_PROTOSS_5</id>
+    <value>Плем'я Венатір</value>
+  </string>
+  <string>
+    <id>strNATION_PROTOSS_6</id>
+    <value>Плем'я Шелак</value>
+  </string>
+  <string>
+    <id>strNATION_PROTOSS_7</id>
+    <value>Плем'я Веларі</value>
+  </string>
+  <string>
+    <id>strELIMINATED_s</id>
+    <value>Гравець %s програв.</value>
+  </string>
+  <string>
+    <id>strELIMINATED_d</id>
+    <value>Гравець %d програв.</value>
+  </string>
+  <string>
+    <id>strLEFTGAME</id>
+    <value>%s покидає матч.</value>
+  </string>
+  <string>
+    <id>strDROPPED</id>
+    <value>Гравець %s від'єднався.</value>
+  </string>
+  <string>
+    <id>strPAUSED_sd</id>
+    <value>%s ставить матч на паузу (залишилось: %d).</value>
+  </string>
+  <string>
+    <id>strRESUMED_s</id>
+    <value>%s відновлює матч.</value>
+  </string>
+  <string>
+    <id>strMSGSENT</id>
+    <value>* Повідомлення надіслано *</value>
+  </string>
+  <string>
+    <id>strEXITBLOCKED</id>
+    <value>Вихід з споруди заблоковано.</value>
+  </string>
+  <string>
+    <id>strMAXUNITS</id>
+    <value>Ліміт бойових одиниць досягнуто.</value>
+  </string>
+  <string>
+    <id>strCANTCREATE</id>
+    <value>Не вдалося створити одиницю.</value>
+  </string>
+  <string>
+    <id>strTARGET</id>
+    <value>Вкажіть ціль.</value>
+  </string>
+  <string>
+    <id>strLOCATION</id>
+    <value>Вкажіть місце.</value>
+  </string>
+  <string>
+    <id>strCHEATON</id>
+    <value>Чіт-код активовано.</value>
+  </string>
+  <string>
+    <id>strCHEATOFF</id>
+    <value>Чіт-код деактивовано.</value>
+  </string>
+  <string>
+    <id>strNEW_OBSERVER_REMOTE</id>
+    <value>%s стає спостерігачем.</value>
+  </string>
+  <string>
+    <id>strNEW_OBSERVER_LOCAL</id>
+    <value>Ви є спостерігачем.</value>
+  </string>
+  <string>
+    <id>strFIRSTLATENCY_s</id>
+    <value>Гравець %s встановив низьке значення затримки сигналу.</value>
+  </string>
+  <string>
+    <id>strFIRSTLATENCY_s-1</id>
+    <value>Гравець %s встановив високе значення затримки сигналу.</value>
+  </string>
+  <string>
+    <id>strFIRSTLATENCY_s-2</id>
+    <value>Гравець %s встановив дуже високе значення затримки сигналу.</value>
+  </string>
+  <string>
+    <id>strDEFAULTNAME</id>
+    <value>Анонім</value>
+  </string>
+  <string>
+    <id>strILLEGAL_TEAMS</id>
+    <value>Некоректна кількість команд.</value>
+  </string>
+  <string>
+    <id>strPLAYER_JOINED</id>
+    <value>%s приєднується до матчу.</value>
+  </string>
+  <string>
+    <id>strPLAYER_LEFT</id>
+    <value>%s покидає матч.</value>
+  </string>
+  <string>
+    <id>strPLAYER_WAS_DROPPED</id>
+    <value>%s від'єднується від матчу.</value>
+  </string>
+  <string>
+    <id>strIGNORING_PLAYER</id>
+    <value>Ви ігноруєте повідомлення гравця %s.</value>
+  </string>
+  <string>
+    <id>strUNIGNORING_PLAYER</id>
+    <value>Ви приймаєте повідомлення від гравця %s.</value>
+  </string>
+  <string>
+    <id>strWHISPER_TO</id>
+    <value>&amp;lt;Гравцю: %s&amp;gt;</value>
+  </string>
+  <string>
+    <id>strWHISPER_FROM</id>
+    <value>&amp;lt;Від: %s&amp;gt;</value>
+  </string>
+  <string>
+    <id>strERROR_GENERAL_NETWORK</id>
+    <value>Помилка мережі.</value>
+  </string>
+  <string>
+    <id>strERROR_STANDARD_SNP</id>
+    <value>Помилка ініціалізації standard.snp. Будь ласка, перевстановіть StarCraft.</value>
+  </string>
+  <string>
+    <id>strERROR_INITIALIZE_PROVIDER</id>
+    <value>Помилка ініціалізації постачальника мережі.</value>
+  </string>
+  <string>
+    <id>strERROR_INVALID_DEVICE</id>
+    <value>Помилка ініціалізації пристрою.</value>
+  </string>
+  <string>
+    <id>strERROR_INVALID_PROVIDER</id>
+    <value>Некоректний постачальник мережі.</value>
+  </string>
+  <string>
+    <id>strERROR_REGISTER_EVENTS</id>
+    <value>Не вдалося зареєструвати подію.</value>
+  </string>
+  <string>
+    <id>strERROR_INVALID_PLAYER</id>
+    <value>Некоректний гравець.</value>
+  </string>
+  <string>
+    <id>strERROR_INVALID_CHARACTER</id>
+    <value>Некоректний профіль.</value>
+  </string>
+  <string>
+    <id>strERROR_JOINING_GAME</id>
+    <value>Не вдалося приєднатися до матчу.</value>
+  </string>
+  <string>
+    <id>strERROR_JOINING_BAD_VERSION</id>
+    <value>Не вдалося приєднатися до матчу, оскільки він створений в іншій версії StarCraft.</value>
+  </string>
+  <string>
+    <id>strERROR_SEND_MESSAGE</id>
+    <value>Не вдалося надіслати повідомлення.</value>
+  </string>
+  <string>
+    <id>strERROR_CREATE_SINGLE</id>
+    <value>Не вдалося створити одиночний матч.</value>
+  </string>
+  <string>
+    <id>strERROR_INVALID_OPTIONS</id>
+    <value>Некоректні налаштування гри.</value>
+  </string>
+  <string>
+    <id>strERROR_CREATE_MULTI</id>
+    <value>Не вдалося створити мережевий матч.</value>
+  </string>
+  <string>
+    <id>strERROR_NO_SAVE_FILE</id>
+    <value>Файл збереження не знайдено.</value>
+  </string>
+  <string>
+    <id>strERROR_START_GAME_FAILED</id>
+    <value>Помилка під час завантаження гри.</value>
+  </string>
+  <string>
+    <id>strERROR_LOAD_MAP</id>
+    <value>Помилка завантаження сценарію.</value>
+  </string>
+  <string>
+    <id>strERROR_LOADING_SAVE_FILE</id>
+    <value>Не вдалося завантажити збережену гру.</value>
+  </string>
+  <string>
+    <id>strERROR_NO_SAVE_SCM</id>
+    <value>Не вдалося завантажити SCM, пов'язаний з файлом збереження.</value>
+  </string>
+  <string>
+    <id>strERROR_FD_STARTUP</id>
+    <value>Не вдалося завантажити карту.</value>
+  </string>
+  <string>
+    <id>strERROR_SAVE</id>
+    <value>Не вдалося зберегти гру.</value>
+  </string>
+  <string>
+    <id>strERROR_CAMPAIGN_OPTIONS</id>
+    <value>Не вдалося завантажити налаштування кампанії. Будь ласка, перевстановіть StarCraft.</value>
+  </string>
+  <string>
+    <id>strERROR_SPAWN_CREATE_SINGLE</id>
+    <value>Для запуску однокористувацької кампанії потрібна повна версія StarCraft.</value>
+  </string>
+  <string>
+    <id>strERROR_SPAWN_CREATE_MULTI</id>
+    <value>Для створення мережевого матчу потрібна повна версія StarCraft.</value>
+  </string>
+  <string>
+    <id>strERROR_SPAWN_JOIN_MULTI</id>
+    <value>Ви можете приєднуватися лише до матчів власника копії StarCraft, який вас запросив.</value>
+  </string>
+  <string>
+    <id>strERROR_CAMPAIGN_LINK</id>
+    <value>Не вдалося знайти вказану карту кампанії.</value>
+  </string>
+  <string>
+    <id>strNET_UPGRADE_FAIL</id>
+    <value>Не вдалося оновити мережу.</value>
+  </string>
+  <string>
+    <id>strSYNC_ERROR</id>
+    <value>ПОМИЛКА СИНХРОНІЗАЦІЇ.</value>
+  </string>
+  <string>
+    <id>strSAVING</id>
+    <value>Збереження...\\nФайл:</value>
+  </string>
+  <string>
+    <id>strSCREEN_CAPTURE_s</id>
+    <value>Знімок екрана збережено під назвою «%s».</value>
+  </string>
+  <string>
+    <id>strBNET_REPORT_PLAYER</id>
+    <value>%s was %s and played for %s\\n</value>
+  </string>
+  <string>
+    <id>strBNET_REPORT_GAME</id>
+    <value>Карта: %s:\\n</value>
+  </string>
+  <string>
+    <id>strBNET_REPORT_OVERVIEW</id>
+    <value>Overall Score %u\\n    %10u for %s\\n    %10u for %s\\n    %10u for %s\\n</value>
+  </string>
+  <string>
+    <id>strBNET_REPORT_UNITS</id>
+    <value>Units Score %u\\n    %10u Units %s\\n    %10u Units %s\\n    %10u Units %s\\n</value>
+  </string>
+  <string>
+    <id>strBNET_REPORT_INFRASTRUCTURE</id>
+    <value>Structures Score %u\\n    %10u Structures %s\\n    %10u Structures %s\\n    %10u Structures %s\\n</value>
+  </string>
+  <string>
+    <id>strBNET_REPORT_RESOURCES</id>
+    <value>Resources Score %u\\n    %10u %s\\n    %10u %s\\n    %10u %s\\n</value>
+  </string>
+  <string>
+    <id>strOBJ_MELEE</id>
+    <value>Знищіть усі будівлі противника.</value>
+  </string>
+  <string>
+    <id>strOBJ_GREED_2500</id>
+    <value>Видобудьте 2500 од. мінералів.\\nВидобудьте 2500 од. газу.</value>
+  </string>
+  <string>
+    <id>strOBJ_GREED_5000</id>
+    <value>Видобудьте 5000 од. мінералів.\\nВидобудьте 5000 од. газу.</value>
+  </string>
+  <string>
+    <id>strOBJ_GREED_7500</id>
+    <value>Видобудьте 7500 од. мінералів.\\nВидобудьте 7500 од. газу.</value>
+  </string>
+  <string>
+    <id>strOBJ_GREED_10000</id>
+    <value>Видобудьте 10000 од. мінералів.\\nВидобудьте 10000 од. газу.</value>
+  </string>
+  <string>
+    <id>strOBJ_SLAUGHTER</id>
+    <value>Знищіть якомога більше бойових одиниць і споруд за відведений час.</value>
+  </string>
+  <string>
+    <id>strOBJ_CTF</id>
+    <value>Захопіть ворожий прапор.</value>
+  </string>
+  <string>
+    <id>strOBJ_SUDDENDEATH</id>
+    <value>Знищіть будь-яку головну будівлю противника.</value>
+  </string>
+  <string>
+    <id>strCTF_TAKEN_s</id>
+    <value>Прапор гравця %s захоплено!</value>
+  </string>
+  <string>
+    <id>strCTF_TAKEN_s-1</id>
+    <value>Прапор гравця %s захоплено!</value>
+  </string>
+  <string>
+    <id>strCTF_RETURNED_s</id>
+    <value>Прапор гравця %s повернуто на базу.</value>
+  </string>
+  <string>
+    <id>strCTF_RETURNED_s-1</id>
+    <value>Прапор гравця %s повернено на базу.</value>
+  </string>
+  <string>
+    <id>strCTF_CAPTURED_s</id>
+    <value>Прапор гравця %s захоплено!</value>
+  </string>
+  <string>
+    <id>strCTF_CAPTURED_s-1</id>
+    <value>Прапор гравця %s захоплено!</value>
+  </string>
+  <string>
+    <id>strRACE_ERR_ZERG</id>
+    <value>Перед початком цієї кампанії ми рекомендуємо завершити кампанію терранів.\\n\\nВсе одно бажаєете почати кампанію зерґів?</value>
+  </string>
+  <string>
+    <id>strRACE_ERR_PROTOSS</id>
+    <value>Перед початком цієї кампанії ми рекомендуємо завершити кампанії терранів і зергів.\\n\\nВсе одно бажаєете почати кампанію протоссів?</value>
+  </string>
+  <string>
+    <id>strRACE_ERR_TERRAN_EXP</id>
+    <value>Перед початком цієї кампанії ми рекомендуємо завершити кампанію протоcсів.\\n\\nВсе одно почати кампанію терранів?</value>
+  </string>
+  <string>
+    <id>strRACE_ERR_ZERG_EXP</id>
+    <value>Перед початком цієї кампанії ми рекомендуємо завершити кампанії протосcів і терранів.\\n\\nВсе одно почати кампанію зерґів?</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_TERRAN_0</id>
+    <value>Елітна гвардія</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_TERRAN_1</id>
+    <value>Мар Сара</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_TERRAN_2</id>
+    <value>Кельморійці</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_TERRAN_3</id>
+    <value>Антиґа</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_TERRAN_4</id>
+    <value>Корпус «Дельта»</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_TERRAN_5</id>
+    <value>Полк «Атлант»</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_TERRAN_6</id>
+    <value>Полк «Хронос»</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_TERRAN_7</id>
+    <value>Корпус «Епсилон»</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_ZERG_0</id>
+    <value>Зграя Тіамат</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_ZERG_1</id>
+    <value>Зграя Сурт</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_ZERG_2</id>
+    <value>Зграя Фенрір</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_ZERG_3</id>
+    <value>Зграя Йормунганд</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_ZERG_4</id>
+    <value>Зграя Гарм</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_ZERG_5</id>
+    <value>Зграя Ґрендель</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_ZERG_6</id>
+    <value>Зграя Балрогів</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_ZERG_7</id>
+    <value>Зграя Левіафан</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_PROTOSS_0</id>
+    <value>Плем'я Ара</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_PROTOSS_1</id>
+    <value>Плем'я Саргас</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_PROTOSS_2</id>
+    <value>Плем'я Акілай</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_PROTOSS_3</id>
+    <value>{TO_TRANSLATE} </value>
+  </string>
+  <string>
+    <id>strNATION_EXP_PROTOSS_4</id>
+    <value>Плем'я Аурига</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_PROTOSS_5</id>
+    <value>Плем'я Венатір</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_PROTOSS_6</id>
+    <value>Плем'я Шелак</value>
+  </string>
+  <string>
+    <id>strNATION_EXP_PROTOSS_7</id>
+    <value>Плем'я Веларі</value>
+  </string>
+  <string>
+    <id>strERROR_NOT_SUPPORTED_EUD_MAP</id>
+    <value>EUD цієї карти не підтримується. Будь ласка, повідомте про неї на форумі StarCraft.</value>
+  </string>
+  <string>
+    <id>strERROR_NOT_SUPPORTED_AT_ALL_EUD_MAP</id>
+    <value>EUD цієї карти несумісний зі StarCraft Remastered.</value>
+  </string>
+  <string>
+    <id>strERROR_JOINING_GAME_FULL</id>
+    <value>Не вдалося приєднатися – немає доступних слотів.</value>
+  </string>
+  <string>
+    <id>strERROR_JOINING_GAME_NOT_FOUND</id>
+    <value>Не вдалося приєднатися – матч не знайдено.</value>
+  </string>
+</strings>

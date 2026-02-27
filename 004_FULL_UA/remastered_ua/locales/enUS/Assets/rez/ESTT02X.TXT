@@ -1,0 +1,14 @@
+</COMMENT Establishing Shot for Terran Level 2x>
+
+</FADESPEED 100>
+</DISPLAYTIME 8000>
+
+</COMMENT #############################################################>
+</BACKGROUND glue\palpcx\XProtosC.pcx>
+</FONTCOLOR glue\palpcx\tfont.pcx>
+
+</SCREENLOWERLEFT>
+ДАЙЛЕРІАНСЬКІ КОРАБЕЛЬНІ
+
+Флагман ОЗД «Александр» над Дайларськими доками, периферійним комерційним центром Домініону
+</PAGE>
