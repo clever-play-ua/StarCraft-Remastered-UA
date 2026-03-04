@@ -4,7 +4,7 @@
 </VIDEO interstitials\ZG1010.webm>
 </SOUND interstitials\sounds\scHD_Interstitials_Zerg_Swipe.wav>
 </TEXTBOX>
-КАМПАНІЯ ЗЕРҐІВ: НАДРОЗУМУМ
+КАМПАНІЯ ЗЕРҐІВ: НАДРОЗУМ
 
 Рій зерґів розтрощив війська терранів і спустошив 9 із 13 терранських планет.
 </PAGE>
