@@ -17,7 +17,7 @@
     </string>
     <string>
         <id>histTERRAN_4</id>
-        <value>4. Станція «Джейкобс»</value>
+        <value>4. Станція Джейкобс</value>
     </string>
     <string>
         <id>histTERRAN_5</id>
@@ -25,7 +25,7 @@
     </string>
     <string>
         <id>histTERRAN_6</id>
-        <value>6. «Норад II»</value>
+        <value>6. Норад II</value>
     </string>
     <string>
         <id>histTERRAN_7</id>
@@ -49,7 +49,7 @@
     </string>
     <string>
         <id>histTFLIC_2</id>
-        <value>Відеоролик «Падіння "Норада II"»</value>
+        <value>Відеоролик «Падіння Норада II»</value>
     </string>
     <string>
         <id>histTFLIC_3</id>
@@ -109,7 +109,7 @@
     </string>
     <string>
         <id>histPFLIC_2</id>
-        <value>Видеоролик Засідка</value>
+        <value>Видеоролик «Засідка»</value>
     </string>
     <string>
         <id>histPFLIC_3</id>
@@ -169,7 +169,7 @@
     </string>
     <string>
         <id>histZFLIC_2</id>
-        <value>Відеоролик «Битва на "Амеріґо"»</value>
+        <value>Відеоролик «Битва на Амеріґо»</value>
     </string>
     <string>
         <id>histZFLIC_3</id>
@@ -333,11 +333,11 @@
     </string>
     <string>
         <id>histEXPZERG_10</id>
-        <value>10. «Омега»</value>
+        <value>10. Омега</value>
     </string>
     <string>
         <id>histEXPZFLIC_1</id>
-        <value>Відеоролик Вознесіння</value>
+        <value>Відеоролик «Вознесіння»</value>
     </string>
     <string>
         <id>histEXPPFLIC_1</id>
