@@ -1370,22 +1370,22 @@
     <id>STR_USEEMP</id>
     <value>e\\003Активувати шокову хвилю ЕМІ</value>
   </string>
-  <string>
-    <id>STR_IRRADIATE</id>
-    <value>Опромінити ціль </value>
-  </string>
-  <string>
-    <id>STR_YAMATO</id>
-    <value>y\\003Застосувати ямато-гармату</value>
-  </string>
-  <string>
-    <id>STR_CLOAK</id>
-    <value>Сховатися</value>
-  </string>
-  <string>
-    <id>STR_DECLOAK</id>
-    <value>З'явитися</value>
-  </string>
+    <string>
+        <id>STR_IRRADIATE</id>
+        <value>iIrradiate</value>
+    </string>
+    <string>
+        <id>STR_YAMATO</id>
+        <value>yYamato Gun</value>
+    </string>
+    <string>
+        <id>STR_CLOAK</id>
+        <value>cCloak</value>
+    </string>
+    <string>
+        <id>STR_DECLOAK</id>
+        <value>cDecloak</value>
+    </string>
   <string>
     <id>STR_STIM_REQ</id>
     <value>Стим-пакети\\n   Дослідіть у академії
