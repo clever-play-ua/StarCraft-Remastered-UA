@@ -1,7 +1,7 @@
 <strings>
     <string>
         <id>histTERRAN_0</id>
-        <value>Тренувальний табір</value>
+        <value>0. Тренувальний табір</value>
     </string>
     <string>
         <id>histTERRAN_1</id>
@@ -165,7 +165,7 @@
     </string>
     <string>
         <id>histZFLIC_1</id>
-        <value>Відеоролик Сон</value>
+        <value>Відеоролик «Сон»</value>
     </string>
     <string>
         <id>histZFLIC_2</id>
