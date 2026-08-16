@@ -1,0 +1,7757 @@
+[
+  {
+    "id": "FIRST_UNIT_STRING",
+    "Key": "FIRST_UNIT_STRING",
+    "Value": "Морпіх\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-1",
+    "Key": "FIRST_UNIT_STRING-1",
+    "Value": "Привид\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-2",
+    "Key": "FIRST_UNIT_STRING-2",
+    "Value": "«Гриф»\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-3",
+    "Key": "FIRST_UNIT_STRING-3",
+    "Value": "«Голіаф»\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-4",
+    "Key": "FIRST_UNIT_STRING-4",
+    "Value": "Голіафова гармата\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-5",
+    "Key": "FIRST_UNIT_STRING-5",
+    "Value": "Облоговий танк\\u0000Режим танку\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-6",
+    "Key": "FIRST_UNIT_STRING-6",
+    "Value": "Турель танка\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-7",
+    "Key": "FIRST_UNIT_STRING-7",
+    "Value": "КБМ\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-8",
+    "Key": "FIRST_UNIT_STRING-8",
+    "Value": "«Примара»\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-9",
+    "Key": "FIRST_UNIT_STRING-9",
+    "Value": "Наукове судно\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-10",
+    "Key": "FIRST_UNIT_STRING-10",
+    "Value": "Ґай Монтеґ\\u0000Вогнеметник\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-11",
+    "Key": "FIRST_UNIT_STRING-11",
+    "Value": "Десантний транспорт\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-12",
+    "Key": "FIRST_UNIT_STRING-12",
+    "Value": "Бойовий крейсер\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-13",
+    "Key": "FIRST_UNIT_STRING-13",
+    "Value": "Грифова міна-павук\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-14",
+    "Key": "FIRST_UNIT_STRING-14",
+    "Value": "Ядерна ракета\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-15",
+    "Key": "FIRST_UNIT_STRING-15",
+    "Value": "Цивільна особа\\u0000*\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-16",
+    "Key": "FIRST_UNIT_STRING-16",
+    "Value": "Сара Керріґан\\u0000Привид\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-17",
+    "Key": "FIRST_UNIT_STRING-17",
+    "Value": "Алан Шезар\\u0000«Голіаф»\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-18",
+    "Key": "FIRST_UNIT_STRING-18",
+    "Value": "Аланова гармат\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-19",
+    "Key": "FIRST_UNIT_STRING-19",
+    "Value": "Джим Рейнор\\u0000«Гриф»\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-20",
+    "Key": "FIRST_UNIT_STRING-20",
+    "Value": "Джим Рейнор\\u0000Морпіх\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-21",
+    "Key": "FIRST_UNIT_STRING-21",
+    "Value": "Том Казанскі\\u0000«Примара»\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-22",
+    "Key": "FIRST_UNIT_STRING-22",
+    "Value": "«Магеллан»\\u0000Наукове судно\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-23",
+    "Key": "FIRST_UNIT_STRING-23",
+    "Value": "Едмунд Дюк\\u0000Облоговий танк\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-24",
+    "Key": "FIRST_UNIT_STRING-24",
+    "Value": "Дюкова гармата\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-25",
+    "Key": "FIRST_UNIT_STRING-25",
+    "Value": "Едмунд Дюк\\u0000Режим облоги\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-26",
+    "Key": "FIRST_UNIT_STRING-26",
+    "Value": "Дюкова гармата\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-27",
+    "Key": "FIRST_UNIT_STRING-27",
+    "Value": "Арктурус Менґск\\u0000Бойовий крейсер\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-28",
+    "Key": "FIRST_UNIT_STRING-28",
+    "Value": "«Гіперіон»\\u0000Бойовий крейсер\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-29",
+    "Key": "FIRST_UNIT_STRING-29",
+    "Value": "«Норад ІІ»\\u0000Бойовий крейсер\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-30",
+    "Key": "FIRST_UNIT_STRING-30",
+    "Value": "Облоговий танк\\u0000Режим облоги\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-31",
+    "Key": "FIRST_UNIT_STRING-31",
+    "Value": "Танкова гармата\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-32",
+    "Key": "FIRST_UNIT_STRING-32",
+    "Value": "Вогнеметник\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-33",
+    "Key": "FIRST_UNIT_STRING-33",
+    "Value": "Супутникове сканування\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-34",
+    "Key": "FIRST_UNIT_STRING-34",
+    "Value": "Медик\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-35",
+    "Key": "FIRST_UNIT_STRING-35",
+    "Value": "Лярва\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-36",
+    "Key": "FIRST_UNIT_STRING-36",
+    "Value": "Яйце\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-37",
+    "Key": "FIRST_UNIT_STRING-37",
+    "Value": "Зерґлінґ\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-38",
+    "Key": "FIRST_UNIT_STRING-38",
+    "Value": "Гідралиск\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-39",
+    "Key": "FIRST_UNIT_STRING-39",
+    "Value": "Ультралиск\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-40",
+    "Key": "FIRST_UNIT_STRING-40",
+    "Value": "Виплодок\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-41",
+    "Key": "FIRST_UNIT_STRING-41",
+    "Value": "Трутень\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-42",
+    "Key": "FIRST_UNIT_STRING-42",
+    "Value": "Володар\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-43",
+    "Key": "FIRST_UNIT_STRING-43",
+    "Value": "Муталиск\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-44",
+    "Key": "FIRST_UNIT_STRING-44",
+    "Value": "Захисник\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-45",
+    "Key": "FIRST_UNIT_STRING-45",
+    "Value": "Королева\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-46",
+    "Key": "FIRST_UNIT_STRING-46",
+    "Value": "Оскверnitель\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-47",
+    "Key": "FIRST_UNIT_STRING-47",
+    "Value": "Батіг\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-48",
+    "Key": "FIRST_UNIT_STRING-48",
+    "Value": "Тораск\\u0000Ультралиск\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-49",
+    "Key": "FIRST_UNIT_STRING-49",
+    "Value": "Матріарх\\u0000Королева\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-50",
+    "Key": "FIRST_UNIT_STRING-50",
+    "Value": "Заражений терран\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-51",
+    "Key": "FIRST_UNIT_STRING-51",
+    "Value": "Заражена Керріґан\\u0000Заражений терран\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-52",
+    "Key": "FIRST_UNIT_STRING-52",
+    "Value": "Нечистий\\u0000Осквернитель\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-53",
+    "Key": "FIRST_UNIT_STRING-53",
+    "Value": "Мисливець-убивця\\u0000Гідралиск\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-54",
+    "Key": "FIRST_UNIT_STRING-54",
+    "Value": "Той, що пожирає\\u0000Зерґлінг\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-55",
+    "Key": "FIRST_UNIT_STRING-55",
+    "Value": "Кукулза\\u0000Муталиск\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-56",
+    "Key": "FIRST_UNIT_STRING-56",
+    "Value": "Кукулза\\u0000Захисник\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-57",
+    "Key": "FIRST_UNIT_STRING-57",
+    "Value": "Іґґдрасілль\\u0000Володар\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-58",
+    "Key": "FIRST_UNIT_STRING-58",
+    "Value": "«Валькірія»\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-59",
+    "Key": "FIRST_UNIT_STRING-59",
+    "Value": "Кокон\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-60",
+    "Key": "FIRST_UNIT_STRING-60",
+    "Value": "«Корсар»\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-61",
+    "Key": "FIRST_UNIT_STRING-61",
+    "Value": "Темний тамплієр\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-62",
+    "Key": "FIRST_UNIT_STRING-62",
+    "Value": "Пожирач\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-63",
+    "Key": "FIRST_UNIT_STRING-63",
+    "Value": "Темний архонт\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-64",
+    "Key": "FIRST_UNIT_STRING-64",
+    "Value": "Зонд\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-65",
+    "Key": "FIRST_UNIT_STRING-65",
+    "Value": "Фанатик\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-66",
+    "Key": "FIRST_UNIT_STRING-66",
+    "Value": "Драгун\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-67",
+    "Key": "FIRST_UNIT_STRING-67",
+    "Value": "Верховний тамплієр\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-68",
+    "Key": "FIRST_UNIT_STRING-68",
+    "Value": "Архонт\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-69",
+    "Key": "FIRST_UNIT_STRING-69",
+    "Value": "Шатл\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-70",
+    "Key": "FIRST_UNIT_STRING-70",
+    "Value": "Розвідник\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-71",
+    "Key": "FIRST_UNIT_STRING-71",
+    "Value": "«Верховний суддя»\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-72",
+    "Key": "FIRST_UNIT_STRING-72",
+    "Value": "Крейсер\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-73",
+    "Key": "FIRST_UNIT_STRING-73",
+    "Value": "Перехоплювач\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-74",
+    "Key": "FIRST_UNIT_STRING-74",
+    "Value": "Темний тамплієр\\u0000Герой\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-75",
+    "Key": "FIRST_UNIT_STRING-75",
+    "Value": "Зератул\\u0000Темний тамплієр\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-76",
+    "Key": "FIRST_UNIT_STRING-76",
+    "Value": "Тассадар/Зератул\\u0000Архонт\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-77",
+    "Key": "FIRST_UNIT_STRING-77",
+    "Value": "Фенікс\\u0000Фанатик\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-78",
+    "Key": "FIRST_UNIT_STRING-78",
+    "Value": "Фенікс\\u0000Драгун\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-79",
+    "Key": "FIRST_UNIT_STRING-79",
+    "Value": "Тассадар\\u0000Тамплієр\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-80",
+    "Key": "FIRST_UNIT_STRING-80",
+    "Value": "Моджо\\u0000Розвідник\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-81",
+    "Key": "FIRST_UNIT_STRING-81",
+    "Value": "Той, що несе війну\\u0000Мародер\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-82",
+    "Key": "FIRST_UNIT_STRING-82",
+    "Value": "«Ґантрітор»\\u0000Крейсер\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-83",
+    "Key": "FIRST_UNIT_STRING-83",
+    "Value": "Мародер\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-84",
+    "Key": "FIRST_UNIT_STRING-84",
+    "Value": "Спостерігач\\u0000*\\u0000Повітряні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-85",
+    "Key": "FIRST_UNIT_STRING-85",
+    "Value": "Скарабей\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-86",
+    "Key": "FIRST_UNIT_STRING-86",
+    "Value": "Данімот\\u0000«Верховний суддя»\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-87",
+    "Key": "FIRST_UNIT_STRING-87",
+    "Value": "Алдаріс\\u0000Тамплієр\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-88",
+    "Key": "FIRST_UNIT_STRING-88",
+    "Value": "Артаніс\\u0000Розвідник\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-89",
+    "Key": "FIRST_UNIT_STRING-89",
+    "Value": "Рінадон\\u0000Пустка\\u0000Істоти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-90",
+    "Key": "FIRST_UNIT_STRING-90",
+    "Value": "Бенґалаас\\u0000Джунглі\\u0000Істоти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-91",
+    "Key": "FIRST_UNIT_STRING-91",
+    "Value": "Не використовується\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-92",
+    "Key": "FIRST_UNIT_STRING-92",
+    "Value": "Не використовується\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-93",
+    "Key": "FIRST_UNIT_STRING-93",
+    "Value": "Скантід\\u0000Пустеля\\u0000Істоти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-94",
+    "Key": "FIRST_UNIT_STRING-94",
+    "Value": "Какару\\u0000Сутінки\\u0000Істоти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-95",
+    "Key": "FIRST_UNIT_STRING-95",
+    "Value": "Рагназавр\\u0000Світ попелу\\u0000Істоти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-96",
+    "Key": "FIRST_UNIT_STRING-96",
+    "Value": "Урсадон\\u0000Крижаний світ\\u0000Істоти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-97",
+    "Key": "FIRST_UNIT_STRING-97",
+    "Value": "Яйце мисливця\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-98",
+    "Key": "FIRST_UNIT_STRING-98",
+    "Value": "Расшаґал\\u0000Темний тамплієр\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-99",
+    "Key": "FIRST_UNIT_STRING-99",
+    "Value": "Самір Дюран\\u0000Привид\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-100",
+    "Key": "FIRST_UNIT_STRING-100",
+    "Value": "Алєксєй Стуков\\u0000Привид\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-101",
+    "Key": "FIRST_UNIT_STRING-101",
+    "Value": "Відкривач мапи\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-102",
+    "Key": "FIRST_UNIT_STRING-102",
+    "Value": "Жерар ДюҐалль\\u0000Привид\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-103",
+    "Key": "FIRST_UNIT_STRING-103",
+    "Value": "Мисливець\\u0000*\\u0000Наземні війська"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-104",
+    "Key": "FIRST_UNIT_STRING-104",
+    "Value": "Заражений Дюран\\u0000*\\u0000Герої"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-105",
+    "Key": "FIRST_UNIT_STRING-105",
+    "Value": "Поле переривання\\u0000*\\u0000Протосси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-106",
+    "Key": "FIRST_UNIT_STRING-106",
+    "Value": "Командний центр\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-107",
+    "Key": "FIRST_UNIT_STRING-107",
+    "Value": "Супутникова станція\\u0000*\\u0000Прибудови"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-108",
+    "Key": "FIRST_UNIT_STRING-108",
+    "Value": "Ядерна шахта\\u0000*\\u0000Прибудови"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-109",
+    "Key": "FIRST_UNIT_STRING-109",
+    "Value": "Склад\\u0000*\\u0000Будівлі"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-110",
+    "Key": "FIRST_UNIT_STRING-110",
+    "Value": "Очисний завод\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-111",
+    "Key": "FIRST_UNIT_STRING-111",
+    "Value": "Казарма\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-112",
+    "Key": "FIRST_UNIT_STRING-112",
+    "Value": "Академія\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-113",
+    "Key": "FIRST_UNIT_STRING-113",
+    "Value": "Завод\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-114",
+    "Key": "FIRST_UNIT_STRING-114",
+    "Value": "Космопорт\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-115",
+    "Key": "FIRST_UNIT_STRING-115",
+    "Value": "Вежа управління\\u0000*\\u0000Прибудови"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-116",
+    "Key": "FIRST_UNIT_STRING-116",
+    "Value": "Науковий центр\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-117",
+    "Key": "FIRST_UNIT_STRING-117",
+    "Value": "Шпигунський модуль\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-118",
+    "Key": "FIRST_UNIT_STRING-118",
+    "Value": "Фізична лабораторія\\u0000*\\u0000Прибудови"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-119",
+    "Key": "FIRST_UNIT_STRING-119",
+    "Value": "Невикористовувана будівля терранів\\u0000*\\u0000*"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-120",
+    "Key": "FIRST_UNIT_STRING-120",
+    "Value": "Механічний цех\\u0000*\\u0000Прибудови"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-121",
+    "Key": "FIRST_UNIT_STRING-121",
+    "Value": "Невикористовувана будівля терранів\\u0000*\\u0000Террани"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-122",
+    "Key": "FIRST_UNIT_STRING-122",
+    "Value": "Інженерний відсік\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-123",
+    "Key": "FIRST_UNIT_STRING-123",
+    "Value": "Зброярня\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-124",
+    "Key": "FIRST_UNIT_STRING-124",
+    "Value": "Ракетна гармата\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-125",
+    "Key": "FIRST_UNIT_STRING-125",
+    "Value": "Бункер\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-126",
+    "Key": "FIRST_UNIT_STRING-126",
+    "Value": "Норад ІІ\\u0000Пошкоджений крейсер\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-127",
+    "Key": "FIRST_UNIT_STRING-127",
+    "Value": "Йонна гармата\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-128",
+    "Key": "FIRST_UNIT_STRING-128",
+    "Value": "Кристал Ураж\\u0000*\\u0000Посилення"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-129",
+    "Key": "FIRST_UNIT_STRING-129",
+    "Value": "Кристал Халіс\\u0000*\\u0000Посилення"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-130",
+    "Key": "FIRST_UNIT_STRING-130",
+    "Value": "Заражений командний центр\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-131",
+    "Key": "FIRST_UNIT_STRING-131",
+    "Value": "Інкубатор\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-132",
+    "Key": "FIRST_UNIT_STRING-132",
+    "Value": "Лігво\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-133",
+    "Key": "FIRST_UNIT_STRING-133",
+    "Value": "Вулик\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-134",
+    "Key": "FIRST_UNIT_STRING-134",
+    "Value": "Нідус-канал\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-135",
+    "Key": "FIRST_UNIT_STRING-135",
+    "Value": "Барліг гідралисків\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-136",
+    "Key": "FIRST_UNIT_STRING-136",
+    "Value": "Курган осквернителів\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-137",
+    "Key": "FIRST_UNIT_STRING-137",
+    "Value": "Вищий шпиль\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-138",
+    "Key": "FIRST_UNIT_STRING-138",
+    "Value": "Гніздо королеви\\u0000*\\u0000Будівлі"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-139",
+    "Key": "FIRST_UNIT_STRING-139",
+    "Value": "Еволюційна камера\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-140",
+    "Key": "FIRST_UNIT_STRING-140",
+    "Value": "Печера ультралисків\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-141",
+    "Key": "FIRST_UNIT_STRING-141",
+    "Value": "Шпиль\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-142",
+    "Key": "FIRST_UNIT_STRING-142",
+    "Value": "Початкова твань\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-143",
+    "Key": "FIRST_UNIT_STRING-143",
+    "Value": "Колонія скверни\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-144",
+    "Key": "FIRST_UNIT_STRING-144",
+    "Value": "Спорова колонія\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-145",
+    "Key": "FIRST_UNIT_STRING-145",
+    "Value": "Невикористовувана споруда зерґів\\u0000*\\u0000Зерґи"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-146",
+    "Key": "FIRST_UNIT_STRING-146",
+    "Value": "Запала колонія\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-147",
+    "Key": "FIRST_UNIT_STRING-147",
+    "Value": "Надрозум\\u0000З оболонкою\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-148",
+    "Key": "FIRST_UNIT_STRING-148",
+    "Value": "Надрозум\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-149",
+    "Key": "FIRST_UNIT_STRING-149",
+    "Value": "Видобувач\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-150",
+    "Key": "FIRST_UNIT_STRING-150",
+    "Value": "Доросла лялечка\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-151",
+    "Key": "FIRST_UNIT_STRING-151",
+    "Value": "Церебрат\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-152",
+    "Key": "FIRST_UNIT_STRING-152",
+    "Value": "Церебрат Даґґот\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-153",
+    "Key": "FIRST_UNIT_STRING-153",
+    "Value": "Невикористовувана споруда зерґів 5\\u0000*\\u0000Зерґи"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-154",
+    "Key": "FIRST_UNIT_STRING-154",
+    "Value": "Нексус\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-155",
+    "Key": "FIRST_UNIT_STRING-155",
+    "Value": "Завод робототехніки\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-156",
+    "Key": "FIRST_UNIT_STRING-156",
+    "Value": "Пілон\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-157",
+    "Key": "FIRST_UNIT_STRING-157",
+    "Value": "Асимілятор\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-158",
+    "Key": "FIRST_UNIT_STRING-158",
+    "Value": "Protoss Unused\\u0000*\\u0000Protoss"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-159",
+    "Key": "FIRST_UNIT_STRING-159",
+    "Value": "Обсерваторія\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-160",
+    "Key": "FIRST_UNIT_STRING-160",
+    "Value": "Брама\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-161",
+    "Key": "FIRST_UNIT_STRING-161",
+    "Value": "Protoss Unused\\u0000*\\u0000Protoss"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-162",
+    "Key": "FIRST_UNIT_STRING-162",
+    "Value": "Фотонна гармата\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-163",
+    "Key": "FIRST_UNIT_STRING-163",
+    "Value": "Цитадель Адуна\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-164",
+    "Key": "FIRST_UNIT_STRING-164",
+    "Value": "Кібернетичне ядро\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-165",
+    "Key": "FIRST_UNIT_STRING-165",
+    "Value": "Архів тамплієрів\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-166",
+    "Key": "FIRST_UNIT_STRING-166",
+    "Value": "Ковальня\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-167",
+    "Key": "FIRST_UNIT_STRING-167",
+    "Value": "Зоряна брама\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-168",
+    "Key": "FIRST_UNIT_STRING-168",
+    "Value": "Стазис-камера\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-169",
+    "Key": "FIRST_UNIT_STRING-169",
+    "Value": "Маяк флоту\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-170",
+    "Key": "FIRST_UNIT_STRING-170",
+    "Value": "Верховний суд\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-171",
+    "Key": "FIRST_UNIT_STRING-171",
+    "Value": "Допоміжний модуль\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-172",
+    "Key": "FIRST_UNIT_STRING-172",
+    "Value": "Батарея щитів\\u0000*\\u0000Споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-173",
+    "Key": "FIRST_UNIT_STRING-173",
+    "Value": "Формація кристалів Кейдерин\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-174",
+    "Key": "FIRST_UNIT_STRING-174",
+    "Value": "Храм\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-175",
+    "Key": "FIRST_UNIT_STRING-175",
+    "Value": "Храм Зел'Наґа\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-176",
+    "Key": "FIRST_UNIT_STRING-176",
+    "Value": "Мінерали\\u0000Тип 1\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-177",
+    "Key": "FIRST_UNIT_STRING-177",
+    "Value": "Мінерали\\u0000Тип 2\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-178",
+    "Key": "FIRST_UNIT_STRING-178",
+    "Value": "Мінерали\\u0000Тип 3\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-179",
+    "Key": "FIRST_UNIT_STRING-179",
+    "Value": "Печера\\u0000*\\u0000Нейтральні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-180",
+    "Key": "FIRST_UNIT_STRING-180",
+    "Value": "Печера (вхід)\\u0000*\\u0000Нейтральні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-181",
+    "Key": "FIRST_UNIT_STRING-181",
+    "Value": "Бар\\u0000*\\u0000Нейтральні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-182",
+    "Key": "FIRST_UNIT_STRING-182",
+    "Value": "Шахтарська платформа\\u0000*\\u0000Нейтральні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-183",
+    "Key": "FIRST_UNIT_STRING-183",
+    "Value": "Незалежний командний центр\\u0000*\\u0000Незалежні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-184",
+    "Key": "FIRST_UNIT_STRING-184",
+    "Value": "Незалежний космопорт\\u0000*\\u0000Нейтральні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-185",
+    "Key": "FIRST_UNIT_STRING-185",
+    "Value": "Брама\\u0000*\\u0000Нейтральні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-186",
+    "Key": "FIRST_UNIT_STRING-186",
+    "Value": "Руїни\\u0000*\\u0000Нейтральні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-187",
+    "Key": "FIRST_UNIT_STRING-187",
+    "Value": "Формація кристалів Кейдерин\\u0000*\\u0000Нейтральні"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-188",
+    "Key": "FIRST_UNIT_STRING-188",
+    "Value": "Гейзер Веспіну\\u0000*\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-189",
+    "Key": "FIRST_UNIT_STRING-189",
+    "Value": "Просторова брама\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-190",
+    "Key": "FIRST_UNIT_STRING-190",
+    "Value": "Пси-переривач\\u0000*\\u0000Особливі споруди"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-191",
+    "Key": "FIRST_UNIT_STRING-191",
+    "Value": "Маркер зерґів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-192",
+    "Key": "FIRST_UNIT_STRING-192",
+    "Value": "Маркер терранів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-193",
+    "Key": "FIRST_UNIT_STRING-193",
+    "Value": "Маркер протоссів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-194",
+    "Key": "FIRST_UNIT_STRING-194",
+    "Value": "Маяк зерґів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-195",
+    "Key": "FIRST_UNIT_STRING-195",
+    "Value": "Маяк терранів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-196",
+    "Key": "FIRST_UNIT_STRING-196",
+    "Value": "Маяк протоссів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-197",
+    "Key": "FIRST_UNIT_STRING-197",
+    "Value": "Маяк прапора зерґів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-198",
+    "Key": "FIRST_UNIT_STRING-198",
+    "Value": "Маяк прапора терранів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-199",
+    "Key": "FIRST_UNIT_STRING-199",
+    "Value": "Маяк прапору протоссів\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-200",
+    "Key": "FIRST_UNIT_STRING-200",
+    "Value": "Генератор струму\\u0000*\\u0000Особливі будівлі"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-201",
+    "Key": "FIRST_UNIT_STRING-201",
+    "Value": "Кокон Надрозуму\\u0000*\\u0000Особливі будівлі"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-202",
+    "Key": "FIRST_UNIT_STRING-202",
+    "Value": "Темний рій\\u0000*\\u0000Зерґи"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-203",
+    "Key": "FIRST_UNIT_STRING-203",
+    "Value": "Підлогова ракетниця\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-204",
+    "Key": "FIRST_UNIT_STRING-204",
+    "Value": "Напольний люк (UNUSED)\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-205",
+    "Key": "FIRST_UNIT_STRING-205",
+    "Value": "Ліві двері (верхній рівень)\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-206",
+    "Key": "FIRST_UNIT_STRING-206",
+    "Value": "Праві двері (верхній рівень)\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-207",
+    "Key": "FIRST_UNIT_STRING-207",
+    "Value": "Ліва дверь (яма)\\u0000*\\u0000Об'єктиLeft Pit Door<0>*<0>Doodads<0>"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-208",
+    "Key": "FIRST_UNIT_STRING-208",
+    "Value": "Права двері (яма)\\u0000*\\u0000Об'єктиRight Pit Door<0>*<0>Doodads<0>"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-209",
+    "Key": "FIRST_UNIT_STRING-209",
+    "Value": "Підлоговий кулемет\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-210",
+    "Key": "FIRST_UNIT_STRING-210",
+    "Value": "Прихована ракетниця\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-211",
+    "Key": "FIRST_UNIT_STRING-211",
+    "Value": "Прихований вогнемет\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-212",
+    "Key": "FIRST_UNIT_STRING-212",
+    "Value": "Прихована ракетниця\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-213",
+    "Key": "FIRST_UNIT_STRING-213",
+    "Value": "Прихований вогнемет\\u0000*\\u0000Об'єкти"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-214",
+    "Key": "FIRST_UNIT_STRING-214",
+    "Value": "Початкова позиція\\u0000*\\u0000Початкова позиція"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-215",
+    "Key": "FIRST_UNIT_STRING-215",
+    "Value": "Прапор\\u0000*\\u0000Особливе"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-216",
+    "Key": "FIRST_UNIT_STRING-216",
+    "Value": "Молода лялечка\\u0000*\\u0000Посилення"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-217",
+    "Key": "FIRST_UNIT_STRING-217",
+    "Value": "Пси-випромінювач\\u0000*\\u0000Посилення"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-218",
+    "Key": "FIRST_UNIT_STRING-218",
+    "Value": "Диск з даними\\u0000*\\u0000Посилення"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-219",
+    "Key": "FIRST_UNIT_STRING-219",
+    "Value": "Кристал Кейдерин\\u0000*\\u0000Посилення"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-220",
+    "Key": "FIRST_UNIT_STRING-220",
+    "Value": "Шмат мінералів\\u0000Тип 1\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-221",
+    "Key": "FIRST_UNIT_STRING-221",
+    "Value": "Шмат мінералів\\u0000Тип 2\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-222",
+    "Key": "FIRST_UNIT_STRING-222",
+    "Value": "Частка Веспіну\\u0000Протосси тип 1\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-223",
+    "Key": "FIRST_UNIT_STRING-223",
+    "Value": "Частка Веспіну\\u0000Протосси тип 2\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-224",
+    "Key": "FIRST_UNIT_STRING-224",
+    "Value": "Мішок Веспіну\\u0000Зерґи тип 1\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-225",
+    "Key": "FIRST_UNIT_STRING-225",
+    "Value": "Мішок Веспіну\\u0000Зерґи тип 2\\u0000Ресурси"
+  },
+  {
+    "id": "FIRST_UNIT_STRING-226",
+    "Key": "FIRST_UNIT_STRING-226",
+    "Value": "Цистерна Веспіну\\u0000Терани тип 1\\u0000Ресурси"
+  },
+  {
+    "id": "LAST_UNIT_STRING",
+    "Key": "LAST_UNIT_STRING",
+    "Value": "Цистерна Веспіну\\u0000Терани тип 2\\u0000Ресурси"
+  },
+  {
+    "id": "STR_MARINE_GUN",
+    "Key": "STR_MARINE_GUN",
+    "Value": "Рушниця Гауса"
+  },
+  {
+    "id": "STR_RAYNOR_MARINE_GUN",
+    "Key": "STR_RAYNOR_MARINE_GUN",
+    "Value": "Рушниця Гауса"
+  },
+  {
+    "id": "STR_GHOST_GUN",
+    "Key": "STR_GHOST_GUN",
+    "Value": "Картечна рушниця С-10"
+  },
+  {
+    "id": "STR_KERRIGAN_GHOST_GUN",
+    "Key": "STR_KERRIGAN_GHOST_GUN",
+    "Value": "Картечна рушниця С-10"
+  },
+  {
+    "id": "STR_VULTURE_GRENADE",
+    "Key": "STR_VULTURE_GRENADE",
+    "Value": "Фрагментаційна граната"
+  },
+  {
+    "id": "STR_RAYNOR_VULTURE_GRENADE",
+    "Key": "STR_RAYNOR_VULTURE_GRENADE",
+    "Value": "Фрагментаційна граната"
+  },
+  {
+    "id": "STR_GOLIATH_GUN",
+    "Key": "STR_GOLIATH_GUN",
+    "Value": "Подвійні автогармати"
+  },
+  {
+    "id": "STR_GOLIATH_MISSILE",
+    "Key": "STR_GOLIATH_MISSILE",
+    "Value": "Ракети Хелфаєр"
+  },
+  {
+    "id": "STR_SCHEZAR_GOLIATH_GUN",
+    "Key": "STR_SCHEZAR_GOLIATH_GUN",
+    "Value": "Подвійні автогармати"
+  },
+  {
+    "id": "STR_SCHEZAR_GOLIATH_MISSILE",
+    "Key": "STR_SCHEZAR_GOLIATH_MISSILE",
+    "Value": "Ракети Хелфаєр"
+  },
+  {
+    "id": "STR_TANK_CANNON",
+    "Key": "STR_TANK_CANNON",
+    "Value": "Гармата «Арклайт»"
+  },
+  {
+    "id": "STR_DUKE_TANK_CANNON",
+    "Key": "STR_DUKE_TANK_CANNON",
+    "Value": "Гармата «Арклайт»"
+  },
+  {
+    "id": "STR_SCV_GUN",
+    "Key": "STR_SCV_GUN",
+    "Value": "Фузійний різак"
+  },
+  {
+    "id": "STR_SCV_WELD",
+    "Key": "STR_SCV_WELD",
+    "Value": "Фузійний різак"
+  },
+  {
+    "id": "STR_WRAITH_MISSILE",
+    "Key": "STR_WRAITH_MISSILE",
+    "Value": "Ракети-близнюки"
+  },
+  {
+    "id": "STR_WRAITH_LASER",
+    "Key": "STR_WRAITH_LASER",
+    "Value": "Лазерні гармати"
+  },
+  {
+    "id": "STR_KAZANSKI_WRAITH_MISSILE",
+    "Key": "STR_KAZANSKI_WRAITH_MISSILE",
+    "Value": "Ракети-близнюки"
+  },
+  {
+    "id": "STR_KAZANSKI_WRAITH_LASER",
+    "Key": "STR_KAZANSKI_WRAITH_LASER",
+    "Value": "Лазерні гармати"
+  },
+  {
+    "id": "STR_CRUISER_GND",
+    "Key": "STR_CRUISER_GND",
+    "Value": "Лазерна батарея «повітря-земля»"
+  },
+  {
+    "id": "STR_CRUISER_AIR",
+    "Key": "STR_CRUISER_AIR",
+    "Value": "Лазерна батарея «повітря-повітря»"
+  },
+  {
+    "id": "STR_NORAD_CRUISER_GND",
+    "Key": "STR_NORAD_CRUISER_GND",
+    "Value": "Лазерна батарея «повітря-земля»"
+  },
+  {
+    "id": "STR_NORAD_CRUISER_AIR",
+    "Key": "STR_NORAD_CRUISER_AIR",
+    "Value": "Лазерна батарея «повітря-повітря»"
+  },
+  {
+    "id": "STR_HYPERION_CRUISER_GND",
+    "Key": "STR_HYPERION_CRUISER_GND",
+    "Value": "Лазерна батарея П-З"
+  },
+  {
+    "id": "STR_HYPERION_CRUISER_AIR",
+    "Key": "STR_HYPERION_CRUISER_AIR",
+    "Value": "Лазерна батарея П-П"
+  },
+  {
+    "id": "STR_FIREBAT_FLAME",
+    "Key": "STR_FIREBAT_FLAME",
+    "Value": "Вогнемет"
+  },
+  {
+    "id": "STR_MONTAG_FIREBAT_FLAME",
+    "Key": "STR_MONTAG_FIREBAT_FLAME",
+    "Value": "Вогнемет"
+  },
+  {
+    "id": "STR_SIEGE_CANNON",
+    "Key": "STR_SIEGE_CANNON",
+    "Value": "Шокова гармата Арклайт"
+  },
+  {
+    "id": "STR_DUKE_SIEGE_CANNON",
+    "Key": "STR_DUKE_SIEGE_CANNON",
+    "Value": "Шокова гармата Арклайт"
+  },
+  {
+    "id": "STR_TURRET_MISSILE",
+    "Key": "STR_TURRET_MISSILE",
+    "Value": "Протиповітряні ракети"
+  },
+  {
+    "id": "STR_NUKE",
+    "Key": "STR_NUKE",
+    "Value": "Ядерний удар"
+  },
+  {
+    "id": "STR_EMP_SHOCKWAVE",
+    "Key": "STR_EMP_SHOCKWAVE",
+    "Value": "Ударна хвиля ЕМІ"
+  },
+  {
+    "id": "STR_ZERGLING_MELEE",
+    "Key": "STR_ZERGLING_MELEE",
+    "Value": "Пазурі"
+  },
+  {
+    "id": "STR_D_O_ZERGLING_MELEE",
+    "Key": "STR_D_O_ZERGLING_MELEE",
+    "Value": "Пазурі"
+  },
+  {
+    "id": "STR_INFKERR_MELEE",
+    "Key": "STR_INFKERR_MELEE",
+    "Value": "Пазурі"
+  },
+  {
+    "id": "STR_HYDRA_SPINE",
+    "Key": "STR_HYDRA_SPINE",
+    "Value": "Голчасті шипи"
+  },
+  {
+    "id": "STR_HUNTER_HYDRA_SPINE",
+    "Key": "STR_HUNTER_HYDRA_SPINE",
+    "Value": "Голчасті шипи"
+  },
+  {
+    "id": "STR_ULTRA_MELEE",
+    "Key": "STR_ULTRA_MELEE",
+    "Value": "Кайзер-леза"
+  },
+  {
+    "id": "STR_TORRASQUE_ULTRA_MELEE",
+    "Key": "STR_TORRASQUE_ULTRA_MELEE",
+    "Value": "Кайзер-леза"
+  },
+  {
+    "id": "STR_BROOD_SPORE",
+    "Key": "STR_BROOD_SPORE",
+    "Value": "Токсичні спори"
+  },
+  {
+    "id": "STR_DRONE_SPINE",
+    "Key": "STR_DRONE_SPINE",
+    "Value": "Спори"
+  },
+  {
+    "id": "STR_MUTALISK_ACID",
+    "Key": "STR_MUTALISK_ACID",
+    "Value": "Кислотний спрей"
+  },
+  {
+    "id": "STR_KUKULZA_MUTALISK_ACID",
+    "Key": "STR_KUKULZA_MUTALISK_ACID",
+    "Value": "Кислотний спрей"
+  },
+  {
+    "id": "STR_GUARDIAN_SPINE",
+    "Key": "STR_GUARDIAN_SPINE",
+    "Value": "Кислотні спори"
+  },
+  {
+    "id": "STR_KUKULZA_GUARDIAN_SPINE",
+    "Key": "STR_KUKULZA_GUARDIAN_SPINE",
+    "Value": "Кислотні спори"
+  },
+  {
+    "id": "STR_QUEEN_SPORE",
+    "Key": "STR_QUEEN_SPORE",
+    "Value": "Глефо-хробак"
+  },
+  {
+    "id": "STR_MATRIARCH_QUEEN_SPORE",
+    "Key": "STR_MATRIARCH_QUEEN_SPORE",
+    "Value": "Глефо-хробак"
+  },
+  {
+    "id": "STR_DEFILER_ACID",
+    "Key": "STR_DEFILER_ACID",
+    "Value": "Отрута"
+  },
+  {
+    "id": "STR_U_O_DEFILER_ACID",
+    "Key": "STR_U_O_DEFILER_ACID",
+    "Value": "Отрута"
+  },
+  {
+    "id": "STR_AVENGER_SPINE",
+    "Key": "STR_AVENGER_SPINE",
+    "Value": "Самогубство"
+  },
+  {
+    "id": "STR_SCOLONY_SPORE",
+    "Key": "STR_SCOLONY_SPORE",
+    "Value": "Спори-шукачі"
+  },
+  {
+    "id": "STR_LURKER_TENTACLE",
+    "Key": "STR_LURKER_TENTACLE",
+    "Value": "Підземний щуп"
+  },
+  {
+    "id": "STR_INFESTED_SAP",
+    "Key": "STR_INFESTED_SAP",
+    "Value": "Самогубство"
+  },
+  {
+    "id": "STR_PROBE_GUN",
+    "Key": "STR_PROBE_GUN",
+    "Value": "Промінь частинок"
+  },
+  {
+    "id": "STR_ZEALOT_MELEE",
+    "Key": "STR_ZEALOT_MELEE",
+    "Value": "Пси-леза"
+  },
+  {
+    "id": "STR_FENIX_ZEALOT_MELEE",
+    "Key": "STR_FENIX_ZEALOT_MELEE",
+    "Value": "Пси-леза"
+  },
+  {
+    "id": "STR_DTEMPLAR_MELEE",
+    "Key": "STR_DTEMPLAR_MELEE",
+    "Value": "Леза викривлення"
+  },
+  {
+    "id": "STR_ZERATUL_MELEE",
+    "Key": "STR_ZERATUL_MELEE",
+    "Value": "Леза викривлення"
+  },
+  {
+    "id": "STR_DRAGOON_CANNON",
+    "Key": "STR_DRAGOON_CANNON",
+    "Value": "Фазовий переривач"
+  },
+  {
+    "id": "STR_FENIX_DRAGOON_CANNON",
+    "Key": "STR_FENIX_DRAGOON_CANNON",
+    "Value": "Фазовий переривач"
+  },
+  {
+    "id": "STR_TEMPLAR_GUN",
+    "Key": "STR_TEMPLAR_GUN",
+    "Value": "Пси-атака"
+  },
+  {
+    "id": "STR_TASSADAR_TEMPLAR_GUN",
+    "Key": "STR_TASSADAR_TEMPLAR_GUN",
+    "Value": "Пси-атака"
+  },
+  {
+    "id": "STR_ARCHON_PSI",
+    "Key": "STR_ARCHON_PSI",
+    "Value": "Шокова пси-хвиля"
+  },
+  {
+    "id": "STR_TZ_ARCHON_PSI",
+    "Key": "STR_TZ_ARCHON_PSI",
+    "Value": "Шокова пси-хвиля"
+  },
+  {
+    "id": "STR_SHUTTLE_GUN",
+    "Key": "STR_SHUTTLE_GUN",
+    "Value": "Unused"
+  },
+  {
+    "id": "STR_SCOUT_GUN",
+    "Key": "STR_SCOUT_GUN",
+    "Value": "Подвійні фотонні бластери"
+  },
+  {
+    "id": "STR_SCOUT_MISSILE",
+    "Key": "STR_SCOUT_MISSILE",
+    "Value": "Ракети антиматерії"
+  },
+  {
+    "id": "STR_MOJO_SCOUT_GUN",
+    "Key": "STR_MOJO_SCOUT_GUN",
+    "Value": "Подвійні фотонні бластери"
+  },
+  {
+    "id": "STR_MOJO_SCOUT_MISSILE",
+    "Key": "STR_MOJO_SCOUT_MISSILE",
+    "Value": "Ракети антиматерії"
+  },
+  {
+    "id": "STR_ARBITER_CANNON",
+    "Key": "STR_ARBITER_CANNON",
+    "Value": "Фазопереривальна гармата"
+  },
+  {
+    "id": "STR_DANIMOTH_ARBITER_CANNON",
+    "Key": "STR_DANIMOTH_ARBITER_CANNON",
+    "Value": "Фазопереривальна гармата"
+  },
+  {
+    "id": "STR_FIGHTER_GUN",
+    "Key": "STR_FIGHTER_GUN",
+    "Value": "Імпульсна гармата"
+  },
+  {
+    "id": "STR_PHOTON_GUN_GND",
+    "Key": "STR_PHOTON_GUN_GND",
+    "Value": "Фотонна гармата (земля-земля)"
+  },
+  {
+    "id": "STR_PHOTON_GUN_AIR",
+    "Key": "STR_PHOTON_GUN_AIR",
+    "Value": "Фотонна гармата (земля-повітря)"
+  },
+  {
+    "id": "STR_SCARAB",
+    "Key": "STR_SCARAB",
+    "Value": "Скарабей"
+  },
+  {
+    "id": "STR_CARGO_MISSILE",
+    "Key": "STR_CARGO_MISSILE",
+    "Value": "Ракети"
+  },
+  {
+    "id": "STR_GUNSHIP_GUN",
+    "Key": "STR_GUNSHIP_GUN",
+    "Value": "Лазерна батарея"
+  },
+  {
+    "id": "STR_GUNSHIP_MISSILE",
+    "Key": "STR_GUNSHIP_MISSILE",
+    "Value": "Ракети-мордівники"
+  },
+  {
+    "id": "STR_GUNSHIP_BOMB",
+    "Key": "STR_GUNSHIP_BOMB",
+    "Value": "Бомби"
+  },
+  {
+    "id": "STR_RAIDER_GUN",
+    "Key": "STR_RAIDER_GUN",
+    "Value": "Рейдерська гармата"
+  },
+  {
+    "id": "STR_BIKER_GRENADE",
+    "Key": "STR_BIKER_GRENADE",
+    "Value": "Граната-флешетта"
+  },
+  {
+    "id": "STR_TRAP_GUN",
+    "Key": "STR_TRAP_GUN",
+    "Value": "Подвійні автогармати"
+  },
+  {
+    "id": "STR_TRAP_MISSILE",
+    "Key": "STR_TRAP_MISSILE",
+    "Value": "Ракети Хелфаєр"
+  },
+  {
+    "id": "STR_TRAP_FLAME",
+    "Key": "STR_TRAP_FLAME",
+    "Value": "Вогнемет"
+  },
+  {
+    "id": "STR_NO_WEAPON",
+    "Key": "STR_NO_WEAPON",
+    "Value": "Undefined Weapon Name"
+  },
+  {
+    "id": "STR_STIMPACK_TECH",
+    "Key": "STR_STIMPACK_TECH",
+    "Value": "Стим-пакети"
+  },
+  {
+    "id": "STR_MAGNAPULSE",
+    "Key": "STR_MAGNAPULSE",
+    "Value": "Блокатор"
+  },
+  {
+    "id": "STR_EMP_TECH",
+    "Key": "STR_EMP_TECH",
+    "Value": "Ударна хвиля ЕМІ"
+  },
+  {
+    "id": "STR_MINES_TECH",
+    "Key": "STR_MINES_TECH",
+    "Value": "Міни-павуки"
+  },
+  {
+    "id": "STR_SCANNER_TECH",
+    "Key": "STR_SCANNER_TECH",
+    "Value": "Сканування"
+  },
+  {
+    "id": "STR_SIEGE_TECH",
+    "Key": "STR_SIEGE_TECH",
+    "Value": "Режим облоги"
+  },
+  {
+    "id": "STR_DEFMATRIX_TECH",
+    "Key": "STR_DEFMATRIX_TECH",
+    "Value": "Захисна матриця"
+  },
+  {
+    "id": "STR_IRRADIATE_TECH",
+    "Key": "STR_IRRADIATE_TECH",
+    "Value": "Опромінення"
+  },
+  {
+    "id": "STR_YAMATO_GUN",
+    "Key": "STR_YAMATO_GUN",
+    "Value": "Ямато-гармата"
+  },
+  {
+    "id": "STR_SHIP_CLOAK_TECH",
+    "Key": "STR_SHIP_CLOAK_TECH",
+    "Value": "Стелс-поле"
+  },
+  {
+    "id": "STR_MAN_CLOAK_TECH",
+    "Key": "STR_MAN_CLOAK_TECH",
+    "Value": "Особовий стелс-генератор"
+  },
+  {
+    "id": "STR_RSRCH_STIM",
+    "Key": "STR_RSRCH_STIM",
+    "Value": "t\\u0004Дослідити стим-пакети\\n((особлива здібність морпіхів і вогнеметників)"
+  },
+  {
+    "id": "STR_RSRCH_MAGNA",
+    "Key": "STR_RSRCH_MAGNA",
+    "Value": "l\\u0004Дослідити блокатор\\n(особлива здібність привидів)"
+  },
+  {
+    "id": "STR_RSRCH_EMP",
+    "Key": "STR_RSRCH_EMP",
+    "Value": "e\\u0004Дослідити шокову хвилю ЕМІ\\n(особлива здібність наукових суден)"
+  },
+  {
+    "id": "STR_RSRCH_MINES",
+    "Key": "STR_RSRCH_MINES",
+    "Value": "m\\u0004Дослідити міни-павуки\\n (особлива здібність грифів)"
+  },
+  {
+    "id": "STR_RSRCH_SIEGE",
+    "Key": "STR_RSRCH_SIEGE",
+    "Value": "s\\u0004Дослідити режим облоги\\n (особлива здібність облогових танків)"
+  },
+  {
+    "id": "STR_RSRCH_DEFMTX",
+    "Key": "STR_RSRCH_DEFMTX",
+    "Value": "m\\u0004Дослідити захисну матрицю\\n (особлива здібність наукових суден)"
+  },
+  {
+    "id": "STR_RSRCH_IRRADIATE",
+    "Key": "STR_RSRCH_IRRADIATE",
+    "Value": "i\\u0004Дослідити опромінювання\\n (особлива здібність наукових суден)"
+  },
+  {
+    "id": "STR_RSRCH_YAMATO",
+    "Key": "STR_RSRCH_YAMATO",
+    "Value": "y\\u0004Дослідити ямато-гармату\\n (особлива здібність бойових крейсерів)"
+  },
+  {
+    "id": "STR_RSRCH_SHIP_CLOAK",
+    "Key": "STR_RSRCH_SHIP_CLOAK",
+    "Value": "c\\u0004Дослідити стелс-поле\\n (особлива здібність примар)"
+  },
+  {
+    "id": "STR_RSRCH_MAN_CLOAK",
+    "Key": "STR_RSRCH_MAN_CLOAK",
+    "Value": "c\\u0004Дослідити особовий стелс-генератор\\n (особлива здібність привидів)"
+  },
+  {
+    "id": "STR_USESTIM",
+    "Key": "STR_USESTIM",
+    "Value": "t\\u0003Використати стим-пакети"
+  },
+  {
+    "id": "STR_USEMAGNA",
+    "Key": "STR_USEMAGNA",
+    "Value": "l\\u0003Використати блокатор"
+  },
+  {
+    "id": "STR_USEMINES",
+    "Key": "STR_USEMINES",
+    "Value": "i\\u0003Використати міни-павуки"
+  },
+  {
+    "id": "STR_SCANNERSWEEP",
+    "Key": "STR_SCANNERSWEEP",
+    "Value": "s\\u0003Здійснити сканування (має властивості детектора)"
+  },
+  {
+    "id": "STR_SIEGE_MODE",
+    "Key": "STR_SIEGE_MODE",
+    "Value": "o\\u0003Перейти у режим облоги"
+  },
+  {
+    "id": "STR_TANK_MODE",
+    "Key": "STR_TANK_MODE",
+    "Value": "o\\u0007Перейти у режим танку"
+  },
+  {
+    "id": "STR_DEFMTX",
+    "Key": "STR_DEFMTX",
+    "Value": "d\\u0003Активувати захисну матрицю"
+  },
+  {
+    "id": "STR_USEEMP",
+    "Key": "STR_USEEMP",
+    "Value": "e\\u0003Активувати шокову хвилю ЕМІ"
+  },
+  {
+    "id": "STR_IRRADIATE",
+    "Key": "STR_IRRADIATE",
+    "Value": "i\u0003\u0003I\u0001rradiate"
+  },
+  {
+    "id": "STR_YAMATO",
+    "Key": "STR_YAMATO",
+    "Value": "y\u0003\u0003Y\u0001amato Gun"
+  },
+  {
+    "id": "STR_CLOAK",
+    "Key": "STR_CLOAK",
+    "Value": "c\\u0003Сховатися"
+  },
+  {
+    "id": "STR_DECLOAK",
+    "Key": "STR_DECLOAK",
+    "Value": "p\\u0007З'явитися"
+  },
+  {
+    "id": "STR_STIM_REQ",
+    "Key": "STR_STIM_REQ",
+    "Value": "Стим-пакети\\n   Дослідіть у академії"
+  },
+  {
+    "id": "STR_MAGNA_REQ",
+    "Key": "STR_MAGNA_REQ",
+    "Value": "Блокатор\\n   Дослідіть у шпигунському модулі"
+  },
+  {
+    "id": "STR_MINE_REQ",
+    "Key": "STR_MINE_REQ",
+    "Value": "Міни-павуки\\n   Дослідіть у механічному цеху"
+  },
+  {
+    "id": "STR_SIEGE_REQ",
+    "Key": "STR_SIEGE_REQ",
+    "Value": "Режим облоги\\n   Дослідіть у механічному цеху"
+  },
+  {
+    "id": "STR_DEFMTX_REQ",
+    "Key": "STR_DEFMTX_REQ",
+    "Value": "Захисна матриця\\n  Дослідіть у науковому центрі"
+  },
+  {
+    "id": "STR_EMP_REQ",
+    "Key": "STR_EMP_REQ",
+    "Value": "Шокова хвиля ЕМІ\\n  Дослідіть у науковому центрі"
+  },
+  {
+    "id": "STR_IRRADIATE_REQ",
+    "Key": "STR_IRRADIATE_REQ",
+    "Value": "Опромінювання\\n   Дослідіть у науковому центрі"
+  },
+  {
+    "id": "STR_YAMATO_REQ",
+    "Key": "STR_YAMATO_REQ",
+    "Value": "Ямато-гармата\\n   Дослідіть у фізичній лабораторії"
+  },
+  {
+    "id": "STR_SHIP_CLOAK_REQ",
+    "Key": "STR_SHIP_CLOAK_REQ",
+    "Value": "Стелс-поле:\\n   Дослідіть у вежі управління"
+  },
+  {
+    "id": "STR_MAN_CLOAK_REQ",
+    "Key": "STR_MAN_CLOAK_REQ",
+    "Value": "Особовий стелс-генератор:\\n   Дослідіть у шпигунському модулі"
+  },
+  {
+    "id": "STR_BURROW_TECH",
+    "Key": "STR_BURROW_TECH",
+    "Value": "Заривання"
+  },
+  {
+    "id": "STR_INFEST_TECH",
+    "Key": "STR_INFEST_TECH",
+    "Value": "Зараження"
+  },
+  {
+    "id": "STR_BROODLING_TECH",
+    "Key": "STR_BROODLING_TECH",
+    "Value": "Породження виплодка"
+  },
+  {
+    "id": "STR_PLAGUE_TECH",
+    "Key": "STR_PLAGUE_TECH",
+    "Value": "Темний рій"
+  },
+  {
+    "id": "STR_PARASITE_TECH",
+    "Key": "STR_PARASITE_TECH",
+    "Value": "Паразит"
+  },
+  {
+    "id": "STR_BLOODBOIL_TECH",
+    "Key": "STR_BLOODBOIL_TECH",
+    "Value": "Чума"
+  },
+  {
+    "id": "STR_CONSUME_TECH",
+    "Key": "STR_CONSUME_TECH",
+    "Value": "Поглинання"
+  },
+  {
+    "id": "STR_ENSNARE_TECH",
+    "Key": "STR_ENSNARE_TECH",
+    "Value": "Обплутання"
+  },
+  {
+    "id": "STR_RSRCH_BURROW",
+    "Key": "STR_RSRCH_BURROW",
+    "Value": "b\\u0004Здійснити еволюцію заривання\\n (здібність наземних одиниць)"
+  },
+  {
+    "id": "STR_RSRCH_INFEST",
+    "Key": "STR_RSRCH_INFEST",
+    "Value": "i\\u0004Здійснити еволюцію зараження\\n (здібність королев)"
+  },
+  {
+    "id": "STR_RSRCH_INFBROOD",
+    "Key": "STR_RSRCH_INFBROOD",
+    "Value": "b\\u0004Здійснити еволюцію породження виплодків\\n (здібність королев)"
+  },
+  {
+    "id": "STR_RSRCH_PLAGUE",
+    "Key": "STR_RSRCH_PLAGUE",
+    "Value": "s\\u0004Здійснити еволюцію темного рою\\n (здібність осквернителів)"
+  },
+  {
+    "id": "STR_RSRCH_PARASITE",
+    "Key": "STR_RSRCH_PARASITE",
+    "Value": "r\\u0004Здійснити еволюцію паразитів\\n (здібність королев)"
+  },
+  {
+    "id": "STR_RSRCH_BLOODBOIL",
+    "Key": "STR_RSRCH_BLOODBOIL",
+    "Value": "g\\u0004Здійснити еволюцію чуми\\n (здібність осквернителів)"
+  },
+  {
+    "id": "STR_RSRCH_ENSNARE",
+    "Key": "STR_RSRCH_ENSNARE",
+    "Value": "e\\u0004Здійснити еволюцію обплутання\\n (здібність королев)"
+  },
+  {
+    "id": "STR_RSRCH_CONSUME",
+    "Key": "STR_RSRCH_CONSUME",
+    "Value": "c\\u0004Здійснити еволюцію поглинання\\n (здібність осквернителів)"
+  },
+  {
+    "id": "STR_BURROW",
+    "Key": "STR_BURROW",
+    "Value": "u\\u0003Заритися у землю"
+  },
+  {
+    "id": "STR_DEBURROW",
+    "Key": "STR_DEBURROW",
+    "Value": "u\\\\Вилізти на поверхню"
+  },
+  {
+    "id": "STR_INFEST",
+    "Key": "STR_INFEST",
+    "Value": "i\\u0007Заразити терранський командний центр"
+  },
+  {
+    "id": "STR_INFBROOD",
+    "Key": "STR_INFBROOD",
+    "Value": "b\\u0003Породити виплодка"
+  },
+  {
+    "id": "STR_PLAGUE",
+    "Key": "STR_PLAGUE",
+    "Value": "w\\u0003Темний рій"
+  },
+  {
+    "id": "STR_PARASITE",
+    "Key": "STR_PARASITE",
+    "Value": "r\\u0003Паразит"
+  },
+  {
+    "id": "STR_BLOODBOIL",
+    "Key": "STR_BLOODBOIL",
+    "Value": "g\\u0003Чума"
+  },
+  {
+    "id": "STR_CONSUME",
+    "Key": "STR_CONSUME",
+    "Value": "c\\u0003Поглинути"
+  },
+  {
+    "id": "STR_KERRIGAN_CONSUME",
+    "Key": "STR_KERRIGAN_CONSUME",
+    "Value": "u\\u0003Поглинути"
+  },
+  {
+    "id": "STR_ENSNARE",
+    "Key": "STR_ENSNARE",
+    "Value": "e\\u0003Обплутати"
+  },
+  {
+    "id": "STR_BURROW_REQ",
+    "Key": "STR_BURROW_REQ",
+    "Value": "Заривання:\\n   Здійсніть еволюцію в інкубаторі"
+  },
+  {
+    "id": "STR_INFEST_REQ",
+    "Key": "STR_INFEST_REQ",
+    "Value": "Зараження:\\n   Здійсніть еволюцію у гнізді королеви"
+  },
+  {
+    "id": "STR_INFBROOD_REQ",
+    "Key": "STR_INFBROOD_REQ",
+    "Value": "Породити виплодка:\\n   Здійсніть еволюцію у гнізді королеви"
+  },
+  {
+    "id": "STR_PLAGUE_REQ",
+    "Key": "STR_PLAGUE_REQ",
+    "Value": "Темний рій:\\n   Здійсніть еволюцію у кургані осквернителів"
+  },
+  {
+    "id": "STR_PARASITE_REQ",
+    "Key": "STR_PARASITE_REQ",
+    "Value": "Паразит:\\n   Здійсніть еволюцію у гнізді королеви"
+  },
+  {
+    "id": "STR_BLOODBOIL_REQ",
+    "Key": "STR_BLOODBOIL_REQ",
+    "Value": "Чума:\\n   Здійсніть еволюцію у кургані осквернителів"
+  },
+  {
+    "id": "STR_CONSUME_REQ",
+    "Key": "STR_CONSUME_REQ",
+    "Value": "Поглинання:\\n   Здійсніть еволюцію у кургані осквернителів"
+  },
+  {
+    "id": "STR_ENSNARE_REQ",
+    "Key": "STR_ENSNARE_REQ",
+    "Value": "Обплутання:\\n   Здійсніть еволюцію у гнізді королеви"
+  },
+  {
+    "id": "STR_PSISTORM_TECH",
+    "Key": "STR_PSISTORM_TECH",
+    "Value": "Психічний шторм"
+  },
+  {
+    "id": "STR_HALLUCINATION_TECH",
+    "Key": "STR_HALLUCINATION_TECH",
+    "Value": "Галюцинація"
+  },
+  {
+    "id": "STR_RECALL_TECH",
+    "Key": "STR_RECALL_TECH",
+    "Value": "Відкликання"
+  },
+  {
+    "id": "STR_STASIS_TECH",
+    "Key": "STR_STASIS_TECH",
+    "Value": "Стазис-пол"
+  },
+  {
+    "id": "STR_ARCHON_TECH",
+    "Key": "STR_ARCHON_TECH",
+    "Value": "Перетворення на архонта"
+  },
+  {
+    "id": "STR_RSRCH_PSISTORM",
+    "Key": "STR_RSRCH_PSISTORM",
+    "Value": "p\\u0004Розробити психічний шторм\\n (здібність тамплієрів)"
+  },
+  {
+    "id": "STR_RSRCH_HALLUCINATION",
+    "Key": "STR_RSRCH_HALLUCINATION",
+    "Value": "h\\u0004Розробити галюцинацію\\n (здібність тамплієрів)"
+  },
+  {
+    "id": "STR_RSRCH_RECALL",
+    "Key": "STR_RSRCH_RECALL",
+    "Value": "r\\u0004Розробити відкликання\\n (здібність верховних суддів)"
+  },
+  {
+    "id": "STR_RSRCH_STASIS",
+    "Key": "STR_RSRCH_STASIS",
+    "Value": "s\\u0004Розробити стазис-поле\\n (здібність верховних суддів)"
+  },
+  {
+    "id": "STR_RSRCH_SUMMON_ARCHON",
+    "Key": "STR_RSRCH_SUMMON_ARCHON",
+    "Value": "a\\u0004Розробити перетворення на архонта\\n (здібність тамплієрів)"
+  },
+  {
+    "id": "STR_PSISTORM",
+    "Key": "STR_PSISTORM",
+    "Value": "t\\u0003Утворити психічний шторм"
+  },
+  {
+    "id": "STR_HALLUCINATION",
+    "Key": "STR_HALLUCINATION",
+    "Value": "l\\u0003Створити галюцинацію"
+  },
+  {
+    "id": "STR_RECALL",
+    "Key": "STR_RECALL",
+    "Value": "r\\u0003Відкликати одиниці"
+  },
+  {
+    "id": "STR_STASIS",
+    "Key": "STR_STASIS",
+    "Value": "t\\u0003Утворити стазис-поле"
+  },
+  {
+    "id": "STR_MAKE_P_ARCHON",
+    "Key": "STR_MAKE_P_ARCHON",
+    "Value": "r\\u0001Перетворитися на архонта"
+  },
+  {
+    "id": "STR_PSISTORM_REQ",
+    "Key": "STR_PSISTORM_REQ",
+    "Value": "Псіонічний шторм\\n   Розробіть в архівах тамплієрів"
+  },
+  {
+    "id": "STR_HALLUC_REQ",
+    "Key": "STR_HALLUC_REQ",
+    "Value": "Галюцинація\\n   Розробіть у архівах тамплієрів"
+  },
+  {
+    "id": "STR_RECALL_REQ",
+    "Key": "STR_RECALL_REQ",
+    "Value": "Відкликання\\n   Розробіть у верховному суді"
+  },
+  {
+    "id": "STR_STASIS_REQ",
+    "Key": "STR_STASIS_REQ",
+    "Value": "Стазис-поле\\n   Розробіть у верховному суді"
+  },
+  {
+    "id": "STR_ARCHON0_REQ",
+    "Key": "STR_ARCHON0_REQ",
+    "Value": "Перетворення на архонта\\n   Розробіть в архівах тамплієрів"
+  },
+  {
+    "id": "STR_ARCHON1_REQ",
+    "Key": "STR_ARCHON1_REQ",
+    "Value": "Перетворення на архонта\\n   Оберіть двох чи більше тамплієрів"
+  },
+  {
+    "id": "STR_T_ARMOR",
+    "Key": "STR_T_ARMOR",
+    "Value": "Броня терранської піхоти"
+  },
+  {
+    "id": "STR_T_VEHICLE_PLATING",
+    "Key": "STR_T_VEHICLE_PLATING",
+    "Value": "Обшивка терранської техніки"
+  },
+  {
+    "id": "STR_T_SHIP_PLATING",
+    "Key": "STR_T_SHIP_PLATING",
+    "Value": "Обшивка терранських космічних кораблів"
+  },
+  {
+    "id": "STR_Z_CARAPACE",
+    "Key": "STR_Z_CARAPACE",
+    "Value": "Карапакс зерґів"
+  },
+  {
+    "id": "STR_Z_PLATING",
+    "Key": "STR_Z_PLATING",
+    "Value": "Карапакс зерґів-літунів"
+  },
+  {
+    "id": "STR_P_ARMOR",
+    "Key": "STR_P_ARMOR",
+    "Value": "Броня протоссів"
+  },
+  {
+    "id": "STR_P_PLATING",
+    "Key": "STR_P_PLATING",
+    "Value": "Захисна обшивка протоссів"
+  },
+  {
+    "id": "STR_T_MAN_GUNS",
+    "Key": "STR_T_MAN_GUNS",
+    "Value": "Озброєння терранської піхоти"
+  },
+  {
+    "id": "STR_T_VEHICLE_GUNS",
+    "Key": "STR_T_VEHICLE_GUNS",
+    "Value": "Озброєння терранської техніки"
+  },
+  {
+    "id": "STR_T_SHIP_GUNS",
+    "Key": "STR_T_SHIP_GUNS",
+    "Value": "Озброєння терранських кораблів"
+  },
+  {
+    "id": "STR_Z_MELEE_ATTACKS",
+    "Key": "STR_Z_MELEE_ATTACKS",
+    "Value": "Зброя ближнього бою зерґів"
+  },
+  {
+    "id": "STR_Z_MISSILE_ATTACKS",
+    "Key": "STR_Z_MISSILE_ATTACKS",
+    "Value": "Ракетна зброя зерґів"
+  },
+  {
+    "id": "STR_Z_FLYER_ATTACKS",
+    "Key": "STR_Z_FLYER_ATTACKS",
+    "Value": "Повітряна зброя зерґів"
+  },
+  {
+    "id": "STR_P_GND_WEAPONS",
+    "Key": "STR_P_GND_WEAPONS",
+    "Value": "Наземне озброєння протоссів"
+  },
+  {
+    "id": "STR_P_AIR_WEAPONS",
+    "Key": "STR_P_AIR_WEAPONS",
+    "Value": "Повітряне озброєння протоссів"
+  },
+  {
+    "id": "STR_P_SHIELDS",
+    "Key": "STR_P_SHIELDS",
+    "Value": "Плазма-щити протоссів"
+  },
+  {
+    "id": "STR_MARINE_GUN_RANGE",
+    "Key": "STR_MARINE_GUN_RANGE",
+    "Value": "Набої U-238 зі збідненого урану"
+  },
+  {
+    "id": "STR_VULTURE_SPEED",
+    "Key": "STR_VULTURE_SPEED",
+    "Value": "Йонні рушії"
+  },
+  {
+    "id": "STR_WRAITH_WEAPON",
+    "Key": "STR_WRAITH_WEAPON",
+    "Value": "Лазерні гармати"
+  },
+  {
+    "id": "STR_VESSEL_ENERGY",
+    "Key": "STR_VESSEL_ENERGY",
+    "Value": "Титановий реактор"
+  },
+  {
+    "id": "STR_GHOST_SIGHT",
+    "Key": "STR_GHOST_SIGHT",
+    "Value": "Очні імплантанти"
+  },
+  {
+    "id": "STR_GHOST_ENERGY",
+    "Key": "STR_GHOST_ENERGY",
+    "Value": "Реактор Мебіуса"
+  },
+  {
+    "id": "STR_WRAITH_ENERGY",
+    "Key": "STR_WRAITH_ENERGY",
+    "Value": "Реактор Аполлона"
+  },
+  {
+    "id": "STR_CRUISER_ENERGY",
+    "Key": "STR_CRUISER_ENERGY",
+    "Value": "Реактор Колоса"
+  },
+  {
+    "id": "STR_OVERLORD_TRANSPORT",
+    "Key": "STR_OVERLORD_TRANSPORT",
+    "Value": "Черевні міхури"
+  },
+  {
+    "id": "STR_OVERLORD_SIGHT",
+    "Key": "STR_OVERLORD_SIGHT",
+    "Value": "Вусики"
+  },
+  {
+    "id": "STR_OVERLORD_SPEED",
+    "Key": "STR_OVERLORD_SPEED",
+    "Value": "Пневматизований карапакс"
+  },
+  {
+    "id": "STR_ZERGLING_SPEED",
+    "Key": "STR_ZERGLING_SPEED",
+    "Value": "Прискорення метаболізму"
+  },
+  {
+    "id": "STR_ZERGLING_ATTACK_SPEED",
+    "Key": "STR_ZERGLING_ATTACK_SPEED",
+    "Value": "Надниркові залози"
+  },
+  {
+    "id": "STR_HYDRALISK_SPEED",
+    "Key": "STR_HYDRALISK_SPEED",
+    "Value": "М'язові нарости"
+  },
+  {
+    "id": "STR_HYDRALISK_ATTACK_RANGE",
+    "Key": "STR_HYDRALISK_ATTACK_RANGE",
+    "Value": "Жолобчастий хребет"
+  },
+  {
+    "id": "STR_QUEEN_ENERGY",
+    "Key": "STR_QUEEN_ENERGY",
+    "Value": "Гаметний мейоз"
+  },
+  {
+    "id": "STR_DEFILER_ENERGY",
+    "Key": "STR_DEFILER_ENERGY",
+    "Value": "Метасинаптичний вузол"
+  },
+  {
+    "id": "STR_DRAGOON_ATTACK_RANGE",
+    "Key": "STR_DRAGOON_ATTACK_RANGE",
+    "Value": "Заряд сингулярності"
+  },
+  {
+    "id": "STR_ZEALOT_SPEED",
+    "Key": "STR_ZEALOT_SPEED",
+    "Value": "Імпланти для ніг"
+  },
+  {
+    "id": "STR_SCARAB_DAMAGE",
+    "Key": "STR_SCARAB_DAMAGE",
+    "Value": "Збільшення шкоди від скарабеїв"
+  },
+  {
+    "id": "STR_REAVER_CAPACITY",
+    "Key": "STR_REAVER_CAPACITY",
+    "Value": "Збільшення місткості мародерів"
+  },
+  {
+    "id": "STR_SHUTTLE_SPEED",
+    "Key": "STR_SHUTTLE_SPEED",
+    "Value": "Гравітаційний привід"
+  },
+  {
+    "id": "STR_OBSERVER_SIGHT",
+    "Key": "STR_OBSERVER_SIGHT",
+    "Value": "Сенсорний масив"
+  },
+  {
+    "id": "STR_OBSERVER_SPEED",
+    "Key": "STR_OBSERVER_SPEED",
+    "Value": "Гравітаційні підсилювачі"
+  },
+  {
+    "id": "STR_TEMPLAR_ENERGY",
+    "Key": "STR_TEMPLAR_ENERGY",
+    "Value": "Амулет з кристалом Кейдерин"
+  },
+  {
+    "id": "STR_SCOUT_SIGHT",
+    "Key": "STR_SCOUT_SIGHT",
+    "Value": "Апіальні сенсори"
+  },
+  {
+    "id": "STR_SCOUT_SPEED",
+    "Key": "STR_SCOUT_SPEED",
+    "Value": "Гравітаційні дроселі"
+  },
+  {
+    "id": "STR_CARRIER_CAPACITY",
+    "Key": "STR_CARRIER_CAPACITY",
+    "Value": "Місткість крейсерів"
+  },
+  {
+    "id": "STR_ARBITER_ENERGY",
+    "Key": "STR_ARBITER_ENERGY",
+    "Value": "Ядро Кейдерин"
+  },
+  {
+    "id": "STR_UP_T_ARMOR",
+    "Key": "STR_UP_T_ARMOR",
+    "Value": "a\\u0002Поліпшити броню піхоти"
+  },
+  {
+    "id": "STR_UP_T_VEHICLE_PLATING",
+    "Key": "STR_UP_T_VEHICLE_PLATING",
+    "Value": "p\\u0002Поліпшити обшивку техніки"
+  },
+  {
+    "id": "STR_UP_T_SHIP_PLATING",
+    "Key": "STR_UP_T_SHIP_PLATING",
+    "Value": "h\\u0002Поліпшити обшивку кораблів"
+  },
+  {
+    "id": "STR_UP_Z_CARAPACE",
+    "Key": "STR_UP_Z_CARAPACE",
+    "Value": "c\\u0002Здійснити еволюцію карапакса"
+  },
+  {
+    "id": "STR_UP_Z_PLATING",
+    "Key": "STR_UP_Z_PLATING",
+    "Value": "c\\u0002Здійснити еволюцію карапакса літунів"
+  },
+  {
+    "id": "STR_UP_P_ARMOR",
+    "Key": "STR_UP_P_ARMOR",
+    "Value": "a\\u0002Поліпшити броню наземних одиниць"
+  },
+  {
+    "id": "STR_UP_P_PLATING",
+    "Key": "STR_UP_P_PLATING",
+    "Value": "a\\u0002Поліпшити броню повітряних одиниць"
+  },
+  {
+    "id": "STR_UP_T_MAN_GUNS",
+    "Key": "STR_UP_T_MAN_GUNS",
+    "Value": "w\\u0002Поліпшити озброєння піхоти"
+  },
+  {
+    "id": "STR_UP_T_VEHICLE_GUNS",
+    "Key": "STR_UP_T_VEHICLE_GUNS",
+    "Value": "w\\u0002Поліпшити озброєння техніки"
+  },
+  {
+    "id": "STR_UP_T_SHIP_GUNS",
+    "Key": "STR_UP_T_SHIP_GUNS",
+    "Value": "s\\u0002Поліпшити озброєння кораблів"
+  },
+  {
+    "id": "STR_UP_Z_MELEE_ATTACKS",
+    "Key": "STR_UP_Z_MELEE_ATTACKS",
+    "Value": "m\\u0002Поліпшити зброю ближнього бою"
+  },
+  {
+    "id": "STR_UP_Z_MISSILE_ATTACKS",
+    "Key": "STR_UP_Z_MISSILE_ATTACKS",
+    "Value": "a\\u0002Поліпшити ракетну зброю"
+  },
+  {
+    "id": "STR_UP_Z_FLYER_ATTACKS",
+    "Key": "STR_UP_Z_FLYER_ATTACKS",
+    "Value": "a\\u0002Поліпшити зброю повітряних одиниць"
+  },
+  {
+    "id": "STR_UP_P_GND_WEAPONS",
+    "Key": "STR_UP_P_GND_WEAPONS",
+    "Value": "w\\u0002Поліпшити озброєння наземних одиниць"
+  },
+  {
+    "id": "STR_UP_P_AIR_WEAPONS",
+    "Key": "STR_UP_P_AIR_WEAPONS",
+    "Value": "w\\u0002Поліпшити озброєння повітряних одиниць"
+  },
+  {
+    "id": "STR_UP_P_SHIELDS",
+    "Key": "STR_UP_P_SHIELDS",
+    "Value": "s\\u0002Поліпшити плазма-щити"
+  },
+  {
+    "id": "STR_UP_MARINE_GUN_RANGE",
+    "Key": "STR_UP_MARINE_GUN_RANGE",
+    "Value": "u\\u0002Дослідити набої U1-238 зі збідненого урану\\n (збільшує дальність атаки морпіхів)"
+  },
+  {
+    "id": "STR_UP_VULTURE_SPEED",
+    "Key": "STR_UP_VULTURE_SPEED",
+    "Value": "i\\u0002Дослідити йонні рушії\\n (збільшує швидкість грифів)"
+  },
+  {
+    "id": "STR_UP_WRAITH_WEAPON",
+    "Key": "STR_UP_WRAITH_WEAPON",
+    "Value": "b\\u0002Дослідити лазерні гармати\\n (зброя примар)"
+  },
+  {
+    "id": "STR_UP_VESSEL_ENERGY",
+    "Key": "STR_UP_VESSEL_ENERGY",
+    "Value": "t\\u0002Дослідити титановий реактор\\n (+50 од. до запасу енергії наукових суден)"
+  },
+  {
+    "id": "STR_UP_GHOST_SIGHT",
+    "Key": "STR_UP_GHOST_SIGHT",
+    "Value": "o\\u0002Дослідити очні імплантанти\\n (збільшує далекоглядність привидів)"
+  },
+  {
+    "id": "STR_UP_GHOST_ENERGY",
+    "Key": "STR_UP_GHOST_ENERGY",
+    "Value": "m\\u0002Дослідити реактор Мебіуса\\n (+50 од. до запасу енергії привидів)"
+  },
+  {
+    "id": "STR_UP_WRAITH_ENERGY",
+    "Key": "STR_UP_WRAITH_ENERGY",
+    "Value": "a\\u0002Дослідити реактор Аполлона\\n (+50 од. до запасу енергії примар)"
+  },
+  {
+    "id": "STR_UP_CRUISER_ENERGY",
+    "Key": "STR_UP_CRUISER_ENERGY",
+    "Value": "c\\u0002Дослідити реактор Колоса\\n (+50 до енергії бойових крейсерів)"
+  },
+  {
+    "id": "STR_UP_OVERLORD_TRANSPORT",
+    "Key": "STR_UP_OVERLORD_TRANSPORT",
+    "Value": "v\\u0002Здійснити еволюцію черевних міхурів\\n (Дозволяє володарям транспортувати одиниці)"
+  },
+  {
+    "id": "STR_UP_OVERLORD_SIGHT",
+    "Key": "STR_UP_OVERLORD_SIGHT",
+    "Value": "a\\u0002Здійснити еволюцію вусиків\\n (збільшує далекоглядність володарів)"
+  },
+  {
+    "id": "STR_UP_OVERLORD_SPEED",
+    "Key": "STR_UP_OVERLORD_SPEED",
+    "Value": "p\\u0002Здійснити еволюцію пневматизованого карапакса\\n (суттєво пришвидшує володарів)"
+  },
+  {
+    "id": "STR_UP_ZERGLING_SPEED",
+    "Key": "STR_UP_ZERGLING_SPEED",
+    "Value": "m\\u0002Здійснити еволюцію прискорення метаболізму\\n (пришвидшує зерґлінгів)"
+  },
+  {
+    "id": "STR_UP_ZERGLING_ATTACK_SPEED",
+    "Key": "STR_UP_ZERGLING_ATTACK_SPEED",
+    "Value": "a\\u0002Здійснити еволюцію надниркових залоз\\n (пришвидшує атаки зерґлінгів)"
+  },
+  {
+    "id": "STR_UP_HYDRALISK_SPEED",
+    "Key": "STR_UP_HYDRALISK_SPEED",
+    "Value": "m\\u0002Здійснити еволюцію м'язових наростів\\n (пришвидшує гідралисків)"
+  },
+  {
+    "id": "STR_UP_HYDRALISK_ATTACK_RANGE",
+    "Key": "STR_UP_HYDRALISK_ATTACK_RANGE",
+    "Value": "g\\u0002Здійснити еволюцію жолобчастого хребта\\n (збільшує радіус атаки гідралисків)"
+  },
+  {
+    "id": "STR_UP_QUEEN_ENERGY",
+    "Key": "STR_UP_QUEEN_ENERGY",
+    "Value": "g\\u0002Здійснити еволюцію гаметного мейозу\\n (+50 од. до запасу енергії королев)"
+  },
+  {
+    "id": "STR_UP_DEFILER_ENERGY",
+    "Key": "STR_UP_DEFILER_ENERGY",
+    "Value": "m\\u0002Здійснити еволюцію метасинаптичного вузла\\n (+50 од. до запасу енергії осквернителів)"
+  },
+  {
+    "id": "STR_UP_DRAGOON_ATTACK_RANGE",
+    "Key": "STR_UP_DRAGOON_ATTACK_RANGE",
+    "Value": "s\\u0002Розробити заряд сингулярності\\n (збільшує дальність атаки драгунів)"
+  },
+  {
+    "id": "STR_UP_ZEALOT_SPEED",
+    "Key": "STR_UP_ZEALOT_SPEED",
+    "Value": "l\\u0002Розробити покращення ніг\\n (збільшує швидкість фанатиків)"
+  },
+  {
+    "id": "STR_UP_SCARAB_DAMAGE",
+    "Key": "STR_UP_SCARAB_DAMAGE",
+    "Value": "s\\u0002Збільшити шкоду від скарабеїв"
+  },
+  {
+    "id": "STR_UP_REAVER_CAPACITY",
+    "Key": "STR_UP_REAVER_CAPACITY",
+    "Value": "c\\u0002Збільшити місткість мародерів\\n (+5 до максимальної кількості скарабеїв)"
+  },
+  {
+    "id": "STR_UP_SHUTTLE_SPEED",
+    "Key": "STR_UP_SHUTTLE_SPEED",
+    "Value": "g\\u0002Розробити гравітаційний привід\\n (збільшує швидкість шатлів)"
+  },
+  {
+    "id": "STR_UP_OBSERVER_SIGHT",
+    "Key": "STR_UP_OBSERVER_SIGHT",
+    "Value": "s\\u0002Розробити сенсорний масив\\n (збільшує далекоглядність спостерігачів)"
+  },
+  {
+    "id": "STR_UP_OBSERVER_SPEED",
+    "Key": "STR_UP_OBSERVER_SPEED",
+    "Value": "g\\u0002Розробити гравітаційні підсилювачі\\n (збільшує швидкість спостерігачів)"
+  },
+  {
+    "id": "STR_UP_TEMPLAR_ENERGY",
+    "Key": "STR_UP_TEMPLAR_ENERGY",
+    "Value": "k\\u0002Розробити амулети з кристалами Кейдерин\\n (+50 од. до запасу енергії тамплієрів)"
+  },
+  {
+    "id": "STR_UP_SCOUT_SIGHT",
+    "Key": "STR_UP_SCOUT_SIGHT",
+    "Value": "a\\u0002Розробити апіальні сенсори\\n (збільшує далекоглядність розвідників)"
+  },
+  {
+    "id": "STR_UP_SCOUT_SPEED",
+    "Key": "STR_UP_SCOUT_SPEED",
+    "Value": "g\\u0002Розробити гравітаційні дроселі\\n (збільшує швидкість розвідників)"
+  },
+  {
+    "id": "STR_UP_CARRIER_CAPACITY",
+    "Key": "STR_UP_CARRIER_CAPACITY",
+    "Value": "c\\u0002Збільшити місткість крейсерів\\n (+4 до максимальної кількості перехоплювачів)"
+  },
+  {
+    "id": "STR_UP_ARBITER_ENERGY",
+    "Key": "STR_UP_ARBITER_ENERGY",
+    "Value": "k\\u0002Розробити ядро Кейдерин\\n (+50 од. до запасу енергії верховних суддів)"
+  },
+  {
+    "id": "STR_UP_TARMOR_REQ",
+    "Key": "STR_UP_TARMOR_REQ",
+    "Value": "Броня піхоти першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_TARMOR_REQ-1",
+    "Key": "STR_UP_TARMOR_REQ-1",
+    "Value": "Броня піхоти другого рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TARMOR_REQ-2",
+    "Key": "STR_UP_TARMOR_REQ-2",
+    "Value": "Броня піхоти третього рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TMANGUNS_REQ",
+    "Key": "STR_UP_TMANGUNS_REQ",
+    "Value": "Озброєння піхоти першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_TMANGUNS_REQ-1",
+    "Key": "STR_UP_TMANGUNS_REQ-1",
+    "Value": "Озброєння піхоти другого рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TMANGUNS_REQ-2",
+    "Key": "STR_UP_TMANGUNS_REQ-2",
+    "Value": "Озброєння піхоти третього рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TVEHICLEGUNS_REQ",
+    "Key": "STR_UP_TVEHICLEGUNS_REQ",
+    "Value": "Озброєння техніки першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_TVEHICLEGUNS_REQ-1",
+    "Key": "STR_UP_TVEHICLEGUNS_REQ-1",
+    "Value": "Озброєння техніки другого рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TVEHICLEGUNS_REQ-2",
+    "Key": "STR_UP_TVEHICLEGUNS_REQ-2",
+    "Value": "Озброєння техніки третього рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TVEHICLEPLATING_REQ",
+    "Key": "STR_UP_TVEHICLEPLATING_REQ",
+    "Value": "Обшивка техніки першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_TVEHICLEPLATING_REQ-1",
+    "Key": "STR_UP_TVEHICLEPLATING_REQ-1",
+    "Value": "Обшивка техніки другого рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TVEHICLEPLATING_REQ-2",
+    "Key": "STR_UP_TVEHICLEPLATING_REQ-2",
+    "Value": "Обшивка техніки третього рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TSHIPGUNS_REQ",
+    "Key": "STR_UP_TSHIPGUNS_REQ",
+    "Value": "Озброєння кораблів першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_TSHIPGUNS_REQ-1",
+    "Key": "STR_UP_TSHIPGUNS_REQ-1",
+    "Value": "Озброєння кораблів другого рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TSHIPGUNS_REQ-2",
+    "Key": "STR_UP_TSHIPGUNS_REQ-2",
+    "Value": "Озброєння кораблів третього рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TSHIPPLATING_REQ",
+    "Key": "STR_UP_TSHIPPLATING_REQ",
+    "Value": "Обшивка кораблів першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_TSHIPPLATING_REQ-1",
+    "Key": "STR_UP_TSHIPPLATING_REQ-1",
+    "Value": "Обшивка кораблів другого рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_TSHIPPLATING_REQ-2",
+    "Key": "STR_UP_TSHIPPLATING_REQ-2",
+    "Value": "Обшивка кораблів третього рівню потребує:\\n   Наукового центру"
+  },
+  {
+    "id": "STR_UP_ZMELEE_REQ",
+    "Key": "STR_UP_ZMELEE_REQ",
+    "Value": "Зброя ближнього бою першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_ZMELEE_REQ-1",
+    "Key": "STR_UP_ZMELEE_REQ-1",
+    "Value": "Зброя ближнього бою другого рівню потребує:\\n   Лігва"
+  },
+  {
+    "id": "STR_UP_ZMELEE_REQ-2",
+    "Key": "STR_UP_ZMELEE_REQ-2",
+    "Value": "Зброя ближнього бою третього рівню потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_UP_ZMISSILE_REQ",
+    "Key": "STR_UP_ZMISSILE_REQ",
+    "Value": "Ракетна зброя першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_ZMISSILE_REQ-1",
+    "Key": "STR_UP_ZMISSILE_REQ-1",
+    "Value": "Ракетна зброя другого рівню потребує:\\n   Лігва"
+  },
+  {
+    "id": "STR_UP_ZMISSILE_REQ-2",
+    "Key": "STR_UP_ZMISSILE_REQ-2",
+    "Value": "Ракетна зброя третього рівню потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_UP_ZARMOR_REQ",
+    "Key": "STR_UP_ZARMOR_REQ",
+    "Value": "Карапакс першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_ZARMOR_REQ-1",
+    "Key": "STR_UP_ZARMOR_REQ-1",
+    "Value": "Карапакс другого рівню потребує:\\n   Лігва"
+  },
+  {
+    "id": "STR_UP_ZARMOR_REQ-2",
+    "Key": "STR_UP_ZARMOR_REQ-2",
+    "Value": "Карапакс третього рівню потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_UP_ZFLYERATTACKS_REQ",
+    "Key": "STR_UP_ZFLYERATTACKS_REQ",
+    "Value": "Зброя літунів першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_ZFLYERATTACKS_REQ-1",
+    "Key": "STR_UP_ZFLYERATTACKS_REQ-1",
+    "Value": "Зброя літунів другого рівню потребує:\\n   Лігва"
+  },
+  {
+    "id": "STR_UP_ZFLYERATTACKS_REQ-2",
+    "Key": "STR_UP_ZFLYERATTACKS_REQ-2",
+    "Value": "Зброя літунів третього рівню потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_UP_ZCARAPACE_REQ",
+    "Key": "STR_UP_ZCARAPACE_REQ",
+    "Value": "Карапакс літунів першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_ZCARAPACE_REQ-1",
+    "Key": "STR_UP_ZCARAPACE_REQ-1",
+    "Value": "Карапакс літунів другого рівню потребує:\\n   Лігва"
+  },
+  {
+    "id": "STR_UP_ZCARAPACE_REQ-2",
+    "Key": "STR_UP_ZCARAPACE_REQ-2",
+    "Value": "Карапакс літунів третього рівню потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_UP_ZERGLINGATTACKSPEED_REQ",
+    "Key": "STR_UP_ZERGLINGATTACKSPEED_REQ",
+    "Value": "Надниркові залози потребують:\\n   Вулика"
+  },
+  {
+    "id": "STR_UP_PGNDWEAPONS_REQ",
+    "Key": "STR_UP_PGNDWEAPONS_REQ",
+    "Value": "Озброєння наземних одиниць першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_PGNDWEAPONS_REQ-1",
+    "Key": "STR_UP_PGNDWEAPONS_REQ-1",
+    "Value": "Озброєння наземних одиниць другого рівню потребує:\\n   Архіву тамплієрів"
+  },
+  {
+    "id": "STR_UP_PGNDWEAPONS_REQ-2",
+    "Key": "STR_UP_PGNDWEAPONS_REQ-2",
+    "Value": "Озброєння наземних одиниць третього рівню потребує:\\n   Архіву тамплієрів"
+  },
+  {
+    "id": "STR_UP_PAIRWEAPONS_REQ",
+    "Key": "STR_UP_PAIRWEAPONS_REQ",
+    "Value": "Озброєння повітряних одиниць першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_PAIRWEAPONS_REQ-1",
+    "Key": "STR_UP_PAIRWEAPONS_REQ-1",
+    "Value": "Озброєння повітряних одиниць другого рівню потребує:\\n   Маяка флоту"
+  },
+  {
+    "id": "STR_UP_PAIRWEAPONS_REQ-2",
+    "Key": "STR_UP_PAIRWEAPONS_REQ-2",
+    "Value": "Озброєння повітряних одиниць третього рівню потребує:\\n   Маяка флоту"
+  },
+  {
+    "id": "STR_UP_PGNDARMOR_REQ",
+    "Key": "STR_UP_PGNDARMOR_REQ",
+    "Value": "Броня наземних одиниць першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_PGNDARMOR_REQ-1",
+    "Key": "STR_UP_PGNDARMOR_REQ-1",
+    "Value": "Броня наземних одиниць другого рівню потребує:\\n   Архіву тамплієрів"
+  },
+  {
+    "id": "STR_UP_PGNDARMOR_REQ-2",
+    "Key": "STR_UP_PGNDARMOR_REQ-2",
+    "Value": "Броня наземних одиниць третього рівню потребує:\\n   Архіву тамплієрів"
+  },
+  {
+    "id": "STR_UP_PAIRARMOR_REQ",
+    "Key": "STR_UP_PAIRARMOR_REQ",
+    "Value": "Броня повітряних одиниць першого рівню потребує:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_PAIRARMOR_REQ-1",
+    "Key": "STR_UP_PAIRARMOR_REQ-1",
+    "Value": "Броня повітряних одиниць другого рівню потребує:\\n   Маяка флоту"
+  },
+  {
+    "id": "STR_UP_PAIRARMOR_REQ-2",
+    "Key": "STR_UP_PAIRARMOR_REQ-2",
+    "Value": "Броня повітряних одиниць третього рівню потребує:\\n   Маяка флоту"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ",
+    "Key": "STR_UP_PSHIELDS_REQ",
+    "Value": "Щити першого рівню потребують:\\n   Нічого"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-1",
+    "Key": "STR_UP_PSHIELDS_REQ-1",
+    "Value": "Щити другого рівню потребують:\\n   Кібернетичного ядра"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-2",
+    "Key": "STR_UP_PSHIELDS_REQ-2",
+    "Value": "Щити третього рівню потребують:\\n   Кібернетичного ядра"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-3",
+    "Key": "STR_UP_PSHIELDS_REQ-3",
+    "Value": "Рекрут"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-4",
+    "Key": "STR_UP_PSHIELDS_REQ-4",
+    "Value": "Рядовий"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-5",
+    "Key": "STR_UP_PSHIELDS_REQ-5",
+    "Value": "Рядовий"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-6",
+    "Key": "STR_UP_PSHIELDS_REQ-6",
+    "Value": "Рядовий"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-7",
+    "Key": "STR_UP_PSHIELDS_REQ-7",
+    "Value": "Оперативник"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-8",
+    "Key": "STR_UP_PSHIELDS_REQ-8",
+    "Value": "Сержант"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-9",
+    "Key": "STR_UP_PSHIELDS_REQ-9",
+    "Value": "Перший сержант"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-10",
+    "Key": "STR_UP_PSHIELDS_REQ-10",
+    "Value": "Майстер-сержант"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-11",
+    "Key": "STR_UP_PSHIELDS_REQ-11",
+    "Value": "Ворент-офіцер"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-12",
+    "Key": "STR_UP_PSHIELDS_REQ-12",
+    "Value": "Капітан"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-13",
+    "Key": "STR_UP_PSHIELDS_REQ-13",
+    "Value": "Майор"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-14",
+    "Key": "STR_UP_PSHIELDS_REQ-14",
+    "Value": "Лейтенант-командер"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-15",
+    "Key": "STR_UP_PSHIELDS_REQ-15",
+    "Value": "Перший сержант"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-16",
+    "Key": "STR_UP_PSHIELDS_REQ-16",
+    "Value": "Сержант-майор"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-17",
+    "Key": "STR_UP_PSHIELDS_REQ-17",
+    "Value": "Полковник"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-18",
+    "Key": "STR_UP_PSHIELDS_REQ-18",
+    "Value": "Командор"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-19",
+    "Key": "STR_UP_PSHIELDS_REQ-19",
+    "Value": "Маршал"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-20",
+    "Key": "STR_UP_PSHIELDS_REQ-20",
+    "Value": "Лейтенант"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-21",
+    "Key": "STR_UP_PSHIELDS_REQ-21",
+    "Value": "Генерал"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-22",
+    "Key": "STR_UP_PSHIELDS_REQ-22",
+    "Value": "Капітан Рейнор"
+  },
+  {
+    "id": "STR_UP_PSHIELDS_REQ-23",
+    "Key": "STR_UP_PSHIELDS_REQ-23",
+    "Value": "Генерал Дюк"
+  },
+  {
+    "id": "STR_HERO_BC_RANK",
+    "Key": "STR_HERO_BC_RANK",
+    "Value": "Адмірал"
+  },
+  {
+    "id": "STR_GANTRITHOR_RANK",
+    "Key": "STR_GANTRITHOR_RANK",
+    "Value": "Тассадар"
+  },
+  {
+    "id": "STR_INTERCEPTOR",
+    "Key": "STR_INTERCEPTOR",
+    "Value": "Перехоплювачі"
+  },
+  {
+    "id": "STR_ESCAPE",
+    "Key": "STR_ESCAPE",
+    "Value": "ESC"
+  },
+  {
+    "id": "STR_MAKE_Z_ZERGLING",
+    "Key": "STR_MAKE_Z_ZERGLING",
+    "Value": "z\\u0001Мутувати у зерґлінгів"
+  },
+  {
+    "id": "STR_MAKE_Z_HYDRALISK",
+    "Key": "STR_MAKE_Z_HYDRALISK",
+    "Value": "h\\u0001Мутувати у гідралиска"
+  },
+  {
+    "id": "STR_MAKE_Z_ULTRALISK",
+    "Key": "STR_MAKE_Z_ULTRALISK",
+    "Value": "u\\u0001Мутувати в ультралиска"
+  },
+  {
+    "id": "STR_MAKE_Z_DRONE",
+    "Key": "STR_MAKE_Z_DRONE",
+    "Value": "d\\u0001Мутувати у трутня"
+  },
+  {
+    "id": "STR_MAKE_Z_OVERLORD",
+    "Key": "STR_MAKE_Z_OVERLORD",
+    "Value": "o\\u0001Мутувати у володаря"
+  },
+  {
+    "id": "STR_MAKE_Z_MUTALID",
+    "Key": "STR_MAKE_Z_MUTALID",
+    "Value": "m\\u0001Мутувати у муталиска"
+  },
+  {
+    "id": "STR_GUARDIAN_ASPECT",
+    "Key": "STR_GUARDIAN_ASPECT",
+    "Value": "g\\u0005Мутувати у захистника"
+  },
+  {
+    "id": "STR_MAKE_Z_QUEEN",
+    "Key": "STR_MAKE_Z_QUEEN",
+    "Value": "q\\u0001Мутувати у королеву"
+  },
+  {
+    "id": "STR_MAKE_Z_DEFILER",
+    "Key": "STR_MAKE_Z_DEFILER",
+    "Value": "f\\u0001Мутувати в осквернителя"
+  },
+  {
+    "id": "STR_MAKE_Z_AVENGER",
+    "Key": "STR_MAKE_Z_AVENGER",
+    "Value": "s\\u0001Мутувати у батіг"
+  },
+  {
+    "id": "STR_MAKE_Z_INFESTED",
+    "Key": "STR_MAKE_Z_INFESTED",
+    "Value": "i\\u0001Породити зараженого террана"
+  },
+  {
+    "id": "STR_MAKE_T_MARINE",
+    "Key": "STR_MAKE_T_MARINE",
+    "Value": "m\\u0001Тренувати морпіха"
+  },
+  {
+    "id": "STR_MAKE_T_GHOST",
+    "Key": "STR_MAKE_T_GHOST",
+    "Value": "g\\u0001Тренувати привида"
+  },
+  {
+    "id": "STR_MAKE_T_FIREBAT",
+    "Key": "STR_MAKE_T_FIREBAT",
+    "Value": "f\\u0001Тренувати вогнеметника"
+  },
+  {
+    "id": "STR_MAKE_T_VULTURE",
+    "Key": "STR_MAKE_T_VULTURE",
+    "Value": "v\\u0001Збудувати грифа"
+  },
+  {
+    "id": "STR_MAKE_T_GOLIATH",
+    "Key": "STR_MAKE_T_GOLIATH",
+    "Value": "g\\u0001Збудувати голіафа"
+  },
+  {
+    "id": "STR_MAKE_T_TANK",
+    "Key": "STR_MAKE_T_TANK",
+    "Value": "t\\u0001Збудувати облоговий танк"
+  },
+  {
+    "id": "STR_MAKE_T_SCV",
+    "Key": "STR_MAKE_T_SCV",
+    "Value": "s\\u0001Збудувати КБМ"
+  },
+  {
+    "id": "STR_MAKE_T_WRAITH",
+    "Key": "STR_MAKE_T_WRAITH",
+    "Value": "w\\u0001Збудувати примару"
+  },
+  {
+    "id": "STR_MAKE_T_VESSEL",
+    "Key": "STR_MAKE_T_VESSEL",
+    "Value": "v\\u0001Збудувати наукове судно"
+  },
+  {
+    "id": "STR_MAKE_T_DROPSHIP",
+    "Key": "STR_MAKE_T_DROPSHIP",
+    "Value": "d\\u0001Збудувати десантний транспорт"
+  },
+  {
+    "id": "STR_MAKE_T_BCRUISER",
+    "Key": "STR_MAKE_T_BCRUISER",
+    "Value": "b\\u0001Збудувати бойовий крейсер"
+  },
+  {
+    "id": "STR_MAKE_T_NUKE",
+    "Key": "STR_MAKE_T_NUKE",
+    "Value": "n\\u0001Підготувати ядерну ракету"
+  },
+  {
+    "id": "STR_MAKE_P_OBSERVER",
+    "Key": "STR_MAKE_P_OBSERVER",
+    "Value": "o\\u0001Збудувати спостерігача"
+  },
+  {
+    "id": "STR_MAKE_P_PROBE",
+    "Key": "STR_MAKE_P_PROBE",
+    "Value": "p\\u0001Збудувати зонд"
+  },
+  {
+    "id": "STR_MAKE_P_ZEALOT",
+    "Key": "STR_MAKE_P_ZEALOT",
+    "Value": "z\\u0001Телепортувати фанатика"
+  },
+  {
+    "id": "STR_MAKE_P_DRAGOON",
+    "Key": "STR_MAKE_P_DRAGOON",
+    "Value": "d\\u0001Телепортувати драгуна"
+  },
+  {
+    "id": "STR_MAKE_P_TEMPLAR",
+    "Key": "STR_MAKE_P_TEMPLAR",
+    "Value": "t\\u0001Телепортувати верховного тамплієра"
+  },
+  {
+    "id": "STR_MAKE_P_SHUTTLE",
+    "Key": "STR_MAKE_P_SHUTTLE",
+    "Value": "s\\u0001Збудувати шатл"
+  },
+  {
+    "id": "STR_MAKE_P_SCOUT",
+    "Key": "STR_MAKE_P_SCOUT",
+    "Value": "s\\u0001Телепортувати розвідника"
+  },
+  {
+    "id": "STR_MAKE_P_ARBITER",
+    "Key": "STR_MAKE_P_ARBITER",
+    "Value": "a\\u0001Телепортувати верховного суддю"
+  },
+  {
+    "id": "STR_MAKE_P_CARRIER",
+    "Key": "STR_MAKE_P_CARRIER",
+    "Value": "c\\u0001Телепортувати крейсер"
+  },
+  {
+    "id": "STR_MAKE_P_INTERCEPTOR",
+    "Key": "STR_MAKE_P_INTERCEPTOR",
+    "Value": "i\\u0001Збудувати перехоплювач"
+  },
+  {
+    "id": "STR_MAKE_P_REAVER",
+    "Key": "STR_MAKE_P_REAVER",
+    "Value": "v\\u0001Збудувати мародера"
+  },
+  {
+    "id": "STR_MAKE_P_SCARAB",
+    "Key": "STR_MAKE_P_SCARAB",
+    "Value": "r\\u0001Збудувати скарабея"
+  },
+  {
+    "id": "STR_MAKE_N_BIKER",
+    "Key": "STR_MAKE_N_BIKER",
+    "Value": "b\\u0001Найняти байкера"
+  },
+  {
+    "id": "STR_MAKE_N_GUNSHIP",
+    "Key": "STR_MAKE_N_GUNSHIP",
+    "Value": "g\\u0001Найняти бойовий корабель"
+  },
+  {
+    "id": "STR_MAKE_N_RAIDER",
+    "Key": "STR_MAKE_N_RAIDER",
+    "Value": "r\\u0001Найняти рейдера"
+  },
+  {
+    "id": "STR_BLD_HATCHERY",
+    "Key": "STR_BLD_HATCHERY",
+    "Value": "h\\u0001Перетворитися на інкубатор"
+  },
+  {
+    "id": "STR_BLD_CREEP_COLONY",
+    "Key": "STR_BLD_CREEP_COLONY",
+    "Value": "c\\u0001Перетворитися на колонію скверни"
+  },
+  {
+    "id": "STR_BLD_ZEXTRACTOR",
+    "Key": "STR_BLD_ZEXTRACTOR",
+    "Value": "e\\u0001Перетворитися на видобувач"
+  },
+  {
+    "id": "STR_BLD_SPAWNING",
+    "Key": "STR_BLD_SPAWNING",
+    "Value": "s\\u0001Перетворитися на початкову твань"
+  },
+  {
+    "id": "STR_BLD_EVO_CHAMBER",
+    "Key": "STR_BLD_EVO_CHAMBER",
+    "Value": "v\\u0001Перетворитися на еволюційну кімнату"
+  },
+  {
+    "id": "STR_BLD_HYDRA_DEN",
+    "Key": "STR_BLD_HYDRA_DEN",
+    "Value": "d\\u0001Перетворитися на барліг гідралисків"
+  },
+  {
+    "id": "STR_BLD_NYDUS",
+    "Key": "STR_BLD_NYDUS",
+    "Value": "n\\u0001Перетворитися на нідус-канал"
+  },
+  {
+    "id": "STR_BLD_SPIRE",
+    "Key": "STR_BLD_SPIRE",
+    "Value": "s\\u0001Перетворитися на шпиль"
+  },
+  {
+    "id": "STR_BLD_NEST",
+    "Key": "STR_BLD_NEST",
+    "Value": "q\\u0001Перетворитися на гніздо королеви"
+  },
+  {
+    "id": "STR_BLD_ULTRA_CAVERN",
+    "Key": "STR_BLD_ULTRA_CAVERN",
+    "Value": "u\\u0001Перетворитися на печеру ультралисків"
+  },
+  {
+    "id": "STR_BLD_DEFILER_MOUND",
+    "Key": "STR_BLD_DEFILER_MOUND",
+    "Value": "d\\u0001Перетворитися на курган осквернителів"
+  },
+  {
+    "id": "STR_BLD_LAIR",
+    "Key": "STR_BLD_LAIR",
+    "Value": "l\\u0001Перетворитися на лігво"
+  },
+  {
+    "id": "STR_BLD_HIVE",
+    "Key": "STR_BLD_HIVE",
+    "Value": "h\\u0001Перетворитися на вулик"
+  },
+  {
+    "id": "STR_BLD_GREATERSPIRE",
+    "Key": "STR_BLD_GREATERSPIRE",
+    "Value": "g\\u0001Перетворитися на вищий шпиль"
+  },
+  {
+    "id": "STR_BLD_SPORE_COLONY",
+    "Key": "STR_BLD_SPORE_COLONY",
+    "Value": "s\\u0001Перетворитися на спорову колонію"
+  },
+  {
+    "id": "STR_BLD_SUNKEN_COLONY",
+    "Key": "STR_BLD_SUNKEN_COLONY",
+    "Value": "u\\u0001Перетворитися на запалу колонію"
+  },
+  {
+    "id": "STR_NYDUS_EXIT",
+    "Key": "STR_NYDUS_EXIT",
+    "Value": "n\\u0007Розташувати вихід з нідус-каналу"
+  },
+  {
+    "id": "STR_BLD_NEXUS",
+    "Key": "STR_BLD_NEXUS",
+    "Value": "n\\u0001Телепортувати нексус"
+  },
+  {
+    "id": "STR_BLD_PYLON",
+    "Key": "STR_BLD_PYLON",
+    "Value": "p\\u0001Телепортувати пілон"
+  },
+  {
+    "id": "STR_BLD_ASSIMILATOR",
+    "Key": "STR_BLD_ASSIMILATOR",
+    "Value": "a\\u0001Телепортувати асимілятор"
+  },
+  {
+    "id": "STR_BLD_GATEWAY",
+    "Key": "STR_BLD_GATEWAY",
+    "Value": "g\\u0001Телепортувати браму"
+  },
+  {
+    "id": "STR_BLD_FORGE",
+    "Key": "STR_BLD_FORGE",
+    "Value": "f\\u0001Телепортувати ковальню"
+  },
+  {
+    "id": "STR_BLD_PHOTON",
+    "Key": "STR_BLD_PHOTON",
+    "Value": "c\\u0001Телепортувати фотонну гармату"
+  },
+  {
+    "id": "STR_BLD_CYBER_CORE",
+    "Key": "STR_BLD_CYBER_CORE",
+    "Value": "y\\u0001Телепортувати кібернетичне ядро"
+  },
+  {
+    "id": "STR_BLD_SHIELDBATT",
+    "Key": "STR_BLD_SHIELDBATT",
+    "Value": "b\\u0001Телепортувати батарею щитів"
+  },
+  {
+    "id": "STR_BLD_ROBOTICS",
+    "Key": "STR_BLD_ROBOTICS",
+    "Value": "r\\u0001Телепортувати завод робототехніки"
+  },
+  {
+    "id": "STR_BLD_OBSERVATORY",
+    "Key": "STR_BLD_OBSERVATORY",
+    "Value": "o\\u0001Телепортувати обсерваторію"
+  },
+  {
+    "id": "STR_BLD_CITADEL",
+    "Key": "STR_BLD_CITADEL",
+    "Value": "c\\u0001Телепортувати цитадель Адуна"
+  },
+  {
+    "id": "STR_BLD_ARCHIVES",
+    "Key": "STR_BLD_ARCHIVES",
+    "Value": "t\\u0001Телепортувати архів тамплієрів"
+  },
+  {
+    "id": "STR_BLD_STARGATE",
+    "Key": "STR_BLD_STARGATE",
+    "Value": "s\\u0001Телепортувати зоряну браму"
+  },
+  {
+    "id": "STR_BLD_FLEET_BEACON",
+    "Key": "STR_BLD_FLEET_BEACON",
+    "Value": "f\\u0001Телепортувати маяк флоту"
+  },
+  {
+    "id": "STR_BLD_TRIBUNAL",
+    "Key": "STR_BLD_TRIBUNAL",
+    "Value": "a\\u0001Телепортувати верховний суд"
+  },
+  {
+    "id": "STR_BLD_ROBOTICS_BAY",
+    "Key": "STR_BLD_ROBOTICS_BAY",
+    "Value": "b\\u0001Телепортувати допоміжний модуль"
+  },
+  {
+    "id": "STR_BLD_TCOMMANDCTR",
+    "Key": "STR_BLD_TCOMMANDCTR",
+    "Value": "c\\u0001Збудувати командний центр"
+  },
+  {
+    "id": "STR_BLD_DEPOT",
+    "Key": "STR_BLD_DEPOT",
+    "Value": "s\\u0001Збудувати склад"
+  },
+  {
+    "id": "STR_BLD_REFINERY",
+    "Key": "STR_BLD_REFINERY",
+    "Value": "r\\u0001Збудувати очисний завод"
+  },
+  {
+    "id": "STR_BLD_BARRACKS",
+    "Key": "STR_BLD_BARRACKS",
+    "Value": "b\\u0001Збудувати казарму"
+  },
+  {
+    "id": "STR_BLD_ENGINEERING",
+    "Key": "STR_BLD_ENGINEERING",
+    "Value": "e\\u0001Збудувати інженерний відсік"
+  },
+  {
+    "id": "STR_BLD_TURRET",
+    "Key": "STR_BLD_TURRET",
+    "Value": "t\\u0001Збудувати ракетну гармату"
+  },
+  {
+    "id": "STR_BLD_ACADEMY",
+    "Key": "STR_BLD_ACADEMY",
+    "Value": "a\\u0001Збудувати академію"
+  },
+  {
+    "id": "STR_BLD_PILLBOX",
+    "Key": "STR_BLD_PILLBOX",
+    "Value": "u\\u0001Збудувати бункер"
+  },
+  {
+    "id": "STR_BLD_FACTORY",
+    "Key": "STR_BLD_FACTORY",
+    "Value": "f\\u0001Збудувати завод"
+  },
+  {
+    "id": "STR_BLD_TSTARPORT",
+    "Key": "STR_BLD_TSTARPORT",
+    "Value": "s\\u0001Збудувати космопорт"
+  },
+  {
+    "id": "STR_BLD_SCIENCE_FAC",
+    "Key": "STR_BLD_SCIENCE_FAC",
+    "Value": "i\\u0001Збудувати науковий центр"
+  },
+  {
+    "id": "STR_BLD_ARMORY",
+    "Key": "STR_BLD_ARMORY",
+    "Value": "a\\u0001Збудувати зброярню"
+  },
+  {
+    "id": "STR_BLD_COMSAT",
+    "Key": "STR_BLD_COMSAT",
+    "Value": "c\\u0001Збудувати супутникову станцію"
+  },
+  {
+    "id": "STR_BLD_SILO",
+    "Key": "STR_BLD_SILO",
+    "Value": "n\\u0001Збудувати ядерну шахту"
+  },
+  {
+    "id": "STR_BLD_DOCKS",
+    "Key": "STR_BLD_DOCKS",
+    "Value": "c\\u0001Збудувати вежу управління"
+  },
+  {
+    "id": "STR_BLD_COVERT_OPS",
+    "Key": "STR_BLD_COVERT_OPS",
+    "Value": "c\\u0001Збудувати шпигунський модуль"
+  },
+  {
+    "id": "STR_BLD_PHYSICS",
+    "Key": "STR_BLD_PHYSICS",
+    "Value": "p\\u0001Збудувати фізичну лабораторію"
+  },
+  {
+    "id": "STR_BLD_MACHINE",
+    "Key": "STR_BLD_MACHINE",
+    "Value": "c\\u0001Збудувати механічний цех"
+  },
+  {
+    "id": "STR_MOVE",
+    "Key": "STR_MOVE",
+    "Value": "m\\u0007Рухатися"
+  },
+  {
+    "id": "STR_STOP",
+    "Key": "STR_STOP",
+    "Value": "s\\u0007Зупинитися"
+  },
+  {
+    "id": "STR_ATTACK",
+    "Key": "STR_ATTACK",
+    "Value": "a\\u0007Атакувати"
+  },
+  {
+    "id": "STR_PATROL",
+    "Key": "STR_PATROL",
+    "Value": "p\\u0007Патрулювати"
+  },
+  {
+    "id": "STR_HOLD",
+    "Key": "STR_HOLD",
+    "Value": "h\\u0007Утримувати позицію"
+  },
+  {
+    "id": "STR_WAYPOINTS",
+    "Key": "STR_WAYPOINTS",
+    "Value": "w\\u0007Режим контрольних точок"
+  },
+  {
+    "id": "STR_LAND",
+    "Key": "STR_LAND",
+    "Value": "l\\u0007Приземлитися"
+  },
+  {
+    "id": "STR_LIFTOFF",
+    "Key": "STR_LIFTOFF",
+    "Value": "l\\u0007Злетіти у повітря"
+  },
+  {
+    "id": "STR_RALLYPOINT",
+    "Key": "STR_RALLYPOINT",
+    "Value": "r\\u0007Обрати місце зустрічі"
+  },
+  {
+    "id": "STR_RECHARGE",
+    "Key": "STR_RECHARGE",
+    "Value": "r\\u0007Перезарядити щити"
+  },
+  {
+    "id": "STR_SELECT_LARVA",
+    "Key": "STR_SELECT_LARVA",
+    "Value": "s\\u0007Обрати лярв"
+  },
+  {
+    "id": "STR_GATHER",
+    "Key": "STR_GATHER",
+    "Value": "g\\u0007Збирати ресурси"
+  },
+  {
+    "id": "STR_RETURN",
+    "Key": "STR_RETURN",
+    "Value": "c\\u0007Повернутися з вантажем на базу"
+  },
+  {
+    "id": "STR_REPAIR",
+    "Key": "STR_REPAIR",
+    "Value": "r\\u0007Полагодити"
+  },
+  {
+    "id": "STR_BUILD",
+    "Key": "STR_BUILD",
+    "Value": "b\\u0007Будувати споруди"
+  },
+  {
+    "id": "STR_BLD_ADVANCED",
+    "Key": "STR_BLD_ADVANCED",
+    "Value": "v\\u0007Будувати просунуті споруди"
+  },
+  {
+    "id": "STR_MUTATE",
+    "Key": "STR_MUTATE",
+    "Value": "b\\u0007Базові перетворення"
+  },
+  {
+    "id": "STR_MUTATE_ADV",
+    "Key": "STR_MUTATE_ADV",
+    "Value": "v\\u0007Просунуті перетворення"
+  },
+  {
+    "id": "STR_MORPH_ADV",
+    "Key": "STR_MORPH_ADV",
+    "Value": "v\\u0007Просунуті мутації"
+  },
+  {
+    "id": "STR_PICKUP",
+    "Key": "STR_PICKUP",
+    "Value": "l\\u0007Завантажити"
+  },
+  {
+    "id": "STR_UNLOAD",
+    "Key": "STR_UNLOAD",
+    "Value": "u\\u0007Розвантажити все"
+  },
+  {
+    "id": "STR_NUKESTRIKE",
+    "Key": "STR_NUKESTRIKE",
+    "Value": "n\\u0007Ядерний удар"
+  },
+  {
+    "id": "STR_PLACE_COP",
+    "Key": "STR_PLACE_COP",
+    "Value": "p\\u0007Розташувати прапор"
+  },
+  {
+    "id": "STR_CANCELESC",
+    "Key": "STR_CANCELESC",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати"
+  },
+  {
+    "id": "STR_CANCEL",
+    "Key": "STR_CANCEL",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати"
+  },
+  {
+    "id": "STR_CANCELCONSTRUCTION",
+    "Key": "STR_CANCELCONSTRUCTION",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Сскасувати будівництво"
+  },
+  {
+    "id": "STR_CANCELUNIT",
+    "Key": "STR_CANCELUNIT",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати тренування"
+  },
+  {
+    "id": "STR_CANCELUPGRADE",
+    "Key": "STR_CANCELUPGRADE",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати поліпшення"
+  },
+  {
+    "id": "STR_CANCELRESEARCH",
+    "Key": "STR_CANCELRESEARCH",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - скасувати дослідження"
+  },
+  {
+    "id": "STR_CANCELLAST",
+    "Key": "STR_CANCELLAST",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати останню дію"
+  },
+  {
+    "id": "STR_CANCELADDON",
+    "Key": "STR_CANCELADDON",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати придубову"
+  },
+  {
+    "id": "STR_EGGREVERT",
+    "Key": "STR_EGGREVERT",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати мутацію"
+  },
+  {
+    "id": "STR_DRONEREVERT",
+    "Key": "STR_DRONEREVERT",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати перетворення"
+  },
+  {
+    "id": "STR_DRONECANCELINFESTATION",
+    "Key": "STR_DRONECANCELINFESTATION",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати зараження"
+  },
+  {
+    "id": "STR_CANCELBLDGMORPH",
+    "Key": "STR_CANCELBLDGMORPH",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати перетворення"
+  },
+  {
+    "id": "STR_CANCELNUKESTRIKE",
+    "Key": "STR_CANCELNUKESTRIKE",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - скасувати ядерний удар"
+  },
+  {
+    "id": "STR_HALT_CONSTRUCTION",
+    "Key": "STR_HALT_CONSTRUCTION",
+    "Value": "\\u001B\\u0007\\u0003ESC\\u0001 - Скасувати придубову"
+  },
+  {
+    "id": "STR_GHOST_REQ",
+    "Key": "STR_GHOST_REQ",
+    "Value": "Привид потребує:\\n   Академії\\n   Наукового центру зі шпигунським модулем"
+  },
+  {
+    "id": "STR_FIREBAT_REQ",
+    "Key": "STR_FIREBAT_REQ",
+    "Value": "Вогнеметник потребує:\\n   Академії"
+  },
+  {
+    "id": "STR_GOLIATH_REQ",
+    "Key": "STR_GOLIATH_REQ",
+    "Value": "Голіаф потребує:\\n   Зброярні"
+  },
+  {
+    "id": "STR_TANK_REQ",
+    "Key": "STR_TANK_REQ",
+    "Value": "Облоговий танк потребує:\\n   Приєднаного механічного цеху"
+  },
+  {
+    "id": "STR_VESSEL_REQ",
+    "Key": "STR_VESSEL_REQ",
+    "Value": "Наукове судно потребує:\\n   Приєднаної вежі управління\\n   Наукового центру"
+  },
+  {
+    "id": "STR_DROPSHIP_REQ",
+    "Key": "STR_DROPSHIP_REQ",
+    "Value": "Десантний транспорт потребує:\\n   Приєднаної вежі управління"
+  },
+  {
+    "id": "STR_BCRUISER_REQ",
+    "Key": "STR_BCRUISER_REQ",
+    "Value": "Бойовий крейсер потребує:\\n   Приєднаної вежі управління\\n   Наукового центру з фізичною лабораторією"
+  },
+  {
+    "id": "STR_COMSAT_REQ",
+    "Key": "STR_COMSAT_REQ",
+    "Value": "Супутникова станція потребує:\\n   Академії"
+  },
+  {
+    "id": "STR_SILO_REQ",
+    "Key": "STR_SILO_REQ",
+    "Value": "Ядерна шахта потребує:\\n   Наукового центру зі шпигунським модулем"
+  },
+  {
+    "id": "STR_BARRACKS_REQ",
+    "Key": "STR_BARRACKS_REQ",
+    "Value": "Казарма потребує:\\n   Командного центру"
+  },
+  {
+    "id": "STR_ACADEMY_REQ",
+    "Key": "STR_ACADEMY_REQ",
+    "Value": "Академія потребує:\\n   Казарми"
+  },
+  {
+    "id": "STR_FACTORY_REQ",
+    "Key": "STR_FACTORY_REQ",
+    "Value": "Завод потребує:\\n   Казарми"
+  },
+  {
+    "id": "STR_STARPORT_REQ",
+    "Key": "STR_STARPORT_REQ",
+    "Value": "Космопорт потребує:\\n   Заводу"
+  },
+  {
+    "id": "STR_SCIENCE_FAC_REQ",
+    "Key": "STR_SCIENCE_FAC_REQ",
+    "Value": "Науковий центр потребує:\\n   Космопорту"
+  },
+  {
+    "id": "STR_ENGINEERING_REQ",
+    "Key": "STR_ENGINEERING_REQ",
+    "Value": "Інженерний відсік потребує:\\n   Командного центру"
+  },
+  {
+    "id": "STR_ARMORY_REQ",
+    "Key": "STR_ARMORY_REQ",
+    "Value": "Зброярня потребує:\\n   Заводу"
+  },
+  {
+    "id": "STR_TURRET_REQ",
+    "Key": "STR_TURRET_REQ",
+    "Value": "Ракетна гармата потребує:\\n   Інженерного відсіку"
+  },
+  {
+    "id": "STR_PILLBOX_REQ",
+    "Key": "STR_PILLBOX_REQ",
+    "Value": "Бункер потребує:\\n   Казарми"
+  },
+  {
+    "id": "STR_DRAGOON_REQ",
+    "Key": "STR_DRAGOON_REQ",
+    "Value": "Драгун потребує:\\n   Кібернетичного ядра"
+  },
+  {
+    "id": "STR_TEMPLAR_REQ",
+    "Key": "STR_TEMPLAR_REQ",
+    "Value": "Тамплієр потребує:\\n   Архіву тамплієрів"
+  },
+  {
+    "id": "STR_ARBITER_REQ",
+    "Key": "STR_ARBITER_REQ",
+    "Value": "Верховний суддя потребує:\\n   Верховного суду"
+  },
+  {
+    "id": "STR_CARRIER_REQ",
+    "Key": "STR_CARRIER_REQ",
+    "Value": "Крейсер потребує:\\n   Маяка флоту"
+  },
+  {
+    "id": "STR_REAVER_REQ",
+    "Key": "STR_REAVER_REQ",
+    "Value": "Мародер потребує:\\n   Допоміжного модулю"
+  },
+  {
+    "id": "STR_OBSERVER_REQ",
+    "Key": "STR_OBSERVER_REQ",
+    "Value": "Спостерігач потребує:\\n   Обсерваторії"
+  },
+  {
+    "id": "STR_GATEWAY_REQ",
+    "Key": "STR_GATEWAY_REQ",
+    "Value": "Брама потребує:\\n   Нексусу"
+  },
+  {
+    "id": "STR_FORGE_REQ",
+    "Key": "STR_FORGE_REQ",
+    "Value": "Ковальня потребує:\\n   Нексусу"
+  },
+  {
+    "id": "STR_PHOTONBATT_REQ",
+    "Key": "STR_PHOTONBATT_REQ",
+    "Value": "Фотонна гармата потребує:\\n   Ковальні"
+  },
+  {
+    "id": "STR_SHIELDBATT_REQ",
+    "Key": "STR_SHIELDBATT_REQ",
+    "Value": "Батарея щитів потребує:\\n   Брами"
+  },
+  {
+    "id": "STR_CYBER_CORE_REQ",
+    "Key": "STR_CYBER_CORE_REQ",
+    "Value": "Кібернетичне ядро потребує:\\n   Брами"
+  },
+  {
+    "id": "STR_ROBOTICS_REQ",
+    "Key": "STR_ROBOTICS_REQ",
+    "Value": "Завод робототехніки потребує:\\n   Кібернетичного ядра"
+  },
+  {
+    "id": "STR_STARGATE_REQ",
+    "Key": "STR_STARGATE_REQ",
+    "Value": "Зоряна брама потребує:\\n   Кібернетичного ядра"
+  },
+  {
+    "id": "STR_CITADEL_REQ",
+    "Key": "STR_CITADEL_REQ",
+    "Value": "Цитадель Адуна потребує:\\n   Кібернетичного ядра"
+  },
+  {
+    "id": "STR_OBSERVATORY_REQ",
+    "Key": "STR_OBSERVATORY_REQ",
+    "Value": "Обсерваторія потребує:\\n   Заводу робототехніки"
+  },
+  {
+    "id": "STR_ROBOTICS_BAY_REQ",
+    "Key": "STR_ROBOTICS_BAY_REQ",
+    "Value": "Допоміжний модуль потребує:\\n   Заводу робототехніки"
+  },
+  {
+    "id": "STR_FLEET_BEACON_REQ",
+    "Key": "STR_FLEET_BEACON_REQ",
+    "Value": "Маяк флоту потребує:\\n   Зоряної брами"
+  },
+  {
+    "id": "STR_ARCHIVES_REQ",
+    "Key": "STR_ARCHIVES_REQ",
+    "Value": "Архів тамплієрів потребує:\\n   Цитаделі Адуна"
+  },
+  {
+    "id": "STR_TRIBUNAL_REQ",
+    "Key": "STR_TRIBUNAL_REQ",
+    "Value": "Верховний суд потребує:\\n   Зоряної брами\\n   Архіву тамплієрів"
+  },
+  {
+    "id": "STR_ZERGLING_REQ",
+    "Key": "STR_ZERGLING_REQ",
+    "Value": "Зерґлінги потребують:\\n   Початкової твані"
+  },
+  {
+    "id": "STR_HYDRALISK_REQ",
+    "Key": "STR_HYDRALISK_REQ",
+    "Value": "Гідралиск потребує:\\n   Барлогу гідралисків"
+  },
+  {
+    "id": "STR_ULTRALISK_REQ",
+    "Key": "STR_ULTRALISK_REQ",
+    "Value": "Ультралиск потребує:\\n   Печери ультралисків"
+  },
+  {
+    "id": "STR_MUTALID_REQ",
+    "Key": "STR_MUTALID_REQ",
+    "Value": "Муталиск потребує:\\n   Шпилю"
+  },
+  {
+    "id": "STR_GUARDIAN_REQ",
+    "Key": "STR_GUARDIAN_REQ",
+    "Value": "Підвид захисників потребує:\\n   Вищого шпилю"
+  },
+  {
+    "id": "STR_QUEEN_REQ",
+    "Key": "STR_QUEEN_REQ",
+    "Value": "Королева потребує:\\n   Гнізда королеви"
+  },
+  {
+    "id": "STR_DEFILER_REQ",
+    "Key": "STR_DEFILER_REQ",
+    "Value": "Осквернитель потребує:\\n   Кургану осквернителів"
+  },
+  {
+    "id": "STR_AVENGER_REQ",
+    "Key": "STR_AVENGER_REQ",
+    "Value": "Батіг потребує:\\n   Шпилю"
+  },
+  {
+    "id": "STR_LAIR_REQ",
+    "Key": "STR_LAIR_REQ",
+    "Value": "Лігво потребує:\\n   Початкової твані"
+  },
+  {
+    "id": "STR_HIVE_REQ",
+    "Key": "STR_HIVE_REQ",
+    "Value": "Вулик потребує:\\n   Гнізда королеви"
+  },
+  {
+    "id": "STR_NYDUS_REQ",
+    "Key": "STR_NYDUS_REQ",
+    "Value": "Нідус-канал потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_HYDRA_DEN_REQ",
+    "Key": "STR_HYDRA_DEN_REQ",
+    "Value": "Барліг гідралисків потребує:\\n   Початкової твані"
+  },
+  {
+    "id": "STR_SPIRE_REQ",
+    "Key": "STR_SPIRE_REQ",
+    "Value": "Шпиль потребує:\\n   Лігва"
+  },
+  {
+    "id": "STR_GREATERSPIRE_REQ",
+    "Key": "STR_GREATERSPIRE_REQ",
+    "Value": "Вищий шпиль потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_NEST_REQ",
+    "Key": "STR_NEST_REQ",
+    "Value": "Гніздо королеви потребує:\\n   Лігва"
+  },
+  {
+    "id": "STR_EVO_CHAMBER_REQ",
+    "Key": "STR_EVO_CHAMBER_REQ",
+    "Value": "Еволюційна кімната потребує:\\n   Інкубатора"
+  },
+  {
+    "id": "STR_ULTRA_CAVERN_REQ",
+    "Key": "STR_ULTRA_CAVERN_REQ",
+    "Value": "Печера ультралисків потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_DEFILER_MOUND_REQ",
+    "Key": "STR_DEFILER_MOUND_REQ",
+    "Value": "Курган осквернителів потребує:\\n   Вулика"
+  },
+  {
+    "id": "STR_SPAWNING_REQ",
+    "Key": "STR_SPAWNING_REQ",
+    "Value": "Початкова твань потребує:\\n   Інкубатора"
+  },
+  {
+    "id": "STR_SPORE_REQ",
+    "Key": "STR_SPORE_REQ",
+    "Value": "Спорова колонія потребує:\\n   Еволюційної кімнати"
+  },
+  {
+    "id": "STR_SUNKEN_REQ",
+    "Key": "STR_SUNKEN_REQ",
+    "Value": "Запала колонія потребує:\\n   Початкової твані"
+  },
+  {
+    "id": "STR_CARRIERATTACK_REQ",
+    "Key": "STR_CARRIERATTACK_REQ",
+    "Value": "Атака крейсера:\\n   Збудуйте перехоплювачів"
+  },
+  {
+    "id": "STR_REAVERATTACK_REQ",
+    "Key": "STR_REAVERATTACK_REQ",
+    "Value": "Атака мародера:\\n   Збудуйте скарабеїв"
+  },
+  {
+    "id": "STR_NUKE_REQ",
+    "Key": "STR_NUKE_REQ",
+    "Value": "Ядерний удар потребує:\\n   Підготовленої до запуску ядерної шахти"
+  },
+  {
+    "id": "STR_NOT_IMPLEMENTED",
+    "Key": "STR_NOT_IMPLEMENTED",
+    "Value": "Not Implemented"
+  },
+  {
+    "id": "STR_MARK",
+    "Key": "STR_MARK",
+    "Value": "mk"
+  },
+  {
+    "id": "STR_KILLS_LBL",
+    "Key": "STR_KILLS_LBL",
+    "Value": "Убито:"
+  },
+  {
+    "id": "STR_UPGRADING_LBL",
+    "Key": "STR_UPGRADING_LBL",
+    "Value": "Еволюція"
+  },
+  {
+    "id": "STR_UPGRADING_LBL-1",
+    "Key": "STR_UPGRADING_LBL-1",
+    "Value": "Поліпшення"
+  },
+  {
+    "id": "STR_UPGRADING_LBL-2",
+    "Key": "STR_UPGRADING_LBL-2",
+    "Value": "Поліпшення"
+  },
+  {
+    "id": "STR_RESEARCHING_LBL",
+    "Key": "STR_RESEARCHING_LBL",
+    "Value": "Еволюція"
+  },
+  {
+    "id": "STR_RESEARCHING_LBL-1",
+    "Key": "STR_RESEARCHING_LBL-1",
+    "Value": "Дослідження"
+  },
+  {
+    "id": "STR_RESEARCHING_LBL-2",
+    "Key": "STR_RESEARCHING_LBL-2",
+    "Value": "Розробка"
+  },
+  {
+    "id": "STR_BUILDING_LBL",
+    "Key": "STR_BUILDING_LBL",
+    "Value": "Мутація"
+  },
+  {
+    "id": "STR_BUILDING_LBL-1",
+    "Key": "STR_BUILDING_LBL-1",
+    "Value": "Будівництво"
+  },
+  {
+    "id": "STR_BUILDING_LBL-2",
+    "Key": "STR_BUILDING_LBL-2",
+    "Value": "Відчинення брами"
+  },
+  {
+    "id": "STR_BUILDING2_LBL",
+    "Key": "STR_BUILDING2_LBL",
+    "Value": "Перетворення"
+  },
+  {
+    "id": "STR_BUILDING2_LBL-1",
+    "Key": "STR_BUILDING2_LBL-1",
+    "Value": "Будівництво"
+  },
+  {
+    "id": "STR_BUILDING2_LBL-2",
+    "Key": "STR_BUILDING2_LBL-2",
+    "Value": "Будівництво"
+  },
+  {
+    "id": "STR_DAMAGE_LBL",
+    "Key": "STR_DAMAGE_LBL",
+    "Value": "Шкода:"
+  },
+  {
+    "id": "STR_ARMOR_LBL",
+    "Key": "STR_ARMOR_LBL",
+    "Value": "Броня:"
+  },
+  {
+    "id": "STR_SHIELD_LBL",
+    "Key": "STR_SHIELD_LBL",
+    "Value": "Щити:"
+  },
+  {
+    "id": "STR_MINING_DELAY_LBL",
+    "Key": "STR_MINING_DELAY_LBL",
+    "Value": "Затримка:"
+  },
+  {
+    "id": "STR_PRODUCTION_LBL",
+    "Key": "STR_PRODUCTION_LBL",
+    "Value": "Виробництво"
+  },
+  {
+    "id": "STR_UNIT_PTR",
+    "Key": "STR_UNIT_PTR",
+    "Value": "Патруль:"
+  },
+  {
+    "id": "STR_CURR_ORDER",
+    "Key": "STR_CURR_ORDER",
+    "Value": "Поточний наказ:"
+  },
+  {
+    "id": "STR_DELAY_ORDER",
+    "Key": "STR_DELAY_ORDER",
+    "Value": "Наступний наказ:"
+  },
+  {
+    "id": "STR_PERCENT",
+    "Key": "STR_PERCENT",
+    "Value": "% Завершено"
+  },
+  {
+    "id": "STR_ORDER_LBL",
+    "Key": "STR_ORDER_LBL",
+    "Value": "Наказ:"
+  },
+  {
+    "id": "STR_ADDINGON_LBL",
+    "Key": "STR_ADDINGON_LBL",
+    "Value": "Мутація"
+  },
+  {
+    "id": "STR_ADDINGON_LBL-1",
+    "Key": "STR_ADDINGON_LBL-1",
+    "Value": "Додавання"
+  },
+  {
+    "id": "STR_ADDINGON_LBL-2",
+    "Key": "STR_ADDINGON_LBL-2",
+    "Value": "Створення розриву"
+  },
+  {
+    "id": "STR_SUMMONING_LBL",
+    "Key": "STR_SUMMONING_LBL",
+    "Value": "Виклик"
+  },
+  {
+    "id": "STR_INTERCEPTORS_LBL",
+    "Key": "STR_INTERCEPTORS_LBL",
+    "Value": "Перехоплювачі"
+  },
+  {
+    "id": "STR_SCARABS_LBL",
+    "Key": "STR_SCARABS_LBL",
+    "Value": "Скарабеї"
+  },
+  {
+    "id": "STR_NUKES_LBL",
+    "Key": "STR_NUKES_LBL",
+    "Value": "Ракети"
+  },
+  {
+    "id": "STR_MINES_LBL",
+    "Key": "STR_MINES_LBL",
+    "Value": "Міни-павуки"
+  },
+  {
+    "id": "STR_NEXTLVL",
+    "Key": "STR_NEXTLVL",
+    "Value": "Наступний рівень:"
+  },
+  {
+    "id": "STR_MINERALS_LBL",
+    "Key": "STR_MINERALS_LBL",
+    "Value": "Мінерали:"
+  },
+  {
+    "id": "STR_GASES_LBL",
+    "Key": "STR_GASES_LBL",
+    "Value": "Газ Веспін:"
+  },
+  {
+    "id": "STR_DEPLETED",
+    "Key": "STR_DEPLETED",
+    "Value": "Вичерпано"
+  },
+  {
+    "id": "STR_CONSTRUCTION",
+    "Key": "STR_CONSTRUCTION",
+    "Value": "Перетворення"
+  },
+  {
+    "id": "STR_CONSTRUCTION-1",
+    "Key": "STR_CONSTRUCTION-1",
+    "Value": "Триває будівництво"
+  },
+  {
+    "id": "STR_CONSTRUCTION-2",
+    "Key": "STR_CONSTRUCTION-2",
+    "Value": "Створення розриву"
+  },
+  {
+    "id": "STR_CANCEL_UNIT_s",
+    "Key": "STR_CANCEL_UNIT_s",
+    "Value": "Скасувати перетворення (%s)"
+  },
+  {
+    "id": "STR_CANCEL_UNIT_s-1",
+    "Key": "STR_CANCEL_UNIT_s-1",
+    "Value": "Скасувати будівництво (%s)"
+  },
+  {
+    "id": "STR_CANCEL_UNIT_s-2",
+    "Key": "STR_CANCEL_UNIT_s-2",
+    "Value": "Скасувати переміщення (%s)"
+  },
+  {
+    "id": "STR_CANCEL_UPGRADE",
+    "Key": "STR_CANCEL_UPGRADE",
+    "Value": "Скасувати поліпшення"
+  },
+  {
+    "id": "STR_CANCEL_RESEARCH",
+    "Key": "STR_CANCEL_RESEARCH",
+    "Value": "Скасувати дослідження"
+  },
+  {
+    "id": "STR_CANCEL_MORPH",
+    "Key": "STR_CANCEL_MORPH",
+    "Value": "Скасувати перетворення"
+  },
+  {
+    "id": "STR_UNLOAD_UNIT_s",
+    "Key": "STR_UNLOAD_UNIT_s",
+    "Value": "Розвантажити одиницю (%s)"
+  },
+  {
+    "id": "STR_MULTISELECT_HELP",
+    "Key": "STR_MULTISELECT_HELP",
+    "Value": "ЛКМ: Обрати одиницю\\nShift+ЛКМ: Скасувати вибір\\nCtrl+ЛКМ: Обрати всі одиницю цього типу"
+  },
+  {
+    "id": "STR_SHOW_TERRAIN",
+    "Key": "STR_SHOW_TERRAIN",
+    "Value": "Показувати ландшафт на міні-мапі (\\u0003Tab\\u0001)"
+  },
+  {
+    "id": "STR_HIDE_TERRAIN",
+    "Key": "STR_HIDE_TERRAIN",
+    "Value": "Приховати ландшафт на міні-мапі (\\u0003Tab\\u0001)"
+  },
+  {
+    "id": "STR_DIPLOMACY",
+    "Key": "STR_DIPLOMACY",
+    "Value": "Дипломатія"
+  },
+  {
+    "id": "STR_MESSAGING",
+    "Key": "STR_MESSAGING",
+    "Value": "Повідомлення"
+  },
+  {
+    "id": "STR_GAMEMENU_HELP",
+    "Key": "STR_GAMEMENU_HELP",
+    "Value": "Головне меню (\\u0003F10\\u0001)"
+  },
+  {
+    "id": "STR_UNI_FOOD_PROVIDED",
+    "Key": "STR_UNI_FOOD_PROVIDED",
+    "Value": "Надає контролю:"
+  },
+  {
+    "id": "STR_UNI_FOOD_PROVIDED-1",
+    "Key": "STR_UNI_FOOD_PROVIDED-1",
+    "Value": "Надає запасів:"
+  },
+  {
+    "id": "STR_UNI_FOOD_PROVIDED-2",
+    "Key": "STR_UNI_FOOD_PROVIDED-2",
+    "Value": "Надає пси-енергії:"
+  },
+  {
+    "id": "STR_FOOD_PROVIDED",
+    "Key": "STR_FOOD_PROVIDED",
+    "Value": "Загалом контролю:"
+  },
+  {
+    "id": "STR_FOOD_PROVIDED-1",
+    "Key": "STR_FOOD_PROVIDED-1",
+    "Value": "Загалом запасів:"
+  },
+  {
+    "id": "STR_FOOD_PROVIDED-2",
+    "Key": "STR_FOOD_PROVIDED-2",
+    "Value": "Загалом пси-енергії:"
+  },
+  {
+    "id": "STR_FOOD_USED",
+    "Key": "STR_FOOD_USED",
+    "Value": "Викор. контролю:"
+  },
+  {
+    "id": "STR_FOOD_USED-1",
+    "Key": "STR_FOOD_USED-1",
+    "Value": "Викор. запасів:"
+  },
+  {
+    "id": "STR_FOOD_USED-2",
+    "Key": "STR_FOOD_USED-2",
+    "Value": "Викор. пси-енергії:"
+  },
+  {
+    "id": "STR_FOOD_MAX",
+    "Key": "STR_FOOD_MAX",
+    "Value": "Макс. контролю:"
+  },
+  {
+    "id": "STR_FOOD_MAX-1",
+    "Key": "STR_FOOD_MAX-1",
+    "Value": "Макс. запасів:"
+  },
+  {
+    "id": "STR_FOOD_MAX-2",
+    "Key": "STR_FOOD_MAX-2",
+    "Value": "Макс. пси-енергії:"
+  },
+  {
+    "id": "STR_PARASITE_LBL",
+    "Key": "STR_PARASITE_LBL",
+    "Value": "\\u0007Виявлено паразита"
+  },
+  {
+    "id": "STR_DISABLED_LBL",
+    "Key": "STR_DISABLED_LBL",
+    "Value": "\\u0006Відключено"
+  },
+  {
+    "id": "STR_DISABLED_LBL-1",
+    "Key": "STR_DISABLED_LBL-1",
+    "Value": "\\u0006Відключено"
+  },
+  {
+    "id": "STR_DISABLED_LBL-2",
+    "Key": "STR_DISABLED_LBL-2",
+    "Value": "\\u0006Знеструмлено"
+  },
+  {
+    "id": "STR_DETECTOR_LBL",
+    "Key": "STR_DETECTOR_LBL",
+    "Value": "\\u0003Детектор"
+  },
+  {
+    "id": "STR_HALLUCINATION_LBL",
+    "Key": "STR_HALLUCINATION_LBL",
+    "Value": "\\u0004Галюцинація"
+  },
+  {
+    "id": "STR_LB_LABEL",
+    "Key": "STR_LB_LABEL",
+    "Value": "Бойові одиниці"
+  },
+  {
+    "id": "STR_LB_LABEL-1",
+    "Key": "STR_LB_LABEL-1",
+    "Value": "Бойові одиниці"
+  },
+  {
+    "id": "STR_LB_LABEL-2",
+    "Key": "STR_LB_LABEL-2",
+    "Value": "Ресурси"
+  },
+  {
+    "id": "STR_LB_LABEL-3",
+    "Key": "STR_LB_LABEL-3",
+    "Value": "Убивства"
+  },
+  {
+    "id": "STR_LB_LABEL-4",
+    "Key": "STR_LB_LABEL-4",
+    "Value": "Рахунок"
+  },
+  {
+    "id": "STR_LB_DELTA_LABEL",
+    "Key": "STR_LB_DELTA_LABEL",
+    "Value": "Лишилось одиниць:"
+  },
+  {
+    "id": "STR_LB_DELTA_LABEL-1",
+    "Key": "STR_LB_DELTA_LABEL-1",
+    "Value": "Лишилось одиниць:"
+  },
+  {
+    "id": "STR_LB_DELTA_LABEL-2",
+    "Key": "STR_LB_DELTA_LABEL-2",
+    "Value": "Лишилось ресурсів:"
+  },
+  {
+    "id": "STR_LB_DELTA_LABEL-3",
+    "Key": "STR_LB_DELTA_LABEL-3",
+    "Value": "Лишилось убивств:"
+  },
+  {
+    "id": "STR_LB_DELTA_LABEL-4",
+    "Key": "STR_LB_DELTA_LABEL-4",
+    "Value": "Лишилось рахунку:"
+  },
+  {
+    "id": "STR_RETURN_ERR",
+    "Key": "STR_RETURN_ERR",
+    "Value": "Неможливо виконати наказ...повертатись нікуди."
+  },
+  {
+    "id": "STR_NEED_FOOD_ERR",
+    "Key": "STR_NEED_FOOD_ERR",
+    "Value": "Забагато слуг... створіть більше володарів."
+  },
+  {
+    "id": "STR_NEED_FOOD_ERR-1",
+    "Key": "STR_NEED_FOOD_ERR-1",
+    "Value": "Бракує запасів... збудуйте більше складів."
+  },
+  {
+    "id": "STR_NEED_FOOD_ERR-2",
+    "Key": "STR_NEED_FOOD_ERR-2",
+    "Value": "Бракує пси-енергії... збудуйте більше пілонів."
+  },
+  {
+    "id": "STR_FOOD_LIMIT_ERR",
+    "Key": "STR_FOOD_LIMIT_ERR",
+    "Value": "Перевищено ліміт слуг."
+  },
+  {
+    "id": "STR_FOOD_LIMIT_ERR-1",
+    "Key": "STR_FOOD_LIMIT_ERR-1",
+    "Value": "Перевищено ліміт запасів."
+  },
+  {
+    "id": "STR_FOOD_LIMIT_ERR-2",
+    "Key": "STR_FOOD_LIMIT_ERR-2",
+    "Value": "Перевищено ліміт пси-енергії."
+  },
+  {
+    "id": "STR_NEED_MINERALS_ERR",
+    "Key": "STR_NEED_MINERALS_ERR",
+    "Value": "Бракує мінералів... зберіть більше мінералів."
+  },
+  {
+    "id": "STR_NEED_GASES_ERR",
+    "Key": "STR_NEED_GASES_ERR",
+    "Value": "Бракує газу Веспін... зберіть більше газу."
+  },
+  {
+    "id": "STR_RESOURCES_TOO_CLOSE_ERR",
+    "Key": "STR_RESOURCES_TOO_CLOSE_ERR",
+    "Value": "Ви не можете будувати поруч із мінералами та гейзерами."
+  },
+  {
+    "id": "STR_INVISIBLE_UNIT_ERR",
+    "Key": "STR_INVISIBLE_UNIT_ERR",
+    "Value": "Шлях блокує прихована одиниця."
+  },
+  {
+    "id": "STR_BOUNDS_ERR",
+    "Key": "STR_BOUNDS_ERR",
+    "Value": "Ви не можете будувати за межами мапи."
+  },
+  {
+    "id": "STR_COP_ERR",
+    "Key": "STR_COP_ERR",
+    "Value": "Ви не можете будувати біля меж мапи."
+  },
+  {
+    "id": "STR_NO_BUILD_ERR",
+    "Key": "STR_NO_BUILD_ERR",
+    "Value": "Ви не можете будувати у цьому місці."
+  },
+  {
+    "id": "STR_EXPLORE_ERR",
+    "Key": "STR_EXPLORE_ERR",
+    "Value": "Ви мусите дослідити ту зону перш ніж щось там будувати."
+  },
+  {
+    "id": "STR_FOGGED_ERR",
+    "Key": "STR_FOGGED_ERR",
+    "Value": "Ви мусите мати можливість бачити ту зону."
+  },
+  {
+    "id": "STR_REFINERY_ERR",
+    "Key": "STR_REFINERY_ERR",
+    "Value": "Ви не можете там це збудувати, знайдіть гейзер."
+  },
+  {
+    "id": "STR_NEEDS_CREEP_ERR",
+    "Key": "STR_NEEDS_CREEP_ERR",
+    "Value": "Ви мусите будувати на скверні."
+  },
+  {
+    "id": "STR_PYLON_TOO_FAR_ERR",
+    "Key": "STR_PYLON_TOO_FAR_ERR",
+    "Value": "Ви мусите будувати поруч із пілонами."
+  },
+  {
+    "id": "STR_CANT_REACH_ERR",
+    "Key": "STR_CANT_REACH_ERR",
+    "Value": "Не вдалося дістатися обраного для будівництва місця."
+  },
+  {
+    "id": "STR_CANT_LAND_ERR",
+    "Key": "STR_CANT_LAND_ERR",
+    "Value": "Ви не можете там приземлитися."
+  },
+  {
+    "id": "STR_NEED_MANA_ERR",
+    "Key": "STR_NEED_MANA_ERR",
+    "Value": "Бракує енергії."
+  },
+  {
+    "id": "STR_NEED_MANA_ERR-1",
+    "Key": "STR_NEED_MANA_ERR-1",
+    "Value": "Бракує енергії."
+  },
+  {
+    "id": "STR_NEED_MANA_ERR-2",
+    "Key": "STR_NEED_MANA_ERR-2",
+    "Value": "Бракує енергії."
+  },
+  {
+    "id": "STR_HARVEST_ERR",
+    "Key": "STR_HARVEST_ERR",
+    "Value": "Там нічого збирати. Знайдіть мінерали або гейзер газу Веспін."
+  },
+  {
+    "id": "STR_HARVEST_ERR-1",
+    "Key": "STR_HARVEST_ERR-1",
+    "Value": "Там нічого збирати. Знайдіть мінерали, або збудуйте очисний завод на гейзері."
+  },
+  {
+    "id": "STR_HARVEST_ERR-2",
+    "Key": "STR_HARVEST_ERR-2",
+    "Value": "Там нічого збирати. Знайдіть мінерали, або збудуйте асимілятор на гейзері."
+  },
+  {
+    "id": "STR_INFEST_ERR",
+    "Key": "STR_INFEST_ERR",
+    "Value": "Ціллю мусить бути сильно пошкоджений терранський командний центр."
+  },
+  {
+    "id": "STR_MAX_WAYPOINTS_ERR",
+    "Key": "STR_MAX_WAYPOINTS_ERR",
+    "Value": "Перелік контрольних точок цієї одиниці повністю заповнено."
+  },
+  {
+    "id": "STR_MAX_ORDERS_ERR",
+    "Key": "STR_MAX_ORDERS_ERR",
+    "Value": "Неможливо додати наказ."
+  },
+  {
+    "id": "STR_ORDERS_LOW_SUPPLY_ERR",
+    "Key": "STR_ORDERS_LOW_SUPPLY_ERR",
+    "Value": "Накази закінчуються, Ваш останній наказ не було виконано."
+  },
+  {
+    "id": "STR_STIMPACK_ERR",
+    "Key": "STR_STIMPACK_ERR",
+    "Value": "Залишилося замало здоров'я."
+  },
+  {
+    "id": "STR_DEPLETED_ERR",
+    "Key": "STR_DEPLETED_ERR",
+    "Value": "Гейзер газу Веспін вичерпано."
+  },
+  {
+    "id": "STR_CANT_TARGET",
+    "Key": "STR_CANT_TARGET",
+    "Value": "Невірна ціль."
+  },
+  {
+    "id": "STR_CANT_TARGET_BLDG",
+    "Key": "STR_CANT_TARGET_BLDG",
+    "Value": "Споруди не можуть бути ціллю."
+  },
+  {
+    "id": "STR_CANT_TARGET_GRND",
+    "Key": "STR_CANT_TARGET_GRND",
+    "Value": "Ціллю мусить бути якась одиниця."
+  },
+  {
+    "id": "STR_CANNOT_ATTACK_ERR",
+    "Key": "STR_CANNOT_ATTACK_ERR",
+    "Value": "Неможливо атакувати обрану ціль."
+  },
+  {
+    "id": "STR_DMATRIX_ERR",
+    "Key": "STR_DMATRIX_ERR",
+    "Value": "Невірна ціль."
+  },
+  {
+    "id": "STR_LOCKDOWN_ERR",
+    "Key": "STR_LOCKDOWN_ERR",
+    "Value": "Ціллю мусить бути механізована одиниця."
+  },
+  {
+    "id": "STR_IRRADIATE_ERR",
+    "Key": "STR_IRRADIATE_ERR",
+    "Value": "Невірна ціль."
+  },
+  {
+    "id": "STR_REPAIR_ERR",
+    "Key": "STR_REPAIR_ERR",
+    "Value": "Ціллю мусить бути пошкоджена механізована одиниця, або ж пошкоджені добудовані споруди."
+  },
+  {
+    "id": "STR_REPAIR2_ERR",
+    "Key": "STR_REPAIR2_ERR",
+    "Value": "Ціллю мусить бути терранська одиниця."
+  },
+  {
+    "id": "STR_PARASITE_ERR",
+    "Key": "STR_PARASITE_ERR",
+    "Value": "Невірна ціль."
+  },
+  {
+    "id": "STR_BROODLING_ERR",
+    "Key": "STR_BROODLING_ERR",
+    "Value": "Ціллю мусить бути органічна наземна одиниця."
+  },
+  {
+    "id": "STR_MINES_ERR",
+    "Key": "STR_MINES_ERR",
+    "Value": "Ціль мусить перебувати на землі."
+  },
+  {
+    "id": "STR_OUT_OF_RANGE_ERR",
+    "Key": "STR_OUT_OF_RANGE_ERR",
+    "Value": "Ціль перебуває за межами радіусу ураження."
+  },
+  {
+    "id": "STR_TOO_CLOSE_ERR",
+    "Key": "STR_TOO_CLOSE_ERR",
+    "Value": "Ціль занадто близько."
+  },
+  {
+    "id": "STR_FERRY1_ERR",
+    "Key": "STR_FERRY1_ERR",
+    "Value": "Ви можете підбирати лише власні транспортабельні одиниці."
+  },
+  {
+    "id": "STR_FERRY2_ERR",
+    "Key": "STR_FERRY2_ERR",
+    "Value": "Для цієї одиниці забракло місця."
+  },
+  {
+    "id": "STR_HARVEST1_ERR",
+    "Key": "STR_HARVEST1_ERR",
+    "Value": "Збирати ресурси можна лише з мінеральних утворень і з гейзерів газу Веспін."
+  },
+  {
+    "id": "STR_HARVEST2_ERR",
+    "Key": "STR_HARVEST2_ERR",
+    "Value": "Спершу слід наказати трутневі перетворитися там на видобувач."
+  },
+  {
+    "id": "STR_HARVEST2_ERR-1",
+    "Key": "STR_HARVEST2_ERR-1",
+    "Value": "Спершу слід наказати КБМ збудувати там очисний завод."
+  },
+  {
+    "id": "STR_HARVEST2_ERR-2",
+    "Key": "STR_HARVEST2_ERR-2",
+    "Value": "Спершу слід наказати зондові розташувати там асимілятор."
+  },
+  {
+    "id": "STR_HARVEST3_ERR",
+    "Key": "STR_HARVEST3_ERR",
+    "Value": "Ви можете збирати газ лише з власних гейзерів."
+  },
+  {
+    "id": "STR_CONSUME_ERR",
+    "Key": "STR_CONSUME_ERR",
+    "Value": "Невірна ціль."
+  },
+  {
+    "id": "STR_PLAGUE_ERR",
+    "Key": "STR_PLAGUE_ERR",
+    "Value": "Невірна ціль."
+  },
+  {
+    "id": "STR_HALLUCINATION_ERR",
+    "Key": "STR_HALLUCINATION_ERR",
+    "Value": "Невірна ціль."
+  },
+  {
+    "id": "STR_STASISED_ERR",
+    "Key": "STR_STASISED_ERR",
+    "Value": "Одиниця у стазисі не може бути ціллю."
+  },
+  {
+    "id": "STR_MINE_TARGET_UNIT",
+    "Key": "STR_MINE_TARGET_UNIT",
+    "Value": "Ціллю мусить бути наземна одиниця."
+  },
+  {
+    "id": "STR_MINE_TARGET_GRND",
+    "Key": "STR_MINE_TARGET_GRND",
+    "Value": "Ви маєте обрати прохідний терен на мапі."
+  },
+  {
+    "id": "STR_ORDER_DIE",
+    "Key": "STR_ORDER_DIE",
+    "Value": "Die"
+  },
+  {
+    "id": "STR_ORDER_FIZZLE",
+    "Key": "STR_ORDER_FIZZLE",
+    "Value": "Fizzle"
+  },
+  {
+    "id": "STR_ORDER_STOP",
+    "Key": "STR_ORDER_STOP",
+    "Value": "Stop"
+  },
+  {
+    "id": "STR_ORDER_GUARD",
+    "Key": "STR_ORDER_GUARD",
+    "Value": "Guard"
+  },
+  {
+    "id": "STR_ORDER_GUARD_PLAY",
+    "Key": "STR_ORDER_GUARD_PLAY",
+    "Value": "Player Guard"
+  },
+  {
+    "id": "STR_ORDER_TURRET_GUARD",
+    "Key": "STR_ORDER_TURRET_GUARD",
+    "Value": "Turret Guard"
+  },
+  {
+    "id": "STR_ORDER_GUARD_BUNKER",
+    "Key": "STR_ORDER_GUARD_BUNKER",
+    "Value": "Bunker Guard"
+  },
+  {
+    "id": "STR_ORDER_IGNORE",
+    "Key": "STR_ORDER_IGNORE",
+    "Value": "Ignore"
+  },
+  {
+    "id": "STR_ORDER_CARRIER_IGNORE",
+    "Key": "STR_ORDER_CARRIER_IGNORE",
+    "Value": "Carrier Ignore"
+  },
+  {
+    "id": "STR_ORDER_CARRIER_STOP",
+    "Key": "STR_ORDER_CARRIER_STOP",
+    "Value": "Carrier Stop"
+  },
+  {
+    "id": "STR_ORDER_TRILOBYTE_STOP",
+    "Key": "STR_ORDER_TRILOBYTE_STOP",
+    "Value": "Reaver Stop"
+  },
+  {
+    "id": "STR_ORDER_ATTACK",
+    "Key": "STR_ORDER_ATTACK",
+    "Value": "Attack"
+  },
+  {
+    "id": "STR_ORDER_ATTACK_UNIT",
+    "Key": "STR_ORDER_ATTACK_UNIT",
+    "Value": "Attack Unit"
+  },
+  {
+    "id": "STR_ORDER_ATTACK_FIXED_RNGE",
+    "Key": "STR_ORDER_ATTACK_FIXED_RNGE",
+    "Value": "Attack Fixed Range"
+  },
+  {
+    "id": "STR_ORDER_MOVE_ATTACK_UNIT",
+    "Key": "STR_ORDER_MOVE_ATTACK_UNIT",
+    "Value": "Move Attack Unit"
+  },
+  {
+    "id": "STR_ORDER_ATTACK_TILE",
+    "Key": "STR_ORDER_ATTACK_TILE",
+    "Value": "Attack Tile"
+  },
+  {
+    "id": "STR_ORDER_ATTACK_HOVER",
+    "Key": "STR_ORDER_ATTACK_HOVER",
+    "Value": "Hover"
+  },
+  {
+    "id": "STR_ORDER_ATTACK_MOVE",
+    "Key": "STR_ORDER_ATTACK_MOVE",
+    "Value": "Attack Move"
+  },
+  {
+    "id": "STR_ORDER_ATTACK_MOVE_EP",
+    "Key": "STR_ORDER_ATTACK_MOVE_EP",
+    "Value": "Atk Move EP"
+  },
+  {
+    "id": "STR_ORDER_HARASS_MOVE_EP",
+    "Key": "STR_ORDER_HARASS_MOVE_EP",
+    "Value": "Harass Move"
+  },
+  {
+    "id": "STR_ORDER_AI_PATROL",
+    "Key": "STR_ORDER_AI_PATROL",
+    "Value": "AI Patrol"
+  },
+  {
+    "id": "STR_ORDER_TOWER",
+    "Key": "STR_ORDER_TOWER",
+    "Value": "Tower"
+  },
+  {
+    "id": "STR_ORDER_VULTURE_MINE",
+    "Key": "STR_ORDER_VULTURE_MINE",
+    "Value": "Vulture Mine"
+  },
+  {
+    "id": "STR_ORDER_CARRIER_ATTACK",
+    "Key": "STR_ORDER_CARRIER_ATTACK",
+    "Value": "Carrier Attack"
+  },
+  {
+    "id": "STR_ORDER_CARRIER_ATTACK_MOVE",
+    "Key": "STR_ORDER_CARRIER_ATTACK_MOVE",
+    "Value": "Carrier Attack Move"
+  },
+  {
+    "id": "STR_ORDER_STAY_IN_RANGE",
+    "Key": "STR_ORDER_STAY_IN_RANGE",
+    "Value": "Stay In Range"
+  },
+  {
+    "id": "STR_ORDER_TURRET_ATTACK",
+    "Key": "STR_ORDER_TURRET_ATTACK",
+    "Value": "Turret Attack"
+  },
+  {
+    "id": "STR_ORDER_NOTHING",
+    "Key": "STR_ORDER_NOTHING",
+    "Value": "Nothing"
+  },
+  {
+    "id": "STR_ORDER_DRONE_START_BUILD",
+    "Key": "STR_ORDER_DRONE_START_BUILD",
+    "Value": "Drone Start Build"
+  },
+  {
+    "id": "STR_ORDER_DRONE_BUILD",
+    "Key": "STR_ORDER_DRONE_BUILD",
+    "Value": "Drone Build"
+  },
+  {
+    "id": "STR_ORDER_DRONE_ATTACK_UNIT",
+    "Key": "STR_ORDER_DRONE_ATTACK_UNIT",
+    "Value": "Drone Attack Unit"
+  },
+  {
+    "id": "STR_ORDER_DRONE_INFEST",
+    "Key": "STR_ORDER_DRONE_INFEST",
+    "Value": "Infest Mine"
+  },
+  {
+    "id": "STR_ORDER_BUILD",
+    "Key": "STR_ORDER_BUILD",
+    "Value": "Build"
+  },
+  {
+    "id": "STR_ORDER_BUILDPROTOSS",
+    "Key": "STR_ORDER_BUILDPROTOSS",
+    "Value": "Build Protoss"
+  },
+  {
+    "id": "STR_ORDER_PYLON_BUILD",
+    "Key": "STR_ORDER_PYLON_BUILD",
+    "Value": "Pylon Build"
+  },
+  {
+    "id": "STR_ORDER_CONSTRUCT_BLDG",
+    "Key": "STR_ORDER_CONSTRUCT_BLDG",
+    "Value": "Construct Building"
+  },
+  {
+    "id": "STR_ORDER_REPAIR",
+    "Key": "STR_ORDER_REPAIR",
+    "Value": "Repair"
+  },
+  {
+    "id": "STR_ORDER_PLACE_ADDON",
+    "Key": "STR_ORDER_PLACE_ADDON",
+    "Value": "Place Add-On"
+  },
+  {
+    "id": "STR_ORDER_BUILD_ADDON",
+    "Key": "STR_ORDER_BUILD_ADDON",
+    "Value": "Build Add-On"
+  },
+  {
+    "id": "STR_ORDER_TRAIN",
+    "Key": "STR_ORDER_TRAIN",
+    "Value": "Train"
+  },
+  {
+    "id": "STR_ORDER_ZERG_BIRTH",
+    "Key": "STR_ORDER_ZERG_BIRTH",
+    "Value": "Zerg Birth"
+  },
+  {
+    "id": "STR_ORDER_MORPH",
+    "Key": "STR_ORDER_MORPH",
+    "Value": "Morph"
+  },
+  {
+    "id": "STR_ORDER_ZERG_BLDG_MORPH",
+    "Key": "STR_ORDER_ZERG_BLDG_MORPH",
+    "Value": "Zerg Building Morph"
+  },
+  {
+    "id": "STR_ORDER_BUILDSELF",
+    "Key": "STR_ORDER_BUILDSELF",
+    "Value": "Build Self"
+  },
+  {
+    "id": "STR_ORDER_BUILDSELFZERG",
+    "Key": "STR_ORDER_BUILDSELFZERG",
+    "Value": "Zerg Build Self"
+  },
+  {
+    "id": "STR_ORDER_ENTER_NYDUS",
+    "Key": "STR_ORDER_ENTER_NYDUS",
+    "Value": "Enter Nydus Canal"
+  },
+  {
+    "id": "STR_ORDER_BUILDSELFPROTOSS",
+    "Key": "STR_ORDER_BUILDSELFPROTOSS",
+    "Value": "Protoss Build Self"
+  },
+  {
+    "id": "STR_ORDER_FOLLOW",
+    "Key": "STR_ORDER_FOLLOW",
+    "Value": "Follow"
+  },
+  {
+    "id": "STR_ORDER_CARRIER",
+    "Key": "STR_ORDER_CARRIER",
+    "Value": "Carrier"
+  },
+  {
+    "id": "STR_ORDER_CARRIER_FIGHT",
+    "Key": "STR_ORDER_CARRIER_FIGHT",
+    "Value": "Carrier Fight"
+  },
+  {
+    "id": "STR_ORDER_REAVER",
+    "Key": "STR_ORDER_REAVER",
+    "Value": "Reaver"
+  },
+  {
+    "id": "STR_ORDER_REAVER_ATTACK",
+    "Key": "STR_ORDER_REAVER_ATTACK",
+    "Value": "Reaver Attack"
+  },
+  {
+    "id": "STR_ORDER_REAVER_FIGHT",
+    "Key": "STR_ORDER_REAVER_FIGHT",
+    "Value": "Reaver Fight"
+  },
+  {
+    "id": "STR_ORDER_REAVER_HOLD",
+    "Key": "STR_ORDER_REAVER_HOLD",
+    "Value": "Reaver Hold"
+  },
+  {
+    "id": "STR_ORDER_TRAIN_FIGHTER",
+    "Key": "STR_ORDER_TRAIN_FIGHTER",
+    "Value": "Train Fighter"
+  },
+  {
+    "id": "STR_ORDER_STRAFE_UNIT",
+    "Key": "STR_ORDER_STRAFE_UNIT",
+    "Value": "Strafe Unit"
+  },
+  {
+    "id": "STR_ORDER_TRILOBYTER",
+    "Key": "STR_ORDER_TRILOBYTER",
+    "Value": "Scarab"
+  },
+  {
+    "id": "STR_ORDER_RETURN",
+    "Key": "STR_ORDER_RETURN",
+    "Value": "Return"
+  },
+  {
+    "id": "STR_ORDER_DRONE_LAND",
+    "Key": "STR_ORDER_DRONE_LAND",
+    "Value": "Drone Land"
+  },
+  {
+    "id": "STR_ORDER_BLDG_LAND",
+    "Key": "STR_ORDER_BLDG_LAND",
+    "Value": "Building Land"
+  },
+  {
+    "id": "STR_ORDER_BLDG_LIFT_OFF",
+    "Key": "STR_ORDER_BLDG_LIFT_OFF",
+    "Value": "Building Lift Off"
+  },
+  {
+    "id": "STR_ORDER_DRONE_LIFT_OFF",
+    "Key": "STR_ORDER_DRONE_LIFT_OFF",
+    "Value": "Drone Lift Off"
+  },
+  {
+    "id": "STR_ORDER_LIFT_OFF",
+    "Key": "STR_ORDER_LIFT_OFF",
+    "Value": "Lift Off"
+  },
+  {
+    "id": "STR_ORDER_RESEARCH_TECH",
+    "Key": "STR_ORDER_RESEARCH_TECH",
+    "Value": "Reasearch Tech"
+  },
+  {
+    "id": "STR_ORDER_UPGRADE",
+    "Key": "STR_ORDER_UPGRADE",
+    "Value": "Upgrade"
+  },
+  {
+    "id": "STR_ORDER_LARVA",
+    "Key": "STR_ORDER_LARVA",
+    "Value": "Larva"
+  },
+  {
+    "id": "STR_ORDER_SPAWN_LARVA",
+    "Key": "STR_ORDER_SPAWN_LARVA",
+    "Value": "Spawning Larva"
+  },
+  {
+    "id": "STR_ORDER_HARVEST",
+    "Key": "STR_ORDER_HARVEST",
+    "Value": "Harvest"
+  },
+  {
+    "id": "STR_ORDER_HARVEST_GAS",
+    "Key": "STR_ORDER_HARVEST_GAS",
+    "Value": "Harvest Gas"
+  },
+  {
+    "id": "STR_ORDER_RETURN_GAS",
+    "Key": "STR_ORDER_RETURN_GAS",
+    "Value": "Return Gas"
+  },
+  {
+    "id": "STR_ORDER_HARVEST_MINERALS",
+    "Key": "STR_ORDER_HARVEST_MINERALS",
+    "Value": "Harvest Minerals"
+  },
+  {
+    "id": "STR_ORDER_RETURN_MINERALS",
+    "Key": "STR_ORDER_RETURN_MINERALS",
+    "Value": "Return Minerals"
+  },
+  {
+    "id": "STR_ORDER_ENTER_TRANSPORT",
+    "Key": "STR_ORDER_ENTER_TRANSPORT",
+    "Value": "Enter Transport"
+  },
+  {
+    "id": "STR_ORDER_PICK_UP",
+    "Key": "STR_ORDER_PICK_UP",
+    "Value": "Pick Up"
+  },
+  {
+    "id": "STR_ORDER_POWERUP",
+    "Key": "STR_ORDER_POWERUP",
+    "Value": "Powerup"
+  },
+  {
+    "id": "STR_ORDER_SIEGEMODE",
+    "Key": "STR_ORDER_SIEGEMODE",
+    "Value": "Siege Mode"
+  },
+  {
+    "id": "STR_ORDER_TANKMODE",
+    "Key": "STR_ORDER_TANKMODE",
+    "Value": "Tank Mode"
+  },
+  {
+    "id": "STR_ORDER_WATCHTARGET",
+    "Key": "STR_ORDER_WATCHTARGET",
+    "Value": "Watch Target"
+  },
+  {
+    "id": "STR_ORDER_INIT_SPREAD_CREEP",
+    "Key": "STR_ORDER_INIT_SPREAD_CREEP",
+    "Value": "Initing Creep Growth"
+  },
+  {
+    "id": "STR_ORDER_STOP_SPREAD_CREEP",
+    "Key": "STR_ORDER_STOP_SPREAD_CREEP",
+    "Value": "Stopping Creep Growth"
+  },
+  {
+    "id": "STR_ORDER_SPREAD_CREEP",
+    "Key": "STR_ORDER_SPREAD_CREEP",
+    "Value": "Spread Creep"
+  },
+  {
+    "id": "STR_ORDER_GUARDIANASPECT",
+    "Key": "STR_ORDER_GUARDIANASPECT",
+    "Value": "Guardian Aspect"
+  },
+  {
+    "id": "STR_ORDER_SUMMON_ARCHON",
+    "Key": "STR_ORDER_SUMMON_ARCHON",
+    "Value": "Warping Archon"
+  },
+  {
+    "id": "STR_ORDER_SUMMON_COMPLETE",
+    "Key": "STR_ORDER_SUMMON_COMPLETE",
+    "Value": "Completing Archon Summon"
+  },
+  {
+    "id": "STR_ORDER_HOLDPOS",
+    "Key": "STR_ORDER_HOLDPOS",
+    "Value": "Hold Position"
+  },
+  {
+    "id": "STR_ORDER_CLOAK",
+    "Key": "STR_ORDER_CLOAK",
+    "Value": "Cloak"
+  },
+  {
+    "id": "STR_ORDER_DECLOAK",
+    "Key": "STR_ORDER_DECLOAK",
+    "Value": "Decloak"
+  },
+  {
+    "id": "STR_ORDER_UNLOAD",
+    "Key": "STR_ORDER_UNLOAD",
+    "Value": "Unload"
+  },
+  {
+    "id": "STR_ORDER_MOVE_UNLOAD",
+    "Key": "STR_ORDER_MOVE_UNLOAD",
+    "Value": "Move Unload"
+  },
+  {
+    "id": "STR_ORDER_YAMATO",
+    "Key": "STR_ORDER_YAMATO",
+    "Value": "Fire Yamato Gun"
+  },
+  {
+    "id": "STR_ORDER_MAGNAPULSE",
+    "Key": "STR_ORDER_MAGNAPULSE",
+    "Value": "Magna Pulse"
+  },
+  {
+    "id": "STR_ORDER_BURROW",
+    "Key": "STR_ORDER_BURROW",
+    "Value": "Burrow"
+  },
+  {
+    "id": "STR_ORDER_BURROWED",
+    "Key": "STR_ORDER_BURROWED",
+    "Value": "Burrowed"
+  },
+  {
+    "id": "STR_ORDER_DEBURROW",
+    "Key": "STR_ORDER_DEBURROW",
+    "Value": "Unburrow"
+  },
+  {
+    "id": "STR_ORDER_CAST_PARASITE",
+    "Key": "STR_ORDER_CAST_PARASITE",
+    "Value": "Cast Parasite"
+  },
+  {
+    "id": "STR_ORDER_SUMMON_BROODLINGS",
+    "Key": "STR_ORDER_SUMMON_BROODLINGS",
+    "Value": "Summon Broodlings"
+  },
+  {
+    "id": "STR_ORDER_EMP_SHOCKWAVE",
+    "Key": "STR_ORDER_EMP_SHOCKWAVE",
+    "Value": "EMP Shockwave"
+  },
+  {
+    "id": "STR_ORDER_LOCKDOWN",
+    "Key": "STR_ORDER_LOCKDOWN",
+    "Value": "Lockdown"
+  },
+  {
+    "id": "STR_ORDER_NUKE_WAIT",
+    "Key": "STR_ORDER_NUKE_WAIT",
+    "Value": "Nuke Wait"
+  },
+  {
+    "id": "STR_ORDER_NUKE_TRAIN",
+    "Key": "STR_ORDER_NUKE_TRAIN",
+    "Value": "Nuke Train"
+  },
+  {
+    "id": "STR_ORDER_NUKE_LAUNCH",
+    "Key": "STR_ORDER_NUKE_LAUNCH",
+    "Value": "Nuke Launch"
+  },
+  {
+    "id": "STR_ORDER_NUKE_PAINT",
+    "Key": "STR_ORDER_NUKE_PAINT",
+    "Value": "Nuke Paint"
+  },
+  {
+    "id": "STR_ORDER_NUKE_UNIT",
+    "Key": "STR_ORDER_NUKE_UNIT",
+    "Value": "Nuke Unit"
+  },
+  {
+    "id": "STR_ORDER_NUKE_GROUND",
+    "Key": "STR_ORDER_NUKE_GROUND",
+    "Value": "Nuke Ground"
+  },
+  {
+    "id": "STR_ORDER_NUKE_TRACK",
+    "Key": "STR_ORDER_NUKE_TRACK",
+    "Value": "Nuke Track"
+  },
+  {
+    "id": "STR_ORDER_ARBITER",
+    "Key": "STR_ORDER_ARBITER",
+    "Value": "Initializing Arbiter"
+  },
+  {
+    "id": "STR_ORDER_CLOAK_NEIGHBORS",
+    "Key": "STR_ORDER_CLOAK_NEIGHBORS",
+    "Value": "Cloaking nearby units"
+  },
+  {
+    "id": "STR_ORDER_PLACE_MINE",
+    "Key": "STR_ORDER_PLACE_MINE",
+    "Value": "Place Mine"
+  },
+  {
+    "id": "STR_ORDER_RCLICK",
+    "Key": "STR_ORDER_RCLICK",
+    "Value": "Right Click Action"
+  },
+  {
+    "id": "STR_ORDER_LCLICK",
+    "Key": "STR_ORDER_LCLICK",
+    "Value": "Left Click Action"
+  },
+  {
+    "id": "STR_ORDER_SAP_UNIT",
+    "Key": "STR_ORDER_SAP_UNIT",
+    "Value": "Sap Unit"
+  },
+  {
+    "id": "STR_ORDER_SAP_LOC",
+    "Key": "STR_ORDER_SAP_LOC",
+    "Value": "Sap Location"
+  },
+  {
+    "id": "STR_ORDER_TELEPORT",
+    "Key": "STR_ORDER_TELEPORT",
+    "Value": "Teleport"
+  },
+  {
+    "id": "STR_ORDER_TELEPORT_LOC",
+    "Key": "STR_ORDER_TELEPORT_LOC",
+    "Value": "Teleport to Location"
+  },
+  {
+    "id": "STR_ORDER_PLACE_SCANNER",
+    "Key": "STR_ORDER_PLACE_SCANNER",
+    "Value": "Place Scanner"
+  },
+  {
+    "id": "STR_ORDER_SCANNER",
+    "Key": "STR_ORDER_SCANNER",
+    "Value": "Scanner"
+  },
+  {
+    "id": "STR_ORDER_DEF_MAT",
+    "Key": "STR_ORDER_DEF_MAT",
+    "Value": "Defensive Matrix"
+  },
+  {
+    "id": "STR_ORDER_UNDO_FLYER",
+    "Key": "STR_ORDER_UNDO_FLYER",
+    "Value": "Reset Collision"
+  },
+  {
+    "id": "STR_ORDER_UNDO_TRANSPARENT_WORKER",
+    "Key": "STR_ORDER_UNDO_TRANSPARENT_WORKER",
+    "Value": "Reset Collision"
+  },
+  {
+    "id": "STR_ORDER_PATROL",
+    "Key": "STR_ORDER_PATROL",
+    "Value": "Patrol"
+  },
+  {
+    "id": "STR_ORDER_COMP_AI",
+    "Key": "STR_ORDER_COMP_AI",
+    "Value": "Computer AI"
+  },
+  {
+    "id": "STR_ORDER_GUARD_POST",
+    "Key": "STR_ORDER_GUARD_POST",
+    "Value": "Guard Post"
+  },
+  {
+    "id": "STR_ORDER_RESCUE_PASSIVE",
+    "Key": "STR_ORDER_RESCUE_PASSIVE",
+    "Value": "Rescue Passive"
+  },
+  {
+    "id": "STR_ORDER_NEUTRAL",
+    "Key": "STR_ORDER_NEUTRAL",
+    "Value": "Neutral"
+  },
+  {
+    "id": "STR_ORDER_COMP_RETURN",
+    "Key": "STR_ORDER_COMP_RETURN",
+    "Value": "Computer Return"
+  },
+  {
+    "id": "STR_ORDER_JUICE_INIT",
+    "Key": "STR_ORDER_JUICE_INIT",
+    "Value": "Initing Psi Provider"
+  },
+  {
+    "id": "STR_ORDER_SELF_DESTRUCT",
+    "Key": "STR_ORDER_SELF_DESTRUCT",
+    "Value": "Self Destructing"
+  },
+  {
+    "id": "STR_ORDER_DECAY_CREEP",
+    "Key": "STR_ORDER_DECAY_CREEP",
+    "Value": "Decaying creep"
+  },
+  {
+    "id": "STR_ORDER_RECHARGE",
+    "Key": "STR_ORDER_RECHARGE",
+    "Value": "Recharge Shields"
+  },
+  {
+    "id": "STR_ORDER_SHIELD_BATTERY",
+    "Key": "STR_ORDER_SHIELD_BATTERY",
+    "Value": "Shield Battery"
+  },
+  {
+    "id": "STR_ORDER_RALLY_POINT",
+    "Key": "STR_ORDER_RALLY_POINT",
+    "Value": "Rally Point"
+  },
+  {
+    "id": "STR_ORDER_CTF_COP_INIT",
+    "Key": "STR_ORDER_CTF_COP_INIT",
+    "Value": "CTF COP Init"
+  },
+  {
+    "id": "STR_ORDER_CTF_COP",
+    "Key": "STR_ORDER_CTF_COP",
+    "Value": "CTF COP"
+  },
+  {
+    "id": "STR_ORDER_CRITTER",
+    "Key": "STR_ORDER_CRITTER",
+    "Value": "Critter"
+  },
+  {
+    "id": "STR_ORDER_HIDDEN_GUN",
+    "Key": "STR_ORDER_HIDDEN_GUN",
+    "Value": "Hidden Gun"
+  },
+  {
+    "id": "STR_ORDER_OPEN_DOOR",
+    "Key": "STR_ORDER_OPEN_DOOR",
+    "Value": "Open Door"
+  },
+  {
+    "id": "STR_ORDER_CLOSE_DOOR",
+    "Key": "STR_ORDER_CLOSE_DOOR",
+    "Value": "Close Door"
+  },
+  {
+    "id": "STR_ORDER_HIDE_TRAP",
+    "Key": "STR_ORDER_HIDE_TRAP",
+    "Value": "Hide Trap"
+  },
+  {
+    "id": "STR_ORDER_REVEAL_TRAP",
+    "Key": "STR_ORDER_REVEAL_TRAP",
+    "Value": "Reveal Trap"
+  },
+  {
+    "id": "STR_ORDER_ENABLE_DOODAD",
+    "Key": "STR_ORDER_ENABLE_DOODAD",
+    "Value": "Enable Doodad"
+  },
+  {
+    "id": "STR_ORDER_DISABLE_DOODAD",
+    "Key": "STR_ORDER_DISABLE_DOODAD",
+    "Value": "Disable Doodad"
+  },
+  {
+    "id": "STR_ORDER_PROTOSS_WARP_IN",
+    "Key": "STR_ORDER_PROTOSS_WARP_IN",
+    "Value": "Warp In"
+  },
+  {
+    "id": "STR_ORDER_HIDESUICIDE",
+    "Key": "STR_ORDER_HIDESUICIDE",
+    "Value": "Hide and Suicide"
+  },
+  {
+    "id": "STR_ORDER_FATAL",
+    "Key": "STR_ORDER_FATAL",
+    "Value": "Fatal"
+  },
+  {
+    "id": "STR_NUKE_DETECT",
+    "Key": "STR_NUKE_DETECT",
+    "Value": "Виявлено запуск ядерної ракети."
+  },
+  {
+    "id": "AI_CUSTOM_TERRAN",
+    "Key": "AI_CUSTOM_TERRAN",
+    "Value": "Terran Custom Level"
+  },
+  {
+    "id": "AI_TERRAN_LO",
+    "Key": "AI_TERRAN_LO",
+    "Value": "Terran Campaign Easy"
+  },
+  {
+    "id": "AI_TERRAN_MED",
+    "Key": "AI_TERRAN_MED",
+    "Value": "Terran Campaign Medium"
+  },
+  {
+    "id": "AI_TERRAN_HI",
+    "Key": "AI_TERRAN_HI",
+    "Value": "Terran Campaign Difficult"
+  },
+  {
+    "id": "AI_TERRAN_AREA",
+    "Key": "AI_TERRAN_AREA",
+    "Value": "Terran Campaign Area Town"
+  },
+  {
+    "id": "AI_TERRAN_3",
+    "Key": "AI_TERRAN_3",
+    "Value": "Terran 3 - Zerg Town"
+  },
+  {
+    "id": "AI_TERRAN_5",
+    "Key": "AI_TERRAN_5",
+    "Value": "Terran 5 - Terran Main Town"
+  },
+  {
+    "id": "AI_TERRAN_5H",
+    "Key": "AI_TERRAN_5H",
+    "Value": "Terran 5 - Terran Harvest Town"
+  },
+  {
+    "id": "AI_TERRAN_6",
+    "Key": "AI_TERRAN_6",
+    "Value": "Terran 6 - Air Attack Zerg"
+  },
+  {
+    "id": "AI_TERRAN_6B",
+    "Key": "AI_TERRAN_6B",
+    "Value": "Terran 6 - Ground Attack Zerg"
+  },
+  {
+    "id": "AI_TERRAN_6C",
+    "Key": "AI_TERRAN_6C",
+    "Value": "Terran 6 - Zerg Support Town"
+  },
+  {
+    "id": "AI_TERRAN_7",
+    "Key": "AI_TERRAN_7",
+    "Value": "Terran 7 - Bottom Zerg Town"
+  },
+  {
+    "id": "AI_TERRAN_7S",
+    "Key": "AI_TERRAN_7S",
+    "Value": "Terran 7 - Right Zerg Town"
+  },
+  {
+    "id": "AI_TERRAN_7M",
+    "Key": "AI_TERRAN_7M",
+    "Value": "Terran 7 - Middle Zerg Town"
+  },
+  {
+    "id": "AI_TERRAN_8",
+    "Key": "AI_TERRAN_8",
+    "Value": "Terran 8 - Confederate Town"
+  },
+  {
+    "id": "AI_TERRAN_9L",
+    "Key": "AI_TERRAN_9L",
+    "Value": "Terran 9 - Light Attack"
+  },
+  {
+    "id": "AI_TERRAN_9H",
+    "Key": "AI_TERRAN_9H",
+    "Value": "Terran 9 - Heavy Attack"
+  },
+  {
+    "id": "AI_TERRAN_10",
+    "Key": "AI_TERRAN_10",
+    "Value": "Terran 10 - Confederate Towns"
+  },
+  {
+    "id": "AI_TERRAN_11Z",
+    "Key": "AI_TERRAN_11Z",
+    "Value": "Terran 11 - Zerg Town"
+  },
+  {
+    "id": "AI_TERRAN_11PS",
+    "Key": "AI_TERRAN_11PS",
+    "Value": "Terran 11 - Lower Protoss Town"
+  },
+  {
+    "id": "AI_TERRAN_11P",
+    "Key": "AI_TERRAN_11P",
+    "Value": "Terran 11 - Upper Protoss Town"
+  },
+  {
+    "id": "AI_TERRAN_12N",
+    "Key": "AI_TERRAN_12N",
+    "Value": "Terran 12 - Nuke Town"
+  },
+  {
+    "id": "AI_TERRAN_12P",
+    "Key": "AI_TERRAN_12P",
+    "Value": "Terran 12 - Phoenix Town"
+  },
+  {
+    "id": "AI_TERRAN_12T",
+    "Key": "AI_TERRAN_12T",
+    "Value": "Terran 12 - Tank Town"
+  },
+  {
+    "id": "AI_CUSTOM_PROTOSS",
+    "Key": "AI_CUSTOM_PROTOSS",
+    "Value": "Protoss Custom Level"
+  },
+  {
+    "id": "AI_PROTOSS_LO",
+    "Key": "AI_PROTOSS_LO",
+    "Value": "Protoss Campaign Easy"
+  },
+  {
+    "id": "AI_PROTOSS_MED",
+    "Key": "AI_PROTOSS_MED",
+    "Value": "Protoss Campaign Medium"
+  },
+  {
+    "id": "AI_PROTOSS_HI",
+    "Key": "AI_PROTOSS_HI",
+    "Value": "Protoss Campaign Difficult"
+  },
+  {
+    "id": "AI_PROTOSS_AREA",
+    "Key": "AI_PROTOSS_AREA",
+    "Value": "Protoss Campaign Area Town"
+  },
+  {
+    "id": "AI_PROTOSS_1",
+    "Key": "AI_PROTOSS_1",
+    "Value": "Protoss 1 - Zerg Town"
+  },
+  {
+    "id": "AI_PROTOSS_2",
+    "Key": "AI_PROTOSS_2",
+    "Value": "Protoss 2 - Zerg Town"
+  },
+  {
+    "id": "AI_PROTOSS_3",
+    "Key": "AI_PROTOSS_3",
+    "Value": "Protoss 3 - Unused"
+  },
+  {
+    "id": "AI_PROTOSS_3R",
+    "Key": "AI_PROTOSS_3R",
+    "Value": "Protoss 3 - Air Zerg Town"
+  },
+  {
+    "id": "AI_PROTOSS_3G",
+    "Key": "AI_PROTOSS_3G",
+    "Value": "Protoss 3 - Ground Zerg Town"
+  },
+  {
+    "id": "AI_PROTOSS_4",
+    "Key": "AI_PROTOSS_4",
+    "Value": "Protoss 4 - Zerg Town"
+  },
+  {
+    "id": "AI_PROTOSS_4B",
+    "Key": "AI_PROTOSS_4B",
+    "Value": "Protoss 4 - Zerg Town (unused?)"
+  },
+  {
+    "id": "AI_PROTOSS_5I",
+    "Key": "AI_PROTOSS_5I",
+    "Value": "Protoss 5 - Zerg Town Island"
+  },
+  {
+    "id": "AI_PROTOSS_5B",
+    "Key": "AI_PROTOSS_5B",
+    "Value": "Protoss 5 - Zerg Town Base"
+  },
+  {
+    "id": "AI_PROTOSS_6",
+    "Key": "AI_PROTOSS_6",
+    "Value": "Protoss 6 - incomplete"
+  },
+  {
+    "id": "AI_PROTOSS_7",
+    "Key": "AI_PROTOSS_7",
+    "Value": "Protoss 7 - Left Protoss Town"
+  },
+  {
+    "id": "AI_PROTOSS_7B",
+    "Key": "AI_PROTOSS_7B",
+    "Value": "Protoss 7 - Right Protoss Town"
+  },
+  {
+    "id": "AI_PROTOSS_7S",
+    "Key": "AI_PROTOSS_7S",
+    "Value": "Protoss 7 - Shrine Protoss"
+  },
+  {
+    "id": "AI_PROTOSS_8",
+    "Key": "AI_PROTOSS_8",
+    "Value": "Protoss 8 - Left Protoss Town"
+  },
+  {
+    "id": "AI_PROTOSS_8B",
+    "Key": "AI_PROTOSS_8B",
+    "Value": "Protoss 8 - Right Protoss Town"
+  },
+  {
+    "id": "AI_PROTOSS_8D",
+    "Key": "AI_PROTOSS_8D",
+    "Value": "Protoss 8 - Protoss Defenders"
+  },
+  {
+    "id": "AI_PROTOSS_9",
+    "Key": "AI_PROTOSS_9",
+    "Value": "Protoss 9 - Ground Zerg"
+  },
+  {
+    "id": "AI_PROTOSS_9W",
+    "Key": "AI_PROTOSS_9W",
+    "Value": "Protoss 9 - Air Zerg"
+  },
+  {
+    "id": "AI_PROTOSS_9Y",
+    "Key": "AI_PROTOSS_9Y",
+    "Value": "Protoss 9 - Spell Zerg"
+  },
+  {
+    "id": "AI_PROTOSS_10",
+    "Key": "AI_PROTOSS_10",
+    "Value": "Protoss 10 - Mini-Towns"
+  },
+  {
+    "id": "AI_PROTOSS_10C",
+    "Key": "AI_PROTOSS_10C",
+    "Value": "Protoss 10 - Mini-Town Master"
+  },
+  {
+    "id": "AI_PROTOSS_10O",
+    "Key": "AI_PROTOSS_10O",
+    "Value": "Protoss 10 - Overmind Defenders"
+  },
+  {
+    "id": "AI_CUSTOM_ZERG",
+    "Key": "AI_CUSTOM_ZERG",
+    "Value": "Zerg Custom Level"
+  },
+  {
+    "id": "AI_ZERG_LO",
+    "Key": "AI_ZERG_LO",
+    "Value": "Zerg Campaign Easy"
+  },
+  {
+    "id": "AI_ZERG_MED",
+    "Key": "AI_ZERG_MED",
+    "Value": "Zerg Campaign Medium"
+  },
+  {
+    "id": "AI_ZERG_HI",
+    "Key": "AI_ZERG_HI",
+    "Value": "Zerg Campaign Difficult"
+  },
+  {
+    "id": "AI_ZERG_AREA",
+    "Key": "AI_ZERG_AREA",
+    "Value": "Zerg Campaign Area Town"
+  },
+  {
+    "id": "AI_ZERG_1",
+    "Key": "AI_ZERG_1",
+    "Value": "Zerg 1 - Terran Town"
+  },
+  {
+    "id": "AI_ZERG_2",
+    "Key": "AI_ZERG_2",
+    "Value": "Zerg 2 - Protoss Town"
+  },
+  {
+    "id": "AI_ZERG_3",
+    "Key": "AI_ZERG_3",
+    "Value": "Zerg 3 - Terran Town"
+  },
+  {
+    "id": "AI_ZERG_4",
+    "Key": "AI_ZERG_4",
+    "Value": "Zerg 4 - Right Terran Town"
+  },
+  {
+    "id": "AI_ZERG_4S",
+    "Key": "AI_ZERG_4S",
+    "Value": "Zerg 4 - Lower Terran Town"
+  },
+  {
+    "id": "AI_ZERG_5",
+    "Key": "AI_ZERG_5",
+    "Value": "Zerg 5 - incomplete"
+  },
+  {
+    "id": "AI_ZERG_6",
+    "Key": "AI_ZERG_6",
+    "Value": "Zerg 6 - Protoss Town"
+  },
+  {
+    "id": "AI_ZERG_7G",
+    "Key": "AI_ZERG_7G",
+    "Value": "Zerg 7 - Ground Town"
+  },
+  {
+    "id": "AI_ZERG_7A",
+    "Key": "AI_ZERG_7A",
+    "Value": "Zerg 7 - Air Town"
+  },
+  {
+    "id": "AI_ZERG_7S",
+    "Key": "AI_ZERG_7S",
+    "Value": "Zerg 7 - Support Town"
+  },
+  {
+    "id": "AI_ZERG_8S",
+    "Key": "AI_ZERG_8S",
+    "Value": "Zerg 8 - Scout Town"
+  },
+  {
+    "id": "AI_ZERG_8T",
+    "Key": "AI_ZERG_8T",
+    "Value": "Zerg 8 - Templar Town"
+  },
+  {
+    "id": "AI_ZERG_9",
+    "Key": "AI_ZERG_9",
+    "Value": "Zerg 9 - Teal Protoss"
+  },
+  {
+    "id": "AI_ZERG_9YL",
+    "Key": "AI_ZERG_9YL",
+    "Value": "Zerg 9 - Left Yellow Protoss"
+  },
+  {
+    "id": "AI_ZERG_9YR",
+    "Key": "AI_ZERG_9YR",
+    "Value": "Zerg 9 - Right Yellow Protoss"
+  },
+  {
+    "id": "AI_ZERG_9OL",
+    "Key": "AI_ZERG_9OL",
+    "Value": "Zerg 9 - Left Orange Protoss"
+  },
+  {
+    "id": "AI_ZERG_9OR",
+    "Key": "AI_ZERG_9OR",
+    "Value": "Zerg 9 - Right Orange Protoss"
+  },
+  {
+    "id": "AI_ZERG_10TL",
+    "Key": "AI_ZERG_10TL",
+    "Value": "Zerg 10 - Left Teal (Attack)"
+  },
+  {
+    "id": "AI_ZERG_10TR",
+    "Key": "AI_ZERG_10TR",
+    "Value": "Zerg 10 - Right Teal (Support)"
+  },
+  {
+    "id": "AI_ZERG_10YL",
+    "Key": "AI_ZERG_10YL",
+    "Value": "Zerg 10 - Left Yellow (Support)"
+  },
+  {
+    "id": "AI_ZERG_10YR",
+    "Key": "AI_ZERG_10YR",
+    "Value": "Zerg 10 - Right Yellow (Attack)"
+  },
+  {
+    "id": "AI_ZERG_10R",
+    "Key": "AI_ZERG_10R",
+    "Value": "Zerg 10 - Red Protoss"
+  },
+  {
+    "id": "AI_DEFAULT_STAGING",
+    "Key": "AI_DEFAULT_STAGING",
+    "Value": "Set a Default Staging Area"
+  },
+  {
+    "id": "AI_SUICIDE_MISSION",
+    "Key": "AI_SUICIDE_MISSION",
+    "Value": "Send All Units on Strategic Suicide Missions"
+  },
+  {
+    "id": "AI_SUICIDE_RANDOM",
+    "Key": "AI_SUICIDE_RANDOM",
+    "Value": "Send All Units on Random Suicide Missions"
+  },
+  {
+    "id": "AI_DECLARE_ENEMY",
+    "Key": "AI_DECLARE_ENEMY",
+    "Value": "Set Player to Enemy"
+  },
+  {
+    "id": "AI_DECLARE_ALLY",
+    "Key": "AI_DECLARE_ALLY",
+    "Value": "Set Player to Ally"
+  },
+  {
+    "id": "AI_MOVE_TEMPLAR",
+    "Key": "AI_MOVE_TEMPLAR",
+    "Value": "Move Dark Templars to Region"
+  },
+  {
+    "id": "AI_BECOME_RESCUE",
+    "Key": "AI_BECOME_RESCUE",
+    "Value": "Switch Computer Player to Rescue Passive"
+  },
+  {
+    "id": "AI_ENTER_A_BUNKER",
+    "Key": "AI_ENTER_A_BUNKER",
+    "Value": "Enter Closest Bunker"
+  },
+  {
+    "id": "AI_VALUE_THIS_AREA",
+    "Key": "AI_VALUE_THIS_AREA",
+    "Value": "Value This Area Higher"
+  },
+  {
+    "id": "AI_CLEAR_COMBAT",
+    "Key": "AI_CLEAR_COMBAT",
+    "Value": "Clear Previous Combat Data"
+  },
+  {
+    "id": "AI_DEBUG_1",
+    "Key": "AI_DEBUG_1",
+    "Value": "Debug Script 1 (general)"
+  },
+  {
+    "id": "AI_DEBUG_2",
+    "Key": "AI_DEBUG_2",
+    "Value": "Debug Script 2 (general)"
+  },
+  {
+    "id": "AI_DEBUG_3",
+    "Key": "AI_DEBUG_3",
+    "Value": "Debug Script 3 (general)"
+  },
+  {
+    "id": "AI_DEBUG_4",
+    "Key": "AI_DEBUG_4",
+    "Value": "Debug Script 4 (general)"
+  },
+  {
+    "id": "AI_DEBUG_5",
+    "Key": "AI_DEBUG_5",
+    "Value": "Debug Script 5 (general)"
+  },
+  {
+    "id": "AI_DEBUG_1_LOC",
+    "Key": "AI_DEBUG_1_LOC",
+    "Value": "Debug Script 1 (location)"
+  },
+  {
+    "id": "AI_DEBUG_2_LOC",
+    "Key": "AI_DEBUG_2_LOC",
+    "Value": "Debug Script 2 (location)"
+  },
+  {
+    "id": "AI_DEBUG_3_LOC",
+    "Key": "AI_DEBUG_3_LOC",
+    "Value": "Debug Script 3 (location)"
+  },
+  {
+    "id": "AI_DEBUG_4_LOC",
+    "Key": "AI_DEBUG_4_LOC",
+    "Value": "Debug Script 4 (location)"
+  },
+  {
+    "id": "AI_DEBUG_5_LOC",
+    "Key": "AI_DEBUG_5_LOC",
+    "Value": "Debug Script 5 (location)"
+  },
+  {
+    "id": "DDS_BAD_BLDG",
+    "Key": "DDS_BAD_BLDG",
+    "Value": "Structure"
+  },
+  {
+    "id": "DDS_BAD_BLDG2CONC",
+    "Key": "DDS_BAD_BLDG2CONC",
+    "Value": "Structure Wall"
+  },
+  {
+    "id": "DDS_BAD_CLIFF",
+    "Key": "DDS_BAD_CLIFF",
+    "Value": "Cliff"
+  },
+  {
+    "id": "DDS_BAD_HIDIRT",
+    "Key": "DDS_BAD_HIDIRT",
+    "Value": "High Dirt"
+  },
+  {
+    "id": "DDS_BAD_LOGRASS",
+    "Key": "DDS_BAD_LOGRASS",
+    "Value": "Grass"
+  },
+  {
+    "id": "DDS_BAD_HIGRASS",
+    "Key": "DDS_BAD_HIGRASS",
+    "Value": "High Grass"
+  },
+  {
+    "id": "DDS_BAD_LODIRT",
+    "Key": "DDS_BAD_LODIRT",
+    "Value": "Dirt"
+  },
+  {
+    "id": "DDS_BAD_RUBBLE",
+    "Key": "DDS_BAD_RUBBLE",
+    "Value": "Rocky Ground"
+  },
+  {
+    "id": "DDS_BAD_CONCRETE",
+    "Key": "DDS_BAD_CONCRETE",
+    "Value": "Asphalt"
+  },
+  {
+    "id": "DDS_BAD_WATER",
+    "Key": "DDS_BAD_WATER",
+    "Value": "Water"
+  },
+  {
+    "id": "DDS_BAD_WATERCLF",
+    "Key": "DDS_BAD_WATERCLF",
+    "Value": "Coastal Cliff"
+  },
+  {
+    "id": "DDS_JUNG_JUNGLE",
+    "Key": "DDS_JUNG_JUNGLE",
+    "Value": "Jungle"
+  },
+  {
+    "id": "DDS_HIGH_JUNGLE",
+    "Key": "DDS_HIGH_JUNGLE",
+    "Value": "High Jungle"
+  },
+  {
+    "id": "DDS_JUNG_RUINS",
+    "Key": "DDS_JUNG_RUINS",
+    "Value": "Ruins"
+  },
+  {
+    "id": "DDS_HIGH_RUINS",
+    "Key": "DDS_HIGH_RUINS",
+    "Value": "High Ruins"
+  },
+  {
+    "id": "DDS_JUNG_BLDG2JUNG",
+    "Key": "DDS_JUNG_BLDG2JUNG",
+    "Value": "Temple Wall"
+  },
+  {
+    "id": "DDS_HIGH_BLDG2JUNG",
+    "Key": "DDS_HIGH_BLDG2JUNG",
+    "Value": "High Temple Wall"
+  },
+  {
+    "id": "DDS_PLAT_DDDARK",
+    "Key": "DDS_PLAT_DDDARK",
+    "Value": "Dark Platform"
+  },
+  {
+    "id": "DDS_PLAT_DDHIGHBLD",
+    "Key": "DDS_PLAT_DDHIGHBLD",
+    "Value": "High Plating"
+  },
+  {
+    "id": "DDS_PLAT_DDLOWBLD",
+    "Key": "DDS_PLAT_DDLOWBLD",
+    "Value": "Plating"
+  },
+  {
+    "id": "DDS_PLAT_DDLOWNBLD",
+    "Key": "DDS_PLAT_DDLOWNBLD",
+    "Value": "Platform"
+  },
+  {
+    "id": "DDS_PLAT_DDPLATCLIF",
+    "Key": "DDS_PLAT_DDPLATCLIF",
+    "Value": "Platform Wall"
+  },
+  {
+    "id": "DDS_PLAT_DDPLATPIT",
+    "Key": "DDS_PLAT_DDPLATPIT",
+    "Value": "Low Platform"
+  },
+  {
+    "id": "DDS_PLAT_DDPLATPITCLIFF",
+    "Key": "DDS_PLAT_DDPLATPITCLIFF",
+    "Value": "Low Platform Wall"
+  },
+  {
+    "id": "DDS_PLAT_DDRUSTYEDGE",
+    "Key": "DDS_PLAT_DDRUSTYEDGE",
+    "Value": "Rusty Pit Wall"
+  },
+  {
+    "id": "DDS_PLAT_DDRUSTYPIT",
+    "Key": "DDS_PLAT_DDRUSTYPIT",
+    "Value": "Rusty Pit"
+  },
+  {
+    "id": "DDS_PLAT_DDSOLARPANEL",
+    "Key": "DDS_PLAT_DDSOLARPANEL",
+    "Value": "Solar Array"
+  },
+  {
+    "id": "DDS_ASH_DDLOWASH",
+    "Key": "DDS_ASH_DDLOWASH",
+    "Value": "Dirt"
+  },
+  {
+    "id": "DDS_ASH_DDHIGHASH",
+    "Key": "DDS_ASH_DDHIGHASH",
+    "Value": "High Dirt"
+  },
+  {
+    "id": "DDS_ASH_DDROCKS",
+    "Key": "DDS_ASH_DDROCKS",
+    "Value": "Shale"
+  },
+  {
+    "id": "DDS_ASH_HIGHCLIFF",
+    "Key": "DDS_ASH_HIGHCLIFF",
+    "Value": "Cliff"
+  },
+  {
+    "id": "DDS_INSTALL_DDCLEAN",
+    "Key": "DDS_INSTALL_DDCLEAN",
+    "Value": "Floor"
+  },
+  {
+    "id": "DDS_INSTALL_DDCLEAN2ROOF",
+    "Key": "DDS_INSTALL_DDCLEAN2ROOF",
+    "Value": "Wall"
+  },
+  {
+    "id": "DDS_INSTALL_DDDIRT",
+    "Key": "DDS_INSTALL_DDDIRT",
+    "Value": "Substructure"
+  },
+  {
+    "id": "DDS_INSTALL_DDDIRT2CLEAN",
+    "Key": "DDS_INSTALL_DDDIRT2CLEAN",
+    "Value": "Substructure Wall"
+  },
+  {
+    "id": "DDS_INSTALL_DDWALK",
+    "Key": "DDS_INSTALL_DDWALK",
+    "Value": "Plating"
+  },
+  {
+    "id": "DDS_BAD_BRIDGE",
+    "Key": "DDS_BAD_BRIDGE",
+    "Value": "Bridges"
+  },
+  {
+    "id": "DDS_JUNGLE_BRIDGES",
+    "Key": "DDS_JUNGLE_BRIDGES",
+    "Value": "Bridges"
+  },
+  {
+    "id": "DDS_PLAT_WALKWAY",
+    "Key": "DDS_PLAT_WALKWAY",
+    "Value": "Elevated Catwalk Ramps"
+  },
+  {
+    "id": "DDS_PLAT_BRIDGES",
+    "Key": "DDS_PLAT_BRIDGES",
+    "Value": "Bridges"
+  },
+  {
+    "id": "DDS_DESERT_WATER",
+    "Key": "DDS_DESERT_WATER",
+    "Value": "Tar"
+  },
+  {
+    "id": "DDS_DESERT_WATERCLIFF",
+    "Key": "DDS_DESERT_WATERCLIFF",
+    "Value": "Tar Cliff"
+  },
+  {
+    "id": "DDS_DESERT_HARDPAN",
+    "Key": "DDS_DESERT_HARDPAN",
+    "Value": "Dirt"
+  },
+  {
+    "id": "DDS_DESERT_DRIEDMUD",
+    "Key": "DDS_DESERT_DRIEDMUD",
+    "Value": "Dried Mud"
+  },
+  {
+    "id": "DDS_DESERT_SANDDUNES",
+    "Key": "DDS_DESERT_SANDDUNES",
+    "Value": "Sand Dunes"
+  },
+  {
+    "id": "DDS_DESERT_ROCKYGROUND",
+    "Key": "DDS_DESERT_ROCKYGROUND",
+    "Value": "Rocky Ground"
+  },
+  {
+    "id": "DDS_DESERT_RUINS",
+    "Key": "DDS_DESERT_RUINS",
+    "Value": "Crags"
+  },
+  {
+    "id": "DDS_DESERT_SANDYSUNKEN",
+    "Key": "DDS_DESERT_SANDYSUNKEN",
+    "Value": "Sandy Sunken Pit"
+  },
+  {
+    "id": "DDS_DESERT_RESOURCE",
+    "Key": "DDS_DESERT_RESOURCE",
+    "Value": "Compound"
+  },
+  {
+    "id": "DDS_DESERT_HIGHDIRT",
+    "Key": "DDS_DESERT_HIGHDIRT",
+    "Value": "High Dirt"
+  },
+  {
+    "id": "DDS_DESERT_HIGHSANDDUNES",
+    "Key": "DDS_DESERT_HIGHSANDDUNES",
+    "Value": "High Sand Dunes"
+  },
+  {
+    "id": "DDS_DESERT_HIGHRUINS",
+    "Key": "DDS_DESERT_HIGHRUINS",
+    "Value": "High Crags"
+  },
+  {
+    "id": "DDS_DESERT_HIGHSANDSUNKEN",
+    "Key": "DDS_DESERT_HIGHSANDSUNKEN",
+    "Value": "High Sandy Sunken Pit"
+  },
+  {
+    "id": "DDS_DESERT_HIGHRESOURCE",
+    "Key": "DDS_DESERT_HIGHRESOURCE",
+    "Value": "High Compound"
+  },
+  {
+    "id": "DDS_ICE_WATER",
+    "Key": "DDS_ICE_WATER",
+    "Value": "Water"
+  },
+  {
+    "id": "DDS_ICE_SNOW",
+    "Key": "DDS_ICE_SNOW",
+    "Value": "Snow"
+  },
+  {
+    "id": "DDS_ICE_MUD",
+    "Key": "DDS_ICE_MUD",
+    "Value": "Moguls"
+  },
+  {
+    "id": "DDS_ICE_ROUGHSNOW",
+    "Key": "DDS_ICE_ROUGHSNOW",
+    "Value": "Dirt"
+  },
+  {
+    "id": "DDS_ICE_ROCKYSNOW",
+    "Key": "DDS_ICE_ROCKYSNOW",
+    "Value": "Rocky Snow"
+  },
+  {
+    "id": "DDS_ICE_SNOWYRUINS",
+    "Key": "DDS_ICE_SNOWYRUINS",
+    "Value": "Grass"
+  },
+  {
+    "id": "DDS_ICE_SUNKENICE",
+    "Key": "DDS_ICE_SUNKENICE",
+    "Value": "Ice"
+  },
+  {
+    "id": "DDS_ICE_OUTPOST",
+    "Key": "DDS_ICE_OUTPOST",
+    "Value": "Outpost"
+  },
+  {
+    "id": "DDS_ICE_HIGHSNOW",
+    "Key": "DDS_ICE_HIGHSNOW",
+    "Value": "High Snow"
+  },
+  {
+    "id": "DDS_ICE_HIGHROUGHSNOW",
+    "Key": "DDS_ICE_HIGHROUGHSNOW",
+    "Value": "High Dirt"
+  },
+  {
+    "id": "DDS_ICE_HIGHSNOWYRUINS",
+    "Key": "DDS_ICE_HIGHSNOWYRUINS",
+    "Value": "High Grass"
+  },
+  {
+    "id": "DDS_ICE_HIGHSUNKENICE",
+    "Key": "DDS_ICE_HIGHSUNKENICE",
+    "Value": "High Ice"
+  },
+  {
+    "id": "DDS_ICE_HIGHOUTPOST",
+    "Key": "DDS_ICE_HIGHOUTPOST",
+    "Value": "High Outpost"
+  },
+  {
+    "id": "DDS_TWILIGHT_WATER",
+    "Key": "DDS_TWILIGHT_WATER",
+    "Value": "Water"
+  },
+  {
+    "id": "DDS_TWILIGHT_DIRT",
+    "Key": "DDS_TWILIGHT_DIRT",
+    "Value": "Dirt"
+  },
+  {
+    "id": "DDS_TWILIGHT_MUD",
+    "Key": "DDS_TWILIGHT_MUD",
+    "Value": "Mud"
+  },
+  {
+    "id": "DDS_TWILIGHT_CRACKEDICE",
+    "Key": "DDS_TWILIGHT_CRACKEDICE",
+    "Value": "Crushed Rock"
+  },
+  {
+    "id": "DDS_TWILIGHT_CREVICE",
+    "Key": "DDS_TWILIGHT_CREVICE",
+    "Value": "Crevices"
+  },
+  {
+    "id": "DDS_TWILIGHT_ANCIENTRUINS",
+    "Key": "DDS_TWILIGHT_ANCIENTRUINS",
+    "Value": "Flagstones"
+  },
+  {
+    "id": "DDS_TWILIGHT_SUNKENGROUND",
+    "Key": "DDS_TWILIGHT_SUNKENGROUND",
+    "Value": "Sunken Ground"
+  },
+  {
+    "id": "DDS_TWILIGHT_COMPOUND",
+    "Key": "DDS_TWILIGHT_COMPOUND",
+    "Value": "Basilica"
+  },
+  {
+    "id": "DDS_TWILIGHT_HIGHDIRT",
+    "Key": "DDS_TWILIGHT_HIGHDIRT",
+    "Value": "High Dirt"
+  },
+  {
+    "id": "DDS_TWILIGHT_HIGHCRACKEDICE",
+    "Key": "DDS_TWILIGHT_HIGHCRACKEDICE",
+    "Value": "High Crushed Rock"
+  },
+  {
+    "id": "DDS_TWILIGHT_HIGHANCIENTRUINS",
+    "Key": "DDS_TWILIGHT_HIGHANCIENTRUINS",
+    "Value": "High Flagstones"
+  },
+  {
+    "id": "DDS_TWILIGHT_HIGHSUNKENGROUND",
+    "Key": "DDS_TWILIGHT_HIGHSUNKENGROUND",
+    "Value": "High Sunken Ground"
+  },
+  {
+    "id": "DDS_TWILIGHT_HIGHCOMPOUND",
+    "Key": "DDS_TWILIGHT_HIGHCOMPOUND",
+    "Value": "High Basilica"
+  },
+  {
+    "id": "AI_TERRAN_SUPER",
+    "Key": "AI_TERRAN_SUPER",
+    "Value": "Terran Campaign Insane"
+  },
+  {
+    "id": "AI_PROTOSS_SUPER",
+    "Key": "AI_PROTOSS_SUPER",
+    "Value": "Protoss Campaign Insane"
+  },
+  {
+    "id": "AI_ZERG_SUPER",
+    "Key": "AI_ZERG_SUPER",
+    "Value": "Zerg Campaign Insane"
+  },
+  {
+    "id": "AI_TERRAN_ED1",
+    "Key": "AI_TERRAN_ED1",
+    "Value": "Terran 1 - Electronic Distribution"
+  },
+  {
+    "id": "AI_TERRAN_ED2",
+    "Key": "AI_TERRAN_ED2",
+    "Value": "Terran 2 - Electronic Distribution"
+  },
+  {
+    "id": "AI_TERRAN_ED3",
+    "Key": "AI_TERRAN_ED3",
+    "Value": "Terran 3 - Electronic Distribution"
+  },
+  {
+    "id": "AI_TERRAN_SW1",
+    "Key": "AI_TERRAN_SW1",
+    "Value": "Terran 1 - Shareware"
+  },
+  {
+    "id": "AI_TERRAN_SW2",
+    "Key": "AI_TERRAN_SW2",
+    "Value": "Terran 2 - Shareware"
+  },
+  {
+    "id": "AI_TERRAN_SW3",
+    "Key": "AI_TERRAN_SW3",
+    "Value": "Terran 3 - Shareware"
+  },
+  {
+    "id": "AI_TERRAN_SW4",
+    "Key": "AI_TERRAN_SW4",
+    "Value": "Terran 4 - Shareware"
+  },
+  {
+    "id": "AI_TERRAN_SW5",
+    "Key": "AI_TERRAN_SW5",
+    "Value": "Terran 5 - Shareware"
+  },
+  {
+    "id": "STR_STORM_MISSILE",
+    "Key": "STR_STORM_MISSILE",
+    "Value": "Гало-ракети"
+  },
+  {
+    "id": "STR_DEVOURER_PUKE",
+    "Key": "STR_DEVOURER_PUKE",
+    "Value": "Корозійна кислота"
+  },
+  {
+    "id": "STR_LURKER_SPINES",
+    "Key": "STR_LURKER_SPINES",
+    "Value": "Підземні шипи"
+  },
+  {
+    "id": "STR_CORSAIR_LASER",
+    "Key": "STR_CORSAIR_LASER",
+    "Value": "Нейтронний спалах"
+  },
+  {
+    "id": "STR_MIND_CONTROL",
+    "Key": "STR_MIND_CONTROL",
+    "Value": "Панування над розумом"
+  },
+  {
+    "id": "STR_HEAL_TECH",
+    "Key": "STR_HEAL_TECH",
+    "Value": "Лікування"
+  },
+  {
+    "id": "STR_CURE_TECH",
+    "Key": "STR_CURE_TECH",
+    "Value": "Відновлення"
+  },
+  {
+    "id": "STR_MYOPIA_TECH",
+    "Key": "STR_MYOPIA_TECH",
+    "Value": "Оптичний спалах"
+  },
+  {
+    "id": "STR_RSRCH_CURE",
+    "Key": "STR_RSRCH_CURE",
+    "Value": "r\\u0004Дослідити відновлення\\n (здібність медиків)"
+  },
+  {
+    "id": "STR_RSRCH_MYOPIA",
+    "Key": "STR_RSRCH_MYOPIA",
+    "Value": "f\\u0004Дослідити оптичний спалах\\n (здібність медиків)"
+  },
+  {
+    "id": "STR_HEAL",
+    "Key": "STR_HEAL",
+    "Value": "a\\u0003Лікувати"
+  },
+  {
+    "id": "STR_CURE",
+    "Key": "STR_CURE",
+    "Value": "r\\u0003Відновлення"
+  },
+  {
+    "id": "STR_MYOPIA",
+    "Key": "STR_MYOPIA",
+    "Value": "f\\u0003Оптичний спалах"
+  },
+  {
+    "id": "STR_CURE_REQ",
+    "Key": "STR_CURE_REQ",
+    "Value": "Відновлення:\\n   Дослідіть у академії"
+  },
+  {
+    "id": "STR_MYOPIA_REQ",
+    "Key": "STR_MYOPIA_REQ",
+    "Value": "Оптичний спалах:\\n   Дослідіть у академії"
+  },
+  {
+    "id": "STR_LURKERASPECT",
+    "Key": "STR_LURKERASPECT",
+    "Value": "Підвид мисливців"
+  },
+  {
+    "id": "STR_RSRCH_LURKERASPECT",
+    "Key": "STR_RSRCH_LURKERASPECT",
+    "Value": "l\\u0004Здійснити еволюцію підвиду мисливців\\n (здібність гідралисків)"
+  },
+  {
+    "id": "STR_RSRCH_LURKERASPECT_REQ",
+    "Key": "STR_RSRCH_LURKERASPECT_REQ",
+    "Value": "Підвид мисливців:\\n   Потребує лігва"
+  },
+  {
+    "id": "STR_DISRUPTOR_TECH",
+    "Key": "STR_DISRUPTOR_TECH",
+    "Value": "Підривна сітка"
+  },
+  {
+    "id": "STR_MINDCONTROL_TECH",
+    "Key": "STR_MINDCONTROL_TECH",
+    "Value": "Панування над розумом"
+  },
+  {
+    "id": "STR_SUMMON_DARCHON_TECH",
+    "Key": "STR_SUMMON_DARCHON_TECH",
+    "Value": "Перетворення на темного архонта"
+  },
+  {
+    "id": "STR_PSYFEEDBACK_TECH",
+    "Key": "STR_PSYFEEDBACK_TECH",
+    "Value": "Зворотний зв'язок"
+  },
+  {
+    "id": "STR_PARALIZE",
+    "Key": "STR_PARALIZE",
+    "Value": "Вихор"
+  },
+  {
+    "id": "STR_RSRCH_DISRUPTOR",
+    "Key": "STR_RSRCH_DISRUPTOR",
+    "Value": "d\\u0004Розробити підривну сітку\\n (здібність корсарів)"
+  },
+  {
+    "id": "STR_RSRCH_MINDCONTROL",
+    "Key": "STR_RSRCH_MINDCONTROL",
+    "Value": "m\\u0004Розробити панування над розумом\\n (здібність темних архонтів)"
+  },
+  {
+    "id": "STR_RSRCH_PSYFEEDBACK",
+    "Key": "STR_RSRCH_PSYFEEDBACK",
+    "Value": "f\\u0004Розробити зворотний зв'язок\\n (здібність темних архонтів)"
+  },
+  {
+    "id": "STR_RSRCH_PARALIZE",
+    "Key": "STR_RSRCH_PARALIZE",
+    "Value": "e\\u0004Розробити вихор\\n (здібність темних архонтів)"
+  },
+  {
+    "id": "STR_MAKE_P_DARCHON",
+    "Key": "STR_MAKE_P_DARCHON",
+    "Value": "r\\u0001Перетворитися на темного архонта"
+  },
+  {
+    "id": "STR_DISRUPTOR",
+    "Key": "STR_DISRUPTOR",
+    "Value": "d\\u0003Підривна сітка"
+  },
+  {
+    "id": "STR_MINDCONTROL",
+    "Key": "STR_MINDCONTROL",
+    "Value": "c\\u0003Панувати над розумом"
+  },
+  {
+    "id": "STR_PSYFEEDBACK",
+    "Key": "STR_PSYFEEDBACK",
+    "Value": "f\\u0003Завдати удару зворотним зв'язком"
+  },
+  {
+    "id": "STR_USEPARALIZE",
+    "Key": "STR_USEPARALIZE",
+    "Value": "e\\u0003Утворити вихор"
+  },
+  {
+    "id": "STR_DISRUPTOR_REQ",
+    "Key": "STR_DISRUPTOR_REQ",
+    "Value": "Підривна сітка:\\n   Дослідіть у маяку флоту"
+  },
+  {
+    "id": "STR_MINDCONTROL_REQ",
+    "Key": "STR_MINDCONTROL_REQ",
+    "Value": "Панування над розумом:\\n   Дослідіть у архіві тамплієрів"
+  },
+  {
+    "id": "STR_DARCHON0_REQ",
+    "Key": "STR_DARCHON0_REQ",
+    "Value": "Перетворення на темного архонта:\\n   Дослідіть у архіві тамплієрів"
+  },
+  {
+    "id": "STR_DARCHON1_REQ",
+    "Key": "STR_DARCHON1_REQ",
+    "Value": "Перетворитися на темного архонта:\\n   Оберіть двох чи більше тамплієрів"
+  },
+  {
+    "id": "STR_PSYFEEDBACK_REQ",
+    "Key": "STR_PSYFEEDBACK_REQ",
+    "Value": "Зворотний зв'язок:\\n   Брак потреб"
+  },
+  {
+    "id": "STR_PARALIZE_REQ",
+    "Key": "STR_PARALIZE_REQ",
+    "Value": "Вихор:\\n   Розробіть у архіві тамплієрів"
+  },
+  {
+    "id": "STR_MEDIC_ENERGY",
+    "Key": "STR_MEDIC_ENERGY",
+    "Value": "Реактор Кадуцея"
+  },
+  {
+    "id": "STR_MISSILE_BOOST",
+    "Key": "STR_MISSILE_BOOST",
+    "Value": "Харонові підсилювачі"
+  },
+  {
+    "id": "STR_ULTRA_SPEED",
+    "Key": "STR_ULTRA_SPEED",
+    "Value": "Анаболічний синтез"
+  },
+  {
+    "id": "STR_ULTRA_ARMOR",
+    "Key": "STR_ULTRA_ARMOR",
+    "Value": "Хітинове покриття"
+  },
+  {
+    "id": "STR_CORSAIR_ENERGY",
+    "Key": "STR_CORSAIR_ENERGY",
+    "Value": "Аргосова перлина"
+  },
+  {
+    "id": "STR_DARCHON_ENERGY",
+    "Key": "STR_DARCHON_ENERGY",
+    "Value": "Аргосів талісман"
+  },
+  {
+    "id": "STR_UP_MEDIC_ENERGY",
+    "Key": "STR_UP_MEDIC_ENERGY",
+    "Value": "d\\u0002Дослідити реактор Кадуцея\\n (+50 од. до запасу енергії медиків)"
+  },
+  {
+    "id": "STR_UP_T_MISSILE_BOOST",
+    "Key": "STR_UP_T_MISSILE_BOOST",
+    "Value": "c\\u0002Дослідити Харонові підсилювачі\\n (збільшує радіус ураження голіафових ракет)"
+  },
+  {
+    "id": "STR_UP_Z_ULTRA_SPEED",
+    "Key": "STR_UP_Z_ULTRA_SPEED",
+    "Value": "a\\u0002Здійснити еволюцію анаболічного синтезу\\n (збільшує швидкість руху ультралисків)"
+  },
+  {
+    "id": "STR_UP_Z_ULTRA_ARMOR",
+    "Key": "STR_UP_Z_ULTRA_ARMOR",
+    "Value": "c\\u0002Здійснити еволюцію хітинового покриття\\n (покращує броню ультралисків)"
+  },
+  {
+    "id": "STR_UP_CORSAIR_ENERGY",
+    "Key": "STR_UP_CORSAIR_ENERGY",
+    "Value": "j\\u0002Розробити Аргосову перлину\\n (+50 од. до запасу енергії корсарів)"
+  },
+  {
+    "id": "STR_UP_DARCHON_ENERGY",
+    "Key": "STR_UP_DARCHON_ENERGY",
+    "Value": "t\\u0002Розробити Аргосів талісман\\n (+50  од. до запасу енергії темних архонтів)"
+  },
+  {
+    "id": "STR_UP_T_MISSILE_BOOST_REQ",
+    "Key": "STR_UP_T_MISSILE_BOOST_REQ",
+    "Value": "Дослідження Харонових підсилювачів потребує:\\n   Зброярні"
+  },
+  {
+    "id": "STR_DEVOURER_ASPECT",
+    "Key": "STR_DEVOURER_ASPECT",
+    "Value": "d\\u0005Мутувати у пожирача"
+  },
+  {
+    "id": "STR_MAKE_Z_LURKER",
+    "Key": "STR_MAKE_Z_LURKER",
+    "Value": "l\\u0001Мутувати у мисливця"
+  },
+  {
+    "id": "STR_MAKE_T_MEDIC",
+    "Key": "STR_MAKE_T_MEDIC",
+    "Value": "c\\u0001Тренувати медика"
+  },
+  {
+    "id": "STR_MAKE_T_FRIGATE",
+    "Key": "STR_MAKE_T_FRIGATE",
+    "Value": "y\\u0001Збудувати валькірію"
+  },
+  {
+    "id": "STR_MAKE_P_CORSAIR",
+    "Key": "STR_MAKE_P_CORSAIR",
+    "Value": "o\\u0001Телепортувати корсара"
+  },
+  {
+    "id": "STR_MAKE_P_DTEMPLAR",
+    "Key": "STR_MAKE_P_DTEMPLAR",
+    "Value": "k\\u0001Телепортувати темного тамплієра"
+  },
+  {
+    "id": "STR_MEDIC_REQ",
+    "Key": "STR_MEDIC_REQ",
+    "Value": "Медик потребує:\\n   Академії"
+  },
+  {
+    "id": "STR_FRIGATE_REQ",
+    "Key": "STR_FRIGATE_REQ",
+    "Value": "Валькірія потребує:\\n   Приєднаної вежі управління\\n   Зброярні"
+  },
+  {
+    "id": "STR_DTEMPLAR_REQ",
+    "Key": "STR_DTEMPLAR_REQ",
+    "Value": "Темний тамплієр потребує:\\n   Архіву тамплієрів"
+  },
+  {
+    "id": "STR_DEVOURER_REQ",
+    "Key": "STR_DEVOURER_REQ",
+    "Value": "Підвид пожирачів потребує:\\n   Вищого шпилю"
+  },
+  {
+    "id": "STR_LURKER_REQ",
+    "Key": "STR_LURKER_REQ",
+    "Value": "Підвид мисливців потребує:\\n   Еволюції у барлогу гідралисків"
+  },
+  {
+    "id": "STR_MYOPIA_LBL",
+    "Key": "STR_MYOPIA_LBL",
+    "Value": "Засліплений"
+  },
+  {
+    "id": "STR_CRUNCHY_DAMAGE",
+    "Key": "STR_CRUNCHY_DAMAGE",
+    "Value": "Кислотні спори"
+  },
+  {
+    "id": "STR_MISSILESTORM_LBL",
+    "Key": "STR_MISSILESTORM_LBL",
+    "Value": "від кожної ракети"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK",
+    "Key": "STR_FIRST_TERRAN_RANK",
+    "Value": "Рекрут"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-1",
+    "Key": "STR_FIRST_TERRAN_RANK-1",
+    "Value": "Рядовий"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-2",
+    "Key": "STR_FIRST_TERRAN_RANK-2",
+    "Value": "Рядовий"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-3",
+    "Key": "STR_FIRST_TERRAN_RANK-3",
+    "Value": "Перший лейтенант"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-4",
+    "Key": "STR_FIRST_TERRAN_RANK-4",
+    "Value": "Капрал"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-5",
+    "Key": "STR_FIRST_TERRAN_RANK-5",
+    "Value": "Оперативник"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-6",
+    "Key": "STR_FIRST_TERRAN_RANK-6",
+    "Value": "Сержант"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-7",
+    "Key": "STR_FIRST_TERRAN_RANK-7",
+    "Value": "Перший сержант"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-8",
+    "Key": "STR_FIRST_TERRAN_RANK-8",
+    "Value": "Майстер-сержант"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-9",
+    "Key": "STR_FIRST_TERRAN_RANK-9",
+    "Value": "Ворент-офіцер"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-10",
+    "Key": "STR_FIRST_TERRAN_RANK-10",
+    "Value": "Капітан"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-11",
+    "Key": "STR_FIRST_TERRAN_RANK-11",
+    "Value": "Майор"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-12",
+    "Key": "STR_FIRST_TERRAN_RANK-12",
+    "Value": "Перший сержант"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-13",
+    "Key": "STR_FIRST_TERRAN_RANK-13",
+    "Value": "Сержант-майор"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-14",
+    "Key": "STR_FIRST_TERRAN_RANK-14",
+    "Value": "Полковник"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-15",
+    "Key": "STR_FIRST_TERRAN_RANK-15",
+    "Value": "Комодор"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-16",
+    "Key": "STR_FIRST_TERRAN_RANK-16",
+    "Value": "Лейтенант-командер"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-17",
+    "Key": "STR_FIRST_TERRAN_RANK-17",
+    "Value": "Маршал"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-18",
+    "Key": "STR_FIRST_TERRAN_RANK-18",
+    "Value": "Лейтенант"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-19",
+    "Key": "STR_FIRST_TERRAN_RANK-19",
+    "Value": "Генерал"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-20",
+    "Key": "STR_FIRST_TERRAN_RANK-20",
+    "Value": "Капітан Рейнор"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-21",
+    "Key": "STR_FIRST_TERRAN_RANK-21",
+    "Value": "Генерал Дюк"
+  },
+  {
+    "id": "STR_FIRST_TERRAN_RANK-22",
+    "Key": "STR_FIRST_TERRAN_RANK-22",
+    "Value": "Адмірал"
+  },
+  {
+    "id": "STR_HEAL_ERR",
+    "Key": "STR_HEAL_ERR",
+    "Value": "Ціллю мусять бути поранені органічні одиниці."
+  },
+  {
+    "id": "STR_MINDCONTROL_ERR",
+    "Key": "STR_MINDCONTROL_ERR",
+    "Value": "Невірна ціль."
+  },
+  {
+    "id": "STR_MINDCONTROL_TARGET_ERR",
+    "Key": "STR_MINDCONTROL_TARGET_ERR",
+    "Value": "Ціллю мусять бути ворожі одиниці."
+  },
+  {
+    "id": "STR_PARALIZE_ERR",
+    "Key": "STR_PARALIZE_ERR",
+    "Value": "Ціллю мусять бути органічні одиниці."
+  },
+  {
+    "id": "STR_MYOPIA_ERR",
+    "Key": "STR_MYOPIA_ERR",
+    "Value": "Ціллю не може бути споруда."
+  },
+  {
+    "id": "STR_PSYFEEDBACK_ERR",
+    "Key": "STR_PSYFEEDBACK_ERR",
+    "Value": "Ціллю мусить бути одиниця, що має енергію."
+  },
+  {
+    "id": "STR_ORDER_MEDIC",
+    "Key": "STR_ORDER_MEDIC",
+    "Value": "Медик"
+  },
+  {
+    "id": "STR_ORDER_MEDIC_HEAL",
+    "Key": "STR_ORDER_MEDIC_HEAL",
+    "Value": "Лікування"
+  },
+  {
+    "id": "STR_ORDER_MEDIC_CURE",
+    "Key": "STR_ORDER_MEDIC_CURE",
+    "Value": "Відновлення"
+  },
+  {
+    "id": "STR_ORDER_CAST_DISRUPTOR",
+    "Key": "STR_ORDER_CAST_DISRUPTOR",
+    "Value": "Cast Disruption Web"
+  },
+  {
+    "id": "STR_ORDER_MINDCONTROL",
+    "Key": "STR_ORDER_MINDCONTROL",
+    "Value": "Cast Mind Control"
+  },
+  {
+    "id": "STR_ORDER_SUMMON_DARCHON",
+    "Key": "STR_ORDER_SUMMON_DARCHON",
+    "Value": "Warping Dark Archon"
+  },
+  {
+    "id": "STR_ORDER_PSYFEEDBACK",
+    "Key": "STR_ORDER_PSYFEEDBACK",
+    "Value": "Cast Feedback"
+  },
+  {
+    "id": "STR_ORDER_MYOPIA",
+    "Key": "STR_ORDER_MYOPIA",
+    "Value": "Cast Optical Flare"
+  },
+  {
+    "id": "STR_ORDER_PARALIZE",
+    "Key": "STR_ORDER_PARALIZE",
+    "Value": "Cast Shockwave"
+  },
+  {
+    "id": "STR_ORDER_MEDIC_HEALMOVE",
+    "Key": "STR_ORDER_MEDIC_HEALMOVE",
+    "Value": "Heal Move"
+  },
+  {
+    "id": "STR_ORDER_MEDIC_HOLDPOS",
+    "Key": "STR_ORDER_MEDIC_HOLDPOS",
+    "Value": "Medic Hold Position"
+  },
+  {
+    "id": "STR_ORDER_JUNK_YARD_DOG",
+    "Key": "STR_ORDER_JUNK_YARD_DOG",
+    "Value": "Junk Yard Dog"
+  },
+  {
+    "id": "AI_CUSTOM_TERRANX",
+    "Key": "AI_CUSTOM_TERRANX",
+    "Value": "Terran Expansion Custom Level"
+  },
+  {
+    "id": "AI_CUSTOM_PROTOSSX",
+    "Key": "AI_CUSTOM_PROTOSSX",
+    "Value": "Protoss Expansion Custom Level"
+  },
+  {
+    "id": "AI_CUSTOM_ZERGX",
+    "Key": "AI_CUSTOM_ZERGX",
+    "Value": "Zerg Expansion Custom Level"
+  },
+  {
+    "id": "AI_PROTOSS_B1A",
+    "Key": "AI_PROTOSS_B1A",
+    "Value": "Brood Wars Protoss 1 - Town A"
+  },
+  {
+    "id": "AI_PROTOSS_B1B",
+    "Key": "AI_PROTOSS_B1B",
+    "Value": "Brood Wars Protoss 1 - Town B"
+  },
+  {
+    "id": "AI_PROTOSS_B1C",
+    "Key": "AI_PROTOSS_B1C",
+    "Value": "Brood Wars Protoss 1 - Town C"
+  },
+  {
+    "id": "AI_PROTOSS_B1D",
+    "Key": "AI_PROTOSS_B1D",
+    "Value": "Brood Wars Protoss 1 - Town D"
+  },
+  {
+    "id": "AI_PROTOSS_B1E",
+    "Key": "AI_PROTOSS_B1E",
+    "Value": "Brood Wars Protoss 1 - Town E"
+  },
+  {
+    "id": "AI_PROTOSS_B1F",
+    "Key": "AI_PROTOSS_B1F",
+    "Value": "Brood Wars Protoss 1 - Town F"
+  },
+  {
+    "id": "AI_PROTOSS_B2A",
+    "Key": "AI_PROTOSS_B2A",
+    "Value": "Brood Wars Protoss 2 - Town A"
+  },
+  {
+    "id": "AI_PROTOSS_B2B",
+    "Key": "AI_PROTOSS_B2B",
+    "Value": "Brood Wars Protoss 2 - Town B"
+  },
+  {
+    "id": "AI_PROTOSS_B2C",
+    "Key": "AI_PROTOSS_B2C",
+    "Value": "Brood Wars Protoss 2 - Town C"
+  },
+  {
+    "id": "AI_PROTOSS_B2D",
+    "Key": "AI_PROTOSS_B2D",
+    "Value": "Brood Wars Protoss 2 - Town D"
+  },
+  {
+    "id": "AI_PROTOSS_B2E",
+    "Key": "AI_PROTOSS_B2E",
+    "Value": "Brood Wars Protoss 2 - Town E"
+  },
+  {
+    "id": "AI_PROTOSS_B2F",
+    "Key": "AI_PROTOSS_B2F",
+    "Value": "Brood Wars Protoss 2 - Town F"
+  },
+  {
+    "id": "AI_PROTOSS_B3A",
+    "Key": "AI_PROTOSS_B3A",
+    "Value": "Brood Wars Protoss 3 - Town A"
+  },
+  {
+    "id": "AI_PROTOSS_B3B",
+    "Key": "AI_PROTOSS_B3B",
+    "Value": "Brood Wars Protoss 3 - Town B"
+  },
+  {
+    "id": "AI_PROTOSS_B3C",
+    "Key": "AI_PROTOSS_B3C",
+    "Value": "Brood Wars Protoss 3 - Town C"
+  },
+  {
+    "id": "AI_PROTOSS_B3D",
+    "Key": "AI_PROTOSS_B3D",
+    "Value": "Brood Wars Protoss 3 - Town D"
+  },
+  {
+    "id": "AI_PROTOSS_B3E",
+    "Key": "AI_PROTOSS_B3E",
+    "Value": "Brood Wars Protoss 3 - Town E"
+  },
+  {
+    "id": "AI_PROTOSS_B3F",
+    "Key": "AI_PROTOSS_B3F",
+    "Value": "Brood Wars Protoss 3 - Town F"
+  },
+  {
+    "id": "AI_PROTOSS_B4A",
+    "Key": "AI_PROTOSS_B4A",
+    "Value": "Brood Wars Protoss 4 - Town A"
+  },
+  {
+    "id": "AI_PROTOSS_B4B",
+    "Key": "AI_PROTOSS_B4B",
+    "Value": "Brood Wars Protoss 4 - Town B"
+  },
+  {
+    "id": "AI_PROTOSS_B4C",
+    "Key": "AI_PROTOSS_B4C",
+    "Value": "Brood Wars Protoss 4 - Town C"
+  },
+  {
+    "id": "AI_PROTOSS_B4D",
+    "Key": "AI_PROTOSS_B4D",
+    "Value": "Brood Wars Protoss 4 - Town D"
+  },
+  {
+    "id": "AI_PROTOSS_B4E",
+    "Key": "AI_PROTOSS_B4E",
+    "Value": "Brood Wars Protoss 4 - Town E"
+  },
+  {
+    "id": "AI_PROTOSS_B4F",
+    "Key": "AI_PROTOSS_B4F",
+    "Value": "Brood Wars Protoss 4 - Town F"
+  },
+  {
+    "id": "AI_PROTOSS_B5A",
+    "Key": "AI_PROTOSS_B5A",
+    "Value": "Brood Wars Protoss 5 - Town A"
+  },
+  {
+    "id": "AI_PROTOSS_B5B",
+    "Key": "AI_PROTOSS_B5B",
+    "Value": "Brood Wars Protoss 5 - Town B"
+  },
+  {
+    "id": "AI_PROTOSS_B5C",
+    "Key": "AI_PROTOSS_B5C",
+    "Value": "Brood Wars Protoss 5 - Town C"
+  },
+  {
+    "id": "AI_PROTOSS_B5D",
+    "Key": "AI_PROTOSS_B5D",
+    "Value": "Brood Wars Protoss 5 - Town D"
+  },
+  {
+    "id": "AI_PROTOSS_B5E",
+    "Key": "AI_PROTOSS_B5E",
+    "Value": "Brood Wars Protoss 5 - Town E"
+  },
+  {
+    "id": "AI_PROTOSS_B5F",
+    "Key": "AI_PROTOSS_B5F",
+    "Value": "Brood Wars Protoss 5 - Town F"
+  },
+  {
+    "id": "AI_PROTOSS_B6A",
+    "Key": "AI_PROTOSS_B6A",
+    "Value": "Brood Wars Protoss 6 - Town A"
+  },
+  {
+    "id": "AI_PROTOSS_B6B",
+    "Key": "AI_PROTOSS_B6B",
+    "Value": "Brood Wars Protoss 6 - Town B"
+  },
+  {
+    "id": "AI_PROTOSS_B6C",
+    "Key": "AI_PROTOSS_B6C",
+    "Value": "Brood Wars Protoss 6 - Town C"
+  },
+  {
+    "id": "AI_PROTOSS_B6D",
+    "Key": "AI_PROTOSS_B6D",
+    "Value": "Brood Wars Protoss 6 - Town D"
+  },
+  {
+    "id": "AI_PROTOSS_B6E",
+    "Key": "AI_PROTOSS_B6E",
+    "Value": "Brood Wars Protoss 6 - Town E"
+  },
+  {
+    "id": "AI_PROTOSS_B6F",
+    "Key": "AI_PROTOSS_B6F",
+    "Value": "Brood Wars Protoss 6 - Town F"
+  },
+  {
+    "id": "AI_PROTOSS_B7A",
+    "Key": "AI_PROTOSS_B7A",
+    "Value": "Brood Wars Protoss 7 - Town A"
+  },
+  {
+    "id": "AI_PROTOSS_B7B",
+    "Key": "AI_PROTOSS_B7B",
+    "Value": "Brood Wars Protoss 7 - Town B"
+  },
+  {
+    "id": "AI_PROTOSS_B7C",
+    "Key": "AI_PROTOSS_B7C",
+    "Value": "Brood Wars Protoss 7 - Town C"
+  },
+  {
+    "id": "AI_PROTOSS_B7D",
+    "Key": "AI_PROTOSS_B7D",
+    "Value": "Brood Wars Protoss 7 - Town D"
+  },
+  {
+    "id": "AI_PROTOSS_B7E",
+    "Key": "AI_PROTOSS_B7E",
+    "Value": "Brood Wars Protoss 7 - Town E"
+  },
+  {
+    "id": "AI_PROTOSS_B7F",
+    "Key": "AI_PROTOSS_B7F",
+    "Value": "Brood Wars Protoss 7 - Town F"
+  },
+  {
+    "id": "AI_PROTOSS_B8A",
+    "Key": "AI_PROTOSS_B8A",
+    "Value": "Brood Wars Protoss 8 - Town A"
+  },
+  {
+    "id": "AI_PROTOSS_B8B",
+    "Key": "AI_PROTOSS_B8B",
+    "Value": "Brood Wars Protoss 8 - Town B"
+  },
+  {
+    "id": "AI_PROTOSS_B8C",
+    "Key": "AI_PROTOSS_B8C",
+    "Value": "Brood Wars Protoss 8 - Town C"
+  },
+  {
+    "id": "AI_PROTOSS_B8D",
+    "Key": "AI_PROTOSS_B8D",
+    "Value": "Brood Wars Protoss 8 - Town D"
+  },
+  {
+    "id": "AI_PROTOSS_B8E",
+    "Key": "AI_PROTOSS_B8E",
+    "Value": "Brood Wars Protoss 8 - Town E"
+  },
+  {
+    "id": "AI_PROTOSS_B8F",
+    "Key": "AI_PROTOSS_B8F",
+    "Value": "Brood Wars Protoss 8 - Town F"
+  },
+  {
+    "id": "AI_TERRAN_B1A",
+    "Key": "AI_TERRAN_B1A",
+    "Value": "Brood Wars Terran 1 - Town A"
+  },
+  {
+    "id": "AI_TERRAN_B1B",
+    "Key": "AI_TERRAN_B1B",
+    "Value": "Brood Wars Terran 1 - Town B"
+  },
+  {
+    "id": "AI_TERRAN_B1C",
+    "Key": "AI_TERRAN_B1C",
+    "Value": "Brood Wars Terran 1 - Town C"
+  },
+  {
+    "id": "AI_TERRAN_B1D",
+    "Key": "AI_TERRAN_B1D",
+    "Value": "Brood Wars Terran 1 - Town D"
+  },
+  {
+    "id": "AI_TERRAN_B1E",
+    "Key": "AI_TERRAN_B1E",
+    "Value": "Brood Wars Terran 1 - Town E"
+  },
+  {
+    "id": "AI_TERRAN_B1F",
+    "Key": "AI_TERRAN_B1F",
+    "Value": "Brood Wars Terran 1 - Town F"
+  },
+  {
+    "id": "AI_TERRAN_B2A",
+    "Key": "AI_TERRAN_B2A",
+    "Value": "Brood Wars Terran 2 - Town A"
+  },
+  {
+    "id": "AI_TERRAN_B2B",
+    "Key": "AI_TERRAN_B2B",
+    "Value": "Brood Wars Terran 2 - Town B"
+  },
+  {
+    "id": "AI_TERRAN_B2C",
+    "Key": "AI_TERRAN_B2C",
+    "Value": "Brood Wars Terran 2 - Town C"
+  },
+  {
+    "id": "AI_TERRAN_B2D",
+    "Key": "AI_TERRAN_B2D",
+    "Value": "Brood Wars Terran 2 - Town D"
+  },
+  {
+    "id": "AI_TERRAN_B2E",
+    "Key": "AI_TERRAN_B2E",
+    "Value": "Brood Wars Terran 2 - Town E"
+  },
+  {
+    "id": "AI_TERRAN_B2F",
+    "Key": "AI_TERRAN_B2F",
+    "Value": "Brood Wars Terran 2 - Town F"
+  },
+  {
+    "id": "AI_TERRAN_B3A",
+    "Key": "AI_TERRAN_B3A",
+    "Value": "Brood Wars Terran 3 - Town A"
+  },
+  {
+    "id": "AI_TERRAN_B3B",
+    "Key": "AI_TERRAN_B3B",
+    "Value": "Brood Wars Terran 3 - Town B"
+  },
+  {
+    "id": "AI_TERRAN_B3C",
+    "Key": "AI_TERRAN_B3C",
+    "Value": "Brood Wars Terran 3 - Town C"
+  },
+  {
+    "id": "AI_TERRAN_B3D",
+    "Key": "AI_TERRAN_B3D",
+    "Value": "Brood Wars Terran 3 - Town D"
+  },
+  {
+    "id": "AI_TERRAN_B3E",
+    "Key": "AI_TERRAN_B3E",
+    "Value": "Brood Wars Terran 3 - Town E"
+  },
+  {
+    "id": "AI_TERRAN_B3F",
+    "Key": "AI_TERRAN_B3F",
+    "Value": "Brood Wars Terran 3 - Town F"
+  },
+  {
+    "id": "AI_TERRAN_B4A",
+    "Key": "AI_TERRAN_B4A",
+    "Value": "Brood Wars Terran 4 - Town A"
+  },
+  {
+    "id": "AI_TERRAN_B4B",
+    "Key": "AI_TERRAN_B4B",
+    "Value": "Brood Wars Terran 4 - Town B"
+  },
+  {
+    "id": "AI_TERRAN_B4C",
+    "Key": "AI_TERRAN_B4C",
+    "Value": "Brood Wars Terran 4 - Town C"
+  },
+  {
+    "id": "AI_TERRAN_B4D",
+    "Key": "AI_TERRAN_B4D",
+    "Value": "Brood Wars Terran 4 - Town D"
+  },
+  {
+    "id": "AI_TERRAN_B4E",
+    "Key": "AI_TERRAN_B4E",
+    "Value": "Brood Wars Terran 4 - Town E"
+  },
+  {
+    "id": "AI_TERRAN_B4F",
+    "Key": "AI_TERRAN_B4F",
+    "Value": "Brood Wars Terran 4 - Town F"
+  },
+  {
+    "id": "AI_TERRAN_B5A",
+    "Key": "AI_TERRAN_B5A",
+    "Value": "Brood Wars Terran 5 - Town A"
+  },
+  {
+    "id": "AI_TERRAN_B5B",
+    "Key": "AI_TERRAN_B5B",
+    "Value": "Brood Wars Terran 5 - Town B"
+  },
+  {
+    "id": "AI_TERRAN_B5C",
+    "Key": "AI_TERRAN_B5C",
+    "Value": "Brood Wars Terran 5 - Town C"
+  },
+  {
+    "id": "AI_TERRAN_B5D",
+    "Key": "AI_TERRAN_B5D",
+    "Value": "Brood Wars Terran 5 - Town D"
+  },
+  {
+    "id": "AI_TERRAN_B5E",
+    "Key": "AI_TERRAN_B5E",
+    "Value": "Brood Wars Terran 5 - Town E"
+  },
+  {
+    "id": "AI_TERRAN_B5F",
+    "Key": "AI_TERRAN_B5F",
+    "Value": "Brood Wars Terran 5 - Town F"
+  },
+  {
+    "id": "AI_TERRAN_B6A",
+    "Key": "AI_TERRAN_B6A",
+    "Value": "Brood Wars Terran 6 - Town A"
+  },
+  {
+    "id": "AI_TERRAN_B6B",
+    "Key": "AI_TERRAN_B6B",
+    "Value": "Brood Wars Terran 6 - Town B"
+  },
+  {
+    "id": "AI_TERRAN_B6C",
+    "Key": "AI_TERRAN_B6C",
+    "Value": "Brood Wars Terran 6 - Town C"
+  },
+  {
+    "id": "AI_TERRAN_B6D",
+    "Key": "AI_TERRAN_B6D",
+    "Value": "Brood Wars Terran 6 - Town D"
+  },
+  {
+    "id": "AI_TERRAN_B6E",
+    "Key": "AI_TERRAN_B6E",
+    "Value": "Brood Wars Terran 6 - Town E"
+  },
+  {
+    "id": "AI_TERRAN_B6F",
+    "Key": "AI_TERRAN_B6F",
+    "Value": "Brood Wars Terran 6 - Town F"
+  },
+  {
+    "id": "AI_TERRAN_B7A",
+    "Key": "AI_TERRAN_B7A",
+    "Value": "Brood Wars Terran 7 - Town A"
+  },
+  {
+    "id": "AI_TERRAN_B7B",
+    "Key": "AI_TERRAN_B7B",
+    "Value": "Brood Wars Terran 7 - Town B"
+  },
+  {
+    "id": "AI_TERRAN_B7C",
+    "Key": "AI_TERRAN_B7C",
+    "Value": "Brood Wars Terran 7 - Town C"
+  },
+  {
+    "id": "AI_TERRAN_B7D",
+    "Key": "AI_TERRAN_B7D",
+    "Value": "Brood Wars Terran 7 - Town D"
+  },
+  {
+    "id": "AI_TERRAN_B7E",
+    "Key": "AI_TERRAN_B7E",
+    "Value": "Brood Wars Terran 7 - Town E"
+  },
+  {
+    "id": "AI_TERRAN_B7F",
+    "Key": "AI_TERRAN_B7F",
+    "Value": "Brood Wars Terran 7 - Town F"
+  },
+  {
+    "id": "AI_TERRAN_B8A",
+    "Key": "AI_TERRAN_B8A",
+    "Value": "Brood Wars Terran 8 - Town A"
+  },
+  {
+    "id": "AI_TERRAN_B8B",
+    "Key": "AI_TERRAN_B8B",
+    "Value": "Brood Wars Terran 8 - Town B"
+  },
+  {
+    "id": "AI_TERRAN_B8C",
+    "Key": "AI_TERRAN_B8C",
+    "Value": "Brood Wars Terran 8 - Town C"
+  },
+  {
+    "id": "AI_TERRAN_B8D",
+    "Key": "AI_TERRAN_B8D",
+    "Value": "Brood Wars Terran 8 - Town D"
+  },
+  {
+    "id": "AI_TERRAN_B8E",
+    "Key": "AI_TERRAN_B8E",
+    "Value": "Brood Wars Terran 8 - Town E"
+  },
+  {
+    "id": "AI_TERRAN_B8F",
+    "Key": "AI_TERRAN_B8F",
+    "Value": "Brood Wars Terran 8 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B1A",
+    "Key": "AI_ZERG_B1A",
+    "Value": "Brood Wars Zerg 1 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B1B",
+    "Key": "AI_ZERG_B1B",
+    "Value": "Brood Wars Zerg 1 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B1C",
+    "Key": "AI_ZERG_B1C",
+    "Value": "Brood Wars Zerg 1 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B1D",
+    "Key": "AI_ZERG_B1D",
+    "Value": "Brood Wars Zerg 1 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B1E",
+    "Key": "AI_ZERG_B1E",
+    "Value": "Brood Wars Zerg 1 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B1F",
+    "Key": "AI_ZERG_B1F",
+    "Value": "Brood Wars Zerg 1 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B2A",
+    "Key": "AI_ZERG_B2A",
+    "Value": "Brood Wars Zerg 2 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B2B",
+    "Key": "AI_ZERG_B2B",
+    "Value": "Brood Wars Zerg 2 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B2C",
+    "Key": "AI_ZERG_B2C",
+    "Value": "Brood Wars Zerg 2 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B2D",
+    "Key": "AI_ZERG_B2D",
+    "Value": "Brood Wars Zerg 2 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B2E",
+    "Key": "AI_ZERG_B2E",
+    "Value": "Brood Wars Zerg 2 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B2F",
+    "Key": "AI_ZERG_B2F",
+    "Value": "Brood Wars Zerg 2 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B3A",
+    "Key": "AI_ZERG_B3A",
+    "Value": "Brood Wars Zerg 3 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B3B",
+    "Key": "AI_ZERG_B3B",
+    "Value": "Brood Wars Zerg 3 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B3C",
+    "Key": "AI_ZERG_B3C",
+    "Value": "Brood Wars Zerg 3 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B3D",
+    "Key": "AI_ZERG_B3D",
+    "Value": "Brood Wars Zerg 3 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B3E",
+    "Key": "AI_ZERG_B3E",
+    "Value": "Brood Wars Zerg 3 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B3F",
+    "Key": "AI_ZERG_B3F",
+    "Value": "Brood Wars Zerg 3 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B4A",
+    "Key": "AI_ZERG_B4A",
+    "Value": "Brood Wars Zerg 4 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B4B",
+    "Key": "AI_ZERG_B4B",
+    "Value": "Brood Wars Zerg 4 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B4C",
+    "Key": "AI_ZERG_B4C",
+    "Value": "Brood Wars Zerg 4 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B4D",
+    "Key": "AI_ZERG_B4D",
+    "Value": "Brood Wars Zerg 4 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B4E",
+    "Key": "AI_ZERG_B4E",
+    "Value": "Brood Wars Zerg 4 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B4F",
+    "Key": "AI_ZERG_B4F",
+    "Value": "Brood Wars Zerg 4 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B5A",
+    "Key": "AI_ZERG_B5A",
+    "Value": "Brood Wars Zerg 5 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B5B",
+    "Key": "AI_ZERG_B5B",
+    "Value": "Brood Wars Zerg 5 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B5C",
+    "Key": "AI_ZERG_B5C",
+    "Value": "Brood Wars Zerg 5 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B5D",
+    "Key": "AI_ZERG_B5D",
+    "Value": "Brood Wars Zerg 5 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B5E",
+    "Key": "AI_ZERG_B5E",
+    "Value": "Brood Wars Zerg 5 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B5F",
+    "Key": "AI_ZERG_B5F",
+    "Value": "Brood Wars Zerg 5 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B6A",
+    "Key": "AI_ZERG_B6A",
+    "Value": "Brood Wars Zerg 6 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B6B",
+    "Key": "AI_ZERG_B6B",
+    "Value": "Brood Wars Zerg 6 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B6C",
+    "Key": "AI_ZERG_B6C",
+    "Value": "Brood Wars Zerg 6 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B6D",
+    "Key": "AI_ZERG_B6D",
+    "Value": "Brood Wars Zerg 6 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B6E",
+    "Key": "AI_ZERG_B6E",
+    "Value": "Brood Wars Zerg 6 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B6F",
+    "Key": "AI_ZERG_B6F",
+    "Value": "Brood Wars Zerg 6 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B7A",
+    "Key": "AI_ZERG_B7A",
+    "Value": "Brood Wars Zerg 7 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B7B",
+    "Key": "AI_ZERG_B7B",
+    "Value": "Brood Wars Zerg 7 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B7C",
+    "Key": "AI_ZERG_B7C",
+    "Value": "Brood Wars Zerg 7 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B7D",
+    "Key": "AI_ZERG_B7D",
+    "Value": "Brood Wars Zerg 7 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B7E",
+    "Key": "AI_ZERG_B7E",
+    "Value": "Brood Wars Zerg 7 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B7F",
+    "Key": "AI_ZERG_B7F",
+    "Value": "Brood Wars Zerg 7 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B8A",
+    "Key": "AI_ZERG_B8A",
+    "Value": "Brood Wars Zerg 8 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B8B",
+    "Key": "AI_ZERG_B8B",
+    "Value": "Brood Wars Zerg 8 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B8C",
+    "Key": "AI_ZERG_B8C",
+    "Value": "Brood Wars Zerg 8 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B8D",
+    "Key": "AI_ZERG_B8D",
+    "Value": "Brood Wars Zerg 8 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B8E",
+    "Key": "AI_ZERG_B8E",
+    "Value": "Brood Wars Zerg 8 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B8F",
+    "Key": "AI_ZERG_B8F",
+    "Value": "Brood Wars Zerg 8 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B9A",
+    "Key": "AI_ZERG_B9A",
+    "Value": "Brood Wars Zerg 9 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B9B",
+    "Key": "AI_ZERG_B9B",
+    "Value": "Brood Wars Zerg 9 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B9C",
+    "Key": "AI_ZERG_B9C",
+    "Value": "Brood Wars Zerg 9 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B9D",
+    "Key": "AI_ZERG_B9D",
+    "Value": "Brood Wars Zerg 9 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B9E",
+    "Key": "AI_ZERG_B9E",
+    "Value": "Brood Wars Zerg 9 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B9F",
+    "Key": "AI_ZERG_B9F",
+    "Value": "Brood Wars Zerg 9 - Town F"
+  },
+  {
+    "id": "AI_ZERG_B10A",
+    "Key": "AI_ZERG_B10A",
+    "Value": "Brood Wars Zerg 10 - Town A"
+  },
+  {
+    "id": "AI_ZERG_B10B",
+    "Key": "AI_ZERG_B10B",
+    "Value": "Brood Wars Zerg 10 - Town B"
+  },
+  {
+    "id": "AI_ZERG_B10C",
+    "Key": "AI_ZERG_B10C",
+    "Value": "Brood Wars Zerg 10 - Town C"
+  },
+  {
+    "id": "AI_ZERG_B10D",
+    "Key": "AI_ZERG_B10D",
+    "Value": "Brood Wars Zerg 10 - Town D"
+  },
+  {
+    "id": "AI_ZERG_B10E",
+    "Key": "AI_ZERG_B10E",
+    "Value": "Brood Wars Zerg 10 - Town E"
+  },
+  {
+    "id": "AI_ZERG_B10F",
+    "Key": "AI_ZERG_B10F",
+    "Value": "Brood Wars Zerg 10 - Town F"
+  },
+  {
+    "id": "AI_ZERG_LOX",
+    "Key": "AI_ZERG_LOX",
+    "Value": "Expansion Zerg Campaign Easy"
+  },
+  {
+    "id": "AI_ZERG_MEDX",
+    "Key": "AI_ZERG_MEDX",
+    "Value": "Expansion Zerg Campaign Medium"
+  },
+  {
+    "id": "AI_ZERG_HIX",
+    "Key": "AI_ZERG_HIX",
+    "Value": "Expansion Zerg Campaign Difficult"
+  },
+  {
+    "id": "AI_ZERG_AREAX",
+    "Key": "AI_ZERG_AREAX",
+    "Value": "Expansion Zerg Campaign Area Town"
+  },
+  {
+    "id": "AI_PROTOSS_LOX",
+    "Key": "AI_PROTOSS_LOX",
+    "Value": "Expansion Protoss Campaign Easy"
+  },
+  {
+    "id": "AI_PROTOSS_MEDX",
+    "Key": "AI_PROTOSS_MEDX",
+    "Value": "Expansion Protoss Campaign Medium"
+  },
+  {
+    "id": "AI_PROTOSS_HIX",
+    "Key": "AI_PROTOSS_HIX",
+    "Value": "Expansion Protoss Campaign Difficult"
+  },
+  {
+    "id": "AI_PROTOSS_AREAX",
+    "Key": "AI_PROTOSS_AREAX",
+    "Value": "Expansion Protoss Campaign Area Town"
+  },
+  {
+    "id": "AI_TERRAN_LOX",
+    "Key": "AI_TERRAN_LOX",
+    "Value": "Expansion Terran Campaign Easy"
+  },
+  {
+    "id": "AI_TERRAN_MEDX",
+    "Key": "AI_TERRAN_MEDX",
+    "Value": "Expansion Terran Campaign Medium"
+  },
+  {
+    "id": "AI_TERRAN_HIX",
+    "Key": "AI_TERRAN_HIX",
+    "Value": "Expansion Terran Campaign Difficult"
+  },
+  {
+    "id": "AI_TERRAN_AREAX",
+    "Key": "AI_TERRAN_AREAX",
+    "Value": "Expansion Terran Campaign Area Town"
+  },
+  {
+    "id": "AI_TERRAN_SUPERX",
+    "Key": "AI_TERRAN_SUPERX",
+    "Value": "Expansion Terran Campaign Insane"
+  },
+  {
+    "id": "AI_PROTOSS_SUPERX",
+    "Key": "AI_PROTOSS_SUPERX",
+    "Value": "Expansion Protoss Campaign Insane"
+  },
+  {
+    "id": "AI_ZERG_SUPERX",
+    "Key": "AI_ZERG_SUPERX",
+    "Value": "Expansion Zerg Campaign Insane"
+  },
+  {
+    "id": "AI_SET_COMMAND_TARGET",
+    "Key": "AI_SET_COMMAND_TARGET",
+    "Value": "Set Generic Command Target"
+  },
+  {
+    "id": "AI_SET_UNIT_PATROL",
+    "Key": "AI_SET_UNIT_PATROL",
+    "Value": "Make These Units Patrol"
+  },
+  {
+    "id": "AI_ENTER_TRANSPORTSTR",
+    "Key": "AI_ENTER_TRANSPORTSTR",
+    "Value": "Enter Transport"
+  },
+  {
+    "id": "AI_EXIT_TRANSPORTSTR",
+    "Key": "AI_EXIT_TRANSPORTSTR",
+    "Value": "Exit Transport"
+  },
+  {
+    "id": "AI_SHAREVISION_0",
+    "Key": "AI_SHAREVISION_0",
+    "Value": "Turn ON Shared Vision for Player 1"
+  },
+  {
+    "id": "AI_SHAREVISION_1",
+    "Key": "AI_SHAREVISION_1",
+    "Value": "Turn ON Shared Vision for Player 2"
+  },
+  {
+    "id": "AI_SHAREVISION_2",
+    "Key": "AI_SHAREVISION_2",
+    "Value": "Turn ON Shared Vision for Player 3"
+  },
+  {
+    "id": "AI_SHAREVISION_3",
+    "Key": "AI_SHAREVISION_3",
+    "Value": "Turn ON Shared Vision for Player 4"
+  },
+  {
+    "id": "AI_SHAREVISION_4",
+    "Key": "AI_SHAREVISION_4",
+    "Value": "Turn ON Shared Vision for Player 5"
+  },
+  {
+    "id": "AI_SHAREVISION_5",
+    "Key": "AI_SHAREVISION_5",
+    "Value": "Turn ON Shared Vision for Player 6"
+  },
+  {
+    "id": "AI_SHAREVISION_6",
+    "Key": "AI_SHAREVISION_6",
+    "Value": "Turn ON Shared Vision for Player 7"
+  },
+  {
+    "id": "AI_SHAREVISION_7",
+    "Key": "AI_SHAREVISION_7",
+    "Value": "Turn ON Shared Vision for Player 8"
+  },
+  {
+    "id": "AI_UNSHAREVISION_0",
+    "Key": "AI_UNSHAREVISION_0",
+    "Value": "Turn OFF Shared Vision for Player 1"
+  },
+  {
+    "id": "AI_UNSHAREVISION_1",
+    "Key": "AI_UNSHAREVISION_1",
+    "Value": "Turn OFF Shared Vision for Player 2"
+  },
+  {
+    "id": "AI_UNSHAREVISION_2",
+    "Key": "AI_UNSHAREVISION_2",
+    "Value": "Turn OFF Shared Vision for Player 3"
+  },
+  {
+    "id": "AI_UNSHAREVISION_3",
+    "Key": "AI_UNSHAREVISION_3",
+    "Value": "Turn OFF Shared Vision for Player 4"
+  },
+  {
+    "id": "AI_UNSHAREVISION_4",
+    "Key": "AI_UNSHAREVISION_4",
+    "Value": "Turn OFF Shared Vision for Player 5"
+  },
+  {
+    "id": "AI_UNSHAREVISION_5",
+    "Key": "AI_UNSHAREVISION_5",
+    "Value": "Turn OFF Shared Vision for Player 6"
+  },
+  {
+    "id": "AI_UNSHAREVISION_6",
+    "Key": "AI_UNSHAREVISION_6",
+    "Value": "Turn OFF Shared Vision for Player 7"
+  },
+  {
+    "id": "AI_UNSHAREVISION_7",
+    "Key": "AI_UNSHAREVISION_7",
+    "Value": "Turn OFF Shared Vision for Player 8"
+  },
+  {
+    "id": "AI_NUKE_HERESTR",
+    "Key": "AI_NUKE_HERESTR",
+    "Value": "AI Nuke Here"
+  },
+  {
+    "id": "AI_HARASS_HERESTR",
+    "Key": "AI_HARASS_HERESTR",
+    "Value": "AI Harass Here"
+  },
+  {
+    "id": "AI_STR_JUNK_YARD_DOG",
+    "Key": "AI_STR_JUNK_YARD_DOG",
+    "Value": "Set Unit Order To: Junk Yard Dog"
+  },
+  {
+    "id": "STR_VIEWPLAYERS",
+    "Key": "STR_VIEWPLAYERS",
+    "Value": "Поточні гравці"
+  },
+  {
+    "id": "STR_PLAYBACK_HELP_SPEEDUP",
+    "Key": "STR_PLAYBACK_HELP_SPEEDUP",
+    "Value": "e\\u0007\\\\Швидше"
+  },
+  {
+    "id": "STR_PLAYBACK_HELP_PLAY",
+    "Key": "STR_PLAYBACK_HELP_PLAY",
+    "Value": "d\\u0007\\\\Грати"
+  },
+  {
+    "id": "STR_PLAYBACK_HELP_PAUSE",
+    "Key": "STR_PLAYBACK_HELP_PAUSE",
+    "Value": "g\\u0007\\u0003П\\u0001ауза"
+  },
+  {
+    "id": "STR_PLAYBACK_HELP_SLOWDOWN",
+    "Key": "STR_PLAYBACK_HELP_SLOWDOWN",
+    "Value": "p\\u0007\\\\Повільніше"
+  },
+  {
+    "id": "STR_REPLAY_PROGRESS",
+    "Key": "STR_REPLAY_PROGRESS",
+    "Value": "Прогрес повтору"
+  },
+  {
+    "id": "STR_REPLAY_PAUSED",
+    "Key": "STR_REPLAY_PAUSED",
+    "Value": "Призупинено"
+  },
+  {
+    "id": "STR_UNLIMITED",
+    "Key": "STR_UNLIMITED",
+    "Value": "Безмежно"
+  },
+  {
+    "id": "STR_REPLAY_SEEKING",
+    "Key": "STR_REPLAY_SEEKING",
+    "Value": "Пошук: %s"
+  },
+  {
+    "id": "STR_APM_COL_PLAYER",
+    "Key": "STR_APM_COL_PLAYER",
+    "Value": "Гравець"
+  },
+  {
+    "id": "STR_APM_COL_APM",
+    "Key": "STR_APM_COL_APM",
+    "Value": "APM"
+  },
+  {
+    "id": "STR_APM_COL_EPM",
+    "Key": "STR_APM_COL_EPM",
+    "Value": "Ефф. дій./хв."
+  }
+]
