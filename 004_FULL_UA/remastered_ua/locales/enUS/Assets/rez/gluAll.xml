@@ -2409,19 +2409,19 @@
   </string>
   <string>
     <id>bnet119_optionsPanel_general_label_slow</id>
-    <value>низька</value>
+    <value>Низька</value>
   </string>
   <string>
     <id>bnet119_optionsPanel_general_label_fast</id>
-    <value>висока</value>
+    <value>Висока</value>
   </string>
   <string>
     <id>bnet119_optionsPanel_general_label_min</id>
-    <value>мінімальна</value>
+    <value>Низька</value>
   </string>
   <string>
     <id>bnet119_optionsPanel_general_label_max</id>
-    <value>максимальна</value>
+    <value>Висока</value>
   </string>
   <string>
     <id>bnet119_optionsPanel_tabs_speed</id>

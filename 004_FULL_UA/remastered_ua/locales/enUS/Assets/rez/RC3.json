@@ -7,7 +7,7 @@
   {
     "id": "gluGameLobby-1",
     "Key": "gluGameLobby-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluMain-11",
@@ -247,7 +247,7 @@
   {
     "id": "gluJoin-14",
     "Key": "gluJoin-14",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluJoin-16",
@@ -262,7 +262,7 @@
   {
     "id": "gluMain-10",
     "Key": "gluMain-10",
-    "Value": "d[\\u0004В\\u0001хід]"
+    "Value": "l[Вхі\\u0004д\\u0001]"
   },
   {
     "id": "gluMain-18",
@@ -382,17 +382,17 @@
   {
     "id": "snd_dlg-10",
     "Key": "snd_dlg-10",
-    "Value": "мінімальна"
+    "Value": "Низька"
   },
   {
     "id": "snd_dlg-11",
     "Key": "snd_dlg-11",
-    "Value": "максимальна"
+    "Value": "Висока"
   },
   {
     "id": "snd_dlg-12",
     "Key": "snd_dlg-12",
-    "Value": "максимальна"
+    "Value": "Висока"
   },
   {
     "id": "snd_dlg-13",
@@ -402,27 +402,27 @@
   {
     "id": "spd_dlg-7",
     "Key": "spd_dlg-7",
-    "Value": "повільно"
+    "Value": "Низька"
   },
   {
     "id": "spd_dlg-8",
     "Key": "spd_dlg-8",
-    "Value": "повільно"
+    "Value": "Низька"
   },
   {
     "id": "spd_dlg-12",
     "Key": "spd_dlg-12",
-    "Value": "швидко"
+    "Value": "Висока"
   },
   {
     "id": "spd_dlg-13",
     "Key": "spd_dlg-13",
-    "Value": "швидко"
+    "Value": "Висока"
   },
   {
     "id": "spd_dlg-14",
     "Key": "spd_dlg-14",
-    "Value": "висока"
+    "Value": "Висока"
   },
   {
     "id": "spd_dlg-15",
@@ -507,7 +507,7 @@
   {
     "id": "video-6",
     "Key": "video-6",
-    "Value": "jВік\\u0004о\\u0001конний режим"
+    "Value": "jВік\\u0004о\\u0001нний режим"
   },
   {
     "id": "video-8",
@@ -517,12 +517,12 @@
   {
     "id": "video-13",
     "Key": "video-13",
-    "Value": "максимальна"
+    "Value": "Висока"
   },
   {
     "id": "video-12",
     "Key": "video-12",
-    "Value": "максимальна"
+    "Value": "Висока"
   },
   {
     "id": "video-15",
@@ -592,7 +592,7 @@
   {
     "id": "allyfltr-25",
     "Key": "allyfltr-25",
-    "Value": "jОгляд"
+    "Value": "Огляд"
   },
   {
     "id": "allyfltr-26",
@@ -672,17 +672,17 @@
   {
     "id": "gluRdyP-4",
     "Key": "gluRdyP-4",
-    "Value": "g\\u0004П\\u0001овтор"
+    "Value": "nПов\\u0004т\\u0001ор"
   },
   {
     "id": "gluRdyT-4",
     "Key": "gluRdyT-4",
-    "Value": "g\\u0004П\\u0001овтор"
+    "Value": "nПов\\u0004т\\u0001ор"
   },
   {
     "id": "GluRdyZ-4",
     "Key": "GluRdyZ-4",
-    "Value": "g\\u0004П\\u0001овтор"
+    "Value": "nПов\\u0004т\\u0001ор"
   },
   {
     "id": "gluScore-7",
@@ -882,7 +882,7 @@
   {
     "id": "teamfltr-31",
     "Key": "teamfltr-31",
-    "Value": "jОгляд"
+    "Value": "Огляд"
   },
   {
     "id": "teamfltr-32",
@@ -912,12 +912,12 @@
   {
     "id": "video-11",
     "Key": "video-11",
-    "Value": "мінімальна"
+    "Value": "Низька"
   },
   {
     "id": "video-10",
     "Key": "video-10",
-    "Value": "мінімальна"
+    "Value": "Низька"
   },
   {
     "id": "voice-8",
@@ -927,7 +927,7 @@
   {
     "id": "wmission-5",
     "Key": "wmission-5",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "wmission-7",
@@ -942,12 +942,12 @@
   {
     "id": "abrtmenu-2",
     "Key": "abrtmenu-2",
-    "Value": "g\\u0004\\u0001Переграти наново"
+    "Value": "tП\\u0004е\\u0001реграти наново"
   },
   {
     "id": "abrtmenu-3",
     "Key": "abrtmenu-3",
-    "Value": "p\\u0004З\\u0001авершити завданя"
+    "Value": "p\\u0004З\\u0001авершити завдання"
   },
   {
     "id": "allyfltr-1",
@@ -977,7 +977,7 @@
   {
     "id": "bigok-1",
     "Key": "bigok-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "cancel-1",
@@ -987,7 +987,7 @@
   {
     "id": "dlgFatal-1",
     "Key": "dlgFatal-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gamemenu-1",
@@ -997,7 +997,7 @@
   {
     "id": "gamemenu-2",
     "Key": "gamemenu-2",
-    "Value": "p\\u0004З\\u0001берегти гру"
+    "Value": "hЗбе\\u0004р\\u0001егти гру"
   },
   {
     "id": "gamemenu-3",
@@ -1052,7 +1052,7 @@
   {
     "id": "gluConn-2",
     "Key": "gluConn-2",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluConn-3",
@@ -1072,7 +1072,7 @@
   {
     "id": "gluCreat-2",
     "Key": "gluCreat-2",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluCreat-3",
@@ -1107,7 +1107,7 @@
   {
     "id": "gluCustm-2",
     "Key": "gluCustm-2",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluCustm-3",
@@ -1137,12 +1137,12 @@
   {
     "id": "gluEOk-1",
     "Key": "gluEOk-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluEOkCancel-1",
     "Key": "gluEOkCancel-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluEOkCancel-2",
@@ -1252,7 +1252,7 @@
   {
     "id": "gluLoad-2",
     "Key": "gluLoad-2",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluLoad-3",
@@ -1282,7 +1282,7 @@
   {
     "id": "gluLogin-1",
     "Key": "gluLogin-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluLogin-5",
@@ -1302,12 +1302,12 @@
   {
     "id": "gluMain-4",
     "Key": "gluMain-4",
-    "Value": "mМул\\u0004ь\\u0001типлєєр"
+    "Value": "mМул\\u0004ь\\u0001типлеєр"
   },
   {
     "id": "gluMain-2",
     "Key": "gluMain-2",
-    "Value": "\\u0005Один гравень"
+    "Value": "\\u0005Один гравець"
   },
   {
     "id": "gluMain-5",
@@ -1387,7 +1387,7 @@
   {
     "id": "gluNewCh-1",
     "Key": "gluNewCh-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluNewCh-2",
@@ -1402,7 +1402,7 @@
   {
     "id": "gluPEdit-1",
     "Key": "gluPEdit-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluPEdit-2",
@@ -1412,12 +1412,12 @@
   {
     "id": "gluPOk-1",
     "Key": "gluPOk-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluPOkCancel-1",
     "Key": "gluPOkCancel-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluPOkCancel-2",
@@ -1427,7 +1427,7 @@
   {
     "id": "gluPOkSplit-1",
     "Key": "gluPOkSplit-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluRdyP-1",
@@ -1537,22 +1537,22 @@
   {
     "id": "gluScore-1",
     "Key": "gluScore-1",
-    "Value": "jОгляд"
+    "Value": "j\\u0004О\\u0001гляд"
   },
   {
     "id": "gluScore-2",
     "Key": "gluScore-2",
-    "Value": "rВійс\\u0004к\\u0001о"
+    "Value": "rВійсь\\u0004к\\u0001о"
   },
   {
     "id": "help-1",
     "Key": "help-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "help-2",
     "Key": "help-2",
-    "Value": "Довідка StarCraft"
+    "Value": "Довідка з гарячих клавіш"
   },
   {
     "id": "helpmenu-1",
@@ -1572,7 +1572,7 @@
   {
     "id": "lmission-1",
     "Key": "lmission-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "lmission-2",
@@ -1742,7 +1742,7 @@
   {
     "id": "netdlg-1",
     "Key": "netdlg-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "netdlg-2",
@@ -1777,12 +1777,12 @@
   {
     "id": "ok-1",
     "Key": "ok-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "okcancel-1",
     "Key": "okcancel-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "okcancel-2",
@@ -1807,7 +1807,7 @@
   {
     "id": "quit-1",
     "Key": "quit-1",
-    "Value": "sВ\\u0004ы\\u0001йти з гри"
+    "Value": "sВ\\u0004и\\u0001йти з гри"
   },
   {
     "id": "quit-2",
@@ -1887,7 +1887,7 @@
   {
     "id": "snd_dlg-1",
     "Key": "snd_dlg-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "snd_dlg-2",
@@ -1907,17 +1907,17 @@
   {
     "id": "snd_dlg-5",
     "Key": "snd_dlg-5",
-    "Value": "p\\u0004З\\u0001вуки будьвнитства"
+    "Value": "p\\u0004З\\u0001вуки будівництва"
   },
   {
     "id": "snd_dlg-9",
     "Key": "snd_dlg-9",
-    "Value": "мінімальна"
+    "Value": "Низька"
   },
   {
     "id": "spd_dlg-1",
     "Key": "spd_dlg-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "spd_dlg-2",
@@ -1947,17 +1947,17 @@
   {
     "id": "spd_dlg-9",
     "Key": "spd_dlg-9",
-    "Value": "повільно"
+    "Value": "Низька"
   },
   {
     "id": "spd_dlg-10",
     "Key": "spd_dlg-10",
-    "Value": "низька"
+    "Value": "Низька"
   },
   {
     "id": "spd_dlg-11",
     "Key": "spd_dlg-11",
-    "Value": "швидко"
+    "Value": "Висока"
   },
   {
     "id": "statport-1",
@@ -1972,7 +1972,7 @@
   {
     "id": "stat_f10-1",
     "Key": "stat_f10-1",
-    "Value": "\\u0001МЕНЮ"
+    "Value": "y\\u0004М\\u0001ЕНЮ"
   },
   {
     "id": "teamfltr-1",
@@ -2012,22 +2012,22 @@
   {
     "id": "tips_dlg-1",
     "Key": "tips_dlg-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "tips_dlg-2",
     "Key": "tips_dlg-2",
-    "Value": "g\\u0004П\\u0001опередній"
+    "Value": "g\\u0004П\\u0001опередня порада"
   },
   {
     "id": "tips_dlg-3",
     "Key": "tips_dlg-3",
-    "Value": "nНас\\u0004\\u0001тупна порада"
+    "Value": "nНас\\u0004т\\u0001упна порада"
   },
   {
     "id": "titledlg-1",
     "Key": "titledlg-1",
-    "Value": "Copyright \\u0001 1998-{CurrentYear} Blizzard Entertainment. Всі права захищені."
+    "Value": "Copyright © 1998-{CurrentYear} Blizzard Entertainment. Всі права захищені."
   },
   {
     "id": "titledlg-2",
@@ -2037,7 +2037,7 @@
   {
     "id": "video-1",
     "Key": "video-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "video-2",
@@ -2057,7 +2057,7 @@
   {
     "id": "voice-1",
     "Key": "voice-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "voice-2",
@@ -2112,7 +2112,7 @@
   {
     "id": "wmission-3",
     "Key": "wmission-3",
-    "Value": "g\\u0004П\\u0001родовжити гру"
+    "Value": "hП\\u0004р\\u0001одовжити гру"
   },
   {
     "id": "wmission-4",
@@ -2137,7 +2137,7 @@
   {
     "id": "gluBattlenetChat-11",
     "Key": "gluBattlenetChat-11",
-    "Value": "c\\u0004С\\u0001касувати"
+    "Value": "eСкас\\u0004у\\u0001вати"
   },
   {
     "id": "gluBattlenetChat-8",
@@ -2177,7 +2177,7 @@
   {
     "id": "gluBattlenetPopup-2",
     "Key": "gluBattlenetPopup-2",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluBattlenetPopup-3",
@@ -2187,7 +2187,7 @@
   {
     "id": "gluBattlenetToonRegistry-1",
     "Key": "gluBattlenetToonRegistry-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluBattlenetToonRegistry-2",
@@ -2222,12 +2222,12 @@
   {
     "id": "gluBattlenetToonRegistry-10",
     "Key": "gluBattlenetToonRegistry-10",
-    "Value": "&lt;ШЛЮЗ&gt;"
+    "Value": "<ШЛЮЗ>"
   },
   {
     "id": "gluJoinMultiBattlenet-1",
     "Key": "gluJoinMultiBattlenet-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluJoinMultiBattlenet-3",
@@ -3007,7 +3007,7 @@
   {
     "id": "GLUHIST-2",
     "Key": "GLUHIST-2",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "GLUHIST-3",
@@ -3062,7 +3062,7 @@
   {
     "id": "gluScore-3",
     "Key": "gluScore-3",
-    "Value": "с\\u0004С\\u0001поруди"
+    "Value": "c\\u0004С\\u0001поруди"
   },
   {
     "id": "msnstat4-41",
@@ -3107,7 +3107,7 @@
   {
     "id": "statport-2",
     "Key": "statport-2",
-    "Value": "&lt;sp/&gt;"
+    "Value": " "
   },
   {
     "id": "statres-8",
@@ -3237,7 +3237,7 @@
   {
     "id": "gluConn-6",
     "Key": "gluConn-6",
-    "Value": "d[\\u0004В\\u0001хід]"
+    "Value": "l[Вхі\\u0004д\\u0001]"
   },
   {
     "id": "gluConn-7",
@@ -4277,7 +4277,7 @@
   {
     "id": "gluScore-5",
     "Key": "gluScore-5",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluScore-6",
@@ -4342,7 +4342,7 @@
   {
     "id": "gluBattlenetLeaderboardScreen-1",
     "Key": "gluBattlenetLeaderboardScreen-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluBattlenetUserProfileScreen-2",
@@ -4352,12 +4352,12 @@
   {
     "id": "gluBattlenetUserProfileScreen-1",
     "Key": "gluBattlenetUserProfileScreen-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluBattlenetChat-10",
     "Key": "gluBattlenetChat-10",
-    "Value": "Скакувати"
+    "Value": "Вийти"
   },
   {
     "id": "apm_dlg-4",
@@ -4377,7 +4377,7 @@
   {
     "id": "apm_dlg-7",
     "Key": "apm_dlg-7",
-    "Value": "Сигнал при APM &lt;"
+    "Value": "Сигнал при APM <"
   },
   {
     "id": "apm_dlg-8",
@@ -4417,7 +4417,7 @@
   {
     "id": "gluBattlenetMatchmakingToastScreen-1",
     "Key": "gluBattlenetMatchmakingToastScreen-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluBattlenetMatchmakingToastScreen-2",
@@ -4477,7 +4477,7 @@
   {
     "id": "gluMatchmaking-1",
     "Key": "gluMatchmaking-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluMatchmaking-2",
@@ -4502,17 +4502,17 @@
   {
     "id": "ptextbox-6",
     "Key": "ptextbox-6",
-    "Value": "Наблюдателям:"
+    "Value": "Глядачам:"
   },
   {
     "id": "ttextbox-6",
     "Key": "ttextbox-6",
-    "Value": "Наблюдателям:"
+    "Value": "Глядачам:"
   },
   {
     "id": "ztextbox-6",
     "Key": "ztextbox-6",
-    "Value": "Наблюдателям:"
+    "Value": "Глядачам:"
   },
   {
     "id": "gluWebAuthenticationPopup1280-1",
@@ -4577,7 +4577,7 @@
   {
     "id": "apm_dlg-1",
     "Key": "apm_dlg-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "apm_dlg-2",
@@ -4592,7 +4592,7 @@
   {
     "id": "quitUploadWarning-1",
     "Key": "quitUploadWarning-1",
-    "Value": "sВ\\u0004и\\u0001йти з гры"
+    "Value": "sВ\\u0004и\\u0001йти з гри"
   },
   {
     "id": "quitUploadWarning-2",
@@ -4637,7 +4637,7 @@
   {
     "id": "gameopt_dlg-1",
     "Key": "gameopt_dlg-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gameopt_dlg-2",
@@ -4662,7 +4662,7 @@
   {
     "id": "gameopt_dlg-6",
     "Key": "gameopt_dlg-6",
-    "Value": "c\\u0004C\\u0001татичні портрети"
+    "Value": "nС\\u0004т\\u0001атичні портрети"
   },
   {
     "id": "gameopt_dlg-7",
@@ -4672,7 +4672,7 @@
   {
     "id": "gluBattlenetCreateGameScreen-1",
     "Key": "gluBattlenetCreateGameScreen-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluBattlenetCreateGameScreen-2",
@@ -4687,7 +4687,7 @@
   {
     "id": "gluBattlenetPopupLarge-2",
     "Key": "gluBattlenetPopupLarge-2",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluBattlenetPopupLarge-3",
@@ -4702,7 +4702,7 @@
   {
     "id": "chathist-1",
     "Key": "chathist-1",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "chathist-2",
@@ -4822,7 +4822,7 @@
   {
     "id": "gluScore-10",
     "Key": "gluScore-10",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluScore-9",
@@ -4837,7 +4837,7 @@
   {
     "id": "gluBattlenetPopupSquad-2",
     "Key": "gluBattlenetPopupSquad-2",
-    "Value": "rO\\u0004К\\u0001"
+    "Value": "o\\u0004О\\u0001К"
   },
   {
     "id": "gluBattlenetPopupSquad-3",

@@ -153,12 +153,12 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_38</id>
-    <value>Гідралиск\\000*\\000Наземні війська</value>
+    <value>Гідраліск\\000*\\000Наземні війська</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_39</id>
     <value>
-      Ультралиск\\000*\000Наземні війська</value>
+      Ультраліск\\000*\000Наземні війська</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_40</id>
@@ -174,7 +174,7 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_43</id>
-    <value>Муталиск\\000*\\000Повітряні війська</value>
+    <value>Муталіск\\000*\\000Повітряні війська</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_44</id>
@@ -194,7 +194,7 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_48</id>
-    <value>Тораск\\000Ультралиск\\000Герої</value>
+    <value>Тораск\\000Ультраліск\\000Герої</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_49</id>
@@ -214,7 +214,7 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_53</id>
-    <value>Мисливець-убивця\\000Гідралиск\\000Герої</value>
+    <value>Мисливець-убивця\\000Гідраліск\\000Герої</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_54</id>
@@ -222,7 +222,7 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_55</id>
-    <value>Кукулза\\000Муталиск\\000Герої</value>
+    <value>Кукулза\\000Муталіск\\000Герої</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_56</id>
@@ -545,7 +545,7 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_135</id>
-    <value>Барліг гідралисків\\000*\\000Споруди</value>
+    <value>Барліг гідралісків\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_136</id>
@@ -565,7 +565,7 @@
   </string>
   <string>
     <id>FIRST_UNIT_STRING_140</id>
-    <value>Печера ультралисків\\000*\\000Споруди</value>
+    <value>Печера ультралісків\\000*\\000Споруди</value>
   </string>
   <string>
     <id>FIRST_UNIT_STRING_141</id>
@@ -1952,11 +1952,11 @@
   </string>
   <string>
     <id>STR_UP_HYDRALISK_SPEED</id>
-    <value>m\\002Здійснити еволюцію м'язових наростів\\n (пришвидшує гідралисків) </value>
+    <value>m\\002Здійснити еволюцію м'язових наростів\\n (пришвидшує гідралісків) </value>
   </string>
   <string>
     <id>STR_UP_HYDRALISK_ATTACK_RANGE</id>
-    <value>g\\002Здійснити еволюцію жолобчастого хребта\\n (збільшує радіус атаки гідралисків) </value>
+    <value>g\\002Здійснити еволюцію жолобчастого хребта\\n (збільшує радіус атаки гідралісків) </value>
   </string>
   <string>
     <id>STR_UP_QUEEN_ENERGY</id>
@@ -2316,11 +2316,11 @@
   </string>
   <string>
     <id>STR_MAKE_Z_HYDRALISK</id>
-    <value>h\\001Мутувати у гідралиска </value>
+    <value>h\\001Мутувати у гідраліска </value>
   </string>
   <string>
     <id>STR_MAKE_Z_ULTRALISK</id>
-    <value>u\\001Мутувати в ультралиска </value>
+    <value>u\\001Мутувати в ультраліска </value>
   </string>
   <string>
     <id>STR_MAKE_Z_DRONE</id>
@@ -2332,7 +2332,7 @@
   </string>
   <string>
     <id>STR_MAKE_Z_MUTALID</id>
-    <value>m\\001Мутувати у муталиска </value>
+    <value>m\\001Мутувати у муталіска </value>
   </string>
   <string>
     <id>STR_GUARDIAN_ASPECT</id>
@@ -2484,7 +2484,7 @@
   </string>
   <string>
     <id>STR_BLD_HYDRA_DEN</id>
-    <value>d\\001Перетворитися на барліг гідралисків</value>
+    <value>d\\001Перетворитися на барліг гідралісків</value>
   </string>
   <string>
     <id>STR_BLD_NYDUS</id>
@@ -2500,7 +2500,7 @@
   </string>
   <string>
     <id>STR_BLD_ULTRA_CAVERN</id>
-    <value>u\\001Перетворитися на печеру ультралисків</value>
+    <value>u\\001Перетворитися на печеру ультралісків</value>
   </string>
   <string>
     <id>STR_BLD_DEFILER_MOUND</id>
@@ -2973,15 +2973,15 @@
   </string>
   <string>
     <id>STR_HYDRALISK_REQ</id>
-    <value>Гідралиск потребує:\\n   Барлогу гідралисків</value>
+    <value>Гідраліск потребує:\\n   Барлогу гідралісків</value>
   </string>
   <string>
     <id>STR_ULTRALISK_REQ</id>
-    <value>Ультралиск потребує:\\n   Печери ультралисків</value>
+    <value>Ультраліск потребує:\\n   Печери ультралісків</value>
   </string>
   <string>
     <id>STR_MUTALID_REQ</id>
-    <value>Муталиск потребує:\\n   Шпилю</value>
+    <value>Муталіск потребує:\\n   Шпилю</value>
   </string>
   <string>
     <id>STR_GUARDIAN_REQ</id>
@@ -3013,7 +3013,7 @@
   </string>
   <string>
     <id>STR_HYDRA_DEN_REQ</id>
-    <value>Барліг гідралисків потребує:\\n   Початкової твані</value>
+    <value>Барліг гідралісків потребує:\\n   Початкової твані</value>
   </string>
   <string>
     <id>STR_SPIRE_REQ</id>
@@ -3033,7 +3033,7 @@
   </string>
   <string>
     <id>STR_ULTRA_CAVERN_REQ</id>
-    <value>Печера ультралисків потребує:\\n   Вулика</value>
+    <value>Печера ультралісків потребує:\\n   Вулика</value>
   </string>
   <string>
     <id>STR_DEFILER_MOUND_REQ</id>
@@ -3073,7 +3073,7 @@
   </string>
   <string>
     <id>STR_KILLS_LBL</id>
-    <value>Убито:</value>
+    <value>Вбито:</value>
   </string>
   <string>
     <id>STR_UPGRADING_LBL</id>
@@ -5029,7 +5029,7 @@
   </string>
   <string>
     <id>STR_RSRCH_LURKERASPECT</id>
-    <value>l\\004Здійснити еволюцію підвиду мисливців\\n (здібність гідралисків) </value>
+    <value>l\\004Здійснити еволюцію підвиду мисливців\\n (здібність гідралісків) </value>
   </string>
   <string>
     <id>STR_RSRCH_LURKERASPECT_REQ</id>
@@ -5149,11 +5149,11 @@
   </string>
   <string>
     <id>STR_UP_Z_ULTRA_SPEED</id>
-    <value>a\\002Здійснити еволюцію анаболічного синтезу\\n (збільшує швидкість руху ультралисків) </value>
+    <value>a\\002Здійснити еволюцію анаболічного синтезу\\n (збільшує швидкість руху ультралісків) </value>
   </string>
   <string>
     <id>STR_UP_Z_ULTRA_ARMOR</id>
-    <value>c\\002Здійснити еволюцію хітинового покриття\\n (покращує броню ультралисків) </value>
+    <value>c\\002Здійснити еволюцію хітинового покриття\\n (покращує броню ультралісків) </value>
   </string>
   <string>
     <id>STR_UP_CORSAIR_ENERGY</id>
@@ -5209,7 +5209,7 @@
   </string>
   <string>
     <id>STR_LURKER_REQ</id>
-    <value>Підвид мисливців потребує:\n   Еволюції у барлогу гідралисків</value>
+    <value>Підвид мисливців потребує:\n   Еволюції у барлогу гідралісків</value>
   </string>
   <string>
     <id>STR_MYOPIA_LBL</id>

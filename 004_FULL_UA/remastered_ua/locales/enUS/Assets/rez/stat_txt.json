@@ -192,12 +192,12 @@
   {
     "id": "FIRST_UNIT_STRING-38",
     "Key": "FIRST_UNIT_STRING-38",
-    "Value": "Гідралиск\\u0000*\\u0000Наземні війська"
+    "Value": "Гідраліск\\u0000*\\u0000Наземні війська"
   },
   {
     "id": "FIRST_UNIT_STRING-39",
     "Key": "FIRST_UNIT_STRING-39",
-    "Value": "Ультралиск\\u0000*\\u0000Наземні війська"
+    "Value": "Ультраліск\\u0000*\\u0000Наземні війська"
   },
   {
     "id": "FIRST_UNIT_STRING-40",
@@ -217,7 +217,7 @@
   {
     "id": "FIRST_UNIT_STRING-43",
     "Key": "FIRST_UNIT_STRING-43",
-    "Value": "Муталиск\\u0000*\\u0000Повітряні війська"
+    "Value": "Муталіск\\u0000*\\u0000Повітряні війська"
   },
   {
     "id": "FIRST_UNIT_STRING-44",
@@ -242,7 +242,7 @@
   {
     "id": "FIRST_UNIT_STRING-48",
     "Key": "FIRST_UNIT_STRING-48",
-    "Value": "Тораск\\u0000Ультралиск\\u0000Герої"
+    "Value": "Тораск\\u0000Ультраліск\\u0000Герої"
   },
   {
     "id": "FIRST_UNIT_STRING-49",
@@ -267,7 +267,7 @@
   {
     "id": "FIRST_UNIT_STRING-53",
     "Key": "FIRST_UNIT_STRING-53",
-    "Value": "Мисливець-убивця\\u0000Гідралиск\\u0000Герої"
+    "Value": "Мисливець-убивця\\u0000Гідраліск\\u0000Герої"
   },
   {
     "id": "FIRST_UNIT_STRING-54",
@@ -277,7 +277,7 @@
   {
     "id": "FIRST_UNIT_STRING-55",
     "Key": "FIRST_UNIT_STRING-55",
-    "Value": "Кукулза\\u0000Муталиск\\u0000Герої"
+    "Value": "Кукулза\\u0000Муталіск\\u0000Герої"
   },
   {
     "id": "FIRST_UNIT_STRING-56",
@@ -677,7 +677,7 @@
   {
     "id": "FIRST_UNIT_STRING-135",
     "Key": "FIRST_UNIT_STRING-135",
-    "Value": "Барліг гідралисків\\u0000*\\u0000Споруди"
+    "Value": "Барліг гідралісків\\u0000*\\u0000Споруди"
   },
   {
     "id": "FIRST_UNIT_STRING-136",
@@ -702,7 +702,7 @@
   {
     "id": "FIRST_UNIT_STRING-140",
     "Key": "FIRST_UNIT_STRING-140",
-    "Value": "Печера ультралисків\\u0000*\\u0000Споруди"
+    "Value": "Печера ультралісків\\u0000*\\u0000Споруди"
   },
   {
     "id": "FIRST_UNIT_STRING-141",
@@ -2422,12 +2422,12 @@
   {
     "id": "STR_UP_HYDRALISK_SPEED",
     "Key": "STR_UP_HYDRALISK_SPEED",
-    "Value": "m\\u0002Здійснити еволюцію м'язових наростів\\n (пришвидшує гідралисків)"
+    "Value": "m\\u0002Здійснити еволюцію м'язових наростів\\n (пришвидшує гідралісків)"
   },
   {
     "id": "STR_UP_HYDRALISK_ATTACK_RANGE",
     "Key": "STR_UP_HYDRALISK_ATTACK_RANGE",
-    "Value": "g\\u0002Здійснити еволюцію жолобчастого хребта\\n (збільшує радіус атаки гідралисків)"
+    "Value": "g\\u0002Здійснити еволюцію жолобчастого хребта\\n (збільшує радіус атаки гідралісків)"
   },
   {
     "id": "STR_UP_QUEEN_ENERGY",
@@ -2877,12 +2877,12 @@
   {
     "id": "STR_MAKE_Z_HYDRALISK",
     "Key": "STR_MAKE_Z_HYDRALISK",
-    "Value": "h\\u0001Мутувати у гідралиска"
+    "Value": "h\\u0001Мутувати у гідраліска"
   },
   {
     "id": "STR_MAKE_Z_ULTRALISK",
     "Key": "STR_MAKE_Z_ULTRALISK",
-    "Value": "u\\u0001Мутувати в ультралиска"
+    "Value": "u\\u0001Мутувати в ультраліска"
   },
   {
     "id": "STR_MAKE_Z_DRONE",
@@ -2897,7 +2897,7 @@
   {
     "id": "STR_MAKE_Z_MUTALID",
     "Key": "STR_MAKE_Z_MUTALID",
-    "Value": "m\\u0001Мутувати у муталиска"
+    "Value": "m\\u0001Мутувати у муталіска"
   },
   {
     "id": "STR_GUARDIAN_ASPECT",
@@ -3087,7 +3087,7 @@
   {
     "id": "STR_BLD_HYDRA_DEN",
     "Key": "STR_BLD_HYDRA_DEN",
-    "Value": "d\\u0001Перетворитися на барліг гідралисків"
+    "Value": "d\\u0001Перетворитися на барліг гідралісків"
   },
   {
     "id": "STR_BLD_NYDUS",
@@ -3107,7 +3107,7 @@
   {
     "id": "STR_BLD_ULTRA_CAVERN",
     "Key": "STR_BLD_ULTRA_CAVERN",
-    "Value": "u\\u0001Перетворитися на печеру ультралисків"
+    "Value": "u\\u0001Перетворитися на печеру ультралісків"
   },
   {
     "id": "STR_BLD_DEFILER_MOUND",
@@ -3692,17 +3692,17 @@
   {
     "id": "STR_HYDRALISK_REQ",
     "Key": "STR_HYDRALISK_REQ",
-    "Value": "Гідралиск потребує:\\n   Барлогу гідралисків"
+    "Value": "Гідраліск потребує:\\n   Барлогу гідралісків"
   },
   {
     "id": "STR_ULTRALISK_REQ",
     "Key": "STR_ULTRALISK_REQ",
-    "Value": "Ультралиск потребує:\\n   Печери ультралисків"
+    "Value": "Ультраліск потребує:\\n   Печери ультралісків"
   },
   {
     "id": "STR_MUTALID_REQ",
     "Key": "STR_MUTALID_REQ",
-    "Value": "Муталиск потребує:\\n   Шпилю"
+    "Value": "Муталіск потребує:\\n   Шпилю"
   },
   {
     "id": "STR_GUARDIAN_REQ",
@@ -3742,7 +3742,7 @@
   {
     "id": "STR_HYDRA_DEN_REQ",
     "Key": "STR_HYDRA_DEN_REQ",
-    "Value": "Барліг гідралисків потребує:\\n   Початкової твані"
+    "Value": "Барліг гідралісків потребує:\\n   Початкової твані"
   },
   {
     "id": "STR_SPIRE_REQ",
@@ -3767,7 +3767,7 @@
   {
     "id": "STR_ULTRA_CAVERN_REQ",
     "Key": "STR_ULTRA_CAVERN_REQ",
-    "Value": "Печера ультралисків потребує:\\n   Вулика"
+    "Value": "Печера ультралісків потребує:\\n   Вулика"
   },
   {
     "id": "STR_DEFILER_MOUND_REQ",
@@ -3817,7 +3817,7 @@
   {
     "id": "STR_KILLS_LBL",
     "Key": "STR_KILLS_LBL",
-    "Value": "Убито:"
+    "Value": "Вбито:"
   },
   {
     "id": "STR_UPGRADING_LBL",
@@ -6262,7 +6262,7 @@
   {
     "id": "STR_RSRCH_LURKERASPECT",
     "Key": "STR_RSRCH_LURKERASPECT",
-    "Value": "l\\u0004Здійснити еволюцію підвиду мисливців\\n (здібність гідралисків)"
+    "Value": "l\\u0004Здійснити еволюцію підвиду мисливців\\n (здібність гідралісків)"
   },
   {
     "id": "STR_RSRCH_LURKERASPECT_REQ",
@@ -6412,12 +6412,12 @@
   {
     "id": "STR_UP_Z_ULTRA_SPEED",
     "Key": "STR_UP_Z_ULTRA_SPEED",
-    "Value": "a\\u0002Здійснити еволюцію анаболічного синтезу\\n (збільшує швидкість руху ультралисків)"
+    "Value": "a\\u0002Здійснити еволюцію анаболічного синтезу\\n (збільшує швидкість руху ультралісків)"
   },
   {
     "id": "STR_UP_Z_ULTRA_ARMOR",
     "Key": "STR_UP_Z_ULTRA_ARMOR",
-    "Value": "c\\u0002Здійснити еволюцію хітинового покриття\\n (покращує броню ультралисків)"
+    "Value": "c\\u0002Здійснити еволюцію хітинового покриття\\n (покращує броню ультралісків)"
   },
   {
     "id": "STR_UP_CORSAIR_ENERGY",
@@ -6487,7 +6487,7 @@
   {
     "id": "STR_LURKER_REQ",
     "Key": "STR_LURKER_REQ",
-    "Value": "Підвид мисливців потребує:\\n   Еволюції у барлогу гідралисків"
+    "Value": "Підвид мисливців потребує:\\n   Еволюції у барлогу гідралісків"
   },
   {
     "id": "STR_MYOPIA_LBL",

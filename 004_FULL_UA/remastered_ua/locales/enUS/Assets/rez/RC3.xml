@@ -1,15 +1,15 @@
 <strings>
     <string>
-        <id>gluGameLobby-1</id>
-        <value>rO\\4К\\1</value>
-    </string>
-    <string>
         <id>gluGameLobby-2</id>
         <value>eСкас\\4у\\1вати</value>
     </string>
     <string>
-        <id>gluMain-10</id>
-        <value>d[\\4В\\1хід]</value>
+        <id>gluGameLobby-1</id>
+        <value>o\\4О\\1К</value>
+    </string>
+    <string>
+        <id>gluMain-11</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
         <id>netdlg-8</id>
@@ -44,8 +44,8 @@
         <value>Спільна перемога</value>
     </string>
     <string>
-        <id>gluMain-17</id>
-        <value>\\5Один гравець</value>
+        <id>gluMain-16</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
         <id>msnstat2-15</id>
@@ -180,10 +180,6 @@
         <value>Меню</value>
     </string>
     <string>
-        <id>gamemenu-social</id>
-        <value>c\\4С\\1пілкування</value>
-    </string>
-    <string>
         <id>gluCmpgn-9</id>
         <value>Кампанія терранів\\nне завершена.</value>
     </string>
@@ -201,7 +197,7 @@
     </string>
     <string>
         <id>gluJoin-14</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluJoin-16</id>
@@ -212,8 +208,8 @@
         <value>UDP-порти: %d і %d.</value>
     </string>
     <string>
-        <id>gluMain-9</id>
-        <value>a\\4А\\1втори</value>
+        <id>gluMain-10</id>
+        <value>l[Вхі\\4д\\1]</value>
     </string>
     <string>
         <id>gluMain-18</id>
@@ -309,15 +305,15 @@
     </string>
     <string>
         <id>snd_dlg-10</id>
-        <value>мінімальна</value>
+        <value>Низька</value>
     </string>
     <string>
         <id>snd_dlg-11</id>
-        <value>максимальна</value>
+        <value>Висока</value>
     </string>
     <string>
         <id>snd_dlg-12</id>
-        <value>максимальна</value>
+        <value>Висока</value>
     </string>
     <string>
         <id>snd_dlg-13</id>
@@ -325,23 +321,23 @@
     </string>
     <string>
         <id>spd_dlg-7</id>
-        <value>повільно</value>
+        <value>Низька</value>
     </string>
     <string>
         <id>spd_dlg-8</id>
-        <value>повільно</value>
+        <value>Низька</value>
     </string>
     <string>
         <id>spd_dlg-12</id>
-        <value>швидко</value>
+        <value>Висока</value>
     </string>
     <string>
         <id>spd_dlg-13</id>
-        <value>швидко</value>
+        <value>Висока</value>
     </string>
     <string>
         <id>spd_dlg-14</id>
-        <value>висока</value>
+        <value>Висока</value>
     </string>
     <string>
         <id>spd_dlg-15</id>
@@ -404,28 +400,28 @@
         <value>Корисні поради</value>
     </string>
     <string>
-        <id>video-4</id>
-        <value>cВертикальна \\4с\\1инхронізація</value>
+        <id>video-3</id>
+        <value>Увімкнути білінійну фільтрацію</value>
     </string>
     <string>
-        <id>video-5</id>
-        <value>Обмеження FPS</value>
+        <id>video-6</id>
+        <value>jВік\\4о\\1нний режим</value>
     </string>
     <string>
-        <id>video-7</id>
-        <value>h\\4Р\\1ежим у вікні (на весь екран)</value>
-    </string>
-    <string>
-        <id>video-11</id>
-        <value>мінімальна</value>
-    </string>
-    <string>
-        <id>video-12</id>
-        <value>максимальна</value>
+        <id>video-8</id>
+        <value>На весь екран</value>
     </string>
     <string>
         <id>video-13</id>
-        <value>максимальна</value>
+        <value>Висока</value>
+    </string>
+    <string>
+        <id>video-12</id>
+        <value>Висока</value>
+    </string>
+    <string>
+        <id>video-15</id>
+        <value>cВертикальна \\4с\\1инхронізація</value>
     </string>
     <string>
         <id>voice-6</id>
@@ -477,7 +473,7 @@
     </string>
     <string>
         <id>allyfltr-25</id>
-        <value>jОгляд</value>
+        <value>Огляд</value>
     </string>
     <string>
         <id>allyfltr-26</id>
@@ -528,12 +524,12 @@
         <value>eСкас\\4у\\1вати</value>
     </string>
     <string>
-        <id>gluMain-6</id>
-        <value>r\\4К\\1олекція</value>
+        <id>gluMain-7</id>
+        <value>d\\4В\\1ступний сінематик</value>
     </string>
     <string>
-        <id>gluMain-15</id>
-        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+        <id>gluMain-14</id>
+        <value>d\\4В\\1ступний сінематик</value>
     </string>
     <string>
         <id>gluModemEntry-4</id>
@@ -541,19 +537,19 @@
     </string>
     <string>
         <id>gluRdyP-4</id>
-        <value>g\\4П\\1овтор</value>
+        <value>nПов\\4т\\1ор</value>
     </string>
     <string>
         <id>gluRdyT-4</id>
-        <value>g\\4П\\1овтор</value>
+        <value>nПов\\4т\\1ор</value>
     </string>
     <string>
         <id>GluRdyZ-4</id>
-        <value>g\\4П\\1овтор</value>
+        <value>nПов\\4т\\1ор</value>
     </string>
     <string>
-        <id>gluScore-10</id>
-        <value>rO\\4К\\1</value>
+        <id>gluScore-7</id>
+        <value>g\\4П\\1ереглянути повтор</value>
     </string>
     <string>
         <id>helpmenu-4</id>
@@ -709,7 +705,7 @@
     </string>
     <string>
         <id>teamfltr-31</id>
-        <value>jОгляд</value>
+        <value>Огляд</value>
     </string>
     <string>
         <id>teamfltr-32</id>
@@ -732,12 +728,12 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>video-9</id>
-        <value>Корекція гами</value>
+        <id>video-11</id>
+        <value>Низька</value>
     </string>
     <string>
         <id>video-10</id>
-        <value>мінімальна</value>
+        <value>Низька</value>
     </string>
     <string>
         <id>voice-8</id>
@@ -745,7 +741,7 @@
     </string>
     <string>
         <id>wmission-5</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>wmission-7</id>
@@ -757,11 +753,11 @@
     </string>
     <string>
         <id>abrtmenu-2</id>
-        <value>g\\4\\1Переграти наново</value>
+        <value>tП\\4е\\1реграти наново</value>
     </string>
     <string>
         <id>abrtmenu-3</id>
-        <value>p\\4З\\1авершити завданя</value>
+        <value>p\\4З\\1авершити завдання</value>
     </string>
     <string>
         <id>allyfltr-1</id>
@@ -785,7 +781,7 @@
     </string>
     <string>
         <id>bigok-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>cancel-1</id>
@@ -793,7 +789,7 @@
     </string>
     <string>
         <id>dlgFatal-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gamemenu-1</id>
@@ -801,7 +797,7 @@
     </string>
     <string>
         <id>gamemenu-2</id>
-        <value>p\\4З\\1берегти гру</value>
+        <value>hЗбе\\4р\\1егти гру</value>
     </string>
     <string>
         <id>gamemenu-3</id>
@@ -845,15 +841,15 @@
     </string>
     <string>
         <id>gluConn-2</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluConn-3</id>
         <value>j\\4О\\1новити</value>
     </string>
     <string>
-        <id>gluConn-4</id>
-        <value>d\\4В\\1хід</value>
+        <id>gluConn-5</id>
+        <value>fСкас\\4у\\1вати</value>
     </string>
     <string>
         <id>gluCreat-1</id>
@@ -861,7 +857,7 @@
     </string>
     <string>
         <id>gluCreat-2</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluCreat-3</id>
@@ -889,7 +885,7 @@
     </string>
     <string>
         <id>gluCustm-2</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluCustm-3</id>
@@ -913,11 +909,11 @@
     </string>
     <string>
         <id>gluEOk-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluEOkCancel-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluEOkCancel-2</id>
@@ -1005,7 +1001,7 @@
     </string>
     <string>
         <id>gluLoad-2</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluLoad-3</id>
@@ -1014,10 +1010,6 @@
     <string>
         <id>gluLoad-4</id>
         <value>d\\4В\\1идалити</value>
-    </string>
-    <string>
-        <id>gluLogin-1</id>
-        <value>rO\\4К\\1</value>
     </string>
     <string>
         <id>gluLogin-2</id>
@@ -1032,6 +1024,10 @@
         <value>d\\4В\\1идалити</value>
     </string>
     <string>
+        <id>gluLogin-1</id>
+        <value>o\\4О\\1К</value>
+    </string>
+    <string>
         <id>gluLogin-5</id>
         <value>Профіль</value>
     </string>
@@ -1040,16 +1036,16 @@
         <value>sВ\\4и\\1хід</value>
     </string>
     <string>
-        <id>gluMain-2</id>
-        <value>\\5Один гравень</value>
-    </string>
-    <string>
         <id>gluMain-3</id>
         <value>j\\4О\\1дин гравець</value>
     </string>
     <string>
         <id>gluMain-4</id>
-        <value>mМул\\4ь\\1типлєєр</value>
+        <value>mМул\\4ь\\1типлеєр</value>
+    </string>
+    <string>
+        <id>gluMain-2</id>
+        <value>\\5Один гравець</value>
     </string>
     <string>
         <id>gluMain-5</id>
@@ -1113,7 +1109,7 @@
     </string>
     <string>
         <id>gluNewCh-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluNewCh-2</id>
@@ -1125,7 +1121,7 @@
     </string>
     <string>
         <id>gluPEdit-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluPEdit-2</id>
@@ -1133,11 +1129,11 @@
     </string>
     <string>
         <id>gluPOk-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluPOkCancel-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluPOkCancel-2</id>
@@ -1145,7 +1141,7 @@
     </string>
     <string>
         <id>gluPOkSplit-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluRdyP-1</id>
@@ -1233,19 +1229,19 @@
     </string>
     <string>
         <id>gluScore-1</id>
-        <value>jОгляд</value>
+        <value>j\\4О\\1гляд</value>
     </string>
     <string>
         <id>gluScore-2</id>
-        <value>rВійс\\4к\\1о</value>
+        <value>rВійсь\\4к\\1о</value>
     </string>
     <string>
         <id>help-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>help-2</id>
-        <value>Довідка StarCraft</value>
+        <value>Довідка з гарячих клавіш</value>
     </string>
     <string>
         <id>helpmenu-1</id>
@@ -1261,7 +1257,7 @@
     </string>
     <string>
         <id>lmission-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>lmission-2</id>
@@ -1397,7 +1393,7 @@
     </string>
     <string>
         <id>netdlg-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>netdlg-2</id>
@@ -1425,11 +1421,11 @@
     </string>
     <string>
         <id>ok-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>okcancel-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>okcancel-2</id>
@@ -1449,7 +1445,7 @@
     </string>
     <string>
         <id>quit-1</id>
-        <value>sВ\\4ы\\1йти з гри</value>
+        <value>sВ\\4и\\1йти з гри</value>
     </string>
     <string>
         <id>quit-2</id>
@@ -1501,7 +1497,7 @@
     </string>
     <string>
         <id>savegame-2</id>
-        <value>dВидалит\\4и\\1 </value>
+        <value>dВидалит\\4и\\1</value>
     </string>
     <string>
         <id>savegame-3</id>
@@ -1513,7 +1509,7 @@
     </string>
     <string>
         <id>snd_dlg-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>snd_dlg-2</id>
@@ -1529,15 +1525,15 @@
     </string>
     <string>
         <id>snd_dlg-5</id>
-        <value>p\\4З\\1вуки будьвнитства</value>
+        <value>p\\4З\\1вуки будівництва</value>
     </string>
     <string>
         <id>snd_dlg-9</id>
-        <value>мінімальна</value>
+        <value>Низька</value>
     </string>
     <string>
         <id>spd_dlg-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>spd_dlg-2</id>
@@ -1561,15 +1557,15 @@
     </string>
     <string>
         <id>spd_dlg-9</id>
-        <value>повільно</value>
+        <value>Низька</value>
     </string>
     <string>
         <id>spd_dlg-10</id>
-        <value>низька</value>
+        <value>Низька</value>
     </string>
     <string>
         <id>spd_dlg-11</id>
-        <value>швидко</value>
+        <value>Висока</value>
     </string>
     <string>
         <id>statport-1</id>
@@ -1581,7 +1577,7 @@
     </string>
     <string>
         <id>stat_f10-1</id>
-        <value>\\1МЕНЮ</value>
+        <value>y\\4М\\1ЕНЮ</value>
     </string>
     <string>
         <id>teamfltr-1</id>
@@ -1613,19 +1609,19 @@
     </string>
     <string>
         <id>tips_dlg-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>tips_dlg-2</id>
-        <value>g\\4П\\1опередній</value>
+        <value>g\\4П\\1опередня порада</value>
     </string>
     <string>
         <id>tips_dlg-3</id>
-        <value>nНас\\4\\1тупна порада</value>
+        <value>nНас\\4т\\1упна порада</value>
     </string>
     <string>
         <id>titledlg-1</id>
-        <value>Copyright \\1 1998-{CurrentYear} Blizzard Entertainment. Всі права захищені.</value>
+        <value>Copyright © 1998-{CurrentYear} Blizzard Entertainment. Всі права захищені.</value>
     </string>
     <string>
         <id>titledlg-2</id>
@@ -1633,23 +1629,23 @@
     </string>
     <string>
         <id>video-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>video-2</id>
         <value>eСкас\\4у\\1вати</value>
     </string>
     <string>
-        <id>video-3</id>
-        <value>Увімкнути білінійну фільтрацію</value>
+        <id>video-4</id>
+        <value>cВертикальна \\4с\\1инхронізація</value>
     </string>
     <string>
-        <id>video-6</id>
-        <value>jВік\\4о\\1конний режим</value>
+        <id>video-7</id>
+        <value>h\\4Р\\1ежим у вікні (на весь екран)</value>
     </string>
     <string>
         <id>voice-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>voice-2</id>
@@ -1693,7 +1689,7 @@
     </string>
     <string>
         <id>wmission-3</id>
-        <value>g\\4П\\1родовжити гру</value>
+        <value>hП\\4р\\1одовжити гру</value>
     </string>
     <string>
         <id>wmission-4</id>
@@ -1712,24 +1708,24 @@
         <value>g\\4П\\1ідключитися</value>
     </string>
     <string>
-        <id>gluBattlenetChat-3</id>
-        <value>r\\4R\\1anked</value>
+        <id>gluBattlenetChat-11</id>
+        <value>eСкас\\4у\\1вати</value>
     </string>
     <string>
-        <id>gluBattlenetChat-4</id>
-        <value>l\\4L\\1adder</value>
+        <id>gluBattlenetChat-8</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>gluBattlenetChat-5</id>
-        <value>fСкас\\4у\\1вати</value>
-    </string>
-    <string>
-        <id>gluBattlenetChat-6</id>
-        <value>y\\4Н\\1овини</value>
+        <id>gluBattlenetChat-9</id>
+        <value>Скасувати</value>
     </string>
     <string>
         <id>gluBattlenetChat-7</id>
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>gluBattlenetChat-3</id>
+        <value>r\\4R\\1anked</value>
     </string>
     <string>
         <id>gluBattlenetCreateToonPopup-1</id>
@@ -1745,27 +1741,15 @@
     </string>
     <string>
         <id>gluBattlenetPopup-2</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluBattlenetPopup-3</id>
         <value>fСкас\\4у\\1вати</value>
     </string>
     <string>
-        <id>gluBattlenetPopupSquad-1</id>
-        <value>Обробка...</value>
-    </string>
-    <string>
-        <id>gluBattlenetPopupSquad-2</id>
-        <value>rO\\4К\\1</value>
-    </string>
-    <string>
-        <id>gluBattlenetPopupSquad-3</id>
-        <value>fСкас\\4у\\1вати</value>
-    </string>
-    <string>
         <id>gluBattlenetToonRegistry-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluBattlenetToonRegistry-2</id>
@@ -1776,16 +1760,16 @@
         <value>y\\4Н\\1овий</value>
     </string>
     <string>
-        <id>gluBattlenetToonRegistry-4</id>
-        <value>Видалити</value>
+        <id>gluBattlenetToonRegistry-8</id>
+        <value>g\\4П\\1рив'язати</value>
     </string>
     <string>
         <id>gluBattlenetToonRegistry-5</id>
         <value>Профіль</value>
     </string>
     <string>
-        <id>gluBattlenetToonRegistry-8</id>
-        <value>g\\4П\\1рив'язати</value>
+        <id>gluBattlenetToonRegistry-4</id>
+        <value>Видалити</value>
     </string>
     <string>
         <id>gluBattlenetToonRegistry-9</id>
@@ -1793,31 +1777,31 @@
     </string>
     <string>
         <id>gluBattlenetToonRegistry-10</id>
-        <value>&amp;lt;ШЛЮЗ&amp;gt;</value>
+        <value>&lt;ШЛЮЗ&gt;</value>
     </string>
     <string>
         <id>gluJoinMultiBattlenet-1</id>
-        <value>rO\\4К\\1</value>
-    </string>
-    <string>
-        <id>gluJoinMultiBattlenet-2</id>
-        <value>fСкас\\4у\\1вати</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluJoinMultiBattlenet-3</id>
         <value>vСтворити \\4м\\1атч</value>
     </string>
     <string>
+        <id>gluJoinMultiBattlenet-2</id>
+        <value>fСкас\\4у\\1вати</value>
+    </string>
+    <string>
         <id>gluJoinMultiBattlenet-4</id>
         <value>UDP-порт: %d.</value>
     </string>
     <string>
-        <id>gluMain-7</id>
-        <value>d\\4В\\1ступний сінематик</value>
-    </string>
-    <string>
         <id>gluMain-8</id>
         <value>u\\4Г\\1арячі клавіші</value>
+    </string>
+    <string>
+        <id>gluMain-12</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
         <id>gluScene-1</id>
@@ -1844,8 +1828,8 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>gluMain-23</id>
-        <value>\\5Редактор мап</value>
+        <id>gluMain-9</id>
+        <value>a\\4А\\1втори</value>
     </string>
     <string>
         <id>msnstat2-17</id>
@@ -2408,8 +2392,8 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>gluConn-7</id>
-        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+        <id>gluConn-4</id>
+        <value>d\\4В\\1хід</value>
     </string>
     <string>
         <id>gluGameMode-4</id>
@@ -2421,7 +2405,7 @@
     </string>
     <string>
         <id>GLUHIST-2</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>GLUHIST-3</id>
@@ -2465,7 +2449,7 @@
     </string>
     <string>
         <id>gluScore-3</id>
-        <value>с\\4С\\1поруди</value>
+        <value>c\\4С\\1поруди</value>
     </string>
     <string>
         <id>msnstat4-41</id>
@@ -2500,12 +2484,8 @@
         <value>Гравцю %s:</value>
     </string>
     <string>
-        <id>textbox-6</id>
-        <value>Гравцю {name}:</value>
-    </string>
-    <string>
         <id>statport-2</id>
-        <value>&amp;lt;sp/&amp;gt;</value>
+        <value> </value>
     </string>
     <string>
         <id>statres-8</id>
@@ -2608,12 +2588,12 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>gluConn-5</id>
-        <value>fСкас\\4у\\1вати</value>
+        <id>gluConn-6</id>
+        <value>l[Вхі\\4д\\1]</value>
     </string>
     <string>
-        <id>gluConn-6</id>
-        <value>d[\\4В\\1хід]</value>
+        <id>gluConn-7</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
         <id>gluEOk-2</id>
@@ -2765,6 +2745,10 @@
     </string>
     <string>
         <id>ptextbox-4</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>ptextbox-7</id>
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
@@ -3416,6 +3400,10 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
+        <id>ttextbox-7</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
         <id>wait-1</id>
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
@@ -3424,20 +3412,24 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
+        <id>ztextbox-7</id>
+        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
         <id>gluScore-4</id>
         <value>h\\4Р\\1есурси</value>
     </string>
     <string>
         <id>gluScore-5</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluScore-6</id>
         <value>p\\4З\\1берегти повтор</value>
     </string>
     <string>
-        <id>gluScore-7</id>
-        <value>g\\4П\\1ереглянути повтор</value>
+        <id>gluScore-8</id>
+        <value>Загальний рахунок</value>
     </string>
     <string>
         <id>MsgFltr-6</id>
@@ -3448,8 +3440,8 @@
         <value>d\\4В\\1исока затримка</value>
     </string>
     <string>
-        <id>video-8</id>
-        <value>На весь екран</value>
+        <id>video-9</id>
+        <value>Корекція гами</value>
     </string>
     <string>
         <id>voice-13</id>
@@ -3472,28 +3464,28 @@
         <value>X</value>
     </string>
     <string>
-        <id>gluBattlenetChat-9</id>
-        <value>Скасувати</value>
+        <id>gluBattlenetChat-5</id>
+        <value>fСкас\\4у\\1вати</value>
     </string>
     <string>
         <id>gluBattlenetLeaderboardScreen-2</id>
         <value>\\027</value>
     </string>
     <string>
-        <id>gluBattlenetLeaderboardScreen-3</id>
-        <value>\\027</value>
+        <id>gluBattlenetLeaderboardScreen-1</id>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluBattlenetUserProfileScreen-2</id>
         <value>\\027</value>
     </string>
     <string>
-        <id>gluBattlenetUserProfileScreen-3</id>
-        <value>\\027</value>
+        <id>gluBattlenetUserProfileScreen-1</id>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluBattlenetChat-10</id>
-        <value>Скакувати</value>
+        <value>Вийти</value>
     </string>
     <string>
         <id>apm_dlg-4</id>
@@ -3509,7 +3501,7 @@
     </string>
     <string>
         <id>apm_dlg-7</id>
-        <value>Сигнал при APM &amp;lt;</value>
+        <value>Сигнал при APM &lt;</value>
     </string>
     <string>
         <id>apm_dlg-8</id>
@@ -3536,20 +3528,16 @@
         <value>Налаштування гри</value>
     </string>
     <string>
-        <id>gluBattlenetLeaderboardScreen-1</id>
-        <value>rO\\4К\\1</value>
+        <id>gluBattlenetLeaderboardScreen-3</id>
+        <value>\\027</value>
     </string>
     <string>
         <id>gluBattlenetMatchmakingToastScreen-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluBattlenetMatchmakingToastScreen-2</id>
         <value>c\\4С\\1пробувати ще?</value>
-    </string>
-    <string>
-        <id>gluBattlenetMatchmakingToastScreen-3</id>
-        <value>Запросити гравця</value>
     </string>
     <string>
         <id>gluSimpleCheckoutPopup-1</id>
@@ -3560,8 +3548,8 @@
         <value>X</value>
     </string>
     <string>
-        <id>gluBattlenetUserProfileScreen-1</id>
-        <value>rO\\4К\\1</value>
+        <id>gluBattlenetUserProfileScreen-3</id>
+        <value>\\027</value>
     </string>
     <string>
         <id>minimap-4</id>
@@ -3580,48 +3568,48 @@
         <value>X</value>
     </string>
     <string>
-        <id>gluBattlenetChat-8</id>
+        <id>gluBattlenetChat-4</id>
+        <value>l\\4L\\1adder</value>
+    </string>
+    <string>
+        <id>gluMain-15</id>
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
-    </string>
-    <string>
-        <id>gluMain-14</id>
-        <value>d\\4В\\1ступний сінематик</value>
-    </string>
-    <string>
-        <id>gluMatchmaking-1</id>
-        <value>rO\\4К\\1</value>
-    </string>
-    <string>
-        <id>gluMatchmaking-2</id>
-        <value>Скасувати</value>
     </string>
     <string>
         <id>gluMatchmaking-3</id>
         <value>Вибір мап</value>
     </string>
     <string>
-        <id>video-15</id>
-        <value>cВертикальна \\4с\\1инхронізація</value>
+        <id>gluMatchmaking-1</id>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
-        <id>gluJoin-12</id>
-        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+        <id>gluMatchmaking-2</id>
+        <value>Скасувати</value>
     </string>
     <string>
         <id>video-14</id>
         <value>Налаштування графіки</value>
     </string>
     <string>
-        <id>ptextbox-7</id>
+        <id>gluJoin-12</id>
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>ttextbox-7</id>
-        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+        <id>video-5</id>
+        <value>Обмеження FPS</value>
     </string>
     <string>
-        <id>ztextbox-7</id>
-        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+        <id>ptextbox-6</id>
+        <value>Глядачам:</value>
+    </string>
+    <string>
+        <id>ttextbox-6</id>
+        <value>Глядачам:</value>
+    </string>
+    <string>
+        <id>ztextbox-6</id>
+        <value>Глядачам:</value>
     </string>
     <string>
         <id>gluWebAuthenticationPopup1280-1</id>
@@ -3640,20 +3628,20 @@
         <value>X</value>
     </string>
     <string>
-        <id>gluMain-11</id>
-        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+        <id>gluMain-22</id>
+        <value>\\5Один гравець</value>
     </string>
     <string>
-        <id>gluMain-12</id>
-        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+        <id>gluMain-23</id>
+        <value>\\5Редактор мап</value>
     </string>
     <string>
         <id>gluMain-13</id>
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>gluMain-16</id>
-        <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+        <id>gluMain-17</id>
+        <value>\\5Один гравець</value>
     </string>
     <string>
         <id>gluMain-19</id>
@@ -3668,12 +3656,12 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>gluMain-22</id>
-        <value>\\5Один гравець</value>
+        <id>gluMain-6</id>
+        <value>r\\4К\\1олекція</value>
     </string>
     <string>
         <id>apm_dlg-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>apm_dlg-2</id>
@@ -3685,7 +3673,7 @@
     </string>
     <string>
         <id>quitUploadWarning-1</id>
-        <value>sВ\\4и\\1йти з гры</value>
+        <value>sВ\\4и\\1йти з гри</value>
     </string>
     <string>
         <id>quitUploadWarning-2</id>
@@ -3721,7 +3709,7 @@
     </string>
     <string>
         <id>gameopt_dlg-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gameopt_dlg-2</id>
@@ -3741,7 +3729,7 @@
     </string>
     <string>
         <id>gameopt_dlg-6</id>
-        <value>c\\4C\\1татичні портрети</value>
+        <value>nС\\4т\\1атичні портрети</value>
     </string>
     <string>
         <id>gameopt_dlg-7</id>
@@ -3749,7 +3737,7 @@
     </string>
     <string>
         <id>gluBattlenetCreateGameScreen-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluBattlenetCreateGameScreen-2</id>
@@ -3761,7 +3749,7 @@
     </string>
     <string>
         <id>gluBattlenetPopupLarge-2</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>gluBattlenetPopupLarge-3</id>
@@ -3773,7 +3761,7 @@
     </string>
     <string>
         <id>chathist-1</id>
-        <value>rO\\4К\\1</value>
+        <value>o\\4О\\1К</value>
     </string>
     <string>
         <id>chathist-2</id>
@@ -3860,12 +3848,36 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>gluBattlenetChat-11</id>
-        <value>c\\4С\\1касувати</value>
+        <id>gluBattlenetChat-6</id>
+        <value>y\\4Н\\1овини</value>
     </string>
     <string>
         <id>statbtnbc2018-9</id>
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
+    </string>
+    <string>
+        <id>gluScore-10</id>
+        <value>o\\4О\\1К</value>
+    </string>
+    <string>
+        <id>gluScore-9</id>
+        <value>Зберегти повтор</value>
+    </string>
+    <string>
+        <id>gluBattlenetPopupSquad-1</id>
+        <value>Обробка...</value>
+    </string>
+    <string>
+        <id>gluBattlenetPopupSquad-2</id>
+        <value>o\\4О\\1К</value>
+    </string>
+    <string>
+        <id>gluBattlenetPopupSquad-3</id>
+        <value>fСкас\\4у\\1вати</value>
+    </string>
+    <string>
+        <id>gluBattlenetMatchmakingToastScreen-3</id>
+        <value>Запросити гравця</value>
     </string>
     <string>
         <id>statbtndefault-1</id>
@@ -3904,11 +3916,11 @@
         <value>&lt;&lt;PLACEHOLDER&gt;&gt;</value>
     </string>
     <string>
-        <id>gluScore-8</id>
-        <value>Загальний рахунок</value>
+        <id>textbox-6</id>
+        <value>Гравцю {name}:</value>
     </string>
     <string>
-        <id>gluScore-9</id>
-        <value>Зберегти повтор</value>
+        <id>gamemenu-social</id>
+        <value>c\\4С\\1пілкування</value>
     </string>
 </strings>
